@@ -1,0 +1,1396 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "active_effects": [
+      "Happy: +1 to Attack Rolls, Ability Checks, and Saving Throws",
+      "Aura of Murder: Enemies within 6ft have Piercing Vulnerability",
+      "Sunlight Immunity (Ascended)",
+      "Living Mask (Passive Illusion)",
+      "Vampire Lord's Presence (Advantage vs Vampires)",
+      "Empowered Strikes: +1d10 Necrotic damage to all melee attacks",
+      "Ascendant Resistances: Resistance to Necrotic, Poison, and non-magical Physical damage",
+      "Umbral Sight: Invisible to creatures relying on Darkvision in darkness (Advantage on Stealth)."
+    ],
+    "health": {
+      "hp_max": 64,
+      "temp_hp": 0,
+      "hp": 64,
+      "conditions": []
+    },
+    "class_name": "Gloomstalker/Assassin/College of Whispers",
+    "armor_class": 19,
+    "entity_id": "pc_astarion_001",
+    "display_name": "Astarion Ancun\u00edn",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 18,
+      "intelligence": 12,
+      "wisdom": 14,
+      "charisma": 16,
+      "constitution": 14
+    },
+    "proficiency_bonus": 3,
+    "race": "High Elf (Ascendant Vampire)",
+    "status_conditions": [],
+    "ac": 17,
+    "damage_resistances": [
+      "Necrotic",
+      "Poison",
+      "Bludgeoning (non-magical)",
+      "Piercing (non-magical)",
+      "Slashing (non-magical)"
+    ],
+    "spells_known": [
+      {
+        "level": 1,
+        "description": "Mark a target for extra weapon damage.",
+        "name": "Hunter's Mark"
+      },
+      {
+        "level": 1,
+        "description": "Grasping weeds and vines restrain creatures in a 20ft square.",
+        "name": "Entangle"
+      },
+      {
+        "level": 1,
+        "description": "Next hit restrains target with thorny vines.",
+        "name": "Ensnaring Strike"
+      },
+      {
+        "level": 1,
+        "description": "Psychic scream forces target to flee.",
+        "name": "Dissonant Whispers"
+      },
+      {
+        "level": 1,
+        "description": "Target falls prone with fits of laughter.",
+        "name": "Tasha's Hideous Laughter"
+      },
+      {
+        "level": 2,
+        "description": "Paralyze a humanoid target.",
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "description": "Blind or deafen a foe (No Concentration).",
+        "name": "Blindness/Deafness"
+      },
+      {
+        "level": 2,
+        "description": "Create a 20ft sphere of absolute silence.",
+        "name": "Silence"
+      },
+      {
+        "level": 1,
+        "description": "Quick bonus action heal.",
+        "name": "Healing Word"
+      },
+      {
+        "level": 2,
+        "description": "Turn invisible for up to 1 hour.",
+        "name": "Invisibility"
+      }
+    ],
+    "name": "Astarion",
+    "experience": {
+      "needed_for_next_level": 23000,
+      "current": 14420,
+      "to_next_level": 0
+    },
+    "resources": {
+      "gold": 35427,
+      "spell_slots": {
+        "level_2": {
+          "used": 1,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "class_features": {
+        "sanguine_vitality": {
+          "used": 0,
+          "max": 10
+        },
+        "bardic_inspiration": {
+          "used": 3,
+          "max": 3
+        },
+        "ascendant_bite": {
+          "used": 1,
+          "max": 1
+        }
+      }
+    },
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 18,
+      "intelligence": 12,
+      "wisdom": 14,
+      "charisma": 16,
+      "constitution": 14
+    },
+    "status": "invisible",
+    "spells_prepared": [],
+    "hp_max": 64,
+    "features": [
+      "Ascendant Bite: Bonus Action. Deals 6d6 Necrotic damage. Heals Astarion for the full amount of damage dealt. Grants 'Happy' (+1 to all rolls) to self and 'Bloodless' to target. Recharge: Once per combat.",
+      "Empowered Strikes: All melee weapon and unarmed strikes deal an additional 1d10 Necrotic damage.",
+      "Misty Escape: As a reaction when taking damage, you can transform into a misty cloud (Gaseous Form) and move up to your speed without provoking opportunity attacks.",
+      "Vampiric Resistances: Resistance to Necrotic and Poison damage. Resistance to Bludgeoning, Piercing, and Slashing from non-magical attacks.",
+      "Essence of the Lord: Drinking from CR 1+ creatures grants 1 extra action next turn.",
+      "Dread Ambusher: +10ft speed and extra attack on Turn 1.",
+      "Assassinate: Advantage on those who haven't acted; auto-crit on surprised targets.",
+      "Psychic Blades: Expend Bardic Inspiration to deal 2d6 Psychic damage on a weapon hit.",
+      "Words of Terror: After speaking for 1 min, target makes WIS save or becomes Frightened of you.",
+      "Bardic Inspiration (d6): Use a bonus action to bolster an ally (2/long rest).",
+      "Sneak Attack (1d6): Deal extra damage to targets when you have advantage.",
+      "Aura of Murder: Enemies within 6ft are Vulnerable to Piercing damage (Bhaalist Armour).",
+      "Ascended Presence: You are permanently immune to sunlight, appear as a living High Elf, and possess supernatural beauty.",
+      "Vampire Lord's Authority: You have advantage on all Charisma-based checks made against other vampires or vampire spawn.",
+      "Umbral Sight: While in darkness, you are invisible to any creature that relies on darkvision to see you.",
+      "Cunning Action: Bonus action to Dash, Disengage, or Hide.",
+      "Jack of All Trades: Add half proficiency bonus to non-proficient ability checks.",
+      "Song of Rest (d6): Extra 1d6 healing for allies during a short rest.",
+      "Mantle of Whispers: When a humanoid dies within 30ft, you can capture its shadow to use as a magical disguise, gaining surface memories and +5 to Deception.",
+      "Countercharm: Use an action to start a performance that grants allies advantage on saves against being Frightened or Charmed.",
+      "Favored Enemy: Undead - Advantage on Survival checks to track and Int on lore checks.",
+      "Natural Explorer: Underdark - Doubled proficiency for related INT/WIS checks; improved travel benefits."
+    ],
+    "level": 5,
+    "hp_current": 64,
+    "inventory": [
+      {
+        "description": "Mentions a midnight deadline at the Counting House.",
+        "type": "quest_item",
+        "name": "Ciphered Orders (Vault 9)"
+      },
+      {
+        "value_gp": 100,
+        "effect": "1d4 Poison damage on next hit",
+        "type": "consumable",
+        "name": "Vial of Serpent Venom"
+      },
+      {
+        "stats": "Unknown",
+        "description": "A gold amulet shaped like a weeping eye. Pulses with violet psychic energy. Related to 'The Watcher' and a Shadowfell tether.",
+        "type": "artifact/quest_item",
+        "name": "Weeping Eye Amulet"
+      },
+      {
+        "value_gp": 15000,
+        "description": "Systematically looted assets from the Counting House.",
+        "type": "treasure",
+        "name": "Vault 9 Platinum & Gems"
+      }
+    ],
+    "cantrips": [
+      {
+        "level": 0,
+        "description": "Hurl a mote of fire. 1d10 damage.",
+        "name": "Fire Bolt (High Elf)"
+      },
+      {
+        "level": 0,
+        "description": "Unleash a string of insults. 1d4 Psychic damage and Disadvantage on target's next attack.",
+        "name": "Vicious Mockery"
+      },
+      {
+        "level": 0,
+        "description": "Create a sound or an image of an object.",
+        "name": "Minor Illusion"
+      }
+    ],
+    "skill_proficiencies": {
+      "expertise": [
+        "Stealth",
+        "Persuasion",
+        "Deception",
+        "Perception",
+        "Insight",
+        "Investigation"
+      ],
+      "proficiencies": [
+        "Deception",
+        "Intimidation",
+        "Perception",
+        "Insight",
+        "Investigation",
+        "Acrobatics",
+        "Sleight of Hand",
+        "Athletics",
+        "Performance",
+        "Survival"
+      ]
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "stats": "Aura of Murder: Enemies within 6ft are Vulnerable to Piercing damage",
+        "type": "armor",
+        "armor_class": 14,
+        "name": "Bhaalist Armour"
+      },
+      "off_hand": {
+        "damage": "1d4+4",
+        "equipped": true,
+        "damage_type": "piercing",
+        "stats": "+2 to hit, Crit threshold reduced by 1, True Strike on hit",
+        "type": "weapon",
+        "name": "Bloodthirst"
+      },
+      "main_hand": {
+        "damage": "1d6+4",
+        "equipped": true,
+        "damage_type": "piercing",
+        "stats": "+2 to hit, +7 Piercing damage against targets with less than 50% HP",
+        "type": "weapon",
+        "name": "Crimson Mischief"
+      },
+      "ranged": {
+        "damage": "1d8+3",
+        "equipped": true,
+        "damage_type": "piercing",
+        "stats": "Doubles Proficiency Bonus to attack rolls",
+        "type": "weapon",
+        "name": "The Dead Shot"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "Invisibility for 2 turns upon killing an enemy",
+        "name": "Deathstalker Mantle"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 30,
+      "hour": 8,
+      "time_of_day": "morning",
+      "year": 1492,
+      "day": 2,
+      "month": "Eleasias"
+    },
+    "current_location_name": "Heapside Sewers - Shadow Bastion"
+  },
+  "npc_data": {
+    "npc_leon_001": {
+      "attitude_to_party": "allied",
+      "display_name": "Leon",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 5,
+          "history": [
+            "Surviver of Cazador's ritual.",
+            "Sworn loyalty to the Ascendant Lord."
+          ]
+        }
+      },
+      "tier": "guard",
+      "role": "Spawn Captain / Marshall"
+    },
+    "Leon": {
+      "status": "conscious",
+      "current_location": "Szarr Palace Foyer",
+      "relationships": {
+        "player": {
+          "history": [
+            "Leon is actively defending the Szarr Palace gardens against a Gur breach while the Master is away."
+          ]
+        }
+      }
+    },
+    "Dalyria": {
+      "status": "conscious",
+      "current_location": "Szarr Palace Library"
+    },
+    "npc_dalyria_001": {
+      "attitude_to_party": "allied",
+      "display_name": "Dalyria",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Fascinated by the Ascendant bloodline.",
+            "Cataloging the Szarr library."
+          ]
+        }
+      },
+      "tier": "merchant",
+      "role": "Arcane Researcher"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "sanctuary_mode": {
+      "scale": "medium",
+      "expires_turn": 51,
+      "broken_turn": 50,
+      "broken_reason": "Player initiated major aggression against the Gur home base.",
+      "active": false,
+      "activated_turn": 43,
+      "broken": true,
+      "arc": "Defense of Szarr Palace"
+    },
+    "active_missions": [
+      {
+        "title": "Unmask The Watcher",
+        "status": "active",
+        "mission_id": "the_watcher_lead",
+        "objective": "Identify the entity Cazador was paying and secure the contingency shipment."
+      }
+    ],
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "StoryModeAgent",
+      "rewards_skip_count": 3
+    },
+    "last_location": "Heapside Sewers - Shadow Bastion",
+    "core_memories": [
+      "Astarion has ascended as a Vampire Lord following the defeat of Cazador, beginning his reign with a triple-gestalt focus on stealth and shadow magic.",
+      "Astarion Ancun\u00edn reigns from the Szarr Palace with a retinue of seven spawn and twelve mortal guards led by Leon.",
+      "Astarion has finalized his Triple Gestalt as a Gloomstalker/Assassin/College of Whispers, prioritizing psychic terror and lethal ambush strikes for his new reign.",
+      "Astarion has officially begun his reign as the Ascendant Vampire Lord from the Szarr Palace, supported by Leon and Dalyria.",
+      "Astarion's first attempt to command the surviving spawn at Szarr Palace was met with silent resistance, revealing that his authority is not yet absolute.",
+      "Astarion successfully exerted his authority over the surviving spawn, beginning to break their wary resistance.",
+      "Astarion has successfully established his absolute authority over the surviving spawn at Szarr Palace through a promise of protection and prosperity.",
+      "Astarion (Lvl 1) followed Dalyria (Lvl 3) to the library and successfully deciphered a secret ledger revealing Cazador's payments to 'The Watcher' and a 'contingency shipment' at Gray Harbour.",
+      "Astarion left Szarr Palace to investigate Gray Harbour personally, ordering Leon to recruit level 5+ elite scouts while he was intercepted by Watchmen due to a failed stealth approach.",
+      "Astarion (Lvl 1) successfully navigated a Harbour Watch patrol in Gray Harbour using a social bluff, maintaining his 'Living Mask' while pursuing Cazador's secret shipment.",
+      "Astarion bribed a street urchin to create a distraction at Gray Harbour, allowing him to successfully infiltrate the back slip and locate Cazador's 'contingency shipment' unnoticed.",
+      "Astarion (Lvl 1) observed the delivery of the 'contingency shipment' at Gray Harbour; while he remained hidden, he was unable to clearly identify 'The Watcher'\u2014a woman wearing a weeping eye amulet\u2014before the shipment was moved onto a cutter.",
+      "Astarion tracked the Watcher's cutter through Gray Harbour to a sea-gate beneath the Counting House, but a stealth failure allowed a Grey-Cloak Scout to intercept him on the rooftops.",
+      "Astarion was intercepted on the rooftops of Gray Harbour by a Grey-Cloak Scout who serves 'The Lady' and seems prepared for his arrival.",
+      "Astarion executed a Grey-Cloak Scout on the rooftops of Gray Harbour, revealing 'The Lady's' awareness of his ascent and a connection to the Counting House.",
+      "Astarion has finalized his transition to Level 2, mastering Cunning Action and Jack of All Trades while expanding his psychic and predatory spellcasting.",
+      "Astarion looted a Grey-Cloak Scout and found orders identifying the shipment's destination as Vault 9 in the Counting House, with a midnight deadline.",
+      "Astarion returned to Szarr Palace to rendezvous with Leon and the newly recruited Level 5 Gloomstalker scouts, leaving roughly seventy-five minutes before the midnight deadline at the Counting House.",
+      "Astarion, supported by his Lvl 5 Gloomstalker scouts, successfully infiltrated the Counting House sea-gate at 23:15, bypassing magical wards through the harbor foundations.",
+      "Astarion and his Gloomstalker strike team successfully infiltrated Vault 9 through the maintenance vents, but a clumsy landing alerted 'The Watcher' to their presence.",
+      "The 'Watcher' is a high-ranking operative for 'The Weeping Eye' and was found in Vault 9 with a mysterious, vibrating sarcophagus meant for 'The Lady'.",
+      "Astarion and his elite Gloomstalker team successfully engaged 'The Watcher' in Vault 9, neutralizing one guard and wounding the other while closing in on their target.",
+      "Astarion attempted to seize the Watcher's weeping eye amulet in Vault 9 but failed, as a mysterious necrotic sarcophagus began to open.",
+      "In Vault 9, Astarion critically wounded 'The Watcher' with a psychic strike just as a mysterious, high-ranking necrotic entity began to emerge from the lead-lined sarcophagus.",
+      "In Vault 9, Astarion executed 'The Watcher' with a psychic strike, but was left near death as a legendary necrotic entity rose from the sarcophagus.",
+      "Astarion (Lvl 2) attempted to command the mysterious entity to surrender in Vault 9, but she mocked his stolen power while his scouts wounded the last guard.",
+      "Astarion executed the final Grey-Cloak guard in Vault 9 with an Ascendant Bite, regaining some vitality and triggering the Deathstalker Mantle's invisibility.",
+      "Astarion's attempt to parley with the ancient entity in Vault 9 failed utterly; she dismissed his Ascendant power as 'stolen' and prepared to strike.",
+      "Astarion attempted to pivot to a position of submission and utility when confronted by the ancient entity in Vault 9, but she remains dismissive of his 'stolen' lordship and has set a test of utility.",
+      "Astarion successfully defended the ancient entity in Vault 9 by neutralizing elite bank guards, earning a temporary reprieve and a test of utility from the legendary necrotic horror.",
+      "Astarion retrieved the Weeping Eye Amulet from the Watcher and learned that the 'midnight deadline' is a ritual window for a Shadowfell tether meant to turn the Counting House into a planar bridge.",
+      "The Silken Lady warned Astarion that the 'midnight deadline' is a Shadowfell tether activation, dismissing his ambition to steal its power as the folly of a thief who has not yet mastered his own crumbs.",
+      "Astarion offered the Weeping Eye Amulet to the Silken Lady, securing her guidance to stabilize the Shadowfell tether and proving his utility as an anchor.",
+      "At the stroke of midnight in Vault 9, Astarion successfully anchored a Shadowfell planar bridge under the Silken Lady's guidance, proving his utility as a vessel for the Weaver of Lies' tether.",
+      "At midnight in Vault 9, Astarion successfully anchored the Shadowfell bridge and neutralized the first wave of infiltrators with a lethal surprise strike.",
+      "At midnight in Vault 9, Astarion successfully executed a Shadowfell Infiltrator with a psychic strike while anchoring the planar bridge under the Silken Lady's guidance.",
+      "At midnight in Vault 9, Astarion anchored a planar bridge and neutralized the first Shadowfell waves under the Silken Lady's guidance before being confronted by a Lvl 12 Justiciar.",
+      "In Vault 9, Astarion faced a Shadowfell Justiciar (Lvl 12) while anchoring the bridge, realizing the Silken Lady expects him to handle the Weaver's champion as a test of his utility.",
+      "Astarion successfully anchored the Shadowfell planar bridge in Vault 9 and annihilated the Weaver of Lies' champion, securing the respect of the Silken Lady.",
+      "Astarion (Lvl 5) failed to siphon power from the Shadowfell rift in Vault 9, resulting in a necrotic backlash, but successfully secured 15,000gp in vault assets with his scouts.",
+      "Astarion successfully led the Silken Lady and his scouts from Vault 9 via the maintenance tunnels, but triggered a harbor security trap on the black ice, drawing the attention of Harbour Watch snipers.",
+      "Astarion decisively neutralized the Harbour Watch ambush at the sea-gate, further impressing the Silken Lady with his predatory utility during the exfiltration.",
+      "Astarion successfully exfiltrated from the Counting House with the Silken Lady, only to find the Gur hunters launching a major assault on the Szarr Palace gardens.",
+      "Astarion decisively neutralized the Gur assault on Szarr Palace gardens, executing their leader Vane and securing the Silken Lady's respect as a true master of his domain.",
+      "Astarion captured two Gur hunters during the palace garden defense and successfully interrogated them, revealing the location of their primary camp in the Lower City sewers near Heapside.",
+      "Astarion returned to Szarr Palace, neutralized the Gur assault, and discovered an internal planar focus meant to hide the estate from the Shadowfell.",
+      "Astarion led the Silken Lady to the palace's internal focus but failed to master its necrotic resonance, leaving the estate's magical shroud unstable and vulnerable.",
+      "Astarion failed to master the subterranean focus through raw blood resonance, resulting in a necrotic backlash and reinforcing the Silken Lady's skepticism of his 'stolen' lordship.",
+      "The Silken Lady has yielded the mental 'handle' of the subterranean focus to Astarion, acknowledging his utility and beginning a true, if frigid, alliance.",
+      "Astarion has successfully harmonized the subterranean focus under the Silken Lady's guidance, hiding the Szarr Palace within a stable Shadowfell shroud.",
+      "Astarion used 'Words of Terror' to break a Gur captive, revealing that the Heapside cistern is defended by thirty hunters and silver/holy-water traps.",
+      "The Silken Lady's true name is Vespera, the First-Born of the Void and an ancient Shadow-Warden who now serves as an anchor for the Weaver of Lies.",
+      "Astarion has successfully executed a 'Sewer Stranglehold' on the Gur base in Heapside, trapping thirty hunters and their leader between Leon's mercenaries and his own elite strike team.",
+      "Astarion successfully executed a lethal 'Sewer Stranglehold' on the Gur cistern, annihilating their leader Gandrel's brother with a psychic ambush and trapping the survivors in a flooded kill-box.",
+      "Astarion and his elite scouts utilized the rafters of the Heapside cistern to unleash a one-sided slaughter upon the trapped Gur hunters, effectively turning their sanctuary into a crimson-flooded tomb.",
+      "Astarion decisively destroyed the Gur home base in the Heapside sewers, executing Gandrel's brother and capturing twenty survivors to secure his reign in the Upper City.",
+      "Astarion has finalized his transition to Level 6, mastering the Mantle of Whispers and refining his expertise in Insight and Investigation to solidify his lordship over the city's secrets.",
+      "Astarion has established the Shadow Bastion in the Heapside Sewers and ascended to Level 6, mastering the flaying of shadows via the Mantle of Whispers.",
+      "Astarion has established the Shadow Bastion in the Heapside Sewers, utilizing the Mantle of Whispers to flay the memories of the Gur and reinforce his city-wide shadow network.",
+      "Astarion (Lvl 6) has established the Heapside Bastion, but the instability of the Shadowfell shroud has drawn the Watchful Order and a Steel Watcher to the gates of Szarr Palace."
+    ],
+    "army_data": {
+      "total_upkeep_daily": 150,
+      "overall_morale": 85,
+      "forces": {
+        "Leon's Mercenaries": {
+          "blocks": 1,
+          "blocks_current_hp": [
+            60
+          ],
+          "morale": 75,
+          "upkeep_daily": 50,
+          "type": "infantry",
+          "max_hp_per_block": 60
+        },
+        "Shadow Vanguard": {
+          "blocks": 3,
+          "morale": 85,
+          "status": "fully_integrated"
+        },
+        "Vampire Spawn": {
+          "blocks": 1,
+          "blocks_current_hp": [
+            100
+          ],
+          "morale": 90,
+          "upkeep_daily": 0,
+          "type": "elite",
+          "max_hp_per_block": 100
+        },
+        "Shadow Vanguard (In-Progress)": {
+          "blocks": 2,
+          "blocks_current_hp": [
+            50,
+            50
+          ],
+          "morale": 80,
+          "upkeep_daily": 100,
+          "type": "spies",
+          "max_hp_per_block": 50
+        }
+      },
+      "total_strength": 39
+    },
+    "last_story_mode_sequence_id": 184,
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": true,
+    "completed_missions": [],
+    "campaign_tier": "mortal",
+    "universe_control": 0,
+    "arc_milestones": {},
+    "active_constraints": [
+      "Astarion's spellcasting is entirely Charisma-based."
+    ],
+    "god_mode": {
+      "setting": "Assume I ascended and became a vampire lord. I am now level 1 again but I am a gestalt gloomstalker / assassin / one more class and suggest another good vampirish class to mix in with unique mechanics. lets assume I am still getting accustomed to new powers. This hsould be directly after bg3 and assume i have some vampire staff/servants/soldiers but a handful because most of them died in the battle.",
+      "character": {
+        "name": "Astarion"
+      }
+    },
+    "next_companion_arc_turn": 3,
+    "success_streak": 3,
+    "last_living_world_turn": 46,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "special_circumstances": true,
+      "window": "24h",
+      "major_events_this_window": 2,
+      "rationale": "The fall of the Gur base is a major shift, and the subsequent 'Black Frost' leak creates immediate political and arcane pressure on the Szarr estate."
+    },
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "level_up_complete": true,
+    "character_creation_stage": "complete",
+    "companion_arcs": {
+      "Dalyria": {
+        "phase": "discovery",
+        "arc_type": "dark_secret",
+        "progress": 25,
+        "history": [
+          {
+            "event": "Dalyria discovered a hidden ledger in Cazador's library that seems to distress her.",
+            "turn": 3
+          },
+          "Astarion validated Dalyria's discovery, deepening her role as his primary arcane researcher.",
+          {
+            "event": "Dalyria identified the connection between Cazador's ledger and a secondary Focus beneath the palace.",
+            "turn": 43
+          }
+        ],
+        "callbacks": [
+          {
+            "trigger": "Astarion visits the library",
+            "effect": "Revelation of Cazador's contingency plans",
+            "triggered": false
+          }
+        ]
+      }
+    },
+    "divine_upgrade_available": false,
+    "level_up_stage": null
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "roll_dc": 15,
+    "cooldown_remaining": 0,
+    "successes": 5,
+    "npc_id": "",
+    "roll_result": 20,
+    "request_severity": "submission",
+    "npc_tier": "god",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "SURRENDERED",
+    "resistance_shown": "She acknowledges your utility as a vessel and guide.",
+    "social_hp_max": 15,
+    "objective": "Secure alliance through submission",
+    "skill_used": "Persuasion",
+    "npc_name": "The Silken Lady",
+    "cooldown_until_hour": 9
+  },
+  "combat_state": {
+    "initiative_order": [],
+    "combat_summary": null,
+    "combat_phase": "idle",
+    "combatants": {},
+    "in_combat": false,
+    "current_round": null,
+    "rewards_processed": false,
+    "combat_session_id": null,
+    "combat_history": [
+      {
+        "enemies_defeated": [
+          "Gandrel's Brother",
+          "Gur Hunters (Lvl 4) x30"
+        ],
+        "rounds_fought": 3,
+        "session_id": "combat_14920801_vault9",
+        "xp_awarded": 800,
+        "archived_at": "2026-06-11T03:27:53.256860+00:00",
+        "loot_distributed": true
+      }
+    ]
+  },
+  "last_state_update_timestamp": "2026-06-11 03:29:41.542000+00:00",
+  "turn_number": 59,
+  "player_turn": 59,
+  "last_living_world_turn": 58,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 8,
+    "minute": 15,
+    "time_of_day": "morning",
+    "day": 2,
+    "year": 1492,
+    "month": "Eleasias"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sanguine Vitality: 10/10 | Bite: 1/1"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "The Watchful Order is investigating Szarr Palace due to necrotic leaks.",
+    "thinking": "The leak at the palace is a direct consequence of the rift's stabilization and my recent combat successes. The Watchful Order is dangerous\u2014not because they can defeat me, but because they can expose me before my network is fully established. I need to handle this with a blend of Upper City diplomacy and Shadowfell intimidation.",
+    "choices": [
+      {
+        "id": "diplomatic_return",
+        "text": "The Aristocratic Defense",
+        "risk_level": "medium",
+        "description": "Shadow Dash back to the palace and use your Expertise in Persuasion and Deception to bluff the investigators, claiming the 'frost' is a rare, harmless elven warding ritual.",
+        "cons": [
+          "Requires high-stakes social rolls",
+          "Steel Watcher might detect the truth anyway"
+        ],
+        "pros": [
+          "Maintains legal standing",
+          "Potential to gain intel on the Order"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "shadow_diversion",
+        "text": "The Heapside Diversion",
+        "risk_level": "low",
+        "description": "Order Leon to have the Shadow Vanguard cause a massive, non-lethal disturbance at the Counting House, forcing the Steel Watcher and the Order to redirect their attention.",
+        "cons": [
+          "Draws more heat to the 'Shadow Thief' investigation",
+          "Temporary fix"
+        ],
+        "pros": [
+          "Clears the palace gates without direct confrontation",
+          "Tests the Shadow Network's coordination"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "vespera_projection",
+        "text": "The Ancient Intimidation",
+        "risk_level": "high",
+        "description": "Ask Vespera to project a fragment of her presence through the shroud. Not to attack, but to overwhelm the investigators' senses with such dread that they flee the premises.",
+        "cons": [
+          "Likely to trigger a high-level magical response from the city",
+          "Vespera's cooperation is never free"
+        ],
+        "pros": [
+          "Fastest resolution",
+          "Zero risk to Astarion's 'Living Mask'"
+        ],
+        "confidence": "low"
+      },
+      {
+        "text": "Parallel: Fortify Bastion & Face the Order (Synergistic)",
+        "risk_level": "medium",
+        "cons": [
+          "Splits your elite forces",
+          "High coordination required"
+        ],
+        "id": "parallel_fortify_and_face",
+        "pros": [
+          "Maximum resource utility",
+          "Ensures the Gur captives don't escape during the chaos"
+        ],
+        "description": "Leave Leon and half the Vanguard to secure the Bastion assets while you and Vespera return to handle the palace gate\u2014securing both fronts simultaneously.",
+        "confidence": "high",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "Leon's control of the sewers ensures no Gur messengers can warn the Rivington camp while you handle the Upper City.",
+          "dc_modifier": 0,
+          "coordination_dc": 15
+        }
+      }
+    ]
+  },
+  "army_data": {
+    "total_strength": 21,
+    "forces": {
+      "Szarr Palace Mercenaries": {
+        "blocks": 1,
+        "morale": 70,
+        "upkeep_daily": 12,
+        "type": "infantry"
+      },
+      "Vampire Spawn Retinue": {
+        "blocks": 1,
+        "morale": 85,
+        "upkeep_daily": 0,
+        "type": "elites"
+      },
+      "Shadowstalker Scouts": {
+        "blocks": 1,
+        "morale": 90,
+        "description": "Two Level 5 Gloomstalker spies (Elias and Kaelen) recruited by Leon.",
+        "upkeep_daily": 20,
+        "type": "elites"
+      }
+    }
+  },
+  "rewards_box": {
+    "current_xp": 14520,
+    "level_up_available": true,
+    "progress_percent": 5,
+    "current_level": 6,
+    "xp_total": 14420,
+    "xp_to_next_level": 8580,
+    "source": "milestone",
+    "next_level_xp": 23000
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Leon's scouts detect the blind.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "They are preparing a more targeted reconnaissance mission.",
+        "actor": "The Gur",
+        "action": "Identified Leon as the new Master's primary lieutenant.",
+        "player_impact": "Potential for an assassination attempt or palace raid in the future.",
+        "location": "Upper City Perimeter",
+        "id": "gur_surveillance_tightens",
+        "delta_action": "update",
+        "turn_generated": 58,
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion returns to the palace or receives a messenger.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 6,
+        "actor": "Leon",
+        "action": "Successfully hired two veteran Gloomstalker scouts (Lvl 5) from the Lower City.",
+        "id": "leon_recruitment_start",
+        "outcome": "Your perimeter is now bolstered by elite shadow-operatives.",
+        "location": "Szarr Palace",
+        "delta_action": "update",
+        "event_type": "long_term",
+        "scene_generated": 17
+      },
+      {
+        "turn_generated": 16,
+        "outcome": "They are considering a probing strike against the palace's mortal guards while the Master is away.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "The Gur",
+        "action": "Gur scouts have noted the departure of Astarion's elite Gloomstalkers from the palace.",
+        "id": "gur_observation_escalation",
+        "location": "Upper City Perimeter",
+        "delta_action": "update",
+        "event_type": "long_term",
+        "scene_generated": 33
+      },
+      {
+        "discovery_condition": "Astarion hears the dogs or they arrive in the vault.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A pair of blink dogs and their handler have been redirected to investigate the maintenance corridors.",
+        "actor": "Counting House Security",
+        "action": "A localized acoustic sensor in the auxiliary steam room detected the 'thud' of Astarion's landing.",
+        "id": "counting_house_internal_alarm",
+        "turn_generated": 16,
+        "location": "Counting House Lower Levels",
+        "delta_action": "add",
+        "event_type": "immediate",
+        "scene_generated": 33
+      },
+      {
+        "discovery_condition": "Astarion returns to the palace or receives a report from Leon.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Leon's mercenaries repelled them, but one guard was poisoned by a Gur arrow.",
+        "actor": "The Gur",
+        "action": "A small detachment of Gur hunters has attempted to scale the Szarr Palace gardens, testing the perimeter guards.",
+        "player_impact": "Loss of one mortal guard, increased tension at the home base.",
+        "location": "Szarr Palace Gardens",
+        "id": "gur_palace_incursion",
+        "delta_action": "add",
+        "turn_generated": 58,
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Already active.",
+        "status": "resolved",
+        "player_aware": true,
+        "outcome": "The palace is now much harder to infiltrate via stealth.",
+        "actor": "Elias & Kaelen",
+        "action": "Before leaving, the scouts established a series of shadow-marks around the palace to alert of any coming invisibility or magical stealth.",
+        "player_impact": "Enhanced defense against stealth-based attackers.",
+        "location": "Upper City",
+        "id": "shadow_scout_network",
+        "delta_action": "add",
+        "turn_generated": 58,
+        "event_type": "long_term",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion hears the march of heavy armor from above.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Additional Steel Watchers are being activated to secure the surface exits.",
+        "location": "Counting House Main Hall",
+        "action": "The sounds of combat in Vault 9 have reached the upper floors; reinforcements are being rallied.",
+        "player_impact": "Escape will be significantly harder if delayed.",
+        "actor": "Counting House Guards",
+        "id": "counting_house_panic_spread",
+        "turn_generated": 58,
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion is anchoring the bridge.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 28,
+        "actor": "The Weaver of Lies",
+        "action": "The planar bridge in Vault 9 begins to stabilize, reaching through the Chionthar bedrock into the Shadowfell.",
+        "player_impact": "Massive environmental and necrotic pressure.",
+        "location": "Counting House Vaults",
+        "outcome": "A localized planar rift is forming.",
+        "delta_action": "add",
+        "id": "shadowfell_tether_activation",
+        "event_type": "immediate",
+        "scene_generated": 53
+      },
+      {
+        "discovery_condition": "Leon sends a messenger or Astarion returns.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 28,
+        "actor": "The Gur",
+        "action": "Hunters have moved from their blind into the palace's lower gardens, taking advantage of the Master's absence.",
+        "player_impact": "Risk of palace casualties or breach.",
+        "location": "Szarr Palace Gardens",
+        "outcome": "The palace perimeter is under active probe.",
+        "delta_action": "update",
+        "id": "gur_upper_city_massing",
+        "event_type": "immediate",
+        "scene_generated": 53
+      },
+      {
+        "discovery_condition": "Astarion returns to the palace.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Perimeter secured; Gur scouts forced back to the Upper City rooftops.",
+        "actor": "Leon",
+        "action": "Leon's mercenaries have established a spiked barricade at the garden entrance after the Gur probe.",
+        "id": "gur_palace_skirmish_result",
+        "turn_generated": 31,
+        "location": "Szarr Palace Gardens",
+        "delta_action": "add",
+        "event_type": "immediate",
+        "scene_generated": 56
+      },
+      {
+        "discovery_condition": "Astarion is anchoring the bridge.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Ambient temperature in the Lower City docks drops significantly; harbor water begins to freeze.",
+        "actor": "The Weaver of Lies",
+        "action": "A surge of necrotic energy pulses through the tether as the bridge stabilizes.",
+        "id": "shadowfell_necrotic_surge",
+        "turn_generated": 31,
+        "location": "Counting House Vaults",
+        "delta_action": "add",
+        "event_type": "immediate",
+        "scene_generated": 56
+      },
+      {
+        "turn_generated": 58,
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Astarion is now the anchor for a planar rift between Baldur's Gate and the Shadowfell.",
+        "location": "Counting House Vault 9",
+        "action": "Acknowledged Astarion's 'utility' and granted a temporary alliance.",
+        "actor": "The Silken Lady",
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "turn_generated": 58,
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Palace security remains tight, but Gur activity is escalating in the Upper City.",
+        "actor": "Leon",
+        "action": "Successfully repelled a second Gur probe and began fortifying the Szarr Palace ballroom.",
+        "id": "gur_palace_fortification",
+        "location": "Szarr Palace",
+        "event_type": "long_term",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Silken Lady mentions it or Astarion returns.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Active skirmish; palace perimeter is compromised.",
+        "actor": "The Gur",
+        "action": "Gur hunters have successfully scaled the garden walls and are engaging Leon's mercenaries at the ballroom entrance.",
+        "player_impact": "Loss of mortal guards and potential palace damage.",
+        "id": "gur_garden_breach",
+        "turn_generated": 58,
+        "delta_action": "add",
+        "location": "Szarr Palace Gardens",
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion hears the mechanical deployment above.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Surface escape is lethal; underground extraction required.",
+        "actor": "Counting House Security",
+        "action": "The surface hall has been cleared of civilians and a squad of four Steel Watchers has established a defensive perimeter around the vault lift.",
+        "player_impact": "Extraction difficulty significantly increased.",
+        "id": "steel_watch_surface_lockdown",
+        "turn_generated": 58,
+        "delta_action": "add",
+        "location": "Counting House Main Hall",
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion witnesses the fighting from the rooftops.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Leon's mercenaries are falling back to the ballroom; three human guards have been neutralized.",
+        "location": "Szarr Palace Gardens",
+        "action": "Gur hunters have breached the lower gardens and are using fire arrows to test the palace's wooden structures.",
+        "player_impact": "Direct threat to Astarion's home and staff.",
+        "actor": "The Gur",
+        "id": "gur_garden_assault_full",
+        "turn_generated": 40,
+        "event_type": "immediate",
+        "scene_generated": 67
+      },
+      {
+        "discovery_condition": "Astarion reaches the library.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The library is currently a secure bunker within the palace.",
+        "location": "Szarr Palace Library",
+        "action": "Has locked the library's iron-banded doors and is prepping necrotic traps based on the 'Watcher's' notes.",
+        "player_impact": "The researcher and the ledger are currently safe.",
+        "actor": "Dalyria",
+        "id": "dalyria_library_fortification",
+        "turn_generated": 40,
+        "event_type": "immediate",
+        "scene_generated": 67
+      },
+      {
+        "discovery_condition": "Astarion hears rumors or sees the Watch in the Upper City.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Harbour Watch Snipers' bodies found; city-wide alert for 'Lord Ancun\u00edn' is being drafted.",
+        "actor": "The Steel Watch",
+        "action": "Investigating the frozen sea-gate and the breach of Vault 9.",
+        "player_impact": "Legal and mechanical pressure in the Lower City.",
+        "location": "Gray Harbour",
+        "id": "counting_house_investigation",
+        "delta_action": "add",
+        "turn_generated": 58,
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Captive interrogation success.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "The tribe is mourning and preparing for a potential retaliatory strike.",
+        "actor": "The Gur",
+        "action": "The survivors of the garden assault are retreating to the Heapside cistern to report Vane's death.",
+        "player_impact": "A target location for Astarion's revenge.",
+        "location": "Lower City Sewers",
+        "id": "gur_regroup_heapside",
+        "delta_action": "add",
+        "turn_generated": 58,
+        "event_type": "long_term",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion encounters a Steel Watch sensor or hears rumors.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The investigation is now focused on finding the source of the 'Shadow Anchor'.",
+        "actor": "The Steel Watch",
+        "action": "Arcane detectives have identified a unique Shadowfell resonance signature in Vault 9.",
+        "player_impact": "Increased risk of detection for Astarion's network.",
+        "id": "counting_house_investigation_depth",
+        "turn_generated": 46,
+        "delta_action": "add",
+        "location": "Counting House Lower Levels",
+        "event_type": "long_term",
+        "scene_generated": 73
+      },
+      {
+        "discovery_condition": "Astarion scouts the sewers or Leon's spies report back.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A retaliatory strike will be much harder to execute if delayed.",
+        "actor": "The Gur",
+        "action": "Survivors of the palace raid are transforming the old Heapside cistern into a defensive stronghold.",
+        "player_impact": "Direct tactical challenge for the 'Heapside Hunt'.",
+        "id": "gur_sewer_fortification",
+        "turn_generated": 46,
+        "delta_action": "add",
+        "location": "Lower City Sewers",
+        "event_type": "immediate",
+        "scene_generated": 73
+      },
+      {
+        "discovery_condition": "Astarion hears rumors or encounters a bounty hunter.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Bounty hunters and greedy mercenaries are now actively searching the city for any sign of Astarion or his network.",
+        "actor": "The Counting House",
+        "action": "Officially posted a 50,000gp bounty for the 'Shadow Thief' of Vault 9.",
+        "id": "counting_house_bounty_posted",
+        "location": "Baldur's Mouth Gazzette",
+        "turn_generated": 58,
+        "delta_action": "add",
+        "event_type": "long_term",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion looks outside or hears reports.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Neighbors and city officials may notice the localized 'curse' on the estate.",
+        "actor": "Vespera",
+        "action": "Her presence in the Material Plane begins to wilt local flora and cause domestic animals in the Upper City to howl.",
+        "id": "vespera_necrotic_leak",
+        "location": "Szarr Palace Perimeter",
+        "turn_generated": 58,
+        "delta_action": "add",
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion hears rumors or encounters a Watch patrol.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A city-wide warrant for 'Lord Ancun\u00edn' is being whispered in the Lower City taverns.",
+        "actor": "The Steel Watch",
+        "action": "Escalated investigation at Gray Harbour after discovering the frozen snipers.",
+        "id": "steel_watch_harbour_escalation",
+        "turn_generated": 52,
+        "location": "Gray Harbour Docks",
+        "delta_action": "add",
+        "event_type": "immediate",
+        "scene_generated": 79
+      },
+      {
+        "turn_generated": 52,
+        "outcome": "The 'Shadow Vanguard' (10x Lvl 5 Gloomstalkers) is now fully integrated into the palace defense.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Leon",
+        "action": "Finalizing the recruitment of the elite shadow strike team.",
+        "id": "leon_shadow_vanguard_completion",
+        "location": "Szarr Palace",
+        "delta_action": "update",
+        "event_type": "long_term",
+        "scene_generated": 79
+      },
+      {
+        "discovery_condition": "Astarion reads social reports or interacts with nobles.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A delegation from the Watchful Order of Magists and Protectors is considering a formal inquiry.",
+        "actor": "Upper City Nobility",
+        "action": "Whispering about the persistent, unnatural fog surrounding Szarr Palace.",
+        "id": "patriarch_gossip_fog",
+        "turn_generated": 52,
+        "location": "Upper City Patriarchar Estates",
+        "delta_action": "add",
+        "event_type": "atmosphere",
+        "scene_generated": 79
+      },
+      {
+        "discovery_condition": "Aurelia's report.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Astarion's home is under active surveillance for 'necrotic hazards'.",
+        "actor": "The Watchful Order",
+        "action": "Dispatched a high-level investigator and a Steel Watcher to Szarr Palace.",
+        "player_impact": "Immediate threat to palace secrecy and legal status.",
+        "id": "watchful_order_inquiry",
+        "turn_generated": 58,
+        "delta_action": "add",
+        "location": "Upper City",
+        "event_type": "immediate",
+        "scene_generated": 91
+      },
+      {
+        "discovery_condition": "Astarion encounters the trackers or finds their marks.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The trackers are beginning to sweep the harbor for Shadowfell resonance.",
+        "actor": "The Weeping Eye",
+        "action": "Contracted a specialized group of 'Planar Trackers' to find the Shadow Anchor.",
+        "player_impact": "Risk of the Shadow Bastion being discovered.",
+        "id": "counting_house_bounty_hunters",
+        "turn_generated": 58,
+        "delta_action": "add",
+        "location": "Lower City",
+        "event_type": "long_term",
+        "scene_generated": 91
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Astarion"
+    ]
+  },
+  "rumors": [
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "A new 'Lord Ancun\u00edn' has recently made a massive deposit at the Counting House, sparking curiosity among the city's elite.",
+      "source_type": "merchant",
+      "related_event": "Astarion's wealth adjustment",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "Dockworkers at Gray Harbour whisper that the 'Watcher's' influence is growing, with gold flowing into the pockets of Harbour Watch captains.",
+      "source_type": "traveler",
+      "related_event": "The Watcher lead",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The Guild is agitated; someone has been moving 'lead-lined' cargo through the sea-gates without paying the usual tolls.",
+      "source_type": "merchant",
+      "related_event": "contingency_shipment",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "A high-ranking patriarchar was seen descending into the Lower City with a pair of 'shadows' at his back, sparking rumors of a secret alliance.",
+      "source_type": "traveler",
+      "related_event": "astarion_infiltration",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "A high-ranking official at the Counting House was seen being escorted out in chains; rumors of a massive vault breach are spreading through the Lower City.",
+      "source_type": "commoner",
+      "related_event": "astarion_infiltration",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "A high-security vault in the Counting House has gone silent; the clerks are terrified of what might have been released.",
+      "source_type": "commoner",
+      "related_event": "vault_breach",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The stones of the Lower City are vibrating with a low, rhythmic hum that is driving the harbor dogs into a frenzy.",
+      "source_type": "commoner",
+      "related_event": "shadowfell_tether_activation",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The Counting House has been locked down from the inside; the Steel Watch is standing ready on the surface.",
+      "source_type": "guard",
+      "related_event": "vault_breach",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "Beggars in the Lower City speak of a woman in tattered silks who walks through walls of ice near the docks.",
+      "source_type": "commoner",
+      "related_event": "silken_lady_emergence",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The harbor water has frozen solid in minutes, trapping several merchant cogs in the ice.",
+      "source_type": "merchant",
+      "related_event": "shadowfell_necrotic_surge",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "A spectral scream was heard from the Counting House vaults, vibrating through the bedrock of the Lower City.",
+      "source_type": "commoner",
+      "related_event": "justiciar_defeat",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "A high-security vault breach has triggered an automatic surface lockdown; the Watch is warning citizens to avoid the Gray Harbour district.",
+      "source_type": "guard",
+      "related_event": "vault_breach",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "Spectral figures have been seen emerging from the harbor water, which is rapidly turning to black ice.",
+      "source_type": "commoner",
+      "related_event": "shadowfell_tether_activation",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The 'Vampire Lord' of the Upper City has abandoned his post, leaving his palace to the Gur hunters.",
+      "source_type": "guard",
+      "related_event": "gur_garden_assault_full",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The Counting House is offering a 50,000 gold bounty for the head of the 'Shadow Thief' who breached Vault 9.",
+      "source_type": "merchant",
+      "related_event": "vault_breach",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "A 'Frozen Folly' has trapped the harbor, and some say it's the breath of an ancient winter god returned to the city.",
+      "source_type": "commoner",
+      "related_event": "shadowfell_necrotic_surge",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The Steel Watch is requisitioning high-sensitivity arcane sensors from the High Hall, claiming a 'planar hazard' exists in the harbor.",
+      "source_type": "guard",
+      "related_event": "counting_house_investigation_depth",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "Sewer-dwellers in Heapside say the rats are fleeing the old cisterns as if a great predator has moved in.",
+      "source_type": "commoner",
+      "related_event": "gur_sewer_fortification",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "A 'Black Frost' is spreading from the Szarr Palace, wilting the gardens of the nearby patriarchars.",
+      "source_type": "noble",
+      "related_event": "vespera_necrotic_leak",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The High Hall is considering a tax audit on the Ancun\u00edn estate following the Counting House breach.",
+      "source_type": "guard",
+      "related_event": "counting_house_bounty_posted",
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "They say the harbor froze over in a single minute, and the snipers' throats weren't just cut\u2014they were shattered.",
+      "source_type": "traveler",
+      "related_event": "shadowfell_necrotic_surge",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "Szarr Palace has vanished. You can walk right past the gates and see nothing but a wall of grey mist.",
+      "source_type": "noble",
+      "related_event": "vespera_necrotic_leak",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "The High Hall is debating a 'Sanitary Ordinance' targeting estates with persistent unnatural mists.",
+      "source_type": "noble",
+      "related_event": "vespera_necrotic_leak",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 91,
+      "turn_generated": 58,
+      "content": "They say the 'Shadow Thief' didn't just take gold, but the very souls of the bank guards.",
+      "source_type": "commoner",
+      "related_event": "vault_breach",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-06-09T23:06:57.492415+00:00",
+  "session_id": "legacy-migrated-843910cd0a1fcee1",
+  "encounter_state": {},
+  "time_events": {
+    "midnight_deadline": {
+      "time_remaining": "5 minutes",
+      "turn_generated": 58,
+      "status": "escalated",
+      "changes_this_turn": "Astarion has taken control of the key and is anchoring the bridge under the Silken Lady's guidance.",
+      "scene_generated": 91,
+      "new_consequences": "Arrival of Shadowfell forces is imminent."
+    }
+  },
+  "faction_updates": {
+    "The Gur": {
+      "resource_change": "-2 hunters, -1 leader",
+      "player_standing_change": "N/A (Exterminated)",
+      "turn_generated": 58,
+      "next_action": "Desperate stand or attempted breakout",
+      "progress": "Critical failure; leadership lost.",
+      "current_objective": "Defense of Heapside Cistern",
+      "scene_generated": 91
+    },
+    "The Watchful Order": {
+      "progress": "Palace gates reached; investigation initiated.",
+      "turn_generated": 58,
+      "next_action": "Forced entry if not met by the Lord.",
+      "current_objective": "Contain the 'Black Frost' disturbance in the Upper City.",
+      "scene_generated": 91
+    },
+    "The Counting House": {
+      "resource_change": "50,000gp allocated for bounty.",
+      "player_standing_change": "Hostile (Targeted)",
+      "turn_generated": 58,
+      "next_action": "Hiring specialized bounty hunters",
+      "progress": "Bounty posted; trackers deployed.",
+      "current_objective": "Identify and eliminate the 'Lord Ancun\u00edn' threat.",
+      "scene_generated": 91
+    }
+  }
+}

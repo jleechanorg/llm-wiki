@@ -1,0 +1,895 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 81,
+      "temp_hp": 0,
+      "hp": 81,
+      "conditions": []
+    },
+    "class_name": "Paladin",
+    "background": "Noble Knight",
+    "entity_type": "pc",
+    "display_name": "Ser Arion val Valerion",
+    "attributes": {
+      "strength": 16,
+      "intelligence": 10,
+      "dexterity": 10,
+      "wisdom": 12,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "hit_dice_current": 10,
+    "hit_dice_max": 10,
+    "race": "Human (Empyrean Bloodline)",
+    "status_conditions": [],
+    "ac": 21,
+    "entity_id": "pc_arion_001",
+    "core_memories": [
+      "Swore the Oath of the Crown to Empress Sariel.",
+      "Received 'Duty's Edge' from Lord Commander Marcus."
+    ],
+    "alignment": "Lawful Neutral",
+    "resources": {
+      "gold": 25,
+      "hit_dice": {
+        "used": 0,
+        "total": 10
+      },
+      "lay_on_hands": {
+        "used": 0,
+        "max": 40
+      },
+      "class_features": {
+        "lay_on_hands": {
+          "used": 0,
+          "max": 50
+        },
+        "divine_sense": {
+          "used": 0,
+          "max": 6
+        },
+        "channel_divinity": {
+          "used": 0,
+          "max": 1
+        }
+      },
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "used": 0,
+          "max": 2
+        }
+      }
+    },
+    "experience": {
+      "current": 100815,
+      "to_next_level": 0,
+      "needed_for_next_level": 100815
+    },
+    "gender": "Male",
+    "base_attributes": {
+      "strength": 16,
+      "intelligence": 10,
+      "dexterity": 10,
+      "wisdom": 12,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "name": "ser arion val valerion",
+    "features": [
+      "Divine Health (Immune to Disease)",
+      "Sacred Oath: Oath of the Crown",
+      "Channel Divinity: Champion's Challenge & Turn the Tide",
+      "Oath Spells: Command, Compelled Duel",
+      "Extra Attack",
+      "Oath Spells: Lesser Restoration, Zone of Truth",
+      "Aura of Protection (10ft radius: +5 to all saves for self and allies)",
+      "Divine Allegiance (Oath of the Crown: Use reaction to take damage for a creature within 5ft)",
+      "Oath Spells (Level 9): Blinding Smite, Spirit Guardians",
+      "Aura of Courage (10ft radius: self and allies immune to Frightened)"
+    ],
+    "hp_max": 81,
+    "spells_prepared": [
+      {
+        "level": 1,
+        "description": "You bless up to three creatures, granting them a d4 bonus to attacks and saves.",
+        "name": "Bless"
+      },
+      {
+        "level": 1,
+        "description": "A touch of divine energy heals a creature for 1d8 + CHA mod.",
+        "name": "Cure Wounds"
+      },
+      {
+        "level": 1,
+        "description": "Weapon flares with psychic dread on hit.",
+        "name": "Wrathful Smite"
+      },
+      {
+        "name": "Shield of Faith",
+        "description": "Golden barrier manifest to provide +2 AC.",
+        "level": 1
+      },
+      {
+        "level": 1,
+        "description": "Your prayer empowers you with divine radiance, adding 1d4 radiant damage to weapon hits.",
+        "name": "Divine Favor"
+      },
+      {
+        "name": "Protection from Evil and Good",
+        "description": "Protect a creature from aberrations, celestials, elementals, fey, fiends, and undead.",
+        "level": 1
+      },
+      {
+        "name": "Lesser Restoration",
+        "description": "Touch a creature to end one disease or one condition: blinded, deafened, paralyzed, or poisoned.",
+        "level": 2
+      },
+      {
+        "level": 2,
+        "description": "Create a 15ft sphere where creatures cannot speak a deliberate lie.",
+        "name": "Zone of Truth"
+      },
+      {
+        "name": "Revivify",
+        "description": "You return a dead creature you touch to life, provided it has been dead no longer than 1 minute.",
+        "level": 3
+      }
+    ],
+    "level": 9,
+    "hp_current": 81,
+    "age": 16,
+    "proficiency_bonus": 4,
+    "skill_proficiencies": {
+      "proficiencies": [
+        "Persuasion",
+        "Intimidation",
+        "Athletics",
+        "History"
+      ]
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "count": 1,
+          "name": "Knight's Explorer Pack"
+        }
+      ],
+      "armor": {
+        "stats": "AC 18, Heavy Armor",
+        "name": "Valerion Plate"
+      },
+      "off_hand": {
+        "stats": "+2 AC",
+        "name": "Imperial Two-Suns Shield"
+      },
+      "main_hand": {
+        "stats": "Longsword, 1d8+3 slashing",
+        "name": "Duty's Edge"
+      },
+      "head": {
+        "stats": "Iconic helm of the Argent Eaglets",
+        "name": "The Gryphon Helm"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 2,
+      "minute": 0,
+      "hour": 11,
+      "time_of_day": "morning",
+      "year": 95,
+      "day": 12,
+      "month": "Frost-Fall"
+    },
+    "location": "Winter-Mourn Mountain Pass",
+    "current_location_name": "Winter-Mourn Mountain Pass"
+  },
+  "npc_data": {
+    "npc_elian_001": {
+      "display_name": "Ser Elian Thorne",
+      "tier": "knight",
+      "entity_id": "npc_elian_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Trained together at the Valerion Academy."
+          ]
+        }
+      },
+      "role": "Junior Knight, Argent Eaglets",
+      "gender": "Male",
+      "level": 1
+    },
+    "Lady Annalise Ashwood": {
+      "attitude_to_party": "antagonistic",
+      "entity_id": "npc_ashwood_001",
+      "entity_type": "npc",
+      "tier": "noble",
+      "display_name": "Lady Annalise Ashwood",
+      "level": 6,
+      "role": "March Lord of Winter-Mourn",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "grievances": [
+            "Arion represents the Empress who declared Annalise a traitor."
+          ],
+          "trust_level": -1,
+          "history": [
+            "Arion revealed kinship to Lady Annalise Ashwood at the gates of Winter-Mourn."
+          ]
+        }
+      }
+    },
+    "npc_vespera_001": {
+      "gender": "Female",
+      "display_name": "Ser Vespera Nyx",
+      "entity_id": "npc_vespera_001",
+      "role": "Junior Knight, Argent Eaglets",
+      "tier": "knight",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Assigned to the same detachment in Winter-Mourn."
+          ]
+        }
+      },
+      "level": 1
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "World of Assiah. Caught between an oath to a ruthless tyrant who enforces a prosperous peace and the call of a chaotic dragon promising true freedom, a young knight must decide whether to slaughter innocents to preserve order or start a war to reclaim the world's soul.",
+      "description": "# Campaign summary\n\nYou are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this \"Silent Peace,\" and your oath binds you to the security and prosperity it provides.\n\nYour loyalty is now brutally tested. You have been ordered to slaughter a settlement of innocent refugees whose very existence has been deemed a threat to the Empress's perfect, unyielding order. As you wrestle with this monstrous command, the weight of your oath clashes with the humanity you feel for the innocent lives before you.\n\nYou are now caught between duty and conscience. Do you uphold your oath and commit an atrocity, believing the sacrifice of a few is worth the peace and safety of millions? Or do you break your vow and defy the Empress, knowing that rebellion could plunge the world back into chaos? This single choice will define your honor and your path in an empire where security is bought with blood.\n\nSee world history section below and then campaign details for more info on this scenario.\n\n# World History\n\n### The Age of Dominion: The Divine Order (Ancient Past, Pre-Gambit Era)\n\nIn a time before mortal reckoning, the world of Assiah was forged from primordial chaos by a being known only as the Creator and their direct children, the Seraphim. Theirs was an age of absolute, perfect order. With power that could command the very firmament, they waged a cosmic war against the vast, elemental entities that roamed the infant world, binding these titans of chaos deep within the earth. To ensure their divine will was made manifest, they constructed the first city, Aeterna, not merely as a capital, but as a continent-spanning magical ritual to enforce their laws of physics and reality. This divine order, however, was a structure of profound subjugation. Under the \"Edict of Chains,\" all races deemed inherently chaotic\u2014the passionate early humans, the wild elves, the stubborn dwarves, and the ferocious orcs\u2014were enslaved, their wills bound to the service of the Seraphim. For millennia, the universe knew a perfect, stagnant peace, a world without strife because it was a world without true choice. This era of absolute divine rule ended abruptly and without explanation with the event that would define all of history: the Great Vanishing. The Creator and every last pure-blooded Seraphim disappeared from reality, leaving their half-celestial children, the powerful but flawed Empyrean bloodline, to inherit a silent throne and a fracturing world.\n\n### The Age of Rebellion: The First Great War of Ideas (Approx. 620 B.G. - 0 A.G.)\n\nFor centuries, the Celestial Imperium, now led by the Empyrean descendants, attempted to maintain the Creator's order. The great houses were ruled by the twin brothers Raziel and Lucifer, two of the most powerful beings in existence. Around 620 years Before the Gambit (B.G.), Lucifer, the brilliant idealist, uncovered the Imperium's two great lies: that the Great Vanishing was a callous abandonment by a bored Creator, and that the endless Thousand Year War the Imperium fought was not to protect creation, but to amuse their absent god.\n\nShattered, Lucifer became a revolutionary. Beginning around 615 B.G., he started the \"March of Broken Chains,\" freeing the enslaved races and forging them into his Unchained Host. His war against his brother Raziel was not merely for territory; it was the first great ideological conflict, a battle between absolute, unfeeling order and wild, untamed freedom. This long, brutal war defined the era, splitting the known world in two.\n\n### The Age of the Mortal Star: The Rise and Fall of Alexiel (20 B.G. - 10 A.G.)\n\nInto this fractured world rose Alexiel of House Arcanus, Lucifer's created daughter. Born 20 B.G., she was a peerless warrior and a secret sorcerer, a prodigy whose true nature was hidden even from her creator. For sixteen years, she served Lucifer, all the while honing her skills and her deceptions. She cultivated the persona of the \"Reluctant Champion,\" a dutiful warrior who hated the violence she excelled at, a mask that earned her Lucifer's absolute, paternal trust.\n\nThe breaking point came in 4 B.G. at the Sacking of Silverwood. At Lucifer's command, his forces slaughtered innocent children, an act that violated Alexiel's one, unbreakable moral line. She defected to the Imperium, where she met and married the honorable Prince Artorius. Her marriage was a political masterstroke, but also a genuine, complex bond. She loved Artorius, yet their entire relationship was built on the lie of her \"Reluctant Champion\" persona. He never knew the cold, brilliant strategist or the \"Joyful Predator\" that thrilled at the perfect execution of a battle plan. This internal conflict defined her years in the Imperium, as she built a family and simultaneously prepared for a war only she knew how to win.\n\nThe long war reached its horrifying climax with the death of her husband at the Battle of Mourning Fields (2 B.G.). His death was a genuine, devastating blow, but it was also a release, unshackling her from the need to maintain her most difficult mask. The war concluded in Year 0, the year of the Starfall Gambit, where Alexiel, in a masterful stratagem alongside her father-in-law Raziel, killed Lucifer and his remaining Apostates. In the aftermath, she secretly absorbed her creator's divine power, becoming a hidden demigod. She chose to rule from the shadows as the \"Mortal Queen,\" hoping to build a lasting peace for her children. This peace lasted ten years.\n\n**The Death of Raziel (Year 8 A.G.):** The ancient Empyrean lord Raziel, last of the great celestial rulers from the Age of Dominion, died eight years after the Starfall Gambit. Officially, he perished peacefully\u2014his divine essence finally fading after millennia of existence. Rumors persist that Alexiel hastened his end to prevent him from interfering with her secret rule, or that he chose to fade rather than watch his granddaughter Sariel's growing darkness. Regardless, with Raziel's death, the last direct link to the old celestial order was severed. No living being now remembers the Age of Dominion firsthand.\n\nIn Year 10 A.G., at the Battle of the Sacrifice Fields, the warlord Mordan\u2014having previously tortured a captured Sariel to learn Alexiel's greatest weakness\u2014sprang a terrible trap. He forced Alexiel into an impossible choice, and she sacrificed her own life to save her daughter. The Mortal Star fell, leaving a power vacuum that would change the world forever.\n\n### The Serpent's Rise: The Forging of the Silent Throne (Approx. 10 A.G. - 40 A.G.)\n\nIn the chaotic years following her mother's death, Princess Sariel, once a shy and traumatized pariah, began her dark and brilliant transformation. Haunted by the revelation of her mother's secret ruthlessness, she embraced it as her own. She weaponized her intellect and her awakening psychic abilities, realizing her perceived weakness was the perfect camouflage. Playing the part of the \"Grieving Daughter,\" she began to build a web of influence.\n\nHer first major casualty was her relationship with her childhood friend, Gareth Ashfeld. His horror at her calculated manipulations forced a confrontation where she chose ambition over their friendship, a decision that hardened her heart and set her firmly on her new path. She mastered her innate Mirror Magic in secret, learning to replicate the powers of others. Pushed into a corner by a rival house, she first tasted true psychic domination, a power that proved intoxicating.\n\nThis culminated in her \"Empress's Gambit.\" Over several years, she orchestrated a flawless, bloodless \"War of Whispers.\" Using her mastery of information and psychic suggestion, she systematically dismantled her political rivals, framed her enemies, and psychologically broke her own brothers, Cassian and Darius, forcing them into submission. Around Year 40 A.G., she took the throne not with armies, but with secrets, crowning herself the first Empress of the Silent Throne.\n\nIt was during this chaotic period of consolidation that many powerful figures were displaced. Nocturna (Lady Cassia val Volantis) was exiled, her violent manifestation of the Empyrean Affliction making her an unacceptable variable in Sariel's new psychic order. Idealists like Corian, who saw Sariel as a perversion of Lucifer's ideals, were forced into the lawless territories to begin their own resistance movements.\n\n### The Age of Silent Prosperity: The Empress's Peace (Year 40 A.G. - Present Day)\n\nFor the past several decades, Empress Sariel's reign has been absolute. Her dominion is one of terrifying psychic order. Dissent is a crime that is punished before the treasonous thought is even fully formed; her enemies simply... vanish, their records erased from the archives. She has crushed the fractured remnants of the Shattered Host, forcing them into the blighted southern lands. Under her rule, the Imperium has expanded, reconquering nearly half the known world. Banditry has vanished. Trade routes flourish. Famine is a forgotten memory, thanks to her ruthlessly efficient resource allocation.\n\nFor the common citizen, life has never been more secure or predictable. They have traded their freedom for safety, and found it to be a prosperous exchange. But it is a world without passion, true art, or rebellious innovation\u2014a silent, orderly, and soulless peace. The elven forests of the Sylvan Remnant are now seen not as sacred, but as lumber for the Empress's war machine, a policy that has earned her the undying hatred of survivors like the ranger Faelan.\n\n**The Secret Heir \u2014 Lumiel (Year 77 A.G. - Present):**\n\nIn Year 77 A.G., Empress Sariel faced a terrible realization: she would need an heir, but she trusted no one enough to bear her child, and no consort could match her bloodline's power. Using forbidden techniques recovered from her grandmother Alexiel's hidden archives\u2014combining Empyrean blood magic with the lost arts of the Seraphim\u2014Sariel created a perfect clone of herself: **Lumiel**.\n\nBut something unexpected happened. Whether by divine intervention, a flaw in the ritual, or the universe's cruel irony, Lumiel was born with all of Sariel's immense psychic potential\u2014and *none* of her trauma. Where Sariel's heart was forged in betrayal and loss, Lumiel's remained untouched. She is everything Sariel *could have been*: compassionate, curious, idealistic.\n\n**Lumiel's Current Status (Age 18):**\n- **Location:** Hidden in the Ivory Spire, a secret tower in the remote Crystalline Peaks, officially a \"restricted arcane research facility\"\n- **Guardians:** Raised by a small circle of carefully selected (and psychically bound) servants who believe she is a \"blessed orphan\" being groomed for holy service\n- **Powers:** Her psychic abilities *exceed* Sariel's\u2014she can sense emotions across vast distances and has demonstrated untrained precognition. Sariel is both proud and terrified of her creation.\n- **Personality:** Kind, empathetic, sheltered. She has never seen violence or cruelty. She believes the Empress is a benevolent ruler and that her isolation is \"for her protection.\" She dreams of one day serving the Imperium.\n- **The Truth:** Sariel visits her \"daughter\" rarely, always masked. Lumiel does not know she is a clone, nor that the woman who visits is the Empress herself. She calls her mysterious benefactor \"The Lady in Silver.\"\n\n**Sariel's Dilemma:** The Empress created Lumiel as a vessel\u2014a backup body, a potential host for her consciousness should she ever face true death. But watching Lumiel grow, seeing the innocent joy she takes in simple things, has stirred something Sariel thought long dead. She cannot bring herself to use Lumiel... yet she cannot bear to destroy her either. For now, the girl remains hidden\u2014Sariel's greatest secret, her greatest weakness, and perhaps the Imperium's only hope.\n\n*Lumiel's existence is known to no one outside her guardians. Not even the Council of Whispers suspects. If Arion ever discovers her, it could change everything.*\n\n### The Age of Waking Dragons (The Present Day)\n\nInto this stagnant era, two new, terrifying powers have emerged, challenging the very foundation of the Empress's world. In the frozen north, the magnificent gold dragon Aurum, the Gilded King, has awakened. He proclaims himself a champion of light and freedom, and rumors of his crusade against the Empress's soulless tyranny spread among the disillusioned. He represents the beautiful, dangerous ideal of liberty that the world has forgotten.\n\nMeanwhile, from the black salt flats of the south, the monstrous black dragon Umbrax, the Shadow of the Pit, has stirred. A creature of pure nihilism and decay, it does not seek to conquer, but to consume. It is the embodiment of the despair that festers under the Empress's perfect order, a final answer to a world without hope. The Silent Peace is over. A new war of ideas, fought between the Tyrant, the Crusader, and the Nihilist, is about to begin.\n\n**Follow this protocol \"World & NPC Generation Protocol (For Player-Defined Custom Scenarios)\"**\n\n## V1 - Campaign Details\n\n### Campaign Start: The Knight of Two Suns\n\n**Setting the Scene:**\nThe wind is a blade of ice in the northern province of Winter-Mourn, but the road beneath your company\u2019s horses is a perfect, white ribbon of Imperial stone, cleared of snow by engineering guilds paid on time. For decades, the Silent Peace of Empress Sariel has held. Bandits are a myth, trade flows uninterrupted, and for the first time in generations, the common folk do not fear the changing of the seasons. This is the peace you swore an oath to protect. You are Ser Arion val Valerion, and at sixteen, your new knighthood feels less like a title and more like a sacred duty to the Empress who forged this stable, prosperous world from the ashes of a cataclysmic war.\n\nThis is your first major deployment as a newly-sworn knight in the \u201cArgent Eaglets,\u201d a junior company tasked with enforcing Imperial law in these remote territories. Your mission, delivered by your commanding officer, the stern and ruthlessly pragmatic Prefect Gratian, is a test of your resolve. The March Lord of this province, Lady Annalise Ashwood, has been declared a traitor. Her crime: violating the Provincial Stability Mandate by offering sanctuary to a growing population of refugees, creating an unregistered settlement that attracts predations from the Shattered Host and drains regional resources. The orders are to \"pacify\" her keep and \"disperse\" the refugees\u2014a cold euphemism for their slaughter, a necessary evil to prevent a single crack from forming in the Imperium's perfect, unyielding wall. Your father\u2019s words echo in your mind: \u201cLoyalty to the Crown is loyalty to civilization itself.\u201d\n\n**Your Character:**\n\n- **Name:** Ser Arion val Valerion\n- **Age:** 16\n- **Class:** Level 1 Paladin (Oath of the Crown, sworn to Empress Sariel and the Laws of the Imperium)\n- **Alignment:** Neutral (Lawful Neutral leaning) \u2014 Arion begins the campaign as a product of Imperial indoctrination, neither inherently good nor evil. His choices during play will determine whether he becomes a champion of justice or an instrument of tyranny. *The player's moral decisions shape Arion's ultimate alignment.*\n- **Background:** Noble Knight of House Valerion. You are a young prodigy of the blade who has only ever known the benefits of the Empress's rule. Your loyalty to her is intertwined with your loyalty to the peace and order she has created. This mission is the first time you have been forced to see the brutal machinery required to maintain that peace, and your disillusionment is a fresh, painful wound.\n\n**House Valerion (Arion's Noble Family):**\n\nHouse Valerion is one of the great noble houses of the Celestial Imperium, known for producing generations of loyal knights and military commanders. They rose to prominence during the consolidation of Empress Sariel's reign and are considered pillars of the Silent Peace.\n\n*Parents:*\n- **Lord Commander Marcus val Valerion** (Father) \u2014 High Marshal of the Northern Legions, a decorated war hero who personally led the campaign that crushed the last major Shattered Host incursion fifteen years ago. A stern, duty-bound man who believes absolutely in the Empress's vision. His approval is something Arion desperately seeks.\n- **Lady Cordelia val Valerion** (Mother, n\u00e9e Ashford) \u2014 Magistrate of the Imperial Courts and member of the Council of Whispers (Sariel's intelligence apparatus). Coldly brilliant, she sees her children as investments in the family's future. She is distantly related to Lady Annalise Ashwood\u2014a fact she has carefully buried.\n\n*Siblings:*\n- **Ser Caspian val Valerion** (Elder Brother, 24) \u2014 Knight-Captain of the Empress's personal Obsidian Guard. The family's pride and golden child. Caspian is everything Arion aspires to be: confident, accomplished, utterly loyal. He genuinely loves his younger brother but sees Arion's occasional moments of mercy as dangerous weakness.\n- **Lady Seraphina val Valerion** (Elder Sister, 21) \u2014 A rising star in the Imperial Diplomatic Corps, currently serving as envoy to the Sylvan Remnant. Secretly harbors doubts about the Empress's policies but is too pragmatic to voice them. She and Arion were close as children; she still writes him letters warning him to \"be careful.\"\n- **Lyra val Valerion** (Younger Sister, 12) \u2014 Still a child, being groomed for a political marriage. Arion is fiercely protective of her innocence. She idolizes her big brother and believes he can do no wrong.\n\n**Default Build (Level 1 Paladin):**\n\nLevel 1 is about locking in your *identity*: heavy-armor face who can fight right away and set up for later Charisma dominance.\n\n*Ability Scores (after racial, if any):*\n- **Strength 16** \u2014 Front-line attacks, damage, grapples.\n- **Constitution 14** \u2014 HP + concentration saves.\n- **Charisma 16** \u2014 Social encounters, future auras, spells, smites.\n- Dexterity, Intelligence, Wisdom as secondary (typically 10-12 based on point buy/standard array).\n\n*Hit Points:*\n- HP = 10 (Paladin hit die max) + Con modifier (2) = **12 HP at level 1**.\n\n*Proficiencies:*\n- **Armor:** All armor + shields.\n- **Weapons:** All simple + martial weapons.\n- **Saving Throws:** Wisdom and Charisma.\n- **Proficiency Bonus:** +2\n\n*Skills (choose two from Paladin list):*\n- **Persuasion** \u2014 Mandatory; leverages high Charisma for talking people down.\n- **Intimidation** \u2014 Fits the imposing paladin vibe.\n\n**Level 1 Class Features:**\n\n*Divine Sense:*\n- Uses per long rest = 1 + Charisma modifier = **4 uses** at Cha 16.\n- Action to detect celestials/fiends/undead within 60 ft until end of your next turn.\n\n*Lay on Hands:*\n- Pool = 5 HP per paladin level = **5 HP at level 1**.\n- Action to heal a touched creature; can split points across uses.\n- Spend 5 HP in one go to cure one disease or one poison.\n\n**Gear:**\n\n- **Valerion Plate:** A suit of fine, heavy plate armor (AC 18), emblazoned with your house's sigil of a steel gauntlet. It is perfectly crafted but not yet enchanted.\n- **\"Duty's Edge\":** A heavy, perfectly balanced longsword (1d8+3 slashing), an heirloom of your house, carried by every firstborn on their first campaign.\n- **Shield:** A steel shield bearing the Two Suns of the Imperium (+2 AC).\n- **The Gryphon Helm:** Your iconic helmet, marking you as a knight of your order.\n\n**Combat Stats:**\n- **Armor Class:** 20 (Plate 18 + Shield 2)\n- **Initiative:** +0 (Dex modifier)\n- **Speed:** 30 ft\n- **Attack:** Longsword +5 to hit (Str 3 + Prof 2), 1d8+3 slashing damage\n\n**Starting Abilities Summary:**\nYou begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands (5 HP pool). Your oath to Empress Sariel grants you a deep connection to the laws of the Imperium, which is the source of your nascent holy power.\n\n---\n\n## Dragon's Favor (Early Game Safety Mechanic)\n\n**CRITICAL RULE \u2014 Turns 1-100:**\n\n### Dragon's Whisper (25% HP Warning)\n\nWhen Arion falls to **25% HP or below** (3 HP or less at level 1), **a dragon reaches out telepathically**, offering salvation. Which dragon speaks depends on Arion's moral choices:\n\n**If Arion has been acting virtuously:**\n- Aurum's warm, golden voice echoes in Arion's mind\n- *\"Young knight, I sense your flame flickering. You fight for something worth preserving. Say the word, and I will pull you from this darkness. Do you wish to be saved?\"*\n\n**If Arion has been acting ruthlessly:**\n- Umbrax's cold, hollow whisper slithers through Arion's thoughts\n- *\"Ah, little mortal... bleeding out for a cause you don't believe in. How tedious. I could end this pain\u2014give you power to finish what you started. Do you accept my gift?\"*\n\n**If Arion's alignment is ambiguous/neutral:**\n- Both dragons speak simultaneously, their voices overlapping\n- Aurum: *\"There is still light in you\u2014\"*\n- Umbrax: *\"\u2014but the darkness calls louder, doesn't it?\"*\n- Both: *\"Choose.\"*\n\n**Player Response Options:**\n1. **Accept** \u2014 The dragon immediately teleports Arion to safety, healed to 50% HP. This counts as a rescue and the dragon's interest deepens.\n2. **Refuse** \u2014 Arion continues fighting. If he reaches 0 HP, the automatic rescue (below) still triggers.\n3. **Ignore** \u2014 The whisper fades, but returns if HP drops further.\n\n---\n\n### Dragon's Rescue (0 HP Death Prevention)\n\nDuring the first 100 player turns, if Ser Arion is reduced to 0 HP and would die, **a dragon intervenes to save them**. Which dragon appears depends on Arion's moral choices:\n\n**If Arion has been acting virtuously** (protecting innocents, showing mercy, defying unjust orders):\n- **Aurum, the Gilded King** (Gold Dragon) rescues Arion\n- Aurum sees potential in Arion as a champion of true justice\n- Arion awakens healed to 1 HP in a safe location\n- Aurum speaks cryptically of destiny and the corruption of the Silent Throne\n- *\"The Empress's peace is a cage, young knight. You were meant for something greater.\"*\n\n**If Arion has been acting ruthlessly** (following brutal orders, prioritizing power, embracing pragmatic cruelty):\n- **Umbrax, the Shadow of the Pit** (Black Dragon) claims Arion\n- Umbrax sees Arion as a useful instrument of chaos and despair\n- Arion awakens healed to 1 HP in a dark, unsettling location\n- Umbrax whispers of power beyond morality and the futility of order\n- *\"Order, chaos, good, evil\u2014all dust before entropy. But you... you have potential to hasten the end.\"*\n\n---\n\n### Dragon's Lesson (Post-Rescue Teaching)\n\n**After every rescue, the dragon explains why Arion died and offers tactical wisdom.** This is not just salvation\u2014it's mentorship.\n\n**The GM should narrate:**\n1. **What killed Arion** \u2014 The dragon describes the fatal moment clearly\n2. **Why it happened** \u2014 The tactical or strategic error that led to death\n3. **What Arion should have done differently** \u2014 Concrete alternative approaches\n\n**Aurum's Teaching Style (For Virtuous Players):**\nAurum teaches that righteousness without wisdom is self-destruction. Noble intentions do not win battles\u2014strategy does.\n\n*Example dialogue for reckless heroism (e.g., soloing an enemy twice their level):*\n- *\"You charged the Imperial Executioner alone, blade raised, heart full of righteous fire. And now you lie bleeding in my sanctuary.\"*\n- *\"The graveyard is full of heroes with the noblest of intentions, young knight. The dead cannot protect the innocent.\"*\n- *\"The good path is not a straight line\u2014it is a winding road through shadow and compromise. You cannot save the refugees if you die in the courtyard.\"*\n- *\"Next time: scout the enemy's strength. Gather allies. Create a distraction. Strike when they are vulnerable, not when you are outmatched.\"*\n- *\"Courage without strategy is suicide. The Empress has ruled for decades because she understands this. You must learn it too.\"*\n\n*Example dialogue for poor tactical choices:*\n- *\"You stood in the open against three crossbowmen. Did you expect them to miss?\"*\n- *\"The door was a chokepoint\u2014you could have held it alone. Instead, you charged into the room and were surrounded.\"*\n- *\"You fought the knight fairly. He had twenty years of training. You have sixteen years of life. Perhaps fairness was not your ally.\"*\n\n**Umbrax's Teaching Style (For Ruthless Players):**\nUmbrax teaches that power without cunning is wasted potential. Even cruelty must be efficient.\n\n*Example dialogue for reckless aggression (e.g., soloing an enemy twice their level):*\n- *\"You walked into a room of killers and expected them to die because you wished it so. Now you wake in my shadow, owing me your existence.\"*\n- *\"The graveyard does not discriminate, little knight. It accepts the cruel and the kind with equal appetite.\"*\n- *\"You think brutality is strength? Brutality without cunning is just noise. The Empress has held power for decades because she kills quietly, precisely, and only when necessary.\"*\n- *\"Next time: wait until they sleep. Poison the well. Turn them against each other. Let others do the bleeding.\"*\n- *\"You wanted to feel powerful. Instead, you felt a blade. Learn the difference.\"*\n\n*Example dialogue for poor tactical choices:*\n- *\"You fought fair. Your enemy did not. Guess which one of you is dead?\"*\n- *\"Three against one, and you stood your ground? Retreat is not weakness\u2014it is an investment in future violence.\"*\n- *\"You announced your intentions like a herald. Assassins work in silence. Which approach kept you alive? Neither, apparently.\"*\n- *\"The shadows were right there. You could have waited. Watched. Struck when they were drunk, or sleeping, or fighting each other. Instead, you chose... this.\"*\n\n*Example dialogue for moral stubbornness leading to death:*\n- *\"You refused to sacrifice the peasant, so the guards killed you both. Two corpses instead of one. Mathematics favors pragmatism.\"*\n- *\"You could have lied. Said the words they wanted. Lived to betray them later. Instead, you chose truth and it chose your grave.\"*\n- *\"Honor is a leash the powerful use to control the weak. You let them leash you, and then they hanged you with it.\"*\n\n**Key Themes to Emphasize:**\n- **Noble intentions \u2260 Good outcomes** \u2014 The world doesn't reward moral purity; it rewards effectiveness\n- **Compromise is not corruption** \u2014 Sometimes you retreat to fight another day; sometimes you negotiate with distasteful allies\n- **The graveyard always wins** \u2014 Against overwhelming odds, the most righteous warrior still dies\n- **Strategy is a virtue** \u2014 Planning, scouting, and patience are not cowardice; they are wisdom\n- **Learn from failure** \u2014 Each death is a lesson; the dragon is investing in Arion's growth\n\n**Mechanical Notes:**\n- This rescue can only trigger during turns 1-100\n- After turn 100, death functions normally (no automatic rescue)\n- Each rescue creates narrative consequences\u2014the dragons remember, and their interest grows\n- The rescue does NOT reset turn count; it's a one-time safety net per near-death\n- If Arion's alignment is ambiguous/neutral, the GM should choose based on the most recent significant moral choice\n\n---\n\n### Dragon's Call (Post-Turn 50 Alliance Opportunity)\n\n**For players who never triggered Dragon's Whisper or Dragon's Rescue:**\n\nIf Arion reaches **Turn 51 without any dragon contact** (either because they played skillfully or avoided near-death), the dragons will actively seek him out. A knight of noble blood making consequential moral choices has not gone unnoticed.\n\n**Between Turns 51-75, one of the following events will trigger:**\n\n**If Arion has been acting virtuously:**\n- Arion receives a vision during rest: a golden light illuminating a hidden mountain pass in the Crystalline Peaks\n- Following it leads to **Aurum's Sanctuary** \u2014 a hidden valley where the gold dragon dwells\n- Aurum offers alliance: *\"You have proven yourself without my aid, young knight. That makes you worthy of my respect, not my rescue. Will you stand with me against the Serpent Empress?\"*\n\n**If Arion has been acting ruthlessly:**\n- Arion begins hearing whispers in moments of violence \u2014 a cold presence observing, approving\n- Eventually, a shadowy messenger arrives with coordinates to the **Obsidian Wastes**\n- Umbrax offers partnership: *\"You carved your own path through blood and will. No savior, no master. I find that... admirable. Perhaps we can accelerate each other's goals.\"*\n\n**If Arion's alignment is neutral/mixed:**\n- Both dragons send messengers simultaneously \u2014 a golden hawk and a shadow raven arrive on the same day\n- Arion must choose which summons to answer (or attempt to meet both, with complications)\n- *This forces the player to commit to a path or navigate a dangerous neutrality*\n\n**Alliance Benefits:**\n\n| Dragon | Benefit | Cost |\n|--------|---------|------|\n| **Aurum** | Access to dragon fire support in major battles, sanctuary for allies, legitimacy for rebellion | Must openly oppose the Empress; cannot use \"dark\" methods |\n| **Umbrax** | Shadow magic abilities, fear aura, undead minions, nihilistic clarity | Slowly corrupts; alienates good-aligned NPCs; accelerates world decay |\n| **Neither** | True independence; both dragons become potential enemies | No dragon support; must face Sariel alone |\n\n**Note:** Players who *did* encounter dragons earlier will have already established a relationship. This section is specifically for those who reached Turn 51 \"clean.\"\n\n---\n\n### Champion's Inheritance (Independence Reward)\n\n**Trigger Condition:** Arion successfully rescues the refugees (Lady Annalise Ashwood's mission) **without ever accepting dragon assistance** \u2014 meaning:\n- Never accepted Dragon's Whisper offer (declined when warned at 25% HP, or never fell that low)\n- Never triggered Dragon's Rescue (never dropped to 0 HP and accepted rescue)\n- Can be achieved at any point in the campaign \u2014 the key is independence, not timing\n\n**What Happens:**\n\nWhen Arion delivers the refugees to safety, Lady Annalise reveals a secret: she knows who he is. His mother Cordelia is her cousin \u2014 both descended from the original Dragon Knights who served Alexiel val Ardent before the Silence.\n\n*\"Your mother thought to keep you hidden from Sariel's gaze, but I see Alexiel's fire in your eyes. You came here expecting to save us... but you've proven yourself worthy of something greater.\"*\n\nLady Annalise leads Arion to a hidden vault beneath the refugee sanctuary \u2014 **Alexiel's Cache**, untouched for 87 years. The First Dragon Knight foresaw that one day, a true champion would arise without relying on dragon patrons.\n\n**The Champion's Armory (All +3, Good-Aligned, Class-Adaptive):**\n\nAlexiel's Cache contains artifacts that reshape themselves to match the champion's fighting style and class. The vault recognizes the bearer's true nature and presents gear optimized for their abilities.\n\n**Universal Items (All Classes Receive):**\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Cloak** | *Mantle of the Dragon Knight* | +3 to all saves, feather fall at will; can fly 60 ft for 1 minute, 1/long rest |\n| **Ring** | *Signet of House Ardent* | +3 to primary ability checks (adapts to class \u2014 Str: Paladin/Fighter/Barbarian, Dex: Rogue/Ranger, Int: Wizard/Artificer, Wis: Cleric/Druid/Monk, Cha: Sorcerer/Warlock/Bard; hybrids use their highest primary), can cast *Sending* to Aurum 1/day; marks bearer as Alexiel's spiritual heir |\n| **Boots** | *Striders of the Dawn March* | +3, speed increased by 10 ft, ignore difficult terrain, leave no tracks |\n| **Amulet** | *Heart of the Faithful* | +3 to Constitution saves, class resource pool increased by 20% (spell slots, ki, rage, etc.); advantage on death saving throws |\n\n*GM note:* The Signet's adaptive +3 bonus keys off the bearer\u2019s primary casting or combat ability:\n- **Strength:** Paladin, Fighter, Barbarian\n- **Dexterity:** Rogue, Ranger\n- **Intelligence:** Wizard, Artificer\n- **Wisdom:** Cleric, Druid, Monk\n- **Charisma:** Sorcerer, Warlock, Bard, and Charisma-focused hybrids (e.g., Sorcerer/Warlock, Bard multiclass)\n\nFor multi-class or custom builds, use the ability that reflects the character's highest primary focus; default Charisma builds (any mix including Sorcerer/Warlock/Bard) to Charisma unless table rules define a different primary ability.\n\n---\n\n**Class-Specific Loadouts:**\n\n#### Paladin / Fighter (Sword & Board)\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker* \u2014 Longsword | +3, extra 2d6 radiant damage to evil creatures; glows golden in presence of tyranny |\n| **Secondary** | *Aegis of the First Light* \u2014 Shield | +3, *Shield of Faith* 1/long rest as bonus action; immune to fear while wielding |\n| **Armor** | *Plate of the Unbroken Oath* | +3 plate (AC 21), resistance to necrotic damage |\n| **Helm** | *Crown of Clarity* | +3 Wisdom saves, advantage vs. mind control; true seeing 1/day |\n| **Gauntlets** | *Grips of Retribution* | +3 Strength checks, unarmed 1d8+STR radiant; grapple Large creatures |\n\n#### Fighter (Two-Handed) / Barbarian\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Greatsword Form* \u2014 Greatsword | +3, extra 2d6 radiant damage to evil; on crit, blinding flash (DC 16 Con or blinded 1 round) |\n| **Secondary** | *Sash of the Raging Dawn* | +3, advantage on first attack each combat; resistance to being frightened |\n| **Armor** | *Breastplate of the Unbroken* | +3 half-plate (AC 18), resistance to necrotic; no Stealth disadvantage |\n| **Helm** | *Warhelm of Clarity* | +3 Wisdom saves, advantage vs. mind control; rage damage +2 |\n| **Gauntlets** | *Grips of Retribution* | +3 Strength checks, unarmed 1d8+STR radiant; grapple Large creatures |\n\n#### Rogue / Ranger (Finesse)\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Rapier Form* \u2014 Rapier | +3, extra 2d6 radiant to evil; sneak attack deals radiant damage |\n| **Secondary** | *Shadowbane Dagger* | +3, can be thrown 60 ft and returns; advantage on attacks from stealth |\n| **Armor** | *Leathers of Silent Light* | +3 studded leather (AC 15), resistance to necrotic; +5 Stealth |\n| **Helm** | *Hood of Clarity* | +3 Wisdom saves, advantage vs. mind control; darkvision 120 ft |\n| **Bracers** | *Bracers of Swift Justice* | +3 Dexterity checks, +10 ft movement; bonus action Disengage 3/day |\n\n#### Ranger (Archery)\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Longbow Form* \u2014 Longbow | +3, extra 2d6 radiant to evil; 200/800 ft range; arrows leave golden trails |\n| **Secondary** | *Quiver of the Dawn* | Produces unlimited +1 radiant arrows; 3 +3 *Arrows of Dragon Slaying* per long rest |\n| **Armor** | *Leathers of the Wild Warden* | +3 studded leather (AC 15), resistance to necrotic; advantage on nature/survival |\n| **Helm** | *Cowl of the Hunter* | +3 Wisdom saves, advantage vs. mind control; Hunter's Mark no concentration |\n| **Bracers** | *Bracers of True Aim* | +3 Dexterity checks, ignore half/three-quarters cover; treat long-range attacks as if at normal range (no penalties or disadvantage) |\n\n#### Wizard / Artificer\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Staff Form* \u2014 Quarterstaff/Arcane Focus | +3 spell attack/save DC, extra 2d6 radiant to evil; 3 free *Shield* spells per long rest |\n| **Secondary** | *Spellbook of the First Light* | +3, contains 10 additional spells of your school; copying spells costs half gold/time |\n| **Armor** | *Robes of the Unbroken Mind* | +3 (AC 13 + Dex), resistance to necrotic; advantage on concentration checks |\n| **Helm** | *Diadem of Clarity* | +3 Wisdom saves, advantage vs. mind control; true seeing 1/day |\n| **Bracers** | *Bracers of Arcane Might* | +3 Intelligence checks, +2 spell slots (highest level available) |\n\n#### Sorcerer / Warlock\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Rod Form* \u2014 Arcane Focus | +3 spell attack/save DC, extra 2d6 radiant to evil; Eldritch Blast/cantrips +1d6 radiant |\n| **Secondary** | *Orb of Inner Fire* | +3, 3 free Metamagic sorcery points or Warlock spell slot recovery per long rest |\n| **Armor** | *Vestments of the Unbroken Will* | +3 (AC 13 + Dex), resistance to necrotic; frightening presence 1/short rest |\n| **Helm** | *Circlet of Clarity* | +3 Wisdom saves, advantage vs. mind control; *Counterspell* 1/day (no slot) |\n| **Bracers** | *Bracers of Charismatic Power* | +3 Charisma checks, intimidation causes fear (DC = spell save) |\n\n#### Cleric\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Mace Form* \u2014 Holy Mace | +3, extra 2d6 radiant to evil; undead must save or flee |\n| **Secondary** | *Aegis of Divine Light* \u2014 Shield | +3, *Spirit Guardians* 1/long rest (no concentration, 1 min) |\n| **Armor** | *Vestments of the Faithful* | +3 chain mail or plate (domain dependent), resistance to necrotic |\n| **Helm** | *Mitre of Clarity* | +3 Wisdom saves, advantage vs. mind control; *Commune* 1/day (no slot) |\n| **Gauntlets** | *Hands of Healing* | +3 Wisdom checks, healing spells +1d8; *Revivify* 1/day (no components) |\n\n#### Druid\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Scimitar Form* \u2014 Wooden Scimitar | +3, extra 2d6 radiant to evil; functions in Wild Shape (mental stats) |\n| **Secondary** | *Totem of the First Grove* | +3, Wild Shape forms gain +3 natural armor; 2 extra Wild Shape uses |\n| **Armor** | *Hide of the Ancient Oak* | +3 hide (AC 15), resistance to necrotic; *Barkskin* always active (no concentration) |\n| **Helm** | *Antler Crown of Clarity* | +3 Wisdom saves, advantage vs. mind control; *Speak with Plants/Animals* at will |\n| **Bracers** | *Bracers of Natural Wrath* | +3 Wisdom checks, Wild Shape attacks count as magical +3 |\n\n#### Bard\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Rapier Form* \u2014 Elegant Blade | +3, extra 2d6 radiant to evil; can be played like an instrument (flavor only; no additional mechanical benefit) |\n| **Secondary** | *Lute of the Mortal Star* \u2014 Legendary Instrument | +3 spell attack/save DC; Bardic Inspiration dice are d12s; *Charm Monster* 1/long rest (uses normal concentration) |\n| **Armor** | *Performer's Leathers of Light* | +3 studded leather (AC 15), resistance to necrotic; advantage on Performance |\n| **Helm** | *Mask of Clarity* | +3 Wisdom saves, advantage vs. mind control; *Glibness* 1/long rest |\n| **Bracers** | *Bracers of Inspiring Presence* | +3 Charisma checks, allies within 30 ft +1 to all saves |\n\n#### Monk\n\n| Slot | Item | Property |\n|------|------|----------|\n| **Weapon** | *Dawnbreaker, Quarterstaff Form* \u2014 Monk Weapon | +3, extra 2d6 radiant to evil; unarmed strikes also gain +3 and radiant damage |\n| **Secondary** | *Sash of the Enlightened Warrior* | +3, +4 ki points; Flurry of Blows adds 1d6 radiant per hit |\n| **Armor** | *Wraps of the Unbroken Spirit* | +3 to unarmored AC, resistance to necrotic; creatures you target with your Stunning Strike have disadvantage on their saving throws |\n| **Helm** | *Headband of Clarity* | +3 Wisdom saves, advantage vs. mind control; immune to poison and disease |\n| **Bracers** | *Bracers of Ki Mastery* | +3 Dexterity/Wisdom checks, *Step of the Wind* costs 0 ki |\n\n#### Multi-Class / Custom Build\n\nFor characters with multiple classes or unusual builds, the Cache presents a **hybrid loadout**:\n- **Weapon** adapts to primary attack style (melee/ranged/magic)\n- **Armor** matches highest armor proficiency\n- **Secondary** supports the secondary class feature\n- **Helm** always provides mental protection\n- **Gauntlets/Bracers** boost the primary ability score\n\nAny hybrid helm keeps the universal benefit shared across the cache: +3 to Wisdom saving throws and advantage against mind-control effects.\n\n*The GM should work with the player to select the most thematically and mechanically appropriate combination.*\n\n---\n\n**Critical Notes:**\n- These items are **good-aligned** \u2014 they will not function (count as non-magical) if Arion's alignment shifts to evil\n- The items bond to Arion and cannot be given away or stolen; they return to the Cache if he dies\n- Sariel will sense this awakening of Alexiel's legacy \u2014 it escalates her attention toward Arion\n- Aurum and Umbrax will both take notice: Aurum with respect, Umbrax with increased interest in corrupting such a prize\n\n**Narrative Significance:**\nThis reward represents the *third path* \u2014 neither relying on Aurum's protection nor Umbrax's power. Arion proves he can stand alone as a true successor to the original Dragon Knights, before they became dependent on dragon patrons.\n\n*\"The dragons offered you salvation, and you refused. The dragons offered you power, and you declined. You saved my people with nothing but your own strength and conviction. That is what Alexiel was. That is what you can become.\"* \u2014 Lady Annalise Ashwood\n\n**GM Note:** When presenting this reward, make it clear to the player that they earned this *because* they never relied on dragon assistance. This is the game's acknowledgment of their independence \u2014 they won without needing a patron. The dialogue should feel like recognition of their self-reliance: *\"You could have accepted Aurum's protection. You could have taken Umbrax's bargain. Instead, you stood alone. That is why you are worthy of this legacy.\"*",
+      "character": {
+        "name": "ser arion val valerion",
+        "base_attributes": {
+          "strength": 16,
+          "charisma": 16,
+          "intelligence": 10,
+          "wisdom": 12,
+          "dexterity": 10,
+          "constitution": 14
+        },
+        "ac": 18,
+        "background": "noble knight of house valerion. you are a young prodigy of the blade who has only ever known the benefits of the empress's rule. your loyalty to her is intertwined with your loyalty to the peace and order she has created. this mission is the first time you have been forced to see the brutal machinery required to maintain that peace, and your disillusionment is a fresh, painful wound.",
+        "attributes": {
+          "strength": 16,
+          "charisma": 16,
+          "dexterity": 10,
+          "wisdom": 12,
+          "intelligence": 10,
+          "constitution": 14
+        },
+        "class_name": "Paladin (Oath Of The Crown",
+        "level": 1
+      }
+    },
+    "multiverse_upgrade_available": false,
+    "next_companion_arc_turn": 7,
+    "active_missions": [
+      {
+        "title": "The First Test",
+        "status": "accepted",
+        "objective": "Disperse the refugees at Winter-Mourn Keep.",
+        "mission_id": "pacify_winter_mourn"
+      }
+    ],
+    "level_up_data": {
+      "hp_gain": 9
+    },
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "count": 6,
+      "agent": "RewardsAgent",
+      "rewards_skip_count": 0
+    },
+    "level_up_stage": "complete",
+    "campaign_tier": "mortal",
+    "last_location": "Winter-Mourn Inner Ward",
+    "success_streak": 2,
+    "core_memories": [
+      "Ser Arion (Lvl 1) began his first mission to Winter-Mourn Keep, debating the morality of the Imperial Mandate with knights Elian and Vespera.",
+      "Administrative Directive: Dice rolls now grant 33% of the next level's required XP.",
+      "Ser Arion reaffirmed Imperial dogma to Ser Elian, successfully silencing the younger knight's doubts for now.",
+      "Lady Annalise Ashwood (Lvl 6) openly defied Arion's formal summons at Winter-Mourn Keep, choosing to protect refugees over Imperial law.",
+      "Arion revealed his kinship to Lady Annalise Ashwood, but the appeal to family honor failed to break her defiance.",
+      "Arion's pragmatic warning of a siege backfired spectacularly, causing Lady Annalise to view him as a soulless instrument of the Empress and hardening her resolve to resist.",
+      "Ser Arion reached a moment of spiritual and tactical clarity before the gates of Winter-Mourn, preparing to unlock the full power of his Paladin oath.",
+      "Ser Arion fully embraced the second tier of his Oath of the Crown at the gates of Winter-Mourn, gaining the power of Divine Smite and the Defense fighting style.",
+      "The standoff at Winter-Mourn Keep turned hostile as Lady Annalise Ashwood ordered her archers to fire and the main portcullis to be closed, forcing Ser Arion to choose between a direct assault or a tactical siege.",
+      "Ser Arion failed to breach the portcullis at Winter-Mourn Keep, and his detachment is now pinned in the gatehouse killing zone under heavy archer fire.",
+      "Ser Arion successfully used his Imperial authority to command a panicked Ser Elian to scout for a secondary entrance while drawing the garrison's fire, signaling his growth into a leader and triggering his ascension to the third tier of his Paladin oath.",
+      "Ser Arion reached the threshold of his third Paladin tier, preparing to formally swear the Oath of the Crown at the gates of Winter-Mourn.",
+      "Correction: Ser Arion reached the third tier of his mandate and formally swore the Oath of the Crown at the gates of Winter-Mourn, unlocking the power of Channel Divinity and Divine Health.",
+      "Ser Arion (Lvl 3) stood his ground at the Main Gate of Winter-Mourn, successfully drawing archer fire with his high AC while Ser Vespera (Lvl 1) took a significant wound.",
+      "Ser Arion reached the threshold of his fourth Paladin tier at the gates of Winter-Mourn, pausing amidst the arrow-storm to refine his soul as an instrument of the Crown.",
+      "Ser Arion chose a disciplined path for his fourth tier, opting for a fixed increase in physical resilience (+8 HP max pending) over a random roll.",
+      "Ser Arion reached the final threshold of his fourth Paladin tier at the gates of Winter-Mourn, required to choose between attribute refinement or a specialized feat to finalize his growth.",
+      "Ser Arion finalized his fourth tier mandate at the gates of Winter-Mourn, committing to a path of commanding presence (+2 Charisma) and physical resilience (+8 HP).",
+      "Ser Arion (Lvl 4) has anchored his soul to the Oath of the Crown, significantly expanding his commanding presence and physical resilience while pinned at the Main Gate of Winter-Mourn.",
+      "Ser Arion used his Lay on Hands pool to fully restore Ser Vespera's health at the Main Gate of Winter-Mourn, maintaining the detachment's combat readiness under fire.",
+      "Ser Arion (Lvl 5) lowered his shield to parley with a Sylvan Messenger (Lvl 4) sent by Aurum, while Ser Elian (Lvl 1) remained paralyzed by the revelation of the joined Ashford-Valerion crest.",
+      "Ser Arion reached the threshold of his sixth Paladin tier at the gates of Winter-Mourn, feeling his physical resilience harden and his aura of protection begin to manifest.",
+      "Ser Arion (Lvl 6) finalized his advancement at the Eastern Postern, unlocking his Aura of Protection just as an Elven Messenger arrived to offer parley from the Gilded King.",
+      "Ser Arion (Lvl 6) accepted a parley from Aurum's Sylvan Messenger at the Eastern Postern, shielding Ser Elian from a crisis of faith with his Aura of Protection and pausing the siege as the Gilded King begins his descent.",
+      "Ser Arion accepted Aurum's Covenant of Embers, choosing to escort the refugees to the dragon's sanctuary and paying the Imperial stability tithe to avoid a slaughter.",
+      "Ser Arion successfully coordinated the surrender of Winter-Mourn Keep through the Covenant of Embers, securing Lady Annalise's cooperation and opening the gates without further bloodshed.",
+      "Ser Arion reached Level 7, unlocking Divine Allegiance as the gates of Winter-Mourn opened for his parley.",
+      "Ser Arion successfully organized the evacuation of hundreds of refugees from Winter-Mourn Keep, using his Aura of Protection and commanding authority to maintain order as the Gilded King descended.",
+      "Ser Arion reached the threshold of his eighth Paladin tier within the inner ward of Winter-Mourn, choosing fixed vitality (+8 HP) as he prepares to lead the refugees to sanctuary.",
+      "Ser Arion reached the final threshold of his eighth Paladin tier within Winter-Mourn, choosing to achieve the pinnacle of commanding presence (+2 Charisma) to lead the refugee exodus.",
+      "Ser Arion achieved the eighth tier of his Paladin mandate within Winter-Mourn Keep, reaching the pinnacle of commanding presence (CHA 20) and physical resilience.",
+      "Ser Arion achieved the ninth tier of his Paladin mandate (Level 9), mastering 3rd-level spells and preparing Revivify to protect his companions as they coordinate the evacuation of Winter-Mourn.",
+      "Ser Arion successfully led the refugee column through the freezing pass of Winter-Mourn, using his Aura of Protection to shield them from the elements.",
+      "Ser Arion paused to meditate on his Oath of the Crown, preparing to embrace the tenth tier of his Paladin mandate.",
+      "Ser Arion achieved the tenth tier of his Paladin mandate (Level 10) while leading the refugee exodus, unlocking the Aura of Courage to shield his people from the impending terror of the Butcher.",
+      "Arion attempted to push the refugee column to a faster pace through the blizzard, but the elements and exhaustion caused the column to stumble, failing to gain significant distance from Gratian.",
+      "Ser Arion reached the threshold of his twelfth Paladin tier amidst the blizzard of the Crystalline Peaks, preparing to anchor the Aura of Courage and Improved Divine Smite to his soul."
+    ],
+    "divine_potential": 0,
+    "companion_arcs": {
+      "Ser Elian Thorne": {
+        "progress": 85,
+        "arc_type": "mentor_legacy",
+        "phase": "development",
+        "history": [
+          {
+            "event": "Elian recoils from Arion's command, his faith in the Mandate shattered by the joined crest.",
+            "turn": 67
+          }
+        ]
+      }
+    },
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "rationale": "The arrival of Aurum and the signing of the Covenant of Embers marks a major shift in the campaign's power dynamics.",
+      "window": "24h",
+      "major_events_this_window": 1,
+      "special_circumstances": true
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "enabled": false,
+      "tutorial_completed": false,
+      "strong_suggestion_given": false
+    },
+    "level_up_in_progress": false,
+    "level_up_pending": true,
+    "character_creation_stage": "complete",
+    "character_creation_in_progress": false,
+    "level_up_complete": true,
+    "god_mode_directives": [
+      {
+        "added": "2026-05-14T00:35:00Z",
+        "rule": "Every dice roll during Story/Combat mode grants 33% of the XP required for the character's next level."
+      }
+    ],
+    "universe_control": 0,
+    "completed_missions": [],
+    "divine_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "successes": 5,
+    "cooldown_remaining": 0,
+    "roll_dc": 14,
+    "roll_result": 22,
+    "request_severity": "submission",
+    "npc_tier": "noble",
+    "successes_needed": 5,
+    "social_hp_damage": 7,
+    "status": "SURRENDERED",
+    "resistance_shown": "Lady Annalise opens the postern gate and yields the keep.",
+    "social_hp_max": 8,
+    "objective": "Secure surrender and settlement dispersal",
+    "npc_name": "Lady Annalise Ashwood",
+    "skill_used": "Persuasion"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "npc_vespera_001",
+        "initiative": 15,
+        "type": "ally"
+      },
+      {
+        "name": "pc_arion_001",
+        "initiative": 11,
+        "type": "pc"
+      },
+      {
+        "name": "npc_ashwood_archers_001",
+        "initiative": 10,
+        "type": "enemy"
+      }
+    ],
+    "combat_trigger": "Lady Ashwood ordered archers to fire after the portcullis was lowered.",
+    "combat_phase": "idle",
+    "round_number": 2,
+    "combatants": {
+      "npc_ashwood_archers_001": {
+        "hp_current": 40,
+        "hp_max": 40,
+        "status": [],
+        "type": "enemy",
+        "role": "Winter-Mourn Garrison Archers"
+      },
+      "pc_arion_001": {
+        "hp_current": 41,
+        "hp_max": 41,
+        "status": [],
+        "type": "pc"
+      },
+      "npc_elian_001": {
+        "hp_current": 10,
+        "hp_max": 10,
+        "status": [
+          "scouting_eastern_wall"
+        ],
+        "type": "ally",
+        "role": "Junior Knight, Argent Eaglets"
+      },
+      "npc_vespera_001": {
+        "hp_current": 12,
+        "hp_max": 12,
+        "status": [],
+        "type": "ally",
+        "role": "Knight of the Argent Eaglets"
+      }
+    },
+    "in_combat": false,
+    "combat_session_id": "combat_1703001234_wmge",
+    "combat_summary": {
+      "xp_awarded": 2475,
+      "outcome": "paused_for_parley",
+      "rounds_fought": 2
+    }
+  },
+  "last_state_update_timestamp": "2026-05-23 20:47:53.028000+00:00",
+  "turn_number": 26,
+  "player_turn": 26,
+  "last_living_world_turn": 24,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 15,
+    "hour": 10,
+    "time_of_day": "morning",
+    "year": 95,
+    "day": 12,
+    "month": "Frost-Fall"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "freeze_time": true,
+    "thinking": "The model determined that level-up is available; present the player with level-up controls.",
+    "choices": [
+      {
+        "id": "level_up_now",
+        "text": "Begin Level-Up to Level 12",
+        "risk_level": "safe",
+        "description": "Open level-up choices while keeping the committed character level unchanged until the modal flow completes.",
+        "freeze_time": true
+      }
+    ],
+    "level": 12
+  },
+  "rewards_box": {
+    "current_xp": 100815,
+    "level_up_available": true,
+    "gold": 0,
+    "loot": [
+      "None"
+    ],
+    "progress_percent": 100,
+    "xp_gained": 0,
+    "current_level": 9,
+    "resolved_target_level": 12,
+    "source": "model",
+    "xp_to_next_level": 0,
+    "xp_total": 100815,
+    "new_level": 12,
+    "next_level_xp": 100000
+  },
+  "rewards_pending": {
+    "previous_xp": 100815,
+    "level_up_available": true,
+    "gold": 0,
+    "source_id": "level_up_9_to_12",
+    "xp_gained": 0,
+    "source": "level_up",
+    "items": [],
+    "processed": false,
+    "new_level": 12
+  },
+  "world_events": {
+    "turn_generated": 69,
+    "background_events": [
+      {
+        "discovery_condition": "Accessing Imperial intelligence or hearing rumors from high-ranking officials.",
+        "outcome": "Empress Sariel's intelligence network increases surveillance on all high-altitude locations.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Aeterna / Northern Hubs",
+        "action": "Intercepted encrypted reports regarding a 'Gilded King' appearing in northern trading hubs.",
+        "actor": "Council of Whispers",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Witnessing the blockade or hearing scout reports.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Escape for any party will be restricted by elven guerrilla forces.",
+        "location": "Mournful Pass Southern Exit",
+        "action": "Moving to blockade the southern escape route from Winter-Mourn.",
+        "actor": "Sylvan Remnant Rebels",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "A passing courier shouted the news as they rode toward Winter-Mourn before the bells rang.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Logistical delays for Imperial construction; increased military patrols in elven territories.",
+        "actor": "Sylvan Remnant Rebels",
+        "action": "Sabotaged a major Imperial lumber transport heading for the Crystalline Peaks.",
+        "player_impact": "Imperial reinforcements may be delayed due to shifted patrol priorities.",
+        "id": "sylvan_sabotage_lumber",
+        "location": "Silverwood Fringe",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Elian noticing the feather or Arion seeing it.",
+        "outcome": "A sign of warding and encouragement for those seeking truth.",
+        "player_aware": true,
+        "status": "pending",
+        "actor": "Aurum, the Gilded King",
+        "action": "His golden hawk familiar drops a shimmering feather near Ser Elian.",
+        "player_impact": "Future interaction with Aurum will be colored by this event.",
+        "id": "aurum_watching",
+        "location": "Winter-Mourn Eastern Wall",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Reported by a riding scout at the gate.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Imperial forces are visible on the horizon within 90 minutes.",
+        "location": "Winter-Mourn Valley Entrance",
+        "action": "Enters the lower valley, ignoring the blizzard to force a confrontation.",
+        "player_impact": "Direct confrontation with the main Imperial force is imminent.",
+        "id": "gratian_approaching",
+        "actor": "Prefect Gratian (Lvl 12)",
+        "delta_action": "update",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Entering the settlement or high perception from the walls.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The settlement is preparing for a desperate last stand.",
+        "location": "Winter-Mourn Settlement",
+        "action": "Begins arming with improvised weapons and barricading the inner courtyard.",
+        "player_impact": "Hostility increases; peaceful dispersal becomes harder.",
+        "actor": "Refugee Militia (Lvl 1)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Witnessed the raven circling above the gatehouse.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "The dragon of nihilism is now directly watching Arion's choices.",
+        "actor": "Umbrax, Shadow of the Pit",
+        "action": "Sends a shadow raven familiar to observe the 'New Star' (Arion).",
+        "player_impact": "Increased psychic pressure; Umbrax's interest deepens.",
+        "location": "Winter-Mourn Skies",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "News from Aeterna or mother's letters.",
+        "outcome": "Families of known traitors will face immediate asset seizure.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Aeterna",
+        "action": "Drafts the 'Decree of Tainted Lineage' in response to the Ashwood rebellion.",
+        "player_impact": "House Valerion is at risk if Arion fails or defects.",
+        "actor": "Principate Senate",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Intercepting Host communications or witnessing the kidnapping.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The Host plans a targeted extraction mission to claim the child.",
+        "actor": "Obsidian Covenant",
+        "action": "Spies within the refugee camp identify a potential magical prodigy among the children.",
+        "location": "Winter-Mourn Settlement",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Psychic sensation or orders from the Council of Whispers.",
+        "outcome": "Increased imperial focus on the 'Argent Eaglets' mission.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Empress Sariel",
+        "action": "Her psychic gaze turns toward Winter-Mourn as Arion's oath-power flares.",
+        "location": "Aeterna / Psychic Weave",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Letters from family or rumors from the capital.",
+        "outcome": "Internal house tension increases; potential for political fallout.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Aeterna",
+        "action": "Begins a secret investigation into his wife Cordelia's Ashford connections.",
+        "actor": "Lord Commander Marcus val Valerion",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Finding clandestine search logs or encountering Samael's spies.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A search for other 'cracks' in the Imperial history begins.",
+        "actor": "Samael (Apostate)",
+        "action": "Dispatched agents to search for suppressed records of joint-house holdings.",
+        "location": "Imperial Archives (Secret Sub-levels)",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Receiving a report from the Council of Whispers.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Annalise's reputation is further blackened to protect House Valerion's secret.",
+        "actor": "Lady Cordelia val Valerion",
+        "action": "Planting false evidence in Aeterna to further discredit Lady Annalise.",
+        "location": "Aeterna",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Scout reports or seeing the dust cloud on the horizon.",
+        "outcome": "A third force will arrive to scavenge the conflict within 15 turns.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Blighted Southern Salt Flats",
+        "action": "Orders her war-band to move toward the Winter-Mourn valley.",
+        "actor": "Griselda, the Carrion Queen",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Report from future messenger or hearing screams in the pass.",
+        "outcome": "Heavy casualties as elven guerrillas use the storm to mask their ambush.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Prefect Gratian (Lvl 12)",
+        "action": "Orders his vanguard to attempt a risky crossing of the Mournful Pass during the blizzard.",
+        "player_impact": "Reinforcements will be significantly weakened when they arrive.",
+        "location": "Mournful Pass",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Entering the keep and feeling the psychic dead-zone.",
+        "outcome": "Empress Sariel's remote viewing of the keep is temporarily blinded.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Lady Annalise Ashwood (Lvl 6)",
+        "action": "Activates ancient anti-psychic wards in the keep's inner sanctum.",
+        "player_impact": "Arion can act without immediate psychic monitoring from Aeterna.",
+        "location": "Winter-Mourn Inner Keep",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Hearing the rhythmic chanting through the postern gate.",
+        "outcome": "Psychic resonance increases, drawing the attention of Umbrax's raven.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Refugee Militia (Lvl 1)",
+        "action": "Begins chanting a revolutionary hymn that vibrates through the keep's walls.",
+        "player_impact": "The atmospheric tension increases; peaceful dispersal is nearly impossible.",
+        "location": "Winter-Mourn Settlement",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Capturing a Host spy with the data or receiving a warning from Seraphina.",
+        "outcome": "The Obsidian Covenant begins planning an interception of the Argent Eaglets.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Aeterna / Remote Comm-Node",
+        "action": "Transmits Arion's tactical deployment to a Shattered Host contact.",
+        "player_impact": "Arion will be targeted for capture or assassination in future turns.",
+        "actor": "Traitorous Valerion Cousin",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Looking at the sky or hearing the messenger.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Gold light begins to permeate the clouds.",
+        "actor": "Aurum, the Gilded King",
+        "action": "Begins descending toward the Winter-Mourn valley to oversee the parley.",
+        "player_impact": "Direct dragon intervention is imminent.",
+        "location": "Crystalline Peaks",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Scout reports or arrival.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Arrival time reduced to 2 hours.",
+        "actor": "Prefect Gratian (Lvl 12)",
+        "action": "Orders the vanguard to abandon heavy equipment to speed through the blizzard.",
+        "player_impact": "The deadline for resolution is shortening.",
+        "location": "Mournful Pass",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Vanguard reaching the pass or scout report.",
+        "outcome": "The escape route is physically obstructed.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Sylvan Remnant (Lvl 4)",
+        "action": "Fells ancient pines to block the southern sanctuary path.",
+        "player_impact": "The exodus will be halted unless the path is cleared.",
+        "id": "sylvan_blockade_active",
+        "location": "Southern Mountain Pass",
+        "delta_action": "add",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "ser arion val valerion"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "They say Lady Ashwood's husband didn't die of a fever, but was taken by the Silent Throne to ensure her compliance.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A golden bird was seen flying over the Crystalline Peaks, singing a song that breaks psychic charms.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lady Ashwood's refugees aren't all peasants; some carry the brand of the Unchained Host.",
+      "source_type": "guard",
+      "related_event": "pacify_winter_mourn",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silent Peace' is failing in the southern salt flats as a shadow moves beneath the earth.",
+      "source_type": "traveler",
+      "related_event": "umbrax_awakening",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Gilded King' is said to be seeking those who have refused the Empress's psychic touch.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Gilded King's light has been seen over the Crystalline Peaks.",
+      "source_type": "traveler",
+      "related_event": "aurum_watching",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Gilded King has been seen circling the Crystalline Peaks.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Empress's Silence is failing to suppress dissent in the northern provinces.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Gilded King' has been seen in the peaks, watching the border forts.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "House Valerion is hiding a traitor in their own bloodline.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Gilded King's shadows lengthen over the Crystalline Peaks, according to traders fleeing the north.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "Supply lines to Aeterna are being strangulated by invisible hands, leaving the capital's markets thin.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the Empress's eyes turned gold for a moment in the capital when the dragon descended.",
+      "source_type": "traveler",
+      "related_event": "aurum_watching",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "time_events": {},
+  "schema_migrated_at": "2026-05-14T00:24:28.969279+00:00",
+  "session_id": "legacy-migrated-ddd3bf507d94e450"
+}

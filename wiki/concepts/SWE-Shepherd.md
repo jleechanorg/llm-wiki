@@ -23,6 +23,6 @@ Aligning intermediate rewards with final task success is non-trivial — a local
 
 ## Connections
 - [ProcessRewardModel](ProcessRewardModel.md) — the core technique enabling step-level feedback
-- [SWE-Bench](SWE-Bench.md) — benchmark providing training trajectories and evaluation
+- [SWE-Bench](SWE-bench.md) — benchmark providing training trajectories and evaluation
 - [[CodeAgents]] — the target application; long-horizon repository-level tasks
 - [FM-Agent](FM-Agent.md) — complementary approach: FM-Agent verifies code post-generation, SWE-Shepherd guides generation in real-time

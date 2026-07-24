@@ -17,6 +17,6 @@ The Thieves' Guild's Hand (regional boss) for the Silverflow river trade. Sharp,
 
 ## Connections
 - [alexiel-larion](../sources/alexiel-larion.md) — primary campaign source
-- [Lifestone](../concepts/Lifestone.md) — the contraband he smuggles
+- [Lifestone](../concepts/lifestone.md) — the contraband he smuggles
 - [[ThievesGuild]] — the organization he represents
 - [voyage-lady-ashbury](voyage-lady-ashbury.md) — fellow regional power-broker Alexiel also courts

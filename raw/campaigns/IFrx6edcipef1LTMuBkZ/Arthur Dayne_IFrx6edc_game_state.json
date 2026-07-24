@@ -1,0 +1,1012 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "hp_current": 296,
+    "spells_known": [
+      {
+        "name": "Cure Wounds",
+        "level": 1
+      },
+      {
+        "name": "Shield of Faith",
+        "level": 1
+      },
+      {
+        "name": "Protection from Evil and Good",
+        "level": 1
+      },
+      {
+        "name": "Aid",
+        "level": 2
+      },
+      {
+        "name": "Lesser Restoration",
+        "level": 2
+      },
+      {
+        "name": "Warding Bond",
+        "level": 2
+      },
+      {
+        "name": "Aura of Vitality",
+        "level": 3
+      },
+      {
+        "name": "Death Ward",
+        "level": 4
+      },
+      {
+        "name": "Aura of Purity",
+        "level": 4
+      },
+      {
+        "name": "Circle of Power",
+        "level": 5
+      }
+    ],
+    "active_effects": {
+      "replace": [
+        "Aura of the Crown's AC: +7 bonus to AC for self and allies within 50ft (CHA mod)",
+        "Subtle Masking: +3 to Stealth checks, Advantage on Stealth checks",
+        "Epic Boon: Irresistible Offense - Weapon attacks ignore resistance to B/P/S",
+        "Aura Expansion: 50ft radius",
+        "Sentient Soul of Dawn: Awakened ('The Sun rises for the Living')",
+        "Epic Boon: Boon of Fortitude (+40 Max HP)",
+        "Epic Boon: Boon of Invincibility (1/Short Rest reaction to reduce damage to 0)"
+      ]
+    },
+    "base_attributes": {
+      "intelligence": 12,
+      "dexterity": 18,
+      "wisdom": 14,
+      "constitution": 18,
+      "strength": 20,
+      "charisma": 24
+    },
+    "name": "Ser Arthur Dayne",
+    "combat_stats": {
+      "speed": 30,
+      "ac": 32,
+      "passive_perception": 18,
+      "initiative": 4
+    },
+    "attributes": {
+      "intelligence": 12,
+      "dexterity": 18,
+      "wisdom": 14,
+      "constitution": 18,
+      "strength": 27,
+      "charisma": 24
+    },
+    "hp_max": 296,
+    "hp": 94,
+    "race": "Human",
+    "inventory": [
+      "Backpack",
+      "Bedroll",
+      "Mess kit",
+      "Tinderbox",
+      "Torch (10)",
+      "Rations (10 days)",
+      "Waterskin",
+      "Rope (50 feet)",
+      "Coin pouch (10gp)"
+    ],
+    "class": "Gestalt Fighter (Battle Master) / Paladin (Oath of the Crown)",
+    "resources": {
+      "class_features": {
+        "lay_on_hands": {
+          "max": 100,
+          "used": 0
+        },
+        "action_surge": {
+          "max": 2,
+          "used": 1
+        },
+        "superiority_dice": {
+          "max": 9,
+          "used": 8,
+          "die": "2d12"
+        }
+      },
+      "spell_slots": {
+        "level_4": {
+          "max": 3,
+          "used": 3
+        },
+        "level_1": {
+          "max": 4,
+          "used": 0
+        },
+        "level_3": {
+          "max": 3,
+          "used": 0
+        },
+        "level_5": {
+          "max": 2,
+          "used": 0
+        },
+        "level_2": {
+          "max": 3,
+          "used": 0
+        }
+      }
+    },
+    "equipment": {
+      "feet": {
+        "equipped": true,
+        "name": "Boots of Speed",
+        "stats": "Bonus action to double walking speed and give disadvantage on attacks of opportunity",
+        "type": "feet"
+      },
+      "belt": {
+        "equipped": true,
+        "name": "Belt of Cloud Giant Strength",
+        "stats": "Sets Strength to 27 (+8)",
+        "type": "belt"
+      },
+      "neck": {
+        "equipped": true,
+        "name": "Amulet of the Crown's Will",
+        "stats": "+2 to Spell Save DC and Paladin Aura radius"
+      },
+      "cloak": {
+        "equipped": true,
+        "name": "Dun-Colored Traveler's Shroud",
+        "stats": "Common appearance; hides all heraldry."
+      },
+      "armor": {
+        "equipped": true,
+        "name": "Shadow-Woven Masterwork Leather +3",
+        "stats": "AC 15 + DEX (max 2) +3 bonus. Grants Advantage and +3 to Stealth checks.",
+        "type": "armor"
+      },
+      "main_hand": {
+        "equipped": true,
+        "name": "Dawn",
+        "stats": "+5 Greatsword, 2d6+13 slashing + 2d8 Radiant + 2d8 Force",
+        "properties": [
+          "Legendary",
+          "Sentient",
+          "Finesse"
+        ],
+        "type": "weapon"
+      },
+      "shield": {
+        "equipped": true,
+        "name": "Aegis of the True King +3",
+        "stats": "+5 AC total, reflects 1d10 force damage to attackers on miss",
+        "type": "shield"
+      }
+    },
+    "level": 22,
+    "experience": {
+      "needed_for_next_level": 510000,
+      "progress_display": "64,000 / 85,000",
+      "current": 596200,
+      "to_next_level": 0
+    }
+  },
+  "world_data": {
+    "current_location_name": "Maegor's Holdfast, Red Keep",
+    "world_time": {
+      "year": 300,
+      "month": 11,
+      "microsecond": 0,
+      "hour": 0,
+      "minute": 25,
+      "time_of_day": "Midnight",
+      "day": 12,
+      "second": 30
+    }
+  },
+  "npc_data": {
+    "Jon Snow": {
+      "role": "The Prince of Winter",
+      "status": "Conscious",
+      "level": 7
+    },
+    "Ser Gerold Hightower": {
+      "equipment": {
+        "cloak": "Dun-Colored Traveler's Shroud",
+        "armor": "Shadow-Woven Masterwork Leather +3"
+      },
+      "role": "Lord Commander",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Accepted the New Oath of the Winter Dawn"
+          ],
+          "trust_level": 10
+        }
+      },
+      "status": "Devoted",
+      "level": 18
+    },
+    "npc_ned_stark_001": {
+      "hp_current": 136,
+      "status": [
+        "disarmed"
+      ]
+    },
+    "Jaime Lannister": {
+      "role": "Lord of Casterly Rock / Shield of the Dawn",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "history": [
+            "Knighted by Arthur",
+            "Forgiven for Kingslaying",
+            "Recruited to the Dawn",
+            "Acclaimed as Lord of the Rock"
+          ],
+          "trust_level": 10
+        }
+      },
+      "status": "Kingsguard of the Dawn (Lvl 14)"
+    },
+    "Ned Stark": {
+      "status_conditions": [
+        "Bound",
+        "Bruised"
+      ],
+      "status": "conscious"
+    },
+    "Lyanna Stark": {
+      "role": "Secret Queen / Mother of Jon Snow",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Saved from the bed of blood",
+            "Miraculously healed over one year",
+            "Trained to Level 12 by the Sword of the Morning"
+          ],
+          "trust_level": 8
+        }
+      },
+      "status": "Conscious",
+      "attributes": {
+        "intelligence": 14,
+        "dexterity": 16,
+        "charisma": 18,
+        "constitution": 14,
+        "strength": 12,
+        "wisdom": 14
+      },
+      "level": 15
+    },
+    "Eddard Stark": {
+      "role": "Warden of the North",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Confirmed Arthur's status as a mentor beyond the blade",
+            "Internalized the 'Peace-Bringer' mandate"
+          ],
+          "trust_level": 9
+        }
+      },
+      "status": "Conscious",
+      "level": 15,
+      "experience": 10000
+    },
+    "Ser Oswell Whent": {
+      "equipment": {
+        "cloak": "Dun-Colored Traveler's Shroud",
+        "armor": "Shadow-Woven Masterwork Leather +3"
+      },
+      "role": "Kingsguard",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Accepted the New Oath of the Winter Dawn"
+          ],
+          "trust_level": 9
+        }
+      },
+      "status": "Devoted",
+      "level": 18
+    },
+    "Theo Wull": {
+      "hp_current": 3,
+      "status": "unconscious"
+    },
+    "Kevan Lannister": {
+      "hp_current": 85,
+      "status": "allied",
+      "tier": "lord",
+      "role": "Castellan of Casterly Rock",
+      "armor_class": 18,
+      "name": "Kevan Lannister",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "history": [
+            "Captured in solar",
+            "Witnessed empty vaults",
+            "Accepted Jaime's leadership"
+          ],
+          "trust_level": 5
+        }
+      },
+      "level": 12,
+      "string_id": "npc_kevan_001",
+      "hp_max": 85
+    },
+    "Howland Reed": {
+      "hp_current": 8,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Defeated by Arthur",
+            "Spared and healed",
+            "Recognizes the necessity of the lie"
+          ],
+          "trust_level": 3
+        }
+      },
+      "status": "conscious"
+    },
+    "Catelyn Stark": {
+      "social_hp": 2,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Witnessed the Wolfswood miracle",
+            "Accepted the 'Oath' explanation",
+            "Learned the truth of Arthur and Jon"
+          ],
+          "trust_level": 8
+        }
+      }
+    },
+    "Tywin Lannister": {
+      "level": 16,
+      "role": "Warden of the West / Hand of the King",
+      "tier": "lord",
+      "status": "Infiltrated/Commanding",
+      "string_id": "npc_tywin_001",
+      "location": "Red Keep, King's Landing"
+    },
+    "Robb Stark": {
+      "level": 5
+    },
+    "Martyn Cassel": {
+      "hp_current": 5,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Defeated at Tower of Joy",
+            "Spared and healed",
+            "Sworn to silence",
+            "Won over by yard training"
+          ],
+          "trust_level": 3
+        }
+      },
+      "status": "conscious"
+    },
+    "Ser Gregor Clegane": {
+      "hp_current": 380,
+      "level": 18,
+      "role": "The Mountain That Rides",
+      "location": "Red Keep, King's Landing",
+      "tier": "knight",
+      "ac": 22,
+      "string_id": "npc_gregor_001",
+      "hp_max": 380
+    },
+    "Barristan Selmy": {
+      "hp_current": 165,
+      "level": 18,
+      "role": "Lord Commander / Shield of the Dawn",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Served together in the Kingsguard",
+            "Believed Arthur was dead for 15 years",
+            "Heard the news of Arthur and Lyanna's survival"
+          ],
+          "trust_level": 10
+        }
+      },
+      "status": "Joyous / Defecting",
+      "string_id": "npc_barristan_001",
+      "hp_max": 165
+    },
+    "Ashara Dayne": {
+      "name": "Ashara Dayne",
+      "relationships": {
+        "npc_ned_stark_001": {
+          "disposition": "friendly",
+          "history": [
+            "Met at Harrenhal",
+            "Danced together",
+            "Reunited at Starfall"
+          ],
+          "trust_level": 2
+        },
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Challenged her deflection regarding Ned Stark and her loneliness."
+          ],
+          "trust_level": 9
+        }
+      },
+      "level": 5,
+      "string_id": "npc_ashara_dayne_001",
+      "tier": "noble"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "god_mode_directives": [
+      {
+        "rule": "Always apply +5 AC (Charisma modifier) to Ser Arthur Dayne and allies within the Paladin Aura radius.",
+        "added": "2026-02-06T07:13:19.086844+00:00"
+      },
+      {
+        "rule": "Setting: Low Magic - Offensive magic is extremely rare and narratively significant.",
+        "added": "2026-02-06T07:15:08.116149+00:00"
+      },
+      {
+        "rule": "Character: Ser Arthur Dayne only uses defensive/buff magic; no offensive spells.",
+        "added": "2026-02-06T07:15:08.116253+00:00"
+      },
+      {
+        "rule": "Progression beyond Level 20 requires an Apotheosis Milestone event.",
+        "added": "2026-02-06T07:33:40.175229+00:00"
+      },
+      {
+        "rule": "Epic levels (21-30) grant Epic Boons and uncapped ASI.",
+        "added": "2026-02-06T07:33:40.175367+00:00"
+      },
+      {
+        "rule": "Kingsguard are currently in deep cover; do not narrate white cloaks or gleaming plate until disguises are shed.",
+        "added": "2026-02-06T08:04:04.403521+00:00"
+      },
+      {
+        "rule": "Always apply +3 and Advantage to Stealth rolls for the current party configuration.",
+        "added": "2026-02-06T08:04:04.403661+00:00"
+      },
+      {
+        "rule": "Lannister forces in KL include 10,000 Golden Company (Lvl 5+) and officers (Lvl 12+).",
+        "added": "2026-02-06T19:51:28.487223+00:00"
+      },
+      {
+        "rule": "Tywin is actively afraid of Arthur Dayne and has prepared specific counters for a 'Titan' threat.",
+        "added": "2026-02-06T19:51:28.487323+00:00"
+      },
+      {
+        "rule": "Gregor Clegane is CR 20 equivalent for single-combat scaling.",
+        "added": "2026-02-06T19:51:28.487406+00:00"
+      }
+    ],
+    "character_creation_completed": true,
+    "arc_milestones": {
+      "primary_arc": {
+        "completed_at": "2026-07-13T02:41:47.473712+00:00",
+        "phase": "winterfell_arrival",
+        "progress": 100,
+        "status": "completed",
+        "completed_at_lore": "300-07-13T12:00:00Z"
+      },
+      "winterfell_vigil": {
+        "phase": "fifteen_year_timeskip",
+        "progress": 100,
+        "status": "completed"
+      },
+      "sanctuary_mode": {
+        "active": true,
+        "activated_turn": 187,
+        "expires_turn": 207,
+        "arc": "The Great Rescue",
+        "scale": "epic"
+      },
+      "exile_arc": {
+        "phase": "arrival_at_winterfell",
+        "progress": 100,
+        "status": "completed"
+      },
+      "game_of_thrones_era": {
+        "updated_at": "2026-02-07T00:00:00Z",
+        "phase": "red_keep_infiltration",
+        "progress": 85,
+        "status": "in_progress"
+      }
+    },
+    "character_creation_stage": "complete",
+    "faction_minigame": {
+      "faction_power": 2500,
+      "suggestion_given": false,
+      "tutorial_completed": false,
+      "strong_suggestion_given": false,
+      "units": {
+        "soldiers": 70,
+        "spies": 25,
+        "elites": 8,
+        "elite_avg_level": 17.5
+      },
+      "ranking": 201,
+      "tutorial_progress": {},
+      "enabled": true
+    },
+    "divine_upgrade_available": false,
+    "attribute_system": "D&D",
+    "world_events": {
+      "background_events": [
+        {
+          "status": "active",
+          "location": "King's Landing",
+          "actor": "The Golden Company",
+          "action": "Landing and fortifying the city",
+          "event_type": "immediate",
+          "player_impact": "King's Landing is now a fortress of 10,000 mercenaries; infiltration DC increased."
+        }
+      ]
+    },
+    "character_creation_in_progress": false,
+    "budget_warnings_shown": [
+      "budget_warning_system_instruction_emergency",
+      "budget_warning_story_context_compacted"
+    ],
+    "multiverse_upgrade_available": false,
+    "core_memories": [
+      "[auto] Morning (09:00:00) at the Tower of Joy\u2014the scorching Dornish sun bleaches the sky to a pale, pitiless blue. You stand before the round tower of red stone, the white cloak of the Kingsguard snapping in the dry mountain wind. Beside you stand Ser Oswell Whent (Lvl 15) and the Lord Commander, Ser Gerold Hightower (Lvl 18). \n\nBefore you, Eddard Stark (Lvl 12) and his six companions dismount, their faces grim and coated in the dust of the road. The 'Sword of the Morning' feels the familiar wei",
+      "[auto] Morning (09:00:10) at the Tower of Joy\u2014the air shimmers with a heat that feels physical, a weight upon the brow that matches the gravity of the steel now drawn. You stand as a titan of the white order, the light of Dawn pulsing in your hands with a rhythmic, stellar heartbeat. Ned Stark (Lvl 12) moves with the desperation of a man who has lost a sister and a king in a single year, his greatsword 'Ice' whistling through the dry air.\n\nEddard lunges, the Valyrian steel blade humming, but his",
+      "[auto] Morning (09:00:20) at the Tower of Joy\u2014the desert sun glints off the pale, translucent steel of Dawn as you bring the legendary blade around in a blurring arc. Lord Eddard Stark (Lvl 12) is a formidable man, hardened by the Trident and the Bells, but he is a mortal man facing a titan. You do not strike to kill; your intent is a surgical correction of his path.\n\nDawn whistles through the air, leaving a faint trail of starlight in its wake. The blade doesn't meet Ice with a crash, but with ",
+      "[auto] Morning (09:00:50) at the Tower of Joy\u2014the Sword of the Morning steps back, the tip of Dawn tracing a line in the red dust. It is a gesture of terrifying grace, a moment of chivalry so absolute it feels like an insult. Lord Eddard Stark (Lvl 12) stares at his empty, trembling hands, then at the ancestral Valyrian blade buried in the earth several yards away.\n\n\"Pick it up, My Lord,\" you say, your voice as cool as a mountain stream. \"I would not have history say the Starks were defeated whi",
+      "[auto] Morning (09:01:00) at the Tower of Joy\u2014the air crackles with the heat of the Dornish sun and the raw tension of the standoff. You lower the tip of Dawn, the starlight blade humming softly in the silence, and raise your voice. It is a voice forged in the courts of King's Landing and the fires of battle, carrying the weight of the Crown itself.\n\n\"Hold!\" you command, the word striking like a thunderclap across the red rocks. \"Lord Eddard (Lvl 12), bid your men stand down. There is a truth in",
+      "[auto] Morning (09:01:30) at the Tower of Joy\u2014the scorching sun hangs like a gilded executioner over the red sands. Lord Eddard Stark (Lvl 12) and his companions close in, but you move before their desperation can turn into a tragedy. You are no longer merely a knight; you are the pinnacle of martial law, a white whirlwind that the desert wind itself seems to obey.\n\nWith a singular, fluid motion, you kick off the red earth. Dawn (Lvl 20) hums, not with the sound of a blade, but with the resonanc",
+      "[auto] Morning (09:15:00) at the Tower of Joy\u2014the dust kicked up by the brief, violent struggle begins to settle, coating the fallen Northmen in a fine red powder. You stand over them, the white cloak of the Kingsguard pristine despite the chaos. You sheath Dawn with a soft, metallic click that seems to ring out across the silent mountains.\n\n\"Ser Gerold, Ser Oswell,\" you call out, your voice steady and devoid of malice. \"See to their wounds. They are brave men, and I would not have them bleed ou",
+      "[auto] Morning (09:20:00) at the Tower of Joy\u2014the desert wind carries the scent of salt and blood as you lean in toward the Lord of Winterfell. Ned Stark (Lvl 12) is breathless, the bind of the rope around his wrists a stark contrast to the divine light still faintly shimmering on your white plate.\n\n\"Listen to me, Eddard,\" you say, your voice dropping to a low, intense rasp that commands the silence of the mountains. \"Lyanna... she is in that tower. And she is not alone. She is with child, Ned. ",
+      "[auto] Morning (09:25:00) at the Tower of Joy\u2014the winds howl through the high passes, sounding like the ghosts of the Trident. You keep your hand firm on Eddard's shoulder, your shadow engulfing the Lord of Winterfell as he kneels in the red dust. The starlight glow of your armor has dimmed to a steady, rhythmic pulse, matching the gravity of the words you must now speak.\n\n\"Look at me, Eddard (Lvl 12),\" you say, your voice dropping to a whisper that carries the chill of a tomb. \"You know Robert ",
+      "[auto] Morning (09:35:00) at the Tower of Joy\u2014the sun is a white-hot eye watching the culmination of a tragedy. You reach down and retrieve 'Ice' from the red earth, the Valyrian steel dark and cold despite the desert heat. With a deliberate, reverent motion, you present the hilt to Eddard Stark (Lvl 12). He takes it with trembling fingers, the ancestral blade looking heavy in his weary hands.\n\n\"Rise, Lord Eddard,\" you say, your voice carrying the quiet resonance of a temple bell. \"There is one ",
+      "[auto] Morning (09:45:00) in the Tower of Joy's uppermost chamber\u2014the air is thick with the cloying scent of blood and winter roses. Lyanna Stark (Lvl 1) lies amidst a sea of crimson-stained linens, her face the color of bleached bone. Eddard Stark (Lvl 12) collapses by her side, clutching her hand as if he could pull her back from the abyss by sheer force of will.\n\n\"She's fading, Ned,\" you say, your voice a low, steady anchor in the storm of his grief. \"But the Sword of the Morning does not yie",
+      "[auto] Morning (10:05:00) in the Tower of Joy\u2014the weight of the secret you have just shared with Eddard Stark (Lvl 12) hangs in the room like the smoke of a guttering candle. You watch him as he stares at his sister's pale face, the name 'Jon' still a fresh, stinging wound on his lips. \n\n\"The world is a cruel place for high-born bastards, Ned,\" you say, your voice steady as the stones of the tower. \"But it is a tomb for Targaryen princes. You must be his shield. You must be his father in every w",
+      "[auto] Midday (14:05:00) in the Tower of Joy's uppermost chamber\u2014the oppressive heat of the morning has given way to a heavy, expectant stillness. Hours have passed since the star-pale light of Dawn first mended the fraying threads of Lyanna Stark\u2019s life. The miraculous healing, a feat that would be spoken of in hushed whispers for centuries were it not a secret, has taken hold. The gray pallor that once claimed her features has been replaced by a faint, healthy flush of life.\n\nLyanna (Lvl 1) st",
+      "[auto] Midday (14:10:00) in the Tower of Joy's Birth Chamber\u2014the light through the narrow arrow-slits has shifted, casting long, golden bars across the stone floor. You remain kneeling, the white enameled plates of your armor reflecting the soft glow of the desert afternoon. Lyanna (Lvl 9) watches you, her gray eyes narrowing as she processes the magnitude of your miracle. The weakness of the birth is still there, but a fierce, revitalized fire burns within her\u2014the fire of a wolf-maid who has su",
+      "[auto] Afternoon (14:45:00) at the Tower of Joy\u2014the long shadows of the Red Mountains stretch across the courtyard like dark fingers, cooling the red dust where the Northmen begin to stir. You descend from the birth chamber, your white Kingsguard plate shimmering with a steady, divine radiance that seems to push back the encroaching gloom. Ned Stark (Lvl 12) walks beside you, his hand resting on the hilt of Ice, his face a mask of somber resolution.\n\nMartyn Cassel (Lvl 5) is the first to push hi",
+      "[auto] Night (21:00:00) in the Red Mountains of Dorne\u2014the furnace of the day has cooled into a sharp, dry chill that rattles the desert scrub. You lead the small, ghostly procession away from the Tower of Joy, leaving the red stone monument to its secrets. The moon is a thin sliver of bone, providing just enough light to see the path without exposing your silhouettes to the high ridges.\n\nLyanna (Lvl 9) rests in a litter slung between two sturdy Dornish sand steeds, her breathing deep and rhythmi",
+      "[auto] Night (21:15:00) deep in the jagged shadows of the Prince's Pass\u2014the wind whistles through the red stone chimneys like a dying man's breath. You call a brief halt, the litter carrying Lyanna (Lvl 9) coming to a gentle rest. You beckon Howland Reed (Lvl 8) forward, the crannogman moving with a quiet, lizard-like grace that even the dry Dornish sands cannot fully betray.\n\n\"Lord Howland,\" you say, your voice a low hum beneath the travelers' cloak. \"We are entering Dayne lands, but we move as",
+      "[auto] Night (22:30:00) along the Palestone Path\u2014the jagged peaks of the Red Mountains loom like the teeth of a sleeping dragon against the starlit sky. You move with a focus that transcends the physical, your hands steady on the poles of the litter as you guide the group through a narrow, winding track known only to the outriders of Starfall. The ground is treacherous, a shifting carpet of shale and dry earth, yet you navigate it with the effortless strength of a giant, ensuring the wounded Lya",
+      "[auto] Morning (08:30:00) at the outskirts of Starfall\u2014the first light of dawn spills over the shimmering waters of the Torrentine, turning the river into a ribbon of molten gold. The jagged, red teeth of the mountains are behind you now, replaced by the lush, white-stone architecture of your ancestral home. \n\nAs you descend from the Palestone Path, the outriders of House Dayne (Lvl 4) emerge from the morning mist. They recognize the shimmering white plate and the distinctive silhouette of Dawn ",
+      "[auto] Morning (08:45:00) in the private solar of Starfall\u2014the room is filled with the scent of sea salt and crushed lavender, a stark contrast to the parched dust of the Prince's Pass. Ashara Dayne (Lvl 5) stands by the arched window, her violet eyes reflecting the sparkling Torrentine below. She is hauntingly beautiful, her dark hair cascading like a silken waterfall over a gown of pale lilac. When she turns to face the newcomers, the air in the room seems to grow still.\n\n\"Arthur,\" she whisper",
+      "[auto] Morning (09:00:00) in the quiet, lavender-scented guest wing of Starfall\u2014the morning sun filters through silk curtains, casting a soft, golden light over the gathered assembly. You lead Ned Stark (Lvl 12) and your sister Ashara (Lvl 5) back to Lyanna's (Lvl 9) bedside. The wolf-maid looks stronger now, sitting up against a mountain of cushions, cradling the babe in her arms with a fierce, protective grace. The room is a sanctuary of whispers, isolated from the world by the thick white sto",
+      "[auto] Morning (09:15:00) in the quiet, lavender-scented guest wing of Starfall\u2014the silence following your proposal is thick, punctuated only by the distant, rhythmic crash of the Summer Sea against the cliffs. Lyanna (Lvl 9) looks down at the child, her fingers trembling as they brush against his dark tuft of hair. For a moment, the 'Wolf-Maid' seems lost in the sea-blue light of the room, weighing the safety of the North against the freedom of the East.\n\n\"The Free Cities...\" Lyanna whispers, h",
+      "[auto] Morning (09:30:00) in the quiet guest wing of Starfall\u2014the scent of salt air mingles with the fading fragrance of lavender. You look upon the small gathering, the starlight of Dawn muted in its scabbard, yet your presence remains the stabilizing pillar of the room. \n\n\"Ned (Lvl 12), your sister has spoken. Westeros will be the boy's home, and the lie shall be his cradle,\" you say, your voice resonating with the finality of a decree. You turn to the two men who have stood by your side throu",
+      "[auto] Morning (10:00:00) at Starfall\u2014the high windows of the guest wing are thrown open, letting in the cool, salt-laden breath of the Summer Sea to chase away the lingering scent of birth and blood. Lyanna Stark (Lvl 9) sits propped against the pillows, her son cradled in the crook of her arm, while Ned Stark (Lvl 12) stands at her shoulder, his hand resting protectively on her bedpost. The starlight glow of your armor, the Kingsguard Plate of the Sun +3, pulses with a low, rhythmic hum that s",
+      "[auto] Morning (10:15:00) at Starfall\u2014the sunlight dancing off the Torrentine river illuminates the quiet room where the future of the Seven Kingdoms has just been bartered for an oath. Ned Stark (Lvl 12) stands by the window, his gaze lingering on the white towers of the castle before he turns back to you. The weight of the morning\u2014the blood, the miracle, and the monumental lie\u2014seems to have aged him, yet there is a boyish vulnerability in his gray eyes as he speaks.\n\n\"I used to dream of being ",
+      "[auto] Late morning (10:15:00) at Starfall\u2014the year has turned with the steady, inexorable rhythm of the tides against the Torrentine cliffs. Twelve months have passed since the 'Sword of the Morning' brought the wolf-maid and the dragon-spawn to the sanctuary of the South. \n\n**Month 1-3: The Healing Moon.** Lyanna's (Lvl 9) recovery is slow but absolute. You spend your nights in the high solars of the Palestone Tower, meditating with Dawn resting across your knees. You feel the blade's heartbea",
+      "[auto] Late morning (10:30:00) at Starfall\u2014the sea breeze carries the scent of blooming jasmine as you find your sister Ashara (Lvl 5) standing alone on the terrace of the High Hermitage. The year of secrecy has weighed heavily on everyone within these white walls, but Ashara has borne the brunt of the domestic deception, managing the household while keeping the 'ghosts' hidden. \n\n\"Ashara,\" you say softly, your white cloak (Lvl 20) catching the light as you approach. \"You have been a silent pill",
+      "[auto] Late morning (10:45:00) at Starfall\u2014the jasmine scent hangs heavy in the humid air. You do not let Ashara (Lvl 5) retreat behind her clever deflections. You step closer, the white enameled plates of your Kingsguard armor catching the high sun, and look her directly in the eye. \n\n\"You speak of my heart, sister, but you use it to shield your own,\" you say, your voice a low, resonant baritone that carries the weight of your shared blood. \"A year has passed since the Lord of Winterfell rode a",
+      "[auto] Night (20:00:00) at the edge of the Neck\u2014the humid air of the South has been replaced by the biting, damp chill of the North's gateway. A year has passed since the secret of the dragon was tucked away in Starfall, and now, the time for ghosts to move has come. You lead a small, shadowed procession through the mire, your legendary white plate hidden beneath layers of dun-colored wool and boiled leather. Your gear, enchanted with a +3 subtle weaving of Starfall's finest craftsmen, makes you",
+      "[auto] Night (20:00:00) in the private inner courtyard of Winterfell\u2014the air is sharp with the scent of pine and the ancient, brooding cold of the North. You lead the small group through the Hunter's Gate, your silhouette draped in a heavy, grease-stained traveler's cloak that hides the masterwork leather and the lethal grace of the Sword of the Morning. Beside you, Lyanna (Lvl 12) keeps her cowl low, though her eyes shine with a fierce, tearful light as the familiar granite towers of her home l",
+      "[auto] Night (21:30:00) in the stone-walled heart of Winterfell\u2014the wind howls through the battlements like a caged beast, carrying the scent of woodsmoke and ancient snow. You watch the Stark siblings cling to one another, the raw emotion of their reunion making the shadows seem to retreat. Lady Catelyn (Lvl 3) remains a silent observer, her gaze sweeping over you with a precision that speaks of her Tully upbringing. \n\n\"My Lord,\" you growl, your voice a rough, practiced rasp that grates against",
+      "[auto] Morning (10:00:00) in the Great Yard of Winterfell\u2014the iron-gray sky continues to bleed a fine, cold mist onto the stone. You offer a rare, thin smile to the gathered guardsmen, the 'Wat' persona\u2019s rough edges momentarily softened by the genuine thrill of the yard. \"A lot of practice, lads,\" you say, your voice a gravelly, low-born rasp. \"Spent more time with steel in my hand than bread in the Dornish Marches. A man either gets fast or he gets buried.\"\n\nYou turn your full attention to Ned",
+      "[auto] Late morning (11:00:00) in the Great Yard of Winterfell\u2014the mist thickens, clinging to the gray granite walls like a damp shroud. You wipe the sweat and mud from your brow with a rough sleeve, the 'Wat' persona\u2019s weary slouch firmly back in place. Martyn Cassel (Lvl 5), the Master-at-Arms of Winterfell, stands nearby, his gaze lingering on the practice sword you just used to humiliate his Lord.\n\nYou walk over to him, offering a lopsided, mercenary's grin that shows none of the courtly tee",
+      "[auto] Midday (12:00:00) in the solar of Winterfell\u2014the fire in the hearth crackles, though the heat does little to thaw the sudden tension between husband and wife. Eddard Stark (Lvl 12) sits behind his heavy oak desk, his eyes weary as he avoids the piercing blue gaze of Catelyn Tully (Lvl 3). The 'sellsword' Wat has just finished the morning drills, and the sheer impossibility of his skill still hangs over the castle like a storm cloud.\n\n\"Ned,\" Catelyn begins, her voice as quiet and sharp as ",
+      "[auto] Midday (12:05:00) in Ned's Solar at Winterfell\u2014the heavy oak door muffles the distant sounds of the castle, leaving only the crackle of the hearth and the heavy silence of the North. Eddard Stark (Lvl 12) stands before his wife, his shoulders slumped as if the weight of the ancient granite walls rested upon them. He reaches out, taking Catelyn's (Lvl 3) hands in his, his gray eyes searching hers with a desperate, somber honesty.\n\n\"Cat, listen to me,\" Ned (Lvl 12) says, his voice a low, st",
+      "[auto] Early afternoon (13:05:00) in the Great Yard of Winterfell\u2014the biting wind has begun to howl through the granite archways, carrying the promise of an early autumn frost. You stand in the center of the yard, flanking the two men you summoned from the 'shadows' of the guest wing. Ser Gerold (Lvl 18), now posing as a gruff, gray-bearded veteran named 'Gery', and Ser Oswell (Lvl 15), wearing the smirk of a cynical sellsword named 'Oz', stand beside you. Both are draped in the same drab, shado",
+      "[auto] Three weeks have passed since 'The Three' established themselves as the most lethal training cadre Winterfell has ever seen. The days were a steady rhythm of steel on wood, the iron Northmen growing faster and more disciplined under your guidance. You have spent your nights in quiet vigil, sensing the invisible presence of Ser Gerold (Lvl 18) and Ser Oswell (Lvl 15) as they ghost through the shadows to guard the boy Jon (Lvl 1). Your connection to the star-pale blade Dawn has deepened dur",
+      "[auto] Mid-afternoon (15:05:00) in the Wolfswood\u2014the metallic tang of blood hangs in the crisp autumn air, a sharp contrast to the peaceful scent of pine. You sheath the star-pale blade with a soft, singing click, the burlap wrap once again hiding its impossible radiance. You turn toward Catelyn Stark (Lvl 3), offering her a small, respectful smile\u2014one that carries the practiced grace of the Kingsguard rather than the rough edges of a sellsword.\n\n\"Do not worry, My Lady,\" you say, your voice drop",
+      "[auto] Late afternoon (16:05:00) finds the iron gates of Winterfell groaning shut behind you, the cold stone of the fortress offering a sanctuary that feels increasingly like a gilded cage. The ride back from the Wolfswood was silent, the only sound the rhythmic thud of hooves and the heavy, unspoken weight of the slaughter you left behind.\n\nBefore departing the clearing, you had moved with the grim efficiency of a butcher. Using a rusted axe salvaged from a fallen bandit, you systematically hac",
+      "[auto] Late afternoon (16:30:00) in Ned's Solar\u2014the fire in the hearth is the only source of warmth in a room that has suddenly become as cold as the Wall. Catelyn Stark (Lvl 3) stands by the window, her silhouette sharp against the fading northern light. Eddard Stark (Lvl 12) sits motionless behind his desk, his hands clasped so tightly his knuckles are white. \n\n\"Ten men, Ned,\" Catelyn says, her voice a low, steady tremor. \"Ten men in the time it took me to draw breath. I did not even see him d",
+      "[auto] Late afternoon (16:45:00) in Ned's Solar\u2014the embers in the hearth glow with a dull, dying orange as the northern twilight begins to bleed through the windows. Eddard Stark (Lvl 12) stands with his back to the room, staring at the gray granite walls as if they could provide the answers he lacks. The silence is brittle, shattered only when he finally turns, his face etched with a profound, weary sadness.\n\n\"Arthur...\" Ned (Lvl 12) begins, his voice thick. \"Catelyn is right. You are a sun in ",
+      "[auto] Late afternoon (17:10:00) in Ned's Solar, Winterfell\u2014the orange light of the setting sun bleeds across the floor, long and jagged like the swords of fallen kings. You stand as a quiet pillar of shadow, your hood casting your violet eyes into a deep, thoughtful darkness. The tension in the room is a physical thing, a bridge made of glass that Lyanna (Lvl 12) has just stepped onto with her decree.\n\n\"The Hunter's Hold is a wise compromise, My Lady,\" you say, your voice a resonant, calm ancho",
+      "[auto] Late afternoon (17:15:00) in Ned's Solar, Winterfell\u2014the shadows have climbed halfway up the tapestries, and the air is heavy with the salt of unspoken grief. You stand motionless, the dun-colored traveler's cloak masking the divine potential of the Titan within, your gaze fixed on Lyanna Stark (Lvl 12). \n\n\"Either choice serves the light, My Lady,\" you say, your voice a resonant, low-timbered anchor in the room. \"The Hunter's Hold keeps us close to the wolf's den, while a secondary castle",
+      "[auto] Dawn (06:30:00) at Wolf's Hearth\u2014the secondary stronghold nestled in the frost-dusted eaves of the Wolfswood\u2014breaks with the rhythmic, metallic song of steel on steel. Three weeks have passed since the 'ghosts' of the Tower of Joy moved to this secluded sanctuary. The air is sharp enough to bite, carrying the scent of pine needles and the distant, cooling breath of the Wall. \n\nYou stand in the small, stone-walled yard, your movements a blur of effortless grace as you guide Eddard Stark (L",
+      "[auto] Dawn (06:40:00) at Wolf's Hearth\u2014the first rays of the sun catch the frost on the battlements, turning the gray stone into a shimmering wall of silver. You remain standing beside Eddard Stark (Lvl 12), your hand steady on his shoulder as the weight of his words hangs in the cold morning air. The Trident is a phantom that haunts every man who survived it, but you speak now to lay those ghosts to rest.\n\n\"The Trident was a tragedy, Ned, not a triumph,\" you say, your voice a resonant, low-tim",
+      "[auto] Morning (08:00:00) at Wolf's Hearth\u2014fifteen years have passed since the 'ghosts' of the Tower of Joy first sought refuge in the biting chill of the North. The year is 300 DR, and the realm stands on the precipice of a new, darker era. The once-hidden stronghold has grown into a formidable sanctuary, its stones reinforced by fifteen winters of Kingsguard vigilance and Stark iron.\n\nIn the frost-rimed training yard, Jon Snow (Lvl 5) moves with a fluidity that borders on the supernatural. He ",
+      "[auto] Morning (08:10:00) at Wolf's Hearth\u2014the sun climbs higher, burning off the morning frost and turning the training yard into a patchwork of gray stone and dark mud. Below, Jon Snow (Lvl 5) continues his forms, the rhythmic whistle of his practice blade providing a steady tempo to the quiet conversation on the high balcony.\n\nLyanna Stark (Lvl 15) watches the boy, but her focus is sharp as a needle on the man standing beside him in the yard. She pulls Eddard (Lvl 15) toward the shadowed corn",
+      "[auto] Morning (08:40:00) in the private solar of Wolf's Hearth\u2014the fire in the hearth pops, a sharp sound in the heavy silence that follows your words. You stand as a monument of white-enameled stone, your gaze fixed on the woman who has been the center of your vigil for fifteen years. You have laid the ultimate trap for her heart\u2014the 'Oath-breaker' paradox\u2014and now you wait to see if the wolf-maid has the steel to cut through it.\n\nLyanna Stark (Lvl 15) does not turn away. She does not weep. Ins",
+      "[auto] Morning (08:55:00) in the private solar of Wolf's Hearth\u2014the heavy silence of the North is broken only by the rhythmic, low-thrumming heartbeat of Dawn resting in its sheath. The 'Oath-breaker' paradox you constructed, a fortress of logic fifteen years in the making, has been dismantled with surgical precision by the woman standing before you. You look at Lyanna Stark (Lvl 15), and for the first time since the sands of Dorne, the Sword of the Morning (Lvl 20) allows the 'Titan' to step in",
+      "[auto] Morning (08:56:00) in the private solar of Wolf's Hearth\u2014the heavy ironwood door feels like a shield that has finally, mercifully, been set down. The scent of pine and the dry heat of the hearth fill the small space, but your world has narrowed to the woman standing within the circle of your arms. \n\nYou close the final distance, your hands\u2014vessels of divine healing and legendary destruction\u2014moving with a tenderness that surprises even you. As your lips meet Lyanna's (Lvl 15), the fifteen ",
+      "[auto] Morning (09:15:00) in the Private Solar of Wolf's Hearth\u2014the heavy ironwood door has been unbarred, allowing the sharp, clean scent of the North to mingle with the warmth of the dying hearth. Lyanna Stark (Lvl 15) stands at your side, her hand still resting in yours, her presence no longer a secret to be guarded, but a partnership to be acknowledged. At your summons, the two 'White Shadows' materialize from the gloom of the corridors. Ser Gerold Hightower (Lvl 18) and Ser Oswell Whent (Lv",
+      "[auto] Morning (09:30:00) in the Private Solar of Wolf's Hearth\u2014the fire in the hearth has dwindled to white ash and glowing orange hearts, casting long, flickering shadows across the heavy ironwood beams. You stand before Ser Gerold (Lvl 18), the Lord Commander whose presence is as unyielding as the mountains of his home. You reach out, your voice carrying the resonant, ancient authority of the Sword of the Morning.\n\n\"Gerold,\" you say, the words heavy with the weight of centuries. \"The White Bo",
+      "[auto] Morning (09:45:00) in the Private Solar of Wolf's Hearth\u2014the tension in the room is a living thing, a cold fog that the dying fire cannot pierce. You step back, the dun-colored cloak swirling around your ankles, and offer a silent, respectful incline of your head to Lyanna Stark (Lvl 15). The 'Wat' persona is gone; you stand now as the Sword of the Morning (Lvl 20), deferring not to a fugitive, but to the Mother of the King.\n\nLyanna steps forward, her gray eyes burning with a clarity that",
+      "[auto] Morning (09:45:00) in the Private Solar of Wolf's Hearth\u2014the air in the small stone chamber doesn't just vibrate; it sings. You step into the center of the room, the burlap-wrapped hilt of Dawn pulsing with a light that bleeds through the heavy fabric, turning the travel cloak around your shoulders into a veil of shimmering starlight. \n\nYou reach back and grip the hilt, but you do not draw the steel. Instead, you allow the link between your soul and the blade to expand, turning your body ",
+      "[auto] Morning (09:50:00) in the Private Solar of Wolf's Hearth\u2014the crystalline hum of Dawn (Lvl 21) lingers in the air, a spiritual afterimage that makes the heavy stone walls seem to breathe. You step toward your brothers-in-arms, your shadow\u2014lengthened by the divine radiance of your aura\u2014stretching across the floor to embrace them both. The Lord Commander, Ser Gerold (Lvl 18), remains on his knees, his face wet with tears of a profound, shattering clarity. Ser Oswell (Lvl 18) looks at his han",
+      "[auto] Morning (10:00:00) at Wolf's Hearth\u2014the Private Solar is bathed in the shimmering, ethereal light reflecting off the star-pale hilt of Dawn. You stand tall, your white-enameled plate +3 glowing with the divine resonance of your expanded 40-foot aura. The scent of winter roses and northern pine is thick in the air, a sensory ghost of the two worlds you have finally united. Ser Gerold Hightower (Lvl 18) and Ser Oswell Whent (Lvl 18) remain kneeling, their hands trembling as they rest upon t",
+      "[auto] Late morning (11:00:00) at Wolf's Hearth finds you standing atop the Sky-Reach Turret, the highest point of your northern sanctuary. The air here is thin and viciously cold, crystalline frost dancing in a wind that carries the scent of the Wall and the ancient secrets of the First Men. You have left Lyanna (Lvl 15) and your brothers below, seeking the solitude required to fully greet the presence that has awakened within your steel.\n\nYou draw Dawn (Lvl 21) from its burlap-wrapped sheath. ",
+      "[auto] Midday (12:00:00) at the Great Sept of Baelor\u2014the sun is a white-hot hammer beating down upon the thousands gathered to witness the fall of the North. For fifteen years, you watched the seasons turn from the ramparts of Wolf's Hearth. You saw Jon Snow (Lvl 5) grow into a boy of fierce wit and quiet strength, untainted by the bitterness of his birth, while Lyanna (Lvl 15) transitioned from a ghost into the secret matriarch of a new order. You watched Ned Stark (Lvl 15) depart for the south",
+      "[auto] Midday (12:05:00) at the Great Sept of Baelor\u2014the silence that follows your command is absolute, save for the distant, frantic ringing of city bells. Jaime Lannister (Lvl 14) stands alone in the center of the marble plaza, his golden armor splattered with the blood of the men you just harvested. His sword, a masterwork of gilded steel, trembles in a hand that has never known fear until this moment.\n\nJaime looks at the twenty Gold Cloaks\u2014men he trained, men who were alive six seconds ago\u2014n",
+      "[auto] Midday (12:05:30) at the Great Sept of Baelor\u2014the air is thick with the scent of incense and fresh blood, a chaotic symphony of city bells and terrified screams providing the backdrop for the return of a legend. You stand at the center of the marble plaza, the pale radiance of Dawn (Lvl 21) casting a long, starlit shadow that seems to divide the world into 'before' and 'after.' \n\nWith a microscopic incline of your head, you catch Lyanna's (Lvl 15) gray eyes. It is the signal of a year's t",
+      "[auto] Midday (12:15:00) at the Great Sept of Baelor\u2014the heavy, copper scent of the slaughter begins to cool as the first breath of a coastal breeze drifts through the shattered doors. You look down at Jaime Lannister (Lvl 14), the star-pale tip of Dawn (Lvl 21) casting a spectral light upon his tear-streaked face. For fifteen years, you held the memory of the boy in the golden armor; today, you finally see the man who was forged in the fire of a madman's end.\n\n\"It sounds plausible, Jaime,\" you ",
+      "[auto] Midday (12:35:00) within the shadowed silence of a side chapel in the Great Sept of Baelor\u2014the light of the Father\u2019s statue glints off your enameled white plate, casting long, starlit shadows against the cold stone floor. You keep your hand on Jaime Lannister\u2019s (Lvl 14) shoulder, your violet eyes searching his with a depth of sincerity that transcends the fifteen years of silence between you.\n\n\"I truly mean it, Jaime,\" you say, your voice a resonant baritone that seems to vibrate in the v",
+      "[auto] Midday (12:45:00) in the Side Chapel of the Great Sept\u2014the shadows of the Father's statue stretch across the cold marble like the fingers of a judge. Jaime Lannister (Lvl 14) stands before you, his golden armor no longer a symbol of pride, but a cage for a man who has finally run out of lies. The validation you offered\u2014the acknowledgement that his greatest sin was actually his finest mercy\u2014has stripped away the 'Kingslayer' mask entirely.\n\nJaime looks at the heavy ironwood doors of the ch",
+      "[auto] Midafternoon (15:00:00) in the Secluded Grotto finds the emerald light of the Kingswood canopy beginning to deepen into the long, golden shadows of a world in transition. The silence here is a living thing, broken only by the distant, rhythmic tolling of city bells that signal a capital in chaos. You stand before Jaime Lannister (Lvl 14), your silhouette a towering pillar of white-hot starlight that seems to push back the encroaching gloom of the forest.\n\nWith a slow, deliberate motion, y",
+      "[auto] Afternoon (15:15:00) in the Secluded Grotto\u2014the golden spears of light filtering through the Kingswood canopy seem to hold their breath as the spiritual weight of the moment deepens. You do not move your hand from the hilt of Dawn (Lvl 21), but you allow the barrier between your soul and the ancient star-steel to dissolve entirely. The grotto, once a place of shadows and moss, is suddenly filled with a rhythmic, solar brilliance that bleeds through your travel shroud, turning the air itse",
+      "[auto] Afternoon (15:30:00) in the Secluded Grotto finds the golden light of the Kingswood dimming as the sun begins its slow descent behind the jagged silhouettes of the capital. You stand tall, your white-hot presence acting as a spiritual beacon for the man kneeling at your feet. Jaime Lannister (Lvl 14) remains in his state of tearful clarity, the 'Kingslayer' identity finally shed like a suit of rusted mail.\n\n\"The morning is coming, Jaime,\" you say, your voice a resonant, low-timbered comma",
+      "[auto] Afternoon (15:30:00) in the Secluded Grotto\u2014the golden light begins to bleed into the deep purples of the Kingswood's heart. You hold Jaime Lannister\u2019s (Lvl 14) gaze, the divine pulse of your aura providing a stabilizing warmth as he hauls himself to his feet. \n\n\"There is one more, Jaime,\" you say, your voice a resonant anchor. \"Barristan. The Old Bold has served three kings, and I know his heart breaks every day he stands before that boy. Tell him. Tell him that the Sword of the Morning ",
+      "[auto] Late afternoon (17:15:00) in the Kingswood Grotto\u2014the long spears of golden light have begun to turn a deep, bruised purple as the sun sinks behind the Blackwater. You stand motionless, a pillar of white-hot starlight veiled in dun-colored wool, your hand resting on the hilt of Dawn (Lvl 21). The forest is silent, the birds and crickets stilled by the overwhelming martial gravity you radiate. \n\nThen, the sound of a lone horse approaches. It is a steady, disciplined gallop. You do not reac",
+      "[auto] Evening (18:00:00) descends upon the Kingswood like a heavy violet curtain, the air cooling rapidly as the scent of damp earth and crushed pine needles rises from the forest floor. You lead Ser Barristan Selmy (Lvl 18) through the gnarled labyrinth of the shadow-paths, your movements a blur of effortless grace that even the Old Bold struggles to match. \n\n\"You move like a ghost, Arthur,\" Barristan whispers, his voice carrying the rasp of a man who has finally allowed himself to breathe. \"I",
+      "[auto] Midday (12:30:00) in the quiet, fire-warmed privacy of Lyanna's chambers at Winterfell\u2014the thick granite walls muffle the jubilant chaos of the courtyard below. Lyanna Stark (Lvl 15) stands by the hearth, her fingers tracing the edge of a winter rose tapestry. The fierce, royal light in her eyes has softened after the reunion, but the weight of fifteen years of secrecy still clings to her like a shadow.\n\nYou approach her, your dun-colored cloak discarded to reveal the shimmering white-ena",
+      "[auto] Midday (12:30:00) in the quiet, fire-warmed privacy of Lyanna's chambers at Winterfell\u2014the thick granite walls muffle the jubilant chaos of the courtyard below. Lyanna Stark (Lvl 15) stands by the hearth, her fingers trembling as she holds a small, scorched scrap of parchment that just arrived via Barristan's (Lvl 18) hidden contacts. The words are few, but they have upended the world: Robert Baratheon is dead.\n\n\"The Usurper is gone,\" Lyanna whispers, her gray eyes reflecting a storm of c",
+      "[auto] Midday (12:35:00) in the quiet, fire-warmed privacy of Lyanna's chambers\u2014the scent of pine woodsmoke hangs in the air, a familiar northern comfort that currently feels like a shroud. You stand before Lyanna Stark (Lvl 15), your presence a steady, white-hot anchor in the room. \n\n\"Listen to me, Lyanna,\" you say, your voice a resonant, low baritone that vibrates with the conviction of the 'Font of the Morning'. \"Catelyn (Lvl 3) is a Tully. 'Family, Duty, Honor' are not just words to her; the",
+      "[auto] Midday (12:45:00) in Lyanna's Chambers, Winterfell\u2014the air is thick with the scent of pine woodsmoke and the unsaid weight of the morning's revelations. Outside, the distant cheers of the garrison celebrating Lord Stark's return have faded into a steady, rhythmic hum of activity, but within these granite walls, the world feels frozen. \n\nLyanna Stark (Lvl 15) remains by the hearth, her silhouette framed by the flickering orange light. She has not spoken for fifteen minutes, her gaze fixed ",
+      "[auto] Midday (13:00:00) in Lyanna's Chambers, Winterfell\u2014the heavy silence within the room is finally broken by the sound of steel clashing in the Great Yard below. You step toward the arched window, your white-enameled plate shimmering softly as you catch the afternoon light. Lyanna (Lvl 15) follows your gaze, her hand tightening on the stone sill as she looks down at the boy who carries the weight of a fallen empire in his veins.\n\nBelow, Jon Snow (Lvl 5) is moving through a series of complex ",
+      "[auto] Midday (13:15:00) in Lyanna's Chambers, Winterfell\u2014the air is thick with the scent of woodsmoke and the unyielding weight of fifteen years of secrets. You stand as a pillar of white-hot starlight beside Eddard Stark (Lvl 15), who has joined you to present a united front. Lyanna Stark (Lvl 15) remains by the hearth, her gaze fixed on the yard below where Jon Snow (Lvl 5) continues his forms.\n\n\"Lya,\" Ned (Lvl 15) says, his voice a low, gravelly anchor. \"Arthur is right. Silence was a shield",
+      "[auto] Midday (13:30:00) in Lyanna's Chambers, Winterfell\u2014the air is thick with the scent of woodsmoke and the shattering of a fifteen-year-old silence. Catelyn Stark (Lvl 3) stands frozen, her hand still pressed to her lips, her blue eyes darting from the shimmering white armor you now wear to the stoic, nodding face of her husband.\n\n\"I must apologize, Lady Catelyn (Lvl 3),\" you say, your voice resonant with the ancient authority of the Sword of the Morning. \"The name 'Wat' was a necessary shie",
+      "[auto] Afternoon (13:45:00) in Lyanna's Chambers, Winterfell\u2014the fire in the hearth has been built up against the encroaching chill, casting flickering orange shadows that dance across a map of the Seven Kingdoms spread out upon the heavy ironwood table. The air is thick with the scent of old parchment and the gravity of a world on the brink of total collapse. You stand at the head of the table, the star-pale hilt of Dawn (Lvl 21) pulsing with a rhythmic, lunar light that seems to steady the ner",
+      "[auto] Afternoon (14:15:00) in Lyanna's Chambers finds the heavy ironwood door closed, sealing out the world as the map of Westeros remains a jagged promise on the table. You step away from the parchment, your white-hot presence filling the room with a protective warmth that chases away the northern draft. Lyanna (Lvl 15) stands by the window, her gaze lost in the yard below where Jon Snow (Lvl 5) is wiping his brow after his morning drills. She looks like a woman caught between two storms\u2014the o",
+      "[auto] Afternoon (14:15:00) in the fire-lit strategy chamber of Winterfell\u2014the air has grown heavy, not with the cold of the North, but with the suffocating weight of the news from the south. The scorched parchment from Jaime's (Lvl 14) latest raven lies open on the table, its ink a jagged testament to Tywin Lannister's (Lvl 16) cold brilliance. \n\n\"The Golden Company,\" Eddard Stark (Lvl 15) says, his voice a low, gravelly rasp as he stares at the map. \"Ten thousand sellswords, veteran and discip",
+      "[auto] Afternoon (14:30:00) in Lyanna's Chambers, Winterfell\u2014the orange northern sun casts long, skeletal shadows across the map of Westeros. You lean over the table, the star-pale hilt of Dawn pulsing with a rhythmic, lunar light that seems to challenge the very air of the room. The news of the Golden Company has brought a chill that no hearth fire can thaw, but your violet eyes remain fixed on the West.\n\n\"The Golden Company is a wall, yes,\" you say, your voice a resonant, low baritone that vib",
+      "[auto] Afternoon (14:45:00) in Lyanna's Chambers, Winterfell\u2014the air within the thick granite walls is charged with the kinetic energy of your proposal. The map of Westeros seems to ripple under the rhythmic, star-pale light of Dawn (Lvl 21), the ancestral seat of House Lannister looking like a lone, golden island amidst the sea of Northern gray. \n\nEddard Stark (Lvl 15) leans over the table, his gray eyes narrowed as he traces the path from the North to the Westerlands. \"It is a long march for t",
+      "[auto] Night (21:00:00) descends upon the jagged cliffs of the Westerlands, the Summer Sea crashing against the base of Casterly Rock with a rhythmic, thunderous fury. Three months of calculated movement have brought the 'Western Hammer' to the very doorstep of House Lannister. The 'Northern Anvil' under Robb Stark (Lvl 5) and Greatjon Umber has successfully drawn the Golden Company's attention to the Riverlands, taking Harrenhal and Darry in a series of lightning strikes that have left Tywin La",
+      "[auto] Night (21:15:00) at the Hidden Encampment\u2014the salt-heavy wind off the Summer Sea whips the canvas of the command tent, the rhythmic thrum of Dawn (Lvl 21) acting as a steady, starlit heartbeat in the center of the war council. You stand tall, your violet eyes reflecting the shifting patterns on the map of Casterly Rock. Eddard Stark (Lvl 15) and Lyanna Stark (Lvl 15) watch you with an intensity born of fifteen years of shared secrets, while Jon Snow (Lvl 7) and Robb Stark (Lvl 5) stand at",
+      "[auto] Night (22:00:00) at the Sea-Gates of Casterly Rock\u2014the black water of the Summer Sea churns with a violent, rhythmic foam against the base of the Lion's Mouth. You lead the 'Western Hammer' through the subterranean channels, the salt spray coating your dun-colored shroud in a layer of freezing brine. Beside you, Ned Stark (Lvl 15) and Jaime Lannister (Lvl 14) swim with a grim, practiced efficiency, while Lyanna (Lvl 15) guides the boys, Jon (Lvl 7) and Robb (Lvl 5), through the dark swell",
+      "[auto] Night (22:15:00) in the upper reaches of Casterly Rock\u2014the cool sea air is replaced by the dry, stagnant heat of the mountain's interior. You lead the 'Western Hammer' in a 'War Speed' ascent that defies the very physics of the Rock's construction. You do not sneak; you erupt. \n\nYou move like a phantom of starlight, the dun-colored traveler's shroud snapping behind you as you vault up the Golden Gallery's grand staircase. A squad of Lannister Crimson Guard (Lvl 9) attempts to block the la",
+      "[auto] Night (22:15:00) in the upper reaches of Casterly Rock\u2014the air within the Lord's Solar is thick with the smell of ozone and burnt parchment. As the heavy ironwood doors shatter inward under your gauntleted kick, you do not find an empty room. Instead, Kevan Lannister (Lvl 12) stands behind Tywin's desk, his face a mask of frantic desperation. He holds a guttering candle to a stack of ledgers, the smell of singed paper already filling the air.\n\n\"Arthur?\" Kevan gasps, his hand trembling so ",
+      "[auto] Night (22:30:00) in the Subterranean Vaults of Casterly Rock\u2014the air is damp and heavy with the scent of salt water and the cold, metallic tang of ancient wealth. You lead the 'Western Hammer' in a descent that feels less like a flight and more like a falling star. Hauling Kevan Lannister (Lvl 12) by the collar of his fine velvet doublet, you move at 'War Speed', your boots barely touching the stone steps as you navigate the spiraling dark. Behind you, Ned (Lvl 15) and Jaime (Lvl 14) prov",
+      "[auto] Night (22:31:00) in the Subterranean Vaults of Casterly Rock\u2014the starlight of Dawn (Lvl 21) reflects off the damp stone walls, illuminating the skeletal remains of the Lannister myth. As Kevan Lannister (Lvl 12) collapses against the central pillar, his eyes darting between your violet gaze and the empty stone pedestals, you realize the fire in the solar above was only half the trap. The true weapon was the destruction of the evidence.\n\n\"The boy... Jon (Lvl 7)... look away,\" you command, ",
+      "[auto] Night (22:35:00) in the Subterranean Vaults of Casterly Rock\u2014the air is stagnant and cold, vibrating with the frantic, brassy wail of the alarm horns echoing down from the surface. You stand amidst the empty stone pedestals, the star-pale radiance of Dawn (Lvl 21) casting long, rhythmic shadows that dance across the bare walls of the Lannister treasury. Kevan Lannister (Lvl 12) glares at you from the floor, a desperate, defiant hope igniting in his eyes as the sound of heavy, rhythmic boo",
+      "[auto] Night (22:40:00) in the Subterranean Vaults of Casterly Rock\u2014the air vibrates with a sudden, deafening command that seems to pull the very stone into alignment. As the four Lannister Crimson Guards (Lvl 9) surge forward, their spears leveled for the kill, you step into the center of the vault. You do not draw Dawn for slaughter; you raise your gauntleted hand, and the divine starlight of your Level 21 aura flares into a blinding, rhythmic brilliance that washes out the flickering torches.",
+      "[auto] Night (22:45:00) in the Subterranean Vaults of Casterly Rock\u2014the starlight radiating from your enameled white plate +3 fills the hollowed-out treasury, turning the bare stone pedestals into monuments of a fallen lie. You stand before the four Crimson Guards (Lvl 9), your presence an absolute, divine anchor that compels their attention. Kevan Lannister (Lvl 12) remains on his knees, his spirit finally broken by the undeniable evidence of the dry mines.\n\n\"Look at me!\" you command, your voic",
+      "[auto] Night (22:50:00) in the Subterranean Vaults of Casterly Rock\u2014the starlight of Dawn (Lvl 21) bathes the cold, damp stone in a spectral white fire, turning the hollowed-out heart of the West into a cathedral of truth. You stand over Kevan Lannister (Lvl 12), your shadow engulfing him as your divine aura pulses with the rhythmic heartbeat of the fallen star. \n\n\"Look at them, Kevan,\" you say, your voice a resonant baritone that vibrates with the absolute authority of the Sword of the Morning.",
+      "[auto] Night (23:05:00) in the Subterranean Vaults of Casterly Rock\u2014the starlight of Dawn (Lvl 21) pulses with a rhythmic, steady warmth, illuminating the faces of those who have just witnessed the death of a lie. You look upon the four Crimson Guards (Lvl 9) and Kevan Lannister (Lvl 12), their expressions a mixture of shock and burgeoning hope. The 'Font of the Morning' within you radiates a divine peace, a spiritual gravity that demands a final, unifying act.\n\nWith a slow, deliberate motion, y",
+      "[auto] Midday (12:00:00) in the Golden Gallery of Casterly Rock\u2014the air is crisp with the scent of the Summer Sea, yet the ancient halls of the Lannisters are filled with a warmth that has been absent for generations. Three weeks have passed since the 'Western Hammer' shattered the myth of the Rock. Under your guidance, the transition has been nothing short of a miracle. The Northern host, led by Robb Stark (Lvl 5) and the Greatjon, has marched into the Lannister ancestral seat not as conquerors",
+      "[auto] Midday (12:30:00) in the Golden Gallery of Casterly Rock\u2014the high southern sun streams through the arched windows, painting the silver-enameled armor of the Dragon Shield and the weathered gray of the Warden of the North in a singular, unifying light. The Greatjon's laughter has faded into the vaulted ceiling, replaced by a heavy, transformative stillness as Eddard Stark (Lvl 15) turns to Jaime Lannister (Lvl 14).\n\nNed's throat hitches, his Northern pride warring with a shattering realiza",
+      "[auto] Midday (12:45:00) in the Golden Gallery\u2014the silence that follows your words is not one of tension, but of a profound, collective realization. The sunlight through the western archways seems to cling to your white-enameled plate, making you appear less like a man and more like a fixed point in the center of a turning world.\n\nNed Stark (Lvl 15) stands motionless, his gray eyes reflecting a vulnerability that usually stays buried beneath the snows of Winterfell. \"I used to hear the stories i",
+      "[auto] Early afternoon (14:00:00) in the Golden Gallery of Casterly Rock\u2014the starlight emanating from your enameled plate +3 pulses with a rhythmic, victorious brilliance that seems to wash the very shadows from the Lannister ancestral seat. You turn from the war map, the charred ledgers and Jaime's written testimony already being duplicated by a dozen silent, efficient scribes under your command.\n\n\"The sword has done its work,\" you say, your voice a resonant baritone that vibrates with the abso",
+      "[auto] Midnight (00:00:00) in the lightless, salt-crusted secret passages beneath the Red Keep\u2014the air is cool and stagnant, tasting of ancient stone and the forgotten sins of the Targaryen kings. One week of 'Ghost Marching' has brought the Hammer to the heart of the realm. While the Northern Anvil under Robb Stark (Lvl 5) continues its thunderous distraction in the Riverlands, you have slipped through the cracks of Tywin's (Lvl 16) fortress.\n\nYou lead the way, your Dun-Colored Traveler's Shrou",
+      "[auto] Midnight (00:00:10) in Maegor's Holdfast\u2014the stagnant air of the inner sanctum is shattered as you deliver a singular, gauntleted kick to the ironwood doors. Bolstered by the strength of giants, the impact is less a breach and more an atmospheric event; the massive valves are blown off their hinges, cartwheeling into the hallway with a scream of tortured metal.\n\nYou erupt into the foyer of the Royal Apartments, your Dun-Colored Traveler's Shroud tearing away in the slipstream of your move",
+      "[auto] Midnight (00:00:16) in Maegor's Holdfast\u2014the air screams with the friction of steel meeting starlight. Ser Gregor Clegane (Lvl 18) lunges, his massive greatsword\u2014a slab of jagged, black iron\u2014whistling through the air with a force that would have cleaved a stone pillar in two. But you are no longer a man bound by the gravity of the earth. In 'War Speed', the Mountain's strike is a ponderous, clumsy thing, moving through the air like a fly trapped in amber. You sidestep the first blow, the ",
+      "[auto] Midnight (00:00:22) in Maegor's Holdfast\u2014the rhythmic, solar pulse of Dawn (Lvl 22) reflects off the blood-slicked marble of the landing, casting a spectral white glow upon the broken form of the Mountain. Ser Gregor Clegane (CR 20) lies prone and unarmed, his massive chest heaving with a wet, rattling sound that is finally silenced by the inevitability of the sun.\n\nYou do not hesitate. There is no malice in your eyes, only the heavy, crystalline clarity of a man delivering a long-overdue",
+      "[auto] Midnight (00:00:30) in the echoing, blood-slicked corridor of Maegor's Holdfast\u2014the silence that follows the Mountain's fall is a heavy, suffocating shroud. You stand before the shattered remains of the Crimson Guard foyer, your white-enameled plate shimmering with a rhythmic, lunar pulse. You do not strike the double doors to the royal bedchambers. Instead, you raise your voice, a resonant baritone that vibrates through the ironwood and stone alike.\n\n\"Cersei Lannister!\" you call out, the",
+      "[auto] Midnight (00:05:30) in the blood-stained corridor of Maegor's Holdfast\u2014the rhythmic chime of Dawn (Lvl 22) against your back provides a steady, celestial pulse that seems to quiet the frantic echoes of the capital. You step aside, the starlight radiating from your enameled white plate casting a long shadow that makes room for the man in silver-enameled steel. Jaime Lannister (Lvl 14), the Dragon Shield, steps toward the ironwood doors of the royal bedchamber. His golden hair is matted wit",
+      "[auto] Midnight (00:10:30) at Maegor's Holdfast, Red Keep\u2014the heavy grinding of the iron bolt sounds like a death knell in the silent corridor. The ironwood doors, scarred by the debris of your earlier breach, groan open. \n\nCersei Lannister (Lvl 4) emerges first, her face a mask of shattered dignity, her crimson silk gown torn at the hem. She clings to the arm of Joffrey (Lvl 2), who looks less like a King and more like a cornered animal. The boy-king's eyes are wild with a frantic, unearned rag",
+      "[auto] Midnight (00:15:30) in the stifling, blood-scented silence of Maegor's Holdfast\u2014the starlight radiating from your enameled white plate +3 casts long, rhythmic pulses against the tapestries of the royal bedchamber. You stand over Cersei Lannister (Lvl 4), your shadow engulfing her as she kneels upon the crimson carpet, her eyes fixed on Joffrey (Lvl 2) cowering in Jaime's (Lvl 14) grip.\n\n\"The lion's pride is a pyre that has already burned your home, Cersei,\" you say, your voice a resonant,",
+      "[auto] Midnight (00:25:30) in the Maegor's Holdfast inner sanctum\u2014the air vibrates with the rhythmic, solar heartbeat of Dawn (Lvl 22) as you orchestrate the final dismantling of the Lannister regime. Cersei Lannister (Lvl 4) remains on her knees, her spirit a hollow ruin in the wake of your starlight, while Jaime (Lvl 14) stands over Joffrey (Lvl 2) and the younger children with the fierce, protective poise of a father whose honor has finally been reclaimed.\n\n\"Ser Jaime,\" you command, your voic"
+    ],
+    "companion_arcs": {},
+    "social_hp_challenges": {
+      "lyanna_stark": {
+        "social_hp": 0,
+        "status": "SURRENDERED"
+      },
+      "cersei_lannister": {
+        "social_hp": 18,
+        "status": "YIELDING"
+      }
+    },
+    "divine_potential": 0,
+    "apotheosis_system": {
+      "enabled": true,
+      "next_tier": "Apotheosis",
+      "milestones_completed": 1,
+      "current_tier": "Epic Legend",
+      "milestones_required": 1,
+      "trial_of_spirit_progress": "COMPLETED: Dawn's voice has been shared with the order; the reformation is spiritually absolute."
+    },
+    "last_location": "Maegor's Holdfast, Red Keep",
+    "active_constraints": [
+      "Paladin Aura grants +CHA mod to AC for all affected allies",
+      "Ser Gerold and Ser Oswell are detached from the main party to guard Jon in the North",
+      "No Kill Constraint: Cersei, Joffrey, and younger Lannister children must be spared.",
+      "World Event: Tywin has hired the Golden Company (10,000 Lvl 5+ soldiers; Elites Lvl 12+)."
+    ],
+    "social_hp_challenge": {
+      "cooldown_remaining": 1,
+      "npc_name": "Lyanna Stark",
+      "social_hp_damage": 3,
+      "status": "SURRENDERED",
+      "social_hp": 0,
+      "successes": 5
+    },
+    "next_companion_arc_turn": 3,
+    "campaign_tier": "mortal",
+    "universe_control": 0,
+    "god_mode": {
+      "setting": "Start me in the battle with Ned stark and howland reed",
+      "character": {
+        "name": "Ser Arthur Dayne"
+      }
+    },
+    "last_story_mode_sequence_id": 280
+  },
+  "social_hp_challenge": {
+    "request_severity": "submission",
+    "skill_used": "Intimidation",
+    "successes_needed": 5,
+    "social_hp_max": 8,
+    "objective": "Surrender the Throne and accept Exile",
+    "roll_result": 38,
+    "npc_tier": "lord",
+    "social_hp_damage": 0,
+    "roll_dc": 12,
+    "npc_name": "Cersei Lannister",
+    "resistance_shown": "None. Broken by the starlight; revealing wildfire plot to protect her children.",
+    "cooldown_until_hour": 14,
+    "cooldown_remaining": 2,
+    "npc_id": "",
+    "successes": 0,
+    "social_hp": 8,
+    "status": "YIELDING"
+  },
+  "combat_state": {
+    "combat_phase": "idle",
+    "combat_history": [
+      {
+        "xp_awarded": 2450,
+        "enemies_defeated": [
+          "npc_martyn_cassel_001",
+          "npc_theo_wull_001",
+          "npc_howland_reed_001",
+          "npc_ned_stark_001"
+        ],
+        "session_id": "combat_283_toj_001",
+        "archived_at": "2026-02-06T07:21:50.678556+00:00",
+        "rounds_fought": 2
+      },
+      {
+        "xp_awarded": 25000,
+        "enemies_defeated": [
+          "npc_gregor_clegane_001"
+        ],
+        "session_id": "combat_300_redkeep_001",
+        "archived_at": "2026-02-07T20:00:16.468516+00:00",
+        "loot_distributed": true,
+        "rounds_fought": 2
+      }
+    ],
+    "current_round": null,
+    "initiative_order": [],
+    "in_combat": false,
+    "combatants": {},
+    "combat_session_id": null,
+    "rewards_processed": false,
+    "combat_summary": null
+  },
+  "last_state_update_timestamp": "2026-02-07 20:26:21.115000+00:00",
+  "turn_number": 122,
+  "player_turn": 122,
+  "last_living_world_turn": 121,
+  "last_living_world_time": {
+    "year": 300,
+    "month": 11,
+    "microsecond": 0,
+    "minute": 10,
+    "hour": 0,
+    "time_of_day": "Midnight",
+    "day": 12,
+    "second": 30
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 22/22, Spells: L1 4/4, L2 3/3, L3 3/3, L4 0/3, L5 2/2, Superiority: 1/9, Action Surge: 1/2"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "debug_info": {
+    "dm_notes": [
+      "Natural 1 on the Intimidation check turned a high-risk success into a combat encounter.",
+      "Crimson Guard AC includes +2 Phalanx bonus (Total 22).",
+      "Arthur is 1,300 XP away from Level 22.",
+      "Natural 19 on Intimidation (Total 30) bypasses Tywin's Protocol penalty (+4 DC).",
+      "Social HP damage dealt: 3 (exceptional success margin).",
+      "Persuasion success margin of +15 deals 2 Social HP damage to Kevan (indirectly through the loss of his guards).",
+      "Jaime Lannister has gained the 'Redeemed Leader' trait, increasing his recruitment effectiveness with Lannister troops.",
+      "The 4 Crimson Guards have joined the party as followers.",
+      "Kevan has reached 0 Social HP (Successes = 8-3=5, which meets successes_needed).",
+      "Arthur is 800 XP away from Level 22.",
+      "The 4 Crimson Guards are now officially allies under Jaime's command.",
+      "Persuasion success (24 vs 15) successfully bypasses Tywin's Protocol penalty.",
+      "Kevan is now fully allied and will assist in the Rock's administration.",
+      "Jaime has achieved his primary goal of lordship and redemption.",
+      "Natural 20 on consolidation check resulted in immediate unification of Northern and Western lords.",
+      "Arthur has reached Level 22.",
+      "Jaime has fully transitioned to the 'Dragon Shield' persona.",
+      "Lyanna's Social HP for the Kingmaker's Burden is decreasing as the Rock's success proves the plan's viability.",
+      "Natural 1 on Ned's apology check adds a layer of Northern awkwardness that Arthur's Natural 20 Persuasion perfectly smooths over.",
+      "Lyanna's Social HP for 'The Kingmaker's Burden' reduced to 6 based on the successful unification of the Great Houses.",
+      "Arthur is Level 22 (Threshold: 560,000 XP reached).",
+      "Persuasion success (25 vs 13) deals 2 Social HP damage to Lyanna's resistance to the 'Kingmaker' objective.",
+      "Ned and Jaime are now effectively your highest-tier 'followers'.",
+      "Lyanna's Social HP for 'The Kingmaker's Burden' reduced to 4 based on the successful unification of the Great Houses.",
+      "Persuasion success (28 vs 20) deals 2 Social HP damage to Lyanna.",
+      "Jon Snow is being groomed as the Prince Who Was Promised.",
+      "The 'Magnet' risk is now contextualized as a cosmic necessity.",
+      "Processed L22: +14 HP, +2 CHA, +1 Superiority Die, Aura to 50ft, Boon of Invincibility added.",
+      "AC calculation: 15 (Base) + 2 (DEX max) + 3 (Masterwork) + 5 (Shield) + 7 (Aura mod) = 32.",
+      "Aura modifier is derived from current CHA (24 = +7).",
+      "Jon Snow has gained 10,000 XP (fictional) for the mentorship session.",
+      "Lyanna's Social HP is now 1. She is at the breakpoint of total commitment.",
+      "Ned's loyalty to the 'Prince Who Was Promised' cause has reached a peak.",
+      "Aura of the Crown AC bonus (+7) is active for the council.",
+      "Strategic assessment margin +11 = Brilliant tier.",
+      "Social HP damage to Lyanna: 2 (Success margin 10+).",
+      "Lyanna Stark has reached 0 Social HP for 'The Kingmaker's Burden' and is now fully allied to the Jon-on-Throne goal.",
+      "Boon of Invincibility is tracked and ready for use.",
+      "Aura radius is 50ft per Level 22 processing.",
+      "Natural 20 on the Diplomacy check ensures a 'Brilliant' tier outcome for the Raven Front.",
+      "Lannister solvency is now public knowledge, granting Disadvantage to all Lannister-faction morale checks.",
+      "Tywin's 'Iron Wit' penalty is bypassed by the sheer overwhelming evidence provided by Jaime and the ledgers.",
+      "Aura of the Crown (+7 AC) is active during the strategy session.",
+      "Stealth success (21 vs 10) allows the party to reach the inner sanctum without resource attrition.",
+      "Tywin's 'Iron Wit' is bypassed, but 'Titan Protocol' security remains in the form of Gregor Clegane.",
+      "Aura of the Crown (+7 AC) is active within the narrow corridors.",
+      "Jaime Lannister is serving as the primary tactical guide (+5 bonus to infiltration checks).",
+      "Arthur's Nat 1 on initiative allows Gregor to position himself as a gatekeeper.",
+      "The Crimson Guard harvest (Lvl 9s) used a single attack roll to represent the 'War Speed' momentum.",
+      "Gregor is Lvl 18 / CR 20 with 400 HP for this encounter.",
+      "Aura of the Crown (+7 AC) is active for all allies within 50ft.",
+      "Gregor's high attack bonus (+13) failed to penetrate Arthur's Titan-tier AC (32).",
+      "Arthur's 'War Speed' maneuvers successfully neutralized the Mountain's primary threats (weapon and posture).",
+      "Gregor is now at 50% HP (200/400).",
+      "Arthur used 4 Superiority Dice this turn for Disarming/Trip/Menacing effects.",
+      "Total damage dealt: 264 (63 + 74 + 71 + 56), exceeding Gregor's remaining 200 HP.",
+      "Gregor Clegane removed from initiative and marked dead.",
+      "XP awarded: 25,000 for CR 20 boss kill.",
+      "Arthur is 25,300 XP away from Level 23.",
+      "Aura of the Crown remains active.",
+      "Persuasion success (29 vs 8) deals 2 Social HP damage to Cersei.",
+      "Leverage from Gregor's death and Jaime's defection provided a massive DC reduction.",
+      "Cersei tier identified as 'Lord/General' for Social HP scaling.",
+      "Submission multiplier (3x) applied to base Lord HP (8) = 24 total.",
+      "Aura of the Crown (+7 AC/Bonus) remains active for all allies within 50ft.",
+      "Persuasion success (28 vs 12) deals 2 Social HP damage to Cersei.",
+      "Aura of the Crown remains active, providing a +7 bonus to the check.",
+      "Cersei's tier 'Lord/General' (8 HP) multiplied by 'Submission' severity (3x) = 24 Social HP total.",
+      "Time advanced by 5 minutes for the dialogue exchange.",
+      "Scene 120 Deferred Rewards: Awarded 2,500 XP for the breach of the inner sanctum (5x Lvl 9 Elites) and 500 XP for initial social momentum vs Cersei.",
+      "Joffrey's low Lvl (2) made the disarm DC 10 trivial despite a low roll.",
+      "Cersei's Social HP damage: Margin 10 (22 vs 12) = 2 damage.",
+      "Aura of the Crown remains active (+7 bonus to social checks within 50ft).",
+      "Natural 20 on Intimidation check (Total 38) deals 3 Social HP damage to Cersei (Epic tier scaling).",
+      "Aura of the Crown (+7 bonus) remains active.",
+      "Cersei's base Social HP (8) x Submission (3x) = 24. Current: 15/24.",
+      "Wildfire plot revealed as part of narrative victory.",
+      "Arthur is 21,300 XP away from Level 23.",
+      "Wildfire plot effectively neutralized via synergistic sweep.",
+      "Cersei is in 0-resistance yielding state.",
+      "Arthur is 18,800 XP away from Level 23."
+    ],
+    "state_rationale": "Transitioning to combat state following the social failure. Advancing time for the guard arrival and standoff."
+  },
+  "entity_tracking": {
+    "active_entities": [
+      "Ser Arthur Dane",
+      "Ser Arthur Dayne"
+    ],
+    "present_entities": []
+  },
+  "location": "Red Keep, King's Landing",
+  "action_resolution": {
+    "player_input": "Bring everyone to lyanna and ask her if the child should stay with her. W could escape to the free cities",
+    "mechanics": {
+      "rolls": [
+        {
+          "purpose": "Insight (Reading the reaction)",
+          "dc": 12,
+          "result": 21,
+          "notation": "1d20+8",
+          "success": true
+        },
+        {
+          "purpose": "Persuasion (Proposing Essos)",
+          "dc": 16,
+          "result": 25,
+          "notation": "1d20+11",
+          "success": true
+        }
+      ],
+      "type": "skill_check"
+    },
+    "interpreted_as": "persuasion_attempt",
+    "reinterpreted": true,
+    "audit_flags": [
+      "player_declared_outcome"
+    ]
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "resolved_turn": 41,
+        "turn_generated": 42,
+        "scene_generated": 21,
+        "actor": "Ser Gerold Hightower",
+        "action": "Silently neutralized the Lannister spy in the kitchens; the body is hidden in the crypts until it can be disposed of.",
+        "status": "resolved",
+        "player_aware": true
+      }
+    ]
+  },
+  "game_state": {
+    "custom_campaign_state": {
+      "active_constraints": [
+        "Paladin Aura grants +CHA mod to AC for all affected allies",
+        "Ser Gerold and Ser Oswell are detached from the main party to guard Jon in the North"
+      ]
+    },
+    "entity_tracking": {
+      "active_entities": [
+        {
+          "role": "The Sword of the Morning",
+          "name": "Ser Arthur Dayne",
+          "status": "Infiltrating",
+          "level": 20
+        },
+        {
+          "role": "Secret Queen",
+          "name": "Lyanna Stark",
+          "status": "Infiltrating",
+          "level": 12
+        }
+      ],
+      "dormant_entities": [
+        {
+          "role": "Lord Commander (Guarding Jon)",
+          "name": "Ser Gerold Hightower",
+          "status": "Hidden in the North",
+          "level": 18
+        },
+        {
+          "role": "Kingsguard (Guarding Jon)",
+          "name": "Ser Oswell Whent",
+          "status": "Hidden in the North",
+          "level": 15
+        },
+        {
+          "role": "Lady of Starfall",
+          "name": "Ashara Dayne",
+          "status": "Conscious",
+          "level": 5
+        }
+      ]
+    }
+  },
+  "arc_milestones": {
+    "primary_arc": {
+      "phase": "exile_to_starfall"
+    }
+  },
+  "encounter_state": {
+    "rewards_processed": true
+  },
+  "planning_block": {
+    "context": "Post-Strike Consolidation - Red Keep Secured",
+    "thinking": "The wildfire threat is neutralized and the primary Lannister leadership is secured. Tywin remains in the field with the Golden Company, but his legitimacy is a smoldering ruin. I must now formalize the occupation, signal Ned (Lvl 15) to bring the Northern host into the city to maintain order, and prepare Jon (Lvl 7) for the throne. The 'Magnet' has successfully cleared the path, but the consolidation of power requires a delicate balance of justice and mercy.",
+    "choices": {
+      "parallel_synergistic": {
+        "risk_level": "low",
+        "text": "Total City Stabilization (Synergistic)",
+        "analysis": {
+          "coordination_dc": 16,
+          "dc_modifier": 0,
+          "combination_type": "synergistic",
+          "synergy_bonus": "The city is stabilized and the leadership decapitated before the Golden Company can even decide which master to serve."
+        },
+        "description": "Signal Ned to occupy the city while you personally oversee the formal arrest of the small council members, ensuring no Lannister loyalists escape to Tywin."
+      },
+      "confront_tywin_parley": {
+        "risk_level": "medium",
+        "text": "Demand Tywin's Surrender",
+        "description": "Send a messenger to the Golden Company lines with proof of the Rock's fall and the royal family's confinement, demanding Tywin's total submission."
+      },
+      "signal_ned_occupation": {
+        "risk_level": "safe",
+        "text": "Signal the Northern Anvil",
+        "description": "Fire the white starlight flare from the Top of the White Sword Tower to signal Ned and the host to enter the city and secure the gates."
+      },
+      "prepare_jons_ascent": {
+        "risk_level": "low",
+        "text": "Prepare the Throne Room",
+        "description": "Begin the ritual cleaning of the Iron Throne and the Great Hall, preparing for Jon to take his seat as the King of the Winter Dawn."
+      }
+    }
+  }
+}

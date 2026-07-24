@@ -1,0 +1,133 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "experience": {
+      "needed_for_next_level": 900,
+      "total_earned": 350,
+      "current": 425,
+      "to_next_level": 475
+    },
+    "features": [
+      "Divine Smite",
+      "Fighting Style: Defense",
+      "Spellcasting"
+    ],
+    "hp_max": 20,
+    "level": 2,
+    "hp_current": 20,
+    "status_conditions": [
+      "Shield Equipped"
+    ],
+    "inventory": {
+      "add": [
+        "Heavy Crossbow Bolt x2",
+        "Broken Dagger"
+      ],
+      "gold": 33,
+      "remove": [
+        "Broken Dagger"
+      ]
+    },
+    "armor_class": 19,
+    "resources": {
+      "hit_dice": {
+        "used": 1,
+        "total": 2
+      },
+      "javelins": {
+        "used": 1,
+        "total": 5
+      },
+      "lay_on_hands": {
+        "used": 0,
+        "total": 10
+      },
+      "spell_slots": {
+        "level_1": {
+          "used": 0,
+          "total": 2
+        }
+      },
+      "divine_sense": {
+        "used": 1,
+        "total": 2
+      },
+      "inspiration": true
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "minute": 30,
+      "time_of_day": "Night",
+      "day": 2,
+      "second": 0,
+      "year": 11,
+      "hour": 20,
+      "month": "Kythorn",
+      "microsecond": 0
+    },
+    "locations": {
+      "old_hunting_lodge": {
+        "status": "Destroyed/Burning"
+      }
+    }
+  },
+  "npc_data": {},
+  "item_registry": {},
+  "custom_campaign_state": {
+    "last_story_mode_sequence_id": 58,
+    "attribute_system": "D&D",
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "round": 5,
+    "in_combat": false,
+    "combatants": {
+      "climber_3": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Hesitating (10ft down)"
+      },
+      "ser_arion": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Active"
+      },
+      "climber_2": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Unconscious/Dead (Bottom of Cliff)"
+      }
+    }
+  },
+  "last_state_update_timestamp": "2025-11-19 11:03:35.988000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 30,
+    "time_of_day": "Night",
+    "day": 2,
+    "second": 0,
+    "year": 11,
+    "hour": 20,
+    "month": "Kythorn"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+}

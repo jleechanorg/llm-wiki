@@ -1,0 +1,424 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "background": "Noble (Queen of the Iceni)",
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 13,
+      "initiative": 2
+    },
+    "conditions": [],
+    "temp_hp": 12,
+    "saving_throw_proficiencies": [
+      "Charisma",
+      "Wisdom"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 6
+      },
+      "consumables": {
+        "healing_potions": 2,
+        "other_notable": [
+          "War Drum",
+          "Signet Ring of the Iceni"
+        ]
+      },
+      "spell_slots": {
+        "level_2": {
+          "used": 1,
+          "total": 2
+        },
+        "level_1": {
+          "used": 0,
+          "total": 3
+        },
+        "pact_magic": {
+          "used": 1,
+          "spell_level": 3,
+          "total": 2
+        }
+      },
+      "light_sources": {
+        "current": "Bardic Torch (with cantors)",
+        "backup": [],
+        "duration_remaining": "25 minutes (unavailable)"
+      },
+      "gold": 25,
+      "bardic_inspiration": {
+        "used": 0,
+        "die": "d8",
+        "total": 3
+      },
+      "exhaustion_level": 0,
+      "inspiration": false,
+      "class_features": {
+        "combat_inspiration": true,
+        "expertise": [
+          "Persuasion",
+          "Performance"
+        ],
+        "jack_of_all_trades": true,
+        "bardic_inspiration": {
+          "used": 3,
+          "die": "d8",
+          "total": 3
+        },
+        "inspiration": true
+      },
+      "short_rests": {
+        "used": 0,
+        "total": 2
+      },
+      "long_rests_since_last": 0
+    },
+    "experience": {
+      "needed_for_next_level": 9000,
+      "total_earned": 7500,
+      "current": 7500,
+      "to_next_level": 15500
+    },
+    "status": "Standing guard over the captive in Medea's sanctified circle, ready for interrogation to begin.",
+    "features": [
+      "Pact of the Blade",
+      "Vengeance (Resistance to damage when hit)",
+      "Bardic Inspiration (d8, 3/day)",
+      "Combat Inspiration",
+      "Jack of All Trades",
+      "Expertise (Persuasion, Performance)"
+    ],
+    "level": 6,
+    "skills": [
+      "Persuasion",
+      "Performance",
+      "Athletics",
+      "Intimidation",
+      "History",
+      "Insight"
+    ],
+    "speed": 30,
+    "armor_class": 17,
+    "equipment": {
+      "backpack": [
+        "Explorer's Pack",
+        "Broken Shield (House of the Boar)"
+      ],
+      "money": "25 gp",
+      "armor": "Chain Mail",
+      "regalia": [
+        "Royal Regalia",
+        "War Drum",
+        "Signet Ring of the Iceni"
+      ],
+      "weapons": [
+        "Longsword",
+        "Shield"
+      ]
+    },
+    "class": "Sword\u2019s Bard (Oath of Vengeance / College of Valor)",
+    "mbti": "ENTJ",
+    "initiative": 14,
+    "attributes": {
+      "strength": 16,
+      "dexterity": 14,
+      "intelligence": 10,
+      "wisdom": 13,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "location": "Forward Camp",
+    "status_conditions": [],
+    "string_id": "pc_boudica_001",
+    "alignment": "Chaotic Good",
+    "spells_known": [
+      "Blade Ward",
+      "Friends",
+      "Vicious Mockery",
+      "Charm Person",
+      "Command",
+      "Healing Word",
+      "Shatter",
+      "Zone of Truth",
+      "Counterspell",
+      "Hold Person"
+    ],
+    "name": "Boudica",
+    "max_spell_level": 3,
+    "passive_perception": 20,
+    "hp_max": 57,
+    "condition": "concealed",
+    "inspiration": false,
+    "hp_current": 57,
+    "proficiency_bonus": 3,
+    "active_effects": [
+      {
+        "effect": "12 Temporary Hit Points",
+        "duration": "Until Long Rest",
+        "name": "Boar's Strength"
+      }
+    ]
+  },
+  "world_data": {
+    "world_time": {
+      "minute": 40,
+      "time_of_day": "Afternoon",
+      "day": 20,
+      "second": 0,
+      "year": 60,
+      "hour": 14,
+      "month": "October",
+      "microsecond": 0
+    },
+    "current_location": "loc_forward_camp_001",
+    "setting": "Ancient Britain during Roman occupation",
+    "campaign_theme": "Rebellion, vengeance, freedom, charismatic leadership",
+    "current_location_name": "Forward Camp"
+  },
+  "npc_data": {
+    "Medea": {
+      "mbti": "INFP",
+      "hidden": false,
+      "attributes": {
+        "strength": 8,
+        "dexterity": 13,
+        "intelligence": 15,
+        "wisdom": 16,
+        "charisma": 11,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "passive_perception": 13
+      },
+      "faction": "Iceni Clans",
+      "concealed": false,
+      "string_id": "npc_medea_001",
+      "present": true,
+      "gender": "female",
+      "conscious": true,
+      "attitude_to_party": "loyal",
+      "status": "Preparing for a ritual to contact the 'Dreamer', at Boudica's command.",
+      "age": 36,
+      "role": "Healer and Seer of the River Women",
+      "relationships": {
+        "pc_boudica_001": "spiritually aligned"
+      }
+    },
+    "Taran": {
+      "mbti": "ISTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 15,
+        "dexterity": 12,
+        "intelligence": 13,
+        "wisdom": 11,
+        "charisma": 10,
+        "constitution": 14
+      },
+      "location": "Forward Camp",
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 1,
+        "passive_perception": 10
+      },
+      "faction": "Iceni Clans",
+      "string_id": "npc_taran_001",
+      "present": true,
+      "gender": "male",
+      "conscious": true,
+      "attitude_to_party": "loyal",
+      "status": "Returned to camp, weary but safe. Ready to report on Camulodunum.",
+      "age": 42,
+      "role": "Chieftain of the Grove-Folk",
+      "relationships": {
+        "pc_boudica_001": "oath-bound"
+      }
+    },
+    "Boudica": {
+      "status": "Standing guard over the captive in Medea's sanctified circle, having received the final intelligence on how to contact the 'Dreamer' respectfully.",
+      "present": true,
+      "conscious": true,
+      "condition": "concealed"
+    },
+    "Unknown": {
+      "string_id": "npc_unknown_001",
+      "conscious": true,
+      "present": false,
+      "role": "Observer",
+      "status": "Departed from the forward camp after providing the final method for contacting the 'Dreamer'.",
+      "hidden": false
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "character_creation": {
+      "in_progress": false,
+      "completed": true,
+      "method_chosen": "aigenerated",
+      "current_step": 9,
+      "method": "aigenerated"
+    },
+    "attribute_system": "D&D",
+    "last_location": "Forward Camp",
+    "last_story_mode_sequence_id": 100,
+    "core_memories": [
+      "[auto] [CHARACTER CREATION - AIGenerated]\n\nI've designed a character that fits perfectly with your concept. Here's the complete character sheet:\n\n[NO NARRATIVE - ONLY SHOW THE CHAR",
+      "[auto] The mist swirls over the sacred hilltop, parting to reveal a woman of undeniable presence. Boudica, Queen of the Iceni, stands tall, her fiery hair streaming like a banner i",
+      "[auto] The first beat of Boudica\u2019s war drum rolls across the sacred hill like distant thunder, echoing against ancient stones. Her voice, raw with conviction, cuts through the fadi",
+      "[auto] Boudica turns from the silent form of Unknown, her breath steadying as she sets aside the war drum. She steps toward the center of the sacred stone circle, where moss-covere",
+      "[auto] Boudica pulls her cloak tight against the gathering wind, the prophecy of the druidic spirit burning in her mind. \"Where fire met home. There lies the broken shield.\" Her ja",
+      "[auto] Boudica kneels in the ashen courtyard, the broken shield resting across her knees. She turns it slowly beneath the dimming light, her fingers tracing the deep dents in the b",
+      "[auto] Boudica rises from the ashen courtyard, the broken shield gripped tight against her chest like a heartbeat recalled. Her eyes blaze with a renewed fire\u2014not just of vengeance",
+      "[auto] Boudica strides eastward along the overgrown track, her torch cutting through the clinging mist. The wind carries the scent of damp earth and distant smoke, but beneath it, ",
+      "[auto] Boudica raises her torch high, the flame casting long shadows across the growing host. \"Let the Roman dogs warm themselves on stolen hearths,\" she declares, her voice cuttin",
+      "[auto] Boudica halts the column on the overgrown track, the torchlight flickering across determined faces. \"We march with fire in our hearts,\" she declares, \"but fire without direc",
+      "[auto] Boudica stands at the head of the host, the weight of command settling upon her like a well-worn mantle. The council is formed\u2014Taran for the scouts, Medea for the wounded an",
+      "[auto] Boudica turns to Taran, the scent of damp earth and distant smoke clinging to the air. \"Scout ahead,\" she commands, voice low but carrying the weight of decision. \"Take your",
+      "[auto] Boudica surveys the dense thicket ahead, the trail narrowing through a tangle of ivy and ancient oaks. \"This will do,\" she declares, turning to Medea. \"Find a clearing large",
+      "[auto] Boudica turns toward Medea, the healer\u2019s hands still stained with the poultice from her last ministration. The camp is quiet, a hush of waiting, but every warrior here is po",
+      "[auto] Boudica rises from Medea\u2019s side, her face hardening like river stone in winter. The seer\u2019s vision burns within her\u2014not just the plight of her people, but the unseen serpent ",
+      "[auto] Boudica rides at the head of the mystic guard, her warhorse stepping with careful grace through the sucking mud of the marshlands. Reeds rise on either side like silent sent",
+      "[auto] Boudica stands alone on the narrow causeway, the mist swirling like smoke around her. The reeds on either side are still, too still. Her pulse hammers not with fear, but wit",
+      "[auto] With the unseen watcher lunging from the reeds, Boudica draws not her sword, but the power of ancient vengeance coursing through her veins. She thrusts out a hand, voice sha",
+      "[auto] You're absolutely right to ask\u2014and I appreciate your patience. Going forward, I will ensure every relevant dice roll is shown in the `dice_rolls` field of the response, usin",
+      "[auto] The unseen watcher is suspended in mid-air, its form writhing silently against the silvered nets and the pulsing ward on the ground. Boudica\u2019s voice still echoes in the damp",
+      "[auto] The unseen watcher is suspended in mid-air, its form writhing silently against the silvered nets and the pulsing ward on the ground. Boudica's command of vengeance hangs in ",
+      "[auto] You're absolutely right to ask\u2014I will now show all relevant dice rolls in the `dice_rolls` field using true randomization via code execution to maintain fairness.\n\nThe unsee",
+      "[auto] Executing code for Zone of Truth spell activation within the marshland ambush site...",
+      "[auto] A soft, blue light emanates from Boudica's outstretched hands as she completes the casting of *Zone of Truth*. The air above the marshland trail shimmers, and a visible dome",
+      "[auto] The unseen watcher remains suspended within the shimmering dome of *Zone of Truth*, writhing against the silvered nets.",
+      "[auto] Boudica closes her eyes, drawing upon the deep well of bardic energy within her, a power forged from vengeance, charisma, and the unyielding spirit of her people. She places",
+      "[auto] The prisoner is secured, the path home is clear. Boudica gives the order, and the mystic guard lift the bound form of the unseen watcher, its flickering essence held firm wi",
+      "[auto] From the forward camp, Medea's chant continues, a clear, resonant melody rising over the marshland reeds, a thread of spiritual guidance pulling them homeward.\n\nBoudica, lea",
+      "[auto] The path opens into a hidden dell, shielded by ancient hornbeams and thickets of bramble. At its center, the air is thick with the scent of damp earth and sacred herbs. Mede",
+      "[auto] Boudica turns from the bound captive, her expression hard as she seeks the silent observer at the edge of the sanctified circle. The air hums with the combined power of her ",
+      "[auto] Medea nods, her expression shifting from fierce guardian to empathetic listener. \"A promise of remembrance,\" she murmurs, her voice soft as rain on leaves. She sets aside he",
+      "[auto] \"The Dreamer,\" Boudica repeats, the name heavy on her tongue. She looks from the placid, captured entity to Medea, whose face is etched with the strain of the deep communion",
+      "[auto] \"Before we let you go,\" Boudica says, her voice firm but holding a new, resonant respect, \"tell us one last thing. A Queen does not make war without seeking to understand th",
+      "[auto] Boudica meets Medea's gaze, a silent understanding passing between them. The choice is made. There will be no more questioning, no more threats. The path of blood and iron h",
+      "[auto] The frantic shout from the perimeter cuts through the sacred quiet of the dell. Boudica's head snaps up, the echoes of the completed ritual still humming in the air. She exc",
+      "[auto] Boudica places a steadying hand on the exhausted scout's shoulder, her mind racing. The scout's news is a confirmation of the fragment's vision and a dark shadow falling ove",
+      "[auto] Medea takes a deep, steadying breath, her resolve hardening despite the clear risk of the ritual. \"Then we will not wait for twilight,\" she agrees, her voice firm. \"We will ",
+      "[auto] The wave of acknowledgement from the 'Dreamer' recedes, leaving an expectant silence in its wake. The immediate, supernatural threat has vanished, but the camp is still tens",
+      "[auto] Boudica watches Medea, seeing the deep well of druidic power the healer now commands, a power amplified by their recent communion with the land's ancient spirit. A moth, a w",
+      "Performed Ritual of the Boar's Strength, restoring power and buffing the host. Taran returned safely."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false,
+    "combat_started": false
+  },
+  "last_state_update_timestamp": "2025-12-03 00:54:32.611000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 40,
+    "time_of_day": "Afternoon",
+    "day": 20,
+    "second": 0,
+    "year": 60,
+    "hour": 14,
+    "month": "October"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 6/6 | Bardic Inspiration: 0/3 (d8) | Pact Magic: 1/2 (3rd Level) | 1st Level Spells: 3/3 | 2nd Level Spells: 2/2"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "locations": {
+    "loc_overgrown_track_001": {
+      "description": "A narrow, ancient path winding through dense forest and bramble, once used by traders and pilgrims, now reclaimed by nature.",
+      "connected_to": [
+        "loc_ruins_villa_001",
+        "loc_iceni_village_001",
+        "loc_camulodunum_approach_001"
+      ],
+      "display_name": "Overgrown Track East of the Ruins",
+      "entities_present": [
+        "pc_boudica_001",
+        "npc_taran_001",
+        "npc_medea_001",
+        "npc_unknown_001"
+      ]
+    },
+    "loc_marshland_trail_001": {
+      "description": "A narrow, treacherous path winding through deep reeds and sucking mud, accessible only to those who know the hidden causeways.",
+      "connected_to": [
+        "loc_forward_camp_001",
+        "loc_camulodunum_approach_001"
+      ],
+      "display_name": "Marshland Trail East of the Forward Camp",
+      "entities_present": [
+        "pc_boudica_001",
+        "npc_mystic_guard_001",
+        "npc_unknown_001"
+      ]
+    },
+    "loc_ruins_villa_001": {
+      "description": "The burned remains of Boudica's ancestral home, a place of deep personal sorrow and the birthplace of her vow of vengeance.",
+      "connected_to": [
+        "loc_sacred_hill_001",
+        "loc_iceni_village_001"
+      ],
+      "display_name": "Ruins of Boudica's Villa",
+      "entities_present": [
+        "pc_boudica_001",
+        "npc_unknown_001",
+        "npc_taran_001",
+        "npc_medea_001"
+      ]
+    },
+    "loc_forward_camp_001": {
+      "description": "A concealed dell sheltered by hornbeam trees, serving as a temporary base for the Iceni host.",
+      "connected_to": [
+        "loc_marshland_trail_001"
+      ],
+      "display_name": "Forward Camp",
+      "entities_present": [
+        "npc_medea_001"
+      ]
+    },
+    "loc_sacred_hill_001": {
+      "description": "A high hill crowned with ancient stones, sacred to the druids and a traditional gathering place for the Iceni chieftains.",
+      "connected_to": [
+        "loc_iceni_village_001",
+        "loc_roman_fort_001"
+      ],
+      "display_name": "Sacred Hill",
+      "entities_present": [
+        "pc_boudica_001",
+        "npc_unknown_001"
+      ]
+    }
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "world_time": {
+    "hour": 13,
+    "time_of_day": "Afternoon",
+    "day": 20,
+    "year": 60,
+    "month": "October",
+    "minute": 40
+  }
+}

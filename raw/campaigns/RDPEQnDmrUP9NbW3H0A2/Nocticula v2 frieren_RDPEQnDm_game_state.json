@@ -1,0 +1,1034 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "active_effects": [
+      "Abyssal Song - Active (Round 4/10)"
+    ],
+    "proficiency_bonus": 4,
+    "background": "First-Class Mage / Fugitive Royal",
+    "class_name": "Abyssal Spellblade",
+    "display_name": "Nocticula",
+    "race": "Half-Demon (Human/Abyssal Hybrid)",
+    "core_memories": [
+      "Granddaughter of a reigning Demon King",
+      "Accepted by Serie as a First-Class Mage",
+      "Fled the Abyssal capital to study human efficiency",
+      "Traumatized by the senseless cruelty of the Abyssal Throne; chose empathy over the demonic hierarchy.",
+      "The Secret Burden: I carry the full potential of the Demon King's throne, a weight of power that terrifies me as much as it tempts me.",
+      "At age 9, I chose death over the Abyss, surrendering to Serie as a refugee. She saw my potential and has allowed me the freedom to define my own path as the North's stabilizer.",
+      "The Great Reveal: Shared my demonic lineage with Frieren's party in the Northern Ravine. The subsequent acceptance has provided a rare, human anchor for my internal mana-flow."
+    ],
+    "resources": {
+      "gold": 3940,
+      "spell_slots": {
+        "level_6": {
+          "current": 0,
+          "used": 1,
+          "max": 1
+        },
+        "level_2": {
+          "current": 3,
+          "used": 0,
+          "max": 3
+        },
+        "level_4": {
+          "current": 2,
+          "used": 1,
+          "max": 3
+        },
+        "level_5": {
+          "current": 2,
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "current": 4,
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "current": 3,
+          "used": 0,
+          "max": 3
+        }
+      },
+      "class_features": {
+        "sorcery_points": {
+          "current": 12,
+          "max": 12
+        }
+      },
+      "last_long_rest_world_time": {
+        "hour": 6,
+        "day": 2,
+        "year": 1492,
+        "month": "Hammer",
+        "minute": 10
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 120000,
+      "current": 100875,
+      "to_next_level": 19125
+    },
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 20,
+      "intelligence": 14,
+      "wisdom": 12,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "features": [
+      "Abyssal Redirection (Song of Defense) - Expend spell slots to reduce incoming damage."
+    ],
+    "level": 12,
+    "knowledge": [
+      "Mana Veil Mastery",
+      "Demonic Overcasting",
+      "Subtle Weaving",
+      "Serie's Directive: Shadows with no mana-trace are active in the North.",
+      "Void-Stone Guardians are conceptual concept-hollows that hunt soul-displacement.",
+      "The Whispering Glade is a Myth-era mana-leak anchor."
+    ],
+    "age": 16,
+    "health": {
+      "hp_max": 74,
+      "temp_hp": 0,
+      "hp": 74,
+      "conditions": []
+    },
+    "equipment": {
+      "ring_2": {
+        "equipped": true,
+        "stats": "Ring of Spell Storing (5 levels)",
+        "name": "Mana Reservoir Ring"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "+1 AC",
+        "name": "Signet of the Void"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "AC 14 + DEX",
+        "type": "armor",
+        "armor_class": 14,
+        "name": "First-Class Tactical Robes"
+      },
+      "hands": {
+        "equipped": true,
+        "stats": "+1 Spell Attack",
+        "name": "Spellweaver's Wraps"
+      },
+      "main_hand": {
+        "damage_type": "piercing",
+        "stats": "+2 Atk/Dmg, +2 Spell DC/Attack, acts as focus, uses CHA for attack/damage",
+        "properties": [
+          "finesse",
+          "cha-based"
+        ],
+        "damage": "1d8+2",
+        "bonus": 2,
+        "equipped": true,
+        "type": "weapon",
+        "name": "Abyssal Needle (+2 Rapier Focus)"
+      },
+      "feet": {
+        "equipped": true,
+        "stats": "Advantage on Stealth checks",
+        "name": "Boots of the Silent Shadow"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "+1 AC, +1 Saving Throws",
+        "name": "Cloak of Abyssal Displacement"
+      },
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "stats": "Components and tools",
+          "name": "Mage's Kit"
+        },
+        {
+          "stats": "Mana stabilization",
+          "name": "Abyssal Focus Stone"
+        }
+      ],
+      "off_hand": {
+        "equipped": true,
+        "stats": "+2 AC (stacks with robes)",
+        "name": "Arcane Bracers of Mitigation"
+      },
+      "head": {
+        "equipped": true,
+        "stats": "+1 Spell DC, +1 Spell Attack",
+        "name": "Circlet of the First-Class"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "Symbol of Authority (Serie's Approval)",
+        "name": "First-Class Mage Badge"
+      }
+    },
+    "entity_id": "pc_nocticula_001",
+    "mbti": "INFJ",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 20,
+      "intelligence": 14,
+      "wisdom": 12,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "status_conditions": [],
+    "ac": 23,
+    "alignment": "Neutral Good",
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Zoltraak Mitigation (Shield)"
+      },
+      {
+        "level": 1,
+        "name": "Elemental Dispersion (Absorb Elements)"
+      },
+      {
+        "level": 1,
+        "name": "Mana Tracking (Detect Magic)"
+      },
+      {
+        "level": 2,
+        "name": "Flicker Displacement (Misty Step)"
+      },
+      {
+        "level": 2,
+        "name": "Abyssal Blade Construction (Shadow Blade)"
+      },
+      {
+        "level": 2,
+        "name": "Absolute Mana Suppression: Minor (Invisibility)"
+      },
+      {
+        "level": 3,
+        "name": "Physical Reinforcement (Haste)"
+      },
+      {
+        "level": 3,
+        "name": "Mana Dissipation (Counterspell)"
+      },
+      {
+        "level": 3,
+        "name": "Mana Flow Interference (Slow)"
+      },
+      {
+        "level": 3,
+        "name": "Abyssal Explosion Magic (Fireball)"
+      },
+      {
+        "level": 4,
+        "name": "Absolute Mana Suppression (Greater Invisibility)"
+      },
+      {
+        "level": 5,
+        "name": "High-Order Mana Binding (Hold Monster)"
+      },
+      {
+        "level": 6,
+        "name": "Rhythmic Mana Seizure (Otto's Irresistible Dance)"
+      },
+      {
+        "level": 6,
+        "description": "An immobile, shimmering barrier of sapphire mana that nullifies all spells of 5th tier or lower within its radius.",
+        "name": "Absolute Mana Ward (Globe of Invulnerability)"
+      }
+    ],
+    "name": "Nocticula",
+    "hp_max": 74,
+    "hp_current": 74,
+    "inventory": [
+      {
+        "value_gp": 1200,
+        "description": "High-density mana gems used as currency in the Abyss.",
+        "type": "treasure",
+        "name": "Abyssal Soul-Gems"
+      },
+      {
+        "effect": "Grants resistance to Necrotic damage for 1 hour when crushed.",
+        "description": "A shard of Qual's armor, still humming with rot-mana.",
+        "type": "consumable",
+        "name": "Fractured Rot-Plate"
+      },
+      {
+        "description": "The severed, smoking head of a demonic commander.",
+        "type": "trophy",
+        "name": "Head of Qual"
+      },
+      {
+        "value_gp": 400,
+        "type": "treasure",
+        "name": "Abyssal Soul-Gems (Standard) x2"
+      },
+      {
+        "description": "A cracked demonic core leaking acrid smoke.",
+        "type": "item",
+        "name": "Shattered Core of Draug"
+      },
+      {
+        "type": "item",
+        "name": "Demon-Iron Scraps"
+      },
+      {
+        "description": "Lightweight, calorie-dense rations that provide advantage on CON saves against exhaustion for 1 day.",
+        "type": "consumable",
+        "name": "Northern Winter Rations (High Quality)"
+      },
+      {
+        "description": "When applied to a weapon, deals an extra 1d6 radiant damage to demons for 1 hour.",
+        "type": "consumable",
+        "name": "Blessed Frost-Oil"
+      },
+      {
+        "description": "Lightweight rations from Elsholtz villagers.",
+        "type": "consumable",
+        "name": "Northern Winter Rations (High Quality)"
+      },
+      {
+        "description": "Glows in proximity to rot-mana.",
+        "type": "consumable",
+        "name": "Blessed Frost-Oil"
+      },
+      {
+        "stats": "+1 to saves vs extreme cold",
+        "type": "item",
+        "name": "Warm Winter Furs"
+      },
+      {
+        "description": "A vibrating crystalline shard that magnifies mana-displacement.",
+        "type": "item",
+        "name": "Mana-Refractive Ore (Sample)"
+      }
+    ],
+    "cantrips": [
+      {
+        "level": 0,
+        "description": "Wraps the blade in high-frequency mana; target takes damage if they move.",
+        "name": "Resonant Mana Strike (Booming Blade)"
+      },
+      {
+        "level": 0,
+        "description": "Azure mana flames leap from the primary target to a secondary foe.",
+        "name": "Azure Flame Cleave (Green-Flame Blade)"
+      },
+      {
+        "level": 0,
+        "description": "Abyssal chime targeting the soul.",
+        "name": "Resonance of the Void (Toll the Dead)"
+      },
+      {
+        "level": 0,
+        "description": "Send a whispered message through the void to a creature within 120 feet.",
+        "name": "Mana Whisper (Message)"
+      }
+    ],
+    "skill_proficiencies": {
+      "expertise": [
+        "Arcana"
+      ],
+      "proficiencies": [
+        "Deception",
+        "Stealth",
+        "Perception",
+        "Acrobatics"
+      ]
+    },
+    "recent_decisions": [
+      "Executed the Static Echo ritual to mask the party's temporal wake from the Abyssal Retrieval Squad."
+    ]
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 30,
+      "hour": 13,
+      "time_of_day": "afternoon",
+      "year": 1492,
+      "day": 5,
+      "month": "Hammer"
+    },
+    "location": "Whispering Glade Perimeter"
+  },
+  "npc_data": {
+    "Stark": {
+      "tier": "knight",
+      "entity_id": "npc_stark_001",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Preparing for battle alongside Nocticula"
+          ]
+        }
+      },
+      "role": "Warrior",
+      "level": 9
+    },
+    "npc_frieren_001": {
+      "knowledge": [
+        "Nocticula is Serie's youngest First-Class apprentice",
+        "Nocticula possesses anomalous mana efficiency for a human",
+        "Serie knows Nocticula's true background (Frieren does not)"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Witnessed Nocticula eliminate Commander Qual",
+            "Observing Nocticula's irregular mana signature"
+          ]
+        }
+      }
+    },
+    "Frieren": {
+      "role": "Mage of the Hero's Party",
+      "display_name": "Frieren",
+      "entity_id": "npc_frieren_001",
+      "relationships": {
+        "player": {
+          "disposition": "analytical_fondness",
+          "metadata": {
+            "hidden_hope_arc": true,
+            "thematic_focus": "redemption_of_the_monstrous"
+          },
+          "trust_level": 4,
+          "history": [
+            "Observed the 'Scion' reveal in the Northern Ravine",
+            "Acknowledged Nocticula's human intent over demonic origin",
+            "Secretly views Nocticula as a potential validation of a thousand-year hope"
+          ]
+        }
+      },
+      "tier": "ancient",
+      "level": 20
+    },
+    "Korgat": {
+      "hp_current": 65,
+      "entity_id": "npc_korgat_001",
+      "role": "Bandit Captain",
+      "hp_max": 65,
+      "tier": "guard"
+    },
+    "npc_demon_draug_001": {
+      "name": "npc_demon_draug_001"
+    },
+    "Fern": {
+      "tier": "knight",
+      "entity_id": "npc_fern_001",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Wary of Nocticula's age and rank"
+          ]
+        }
+      },
+      "role": "Mage Apprentice",
+      "level": 9
+    },
+    "npc_demon_qual_001": {
+      "health": {
+        "hp": 104
+      },
+      "name": "npc_demon_qual_001"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {
+      "primary_arc": {
+        "phase": "Demonic Siege of Elsholtz",
+        "progress": 20,
+        "status": "in_progress"
+      }
+    },
+    "active_constraints": [
+      "Frieren cannot identify Abyssal origin through Mana Veil Mastery"
+    ],
+    "god_mode": {
+      "character": {
+        "description": "**Name:** Nocticula\n**Title:** Scion of the Abyssal Throne (Hidden)\n**Age:** 16\n**Race:** Half-Demon (Human/Abyssal Hybrid)\n**Class Archetype:** Sorcerous Prodigy / Shadow Weaver\n**Core Personality:** INTJ / True Neutral (Clinical Pragmatism)\n\n**Lineage & Origin:**\nNocticula is the granddaughter of a reigning Demon King, born into a lineage of catastrophic power. While her demonic kin defined themselves through chaotic consumption and 'inefficient' cruelty, Nocticula\u2019s human heritage introduced a variable of logic and a sliver of empathy. Viewing the demonic hierarchy as a flawed system of diminishing returns, she fled the infernal capital. She currently lives as a fugitive, hiding her royal pedigree and immense mana to avoid both the demonic 'Retrieval Squads' and human 'Purge Slayers.'\n\n**Psychological Profile:**\nShe operates with a low-empathy, high-functioning cognitive framework. She views social interactions as logistical exchanges and emotions as biological data points. She rarely acts out of malice or altruism; instead, she pursues 'Optimal Outcomes.' To Nocticula, saving an ally is a tactical preservation of a primary asset. She is often described as unsettlingly calm, detached, and blunt.\n\n**Signature Mechanical Traits (The 'Frieren' Scale):**\n*   **Mana Veil Mastery:** Nocticula possesses a unique ability to compress her mana into a near-total void. She can hide a reservoir of power equivalent to an ancient archmage, appearing to all magical detection as a mundane peasant or a Level 1 novice.\n*   **Demonic Overcasting:** Her royal blood allows her to access the Weave with greater efficiency than her age suggests. She consistently wields spells and spell slots two tiers higher than her apparent level.\n*   **Subtle Weaving:** She specializes in 'Subtle Casting,' manipulating reality without somatic or verbal components, allowing her to remain a 'ghost' even in the heat of battle.\n\n**Motivations & Goals:**\n*   **Integration:** To live among humans and study the complexity of their societies.\n*   **Efficiency:** To eliminate threats to her safety with the minimum expenditure of resources.\n*   **Transcendence:** To find a path that is neither 'Demon' nor 'Human,' but something entirely self-defined.\n\n**Constraints:**\n*   **The Reveal:** Utilizing her full power or 'Masked' spell slots causes a mana spike that temporarily shatters her veil, alerting any high-level mages or entities in the region to her true \n\nLet\u2019s use the above for the campaign but modify it. I\u2019m Nocticula the youngest first class mage in history at age 16. My half demon heritage is a secret but serie has accepted me. First scene is im in the north protecting a village from bandits and demons. I encounter frieren and fern and stark later. I don\u2019t have visible horns or anything that shows I\u2019m a  demon so most people can\u2019t tell",
+        "name": "Nocticula"
+      },
+      "description": "**Name:** Nocticula\n**Title:** Scion of the Abyssal Throne (Hidden)\n**Age:** 16\n**Race:** Half-Demon (Human/Abyssal Hybrid)\n**Class Archetype:** Sorcerous Prodigy / Shadow Weaver\n**Core Personality:** INTJ / True Neutral (Clinical Pragmatism)\n\n**Lineage & Origin:**\nNocticula is the granddaughter of a reigning Demon King, born into a lineage of catastrophic power. While her demonic kin defined themselves through chaotic consumption and 'inefficient' cruelty, Nocticula\u2019s human heritage introduced a variable of logic and a sliver of empathy. Viewing the demonic hierarchy as a flawed system of diminishing returns, she fled the infernal capital. She currently lives as a fugitive, hiding her royal pedigree and immense mana to avoid both the demonic 'Retrieval Squads' and human 'Purge Slayers.'\n\n**Psychological Profile:**\nShe operates with a low-empathy, high-functioning cognitive framework. She views social interactions as logistical exchanges and emotions as biological data points. She rarely acts out of malice or altruism; instead, she pursues 'Optimal Outcomes.' To Nocticula, saving an ally is a tactical preservation of a primary asset. She is often described as unsettlingly calm, detached, and blunt.\n\n**Signature Mechanical Traits (The 'Frieren' Scale):**\n*   **Mana Veil Mastery:** Nocticula possesses a unique ability to compress her mana into a near-total void. She can hide a reservoir of power equivalent to an ancient archmage, appearing to all magical detection as a mundane peasant or a Level 1 novice.\n*   **Demonic Overcasting:** Her royal blood allows her to access the Weave with greater efficiency than her age suggests. She consistently wields spells and spell slots two tiers higher than her apparent level.\n*   **Subtle Weaving:** She specializes in 'Subtle Casting,' manipulating reality without somatic or verbal components, allowing her to remain a 'ghost' even in the heat of battle.\n\n**Motivations & Goals:**\n*   **Integration:** To live among humans and study the complexity of their societies.\n*   **Efficiency:** To eliminate threats to her safety with the minimum expenditure of resources.\n*   **Transcendence:** To find a path that is neither 'Demon' nor 'Human,' but something entirely self-defined.\n\n**Constraints:**\n*   **The Reveal:** Utilizing her full power or 'Masked' spell slots causes a mana spike that temporarily shatters her veil, alerting any high-level mages or entities in the region to her true \n\nLet\u2019s use the above for the campaign but modify it. I\u2019m Nocticula the youngest first class mage in history at age 16. My half demon heritage is a secret but serie has accepted me. First scene is im in the north protecting a village from bandits and demons. I encounter frieren and fern and stark later. I don\u2019t have visible horns or anything that shows I\u2019m a  demon so most people can\u2019t tell"
+    },
+    "completed_missions": [],
+    "next_companion_arc_turn": 50,
+    "active_missions": [
+      {
+        "title": "The Whispering Glade Disruption",
+        "status": "accepted",
+        "mission_id": "whispering_glade_disruption",
+        "objective": "Investigate the missing caravan and the 'shadow' sightings in the north."
+      }
+    ],
+    "campaign_tier": "mortal",
+    "success_streak": 2,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "RewardsAgent",
+      "rewards_skip_count": 13
+    },
+    "companion_arcs": {
+      "Fern": {
+        "phase": "discovery",
+        "arc_type": "mentor_legacy",
+        "progress": 5,
+        "history": [
+          {
+            "event": "Fern observes Nocticula's morning mana-recalibration, noting the influence of Serie's tutelage.",
+            "turn": 48
+          }
+        ]
+      }
+    },
+    "character_creation_stage": "complete",
+    "last_location": "Northern Ravine",
+    "character_creation_completed": true,
+    "core_memories": [
+      "Transcended to Level 9 potential after the tactical elimination of Commander Qual at the Frozen Serpent River.",
+      "Began the journey north with Frieren's party; successfully identified the first 'void-hollowed' caravan site near the Whispering Glade using tenth-tier mana-sensitivity.",
+      "Transcended to Level 12 potential after the hasted termination of the Void-Stone Guardians; Frieren acknowledged my role as a protector of the Weave.",
+      "Consulted Frieren on the Abyssal Retrieval Squad; learned of 'The Echo,' a temporal mana-tracking mechanism used by high-tier hunters.",
+      "Executed the 'Static Echo' ritual using a Tier 6 Absolute Mana Ward; masked our journey's displacement from the Abyssal Retrieval Squad.",
+      "Successfully navigated the 'nothingness' of the Northern Ravine using a synergistic blend of my Tenth-Tier suppression and Frieren's Myth-era lore; reached the Whispering Glade undetected."
+    ],
+    "divine_potential": 0,
+    "player_character_data_extras": {
+      "custom_campaign_state": {
+        "character_creation_in_progress": false,
+        "character_creation_completed": true
+      },
+      "description": "**Name:** Nocticula\n**Title:** Scion of the Abyssal Throne (Hidden)\n**Age:** 16\n**Race:** Half-Demon (Human/Abyssal Hybrid)\n**Class Archetype:** Abyssal Spellblade\n**Relationship to Serie:** Adopted at 9 after a life-or-death surrender. Serie is secretly proud of her and grants her absolute freedom to act as a sovereign protector of the North."
+    },
+    "last_story_mode_sequence_id": 200,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": false,
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "level_up_complete": true,
+    "god_mode_directives": [
+      {
+        "added": "2024-05-20T11:00:00Z",
+        "rule": "Frieren's 'fondness' for Nocticula is a quiet, analytical hope that a demon can truly possess a human heart; this influences her protective and observant behavior."
+      },
+      {
+        "added": "2024-05-20T10:00:00Z",
+        "rule": "Serie's 'praise' is defined by the interest level of the variable."
+      }
+    ],
+    "divine_upgrade_available": false,
+    "universe_control": 0,
+    "level_up_stage": null
+  },
+  "social_hp_challenge": {
+    "social_hp": 8,
+    "roll_dc": 18,
+    "cooldown_remaining": 0,
+    "successes": 5,
+    "roll_result": 20,
+    "request_severity": "information",
+    "npc_tier": "ancient",
+    "successes_needed": 5,
+    "social_hp_damage": 1,
+    "status": "WAVERING",
+    "resistance_shown": "Frieren has fully accepted Nocticula's magical mastery and historical relevance.",
+    "social_hp_max": 10,
+    "objective": "Extract lore about mana-less shadows",
+    "skill_used": "Persuasion",
+    "npc_name": "Frieren"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "pc_nocticula_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_demon_draug_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_frieren_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_fern_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_stark_001",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "combat_trigger": "Failed coordination of decoys triggered the erasure field's alarm.",
+    "combat_phase": "ended",
+    "round_number": 4,
+    "combatants": {
+      "npc_frieren_001": {
+        "hp_current": 120,
+        "hp_max": 120,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_bandit_thug_004": {
+        "hp_current": 32,
+        "hp_max": 32,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_bandit_thug_001": {
+        "hp_current": 19,
+        "hp_max": 32,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_void_stone_guardian_003": {
+        "hp_current": 50,
+        "hp_max": 110,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_void_stone_guardian_011": {
+        "hp_current": 50,
+        "hp_max": 110,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_stark_001": {
+        "hp_current": 95,
+        "hp_max": 95,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_korgat_001": {
+        "hp_current": 54,
+        "hp_max": 65,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_fern_001": {
+        "hp_current": 65,
+        "hp_max": 65,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_bandit_thug_002": {
+        "hp_current": 25,
+        "hp_max": 32,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_demon_draug_001": {
+        "hp_current": 17,
+        "hp_max": 135,
+        "status": [
+          "shaken",
+          "alerted",
+          "paralyzed"
+        ],
+        "type": "enemy",
+        "role": "Commander Beta"
+      },
+      "pc_nocticula_001": {
+        "hp_current": 68,
+        "hp_max": 68,
+        "status": [
+          "Abyssal Song"
+        ],
+        "type": "pc"
+      },
+      "npc_bandit_thug_003": {
+        "hp_current": 32,
+        "hp_max": 32,
+        "status": [],
+        "type": "enemy"
+      }
+    },
+    "participants": [
+      "pc_nocticula_001",
+      "npc_frieren_001",
+      "npc_fern_001",
+      "npc_stark_001",
+      "npc_void_stone_guardian_001",
+      "npc_void_stone_guardian_002",
+      "npc_void_stone_guardian_003"
+    ],
+    "in_combat": false,
+    "current_round": 2,
+    "rewards_processed": true,
+    "combat_session_id": "combat_14920105_ravine_void",
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_void_stone_guardian_011",
+        "npc_void_stone_guardian_003"
+      ],
+      "rounds_fought": 4,
+      "xp_awarded": 1000,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-05-04 03:00:22.038000+00:00",
+  "turn_number": 76,
+  "player_turn": 76,
+  "last_living_world_turn": 75,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 11,
+    "minute": 15,
+    "time_of_day": "morning",
+    "day": 5,
+    "year": 1492,
+    "month": "Hammer"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Arrival at the Whispering Glade entrance during a mana-storm",
+    "thinking": "We have reached the perimeter undetected. The guardians are patrolling the 'dead' mana zones. Frieren's insights have given us a +4 synergy bonus to our stealth, and my Twelfth-Tier Dexterity allows us to move with near-zero friction. We can attempt to bypass the sentries entirely, or use a surgical strike to delete the anchor-ward guarding the Glade entrance.",
+    "choices": [
+      {
+        "id": "stealth_bypass_guardians",
+        "text": "Geometric Stealth Bypass",
+        "risk_level": "low",
+        "description": "Utilize the storm's entropy and Frieren's lore to thread the gaps in the guardians' detection patterns.",
+        "cons": [
+          "Requires a high Stealth (DEX) check",
+          "Slow movement through the 'nothingness'"
+        ],
+        "pros": [
+          "Conserves high-tier slots",
+          "Zero chance of alerting the Abyssal Retrieval Squad"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "surgical_ward_deletion",
+        "text": "Surgical Ward Deletion",
+        "risk_level": "medium",
+        "description": "Use Abyssal Needle to pierce the local mana-anchor, causing a localized collapse that erases the guardians in this sector.",
+        "cons": [
+          "Causes a significant mana-spike",
+          "May alert the Retrieval Squad to our current sector"
+        ],
+        "pros": [
+          "Clears the path instantly",
+          "Allows for a rapid entry into the Glade"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "parallel_synergistic_entry",
+        "text": "Decoy Strike & Flank (Synergistic)",
+        "risk_level": "low",
+        "description": "I will project a Tier 1 'ghost' signature to distract the nearest guardian while Stark and Fern flank it for a silent, physical take-down.",
+        "cons": [
+          "Requires perfect timing",
+          "Stark is at higher risk in the 'nothingness'"
+        ],
+        "pros": [
+          "Safe removal of sentries",
+          "Synergy: Frieren can analyze the anchor's reaction while the guardian is occupied",
+          "Reduced DC for Glade infiltration"
+        ],
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "Guardian's sensory focus is entirely bifurcated, granting advantage to the flanking team.",
+          "dc_modifier": -2,
+          "coordination_dc": 14
+        }
+      }
+    ]
+  },
+  "rewards_box": {
+    "current_xp": 100875,
+    "level_up_available": false,
+    "loot": [
+      "Strategic Advantage: Sentinel Patterns Mapped"
+    ],
+    "gold": 0.0,
+    "progress_percent": 4,
+    "xp_gained": 150,
+    "current_level": 12,
+    "xp_total": 100875,
+    "xp_to_next_level": 19125,
+    "source": "encounter",
+    "next_level_xp": 120000
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Overheard in the inn",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Supplies for the next town are now 40% depleted",
+        "location": "North Road",
+        "action": "Reported missing caravan on the northern trade route",
+        "player_impact": "Resource scarcity in future locations",
+        "actor": "Merchant Guild",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Walking through the square",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Village morale stabilized (+2 trust)",
+        "location": "Elsholtz Square",
+        "action": "Organized a memorial for the fallen guards",
+        "player_impact": "Reputation gain",
+        "actor": "Village Headman",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Passing the bridge on departure",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Animal acting aggressive/mutated by rot-mana",
+        "location": "Stone Bridge",
+        "action": "Found a shard of Qual's armor in the snow",
+        "player_impact": "Minor environmental hazard",
+        "actor": "Stray Dog",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Mana-scrying or betrayal",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Level 15 hunters are now tracking the Scion's resonance",
+        "location": "The Abyss - Gateway",
+        "action": "Dispatched to investigate the 'Silent Deletion' of Commander Qual",
+        "player_impact": "Significant future threat",
+        "actor": "Abyssal Retrieval Squad",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Mana-scrying or ambush",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Hunters are now 2 hours behind the party",
+        "actor": "Abyssal Retrieval Squad",
+        "action": "Triangulated the Tier 4 resonance burst",
+        "player_impact": "Impending combat encounter",
+        "location": "Southern Ravine Entrance",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Spotted on high ground",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Evidence of void-stone guardian activity confirmed",
+        "actor": "Merchant Caravan Alpha",
+        "action": "Found 'echo-horses' wandering the pass",
+        "player_impact": "Confirms threat level of the region",
+        "location": "Ravine Ridge",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Arrival of a follow-up messenger",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Sent an urgent report to the Continental Mage Association",
+        "actor": "Elsholtz Village Mages",
+        "action": "Detected a Sovereign-tier mana bloom to the north",
+        "player_impact": "Increases scrutiny from Serie's rivals",
+        "location": "Elsholtz",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Political intelligence",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Factions within the Association are split on her status",
+        "actor": "Serie's Inner Circle",
+        "action": "Debating the 'Freedom' mandate given to Nocticula",
+        "player_impact": "Future quest hooks regarding First-Class status",
+        "location": "Association Capital",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct observation or Perception check",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Hunters have visual confirmation of the displacement site",
+        "actor": "Abyssal Retrieval Squad (Lvl 15)",
+        "action": "Scouts spotted on the southern ridge",
+        "player_impact": "Combat is imminent if party lingers",
+        "location": "Southern Ravine Entrance",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Visible sky shifts and mana-sensitivity",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Ambient mana-entropy increasing in the region",
+        "actor": "Whispering Glade Anchor",
+        "action": "Mana-storm intensifying",
+        "player_impact": "Disadvantage on long-range flight or teleportation",
+        "location": "Whispering Glade",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Investigation in the forest",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Potential safe rest point identified",
+        "actor": "Merchant Caravan Alpha",
+        "action": "Survivors found a hidden Myth-era cave",
+        "player_impact": "Alternative to pushing straight through",
+        "location": "North Ridge",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "News from follow-up bird",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Official scrutiny will arrive in 10 days",
+        "actor": "Continental Mage Association",
+        "action": "Dispatched a Second-Class examiner",
+        "player_impact": "Nocticula's freedom mandate will be reviewed",
+        "location": "Association Capital",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Nocticula"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "Shadowy figures have been seen moving through the valley to the north; they don't leave tracks in the snow.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Continental Mage Association is recalling all First-Class mages for a secret summit.",
+      "source_type": "guard",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Northern sky turned sapphire for a moment; mages say a god has descended to purge the shadows.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Merchant Guild has doubled the bounty for any information on the 'Hollowed Caravan.'",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Hollowed Caravan' wasn't carrying silk, but crystalline ore from the Era of Myth.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "encounter_state": {
+    "encounter_summary": {
+      "objectives_total": 3,
+      "outcome": "Success",
+      "xp_awarded": 8000,
+      "objectives_achieved": 3
+    },
+    "encounter_completed": true,
+    "encounter_id": "enc_14920101_demo_001",
+    "difficulty": "deadly",
+    "encounter_type": "quest",
+    "objectives": [
+      "Protect Elsholtz from the demonic horde",
+      "Defeat the three high-density demon signatures",
+      "Maintain the Mana Veil during combat"
+    ],
+    "encounter_active": false
+  },
+  "session_id": "legacy-migrated-592a63cb55d82dc3",
+  "frozen_plans": {
+    "hinder_qual_return": {
+      "original_dc": 14,
+      "freeze_until": "1492 DR, Hammer 1, 15:12:12",
+      "failed_at": "1492 DR, Hammer 1, 11:12:12",
+      "description": "Planning how to beat or hinder Qual so he cannot return to the main army.",
+      "freeze_hours": 4
+    }
+  },
+  "schema_migrated_at": "2026-05-03T06:11:07.093535+00:00"
+}

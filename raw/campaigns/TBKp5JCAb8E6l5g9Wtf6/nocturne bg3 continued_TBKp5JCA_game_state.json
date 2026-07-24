@@ -1,0 +1,750 @@
+{
+  "game_state_version": 2,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "class": "Bard (College of Swords)",
+    "background": "Exiled Noble / Serial Killer",
+    "active_avatar": {
+      "stats": "Level 20 Bard",
+      "status": "active",
+      "location": "Upper City"
+    },
+    "attributes": {
+      "strength": 210,
+      "dexterity": 210,
+      "intelligence": 210,
+      "wisdom": 210,
+      "charisma": 280,
+      "constitution": 210
+    },
+    "conditions": [
+      "Overgod (Rank 25+)",
+      "Singularity of Will",
+      "Omni-Attunement (Absolute)",
+      "Dual Existence"
+    ],
+    "inventory_remove": [
+      "Crown Regulator"
+    ],
+    "xp": {
+      "needed_for_next_level": 195000,
+      "current": 185000,
+      "next_level": "MAX"
+    },
+    "inventory_add": [
+      "Soul Contract (House of Hope)"
+    ],
+    "string_id": "pc_nocturne_001",
+    "race": "Human (Variant)",
+    "alignment": "Neutral Evil",
+    "spells_known": [
+      "ALL"
+    ],
+    "resources": {
+      "gold": "Unlimited",
+      "consumables": {
+        "potions": [
+          "Greater Healing",
+          "Water Breathing"
+        ],
+        "soul_coins": 0,
+        "poison": [
+          "Ghost of Bhaal (3 doses)"
+        ]
+      },
+      "class_features": {
+        "song_of_rest": "d8",
+        "infernal_siphon": {
+          "available": true
+        }
+      },
+      "spell_slots": {
+        "level_7": {
+          "used": 0,
+          "total": 999
+        },
+        "level_9": {
+          "used": 0,
+          "total": 4
+        },
+        "level_5": {
+          "used": 0,
+          "total": 999
+        },
+        "level_1": {
+          "used": 0,
+          "total": 999
+        },
+        "level_6": {
+          "used": 0,
+          "total": 999
+        },
+        "level_2": {
+          "used": 0,
+          "total": 999
+        },
+        "level_4": {
+          "used": 0,
+          "total": 999
+        },
+        "level_8": {
+          "used": 0,
+          "total": 999
+        },
+        "level_3": {
+          "used": 0,
+          "total": 999
+        }
+      },
+      "inspiration": {
+        "used": 0,
+        "total": 5
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 195000,
+      "current": 185000,
+      "to_next_level": 16720000
+    },
+    "spell_slots": {
+      "level_7": {
+        "used": 0,
+        "total": 999
+      },
+      "level_9": {
+        "used": 0,
+        "total": 4
+      },
+      "level_5": {
+        "used": 0,
+        "total": 999
+      },
+      "level_1": {
+        "used": 0,
+        "total": 999
+      },
+      "level_6": {
+        "used": 0,
+        "total": 999
+      },
+      "level_2": {
+        "used": 0,
+        "total": 999
+      },
+      "level_4": {
+        "used": 0,
+        "total": 999
+      },
+      "level_8": {
+        "used": 0,
+        "total": 999
+      },
+      "level_3": {
+        "used": 0,
+        "total": 999
+      }
+    },
+    "name": "Nocturne (The Shadow Monarch)",
+    "status": "God-King of Baldur's Gate",
+    "features": [
+      "Avatar of Karsus (Infinite L1-5 Spells)",
+      "The Monarch's Word (Buffed PWK)",
+      "Alter Reality (Wish 1/day no stress)",
+      "Divine Aura (DC 30)",
+      "Triple Concentration",
+      "True Immortality",
+      "Regeneration (20HP/turn)",
+      "Immune: Fire/Poison/Disease/Aging",
+      "Salient Ability: Hand of Death",
+      "Salient Ability: Divine Sense (10 miles)"
+    ],
+    "hp_max": 7000,
+    "spell_save_dc": 315,
+    "level": 350,
+    "class_features": {
+      "supreme_inspiration": true,
+      "expertise": {
+        "slots": 2,
+        "available": true
+      },
+      "metamagic": {
+        "sorcery_points": {
+          "used": 0,
+          "total": 2
+        },
+        "options": [
+          "Subtle Spell",
+          "Quickened Spell"
+        ]
+      },
+      "inspiration_die": "d12",
+      "song_of_rest": "d10",
+      "magical_secrets": {
+        "slots": 2,
+        "available": true
+      }
+    },
+    "knowledge": [
+      "The Karsus Clause (Mental Syntax)",
+      "House of Hope Access"
+    ],
+    "hp_current": 7000,
+    "gender": "Female",
+    "armor_class": 350,
+    "proficiency_bonus": 6,
+    "equipment": {
+      "attuned_items": [
+        "Canaith Mandolin",
+        "Cloak of Displacement",
+        "Netherstone of Bane",
+        "Boots of the Zephyr",
+        "Drum of the Dark Heart +2",
+        "Bloodthirst (Legendary Dagger)",
+        "Ring of Protection"
+      ],
+      "accessories": [
+        "Ring of Mind Shielding",
+        "Ring of Zhentarim Authority"
+      ],
+      "armor": "Glamoured Studded Leather +1",
+      "weapons": [
+        "Sun-Touched Rapier +1",
+        "Serpent's Kiss Shortbow +1",
+        "Vicious Longsword",
+        "Bloodthirst (Legendary Dagger)"
+      ],
+      "inventory_add": [
+        "Stasis Canister (Tadpole)"
+      ]
+    }
+  },
+  "world_data": {
+    "diplomatic_relations": {
+      "hells": "Destabilized",
+      "avernus": "Annexed / Sovereign Territory",
+      "cania": "Tense / Investigating",
+      "githyanki_empire": "Hostile / Mobilizing",
+      "ao": "Rival / Threat",
+      "tiamat": "Hostile / Rival",
+      "elturel": "Vassal State (Subjugated)",
+      "mystra": "Obsolete"
+    },
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 0,
+      "hour": 12,
+      "time_of_day": "Midday",
+      "year": 1492,
+      "day": 15,
+      "month": "Kythorn"
+    },
+    "current_location": "loc_bronze_citadel_throne_001",
+    "locations": {
+      "loc_temple_bhaal_001": {
+        "status": "Being Looted (Guild Control)",
+        "description": "Undercity Ruins. Ancient stone door (Skull). Contains the Altar and the Netherstone.",
+        "connected_to": [
+          "loc_undercity_sewers_001"
+        ],
+        "display_name": "Temple of Bhaal",
+        "entities_present": [
+          "Guild Elite Guard (NPCs)"
+        ]
+      },
+      "loc_moonrise_ship_hold_001": {
+        "description": "Reinforced iron bulkhead, Netherese stasis field, thousands of tadpoles in glass cylinders.",
+        "display_name": "Secure Cargo Hold",
+        "entities_present": [
+          "pc_nocturne_001",
+          "npc_gant_001",
+          "npc_nyx_001"
+        ]
+      },
+      "loc_moonrise_ship_001": {
+        "description": "Rain-slicked, blood-stained, dark wood. Wyrm's Tooth looming above.",
+        "display_name": "Deck of the Moonrise Ship",
+        "entities_present": [
+          "pc_nocturne_001",
+          "npc_vesper_001",
+          "npc_truesoul_001"
+        ]
+      }
+    },
+    "current_location_name": "The Bronze Citadel (Avernus)"
+  },
+  "npc_data": {
+    "Vesper": {
+      "class": "Assassin Rogue",
+      "status": "Ascended",
+      "location": "House Hhune (Upper City)",
+      "level": 20,
+      "inventory_add": [
+        "Mutilated Carapace"
+      ],
+      "current_task": "Hunting underground cults",
+      "conditions": [
+        "Mind Blank"
+      ],
+      "conscious": true,
+      "present": true,
+      "role": "Exarch of Shadows (Level 20 Assassin)",
+      "string_id": "npc_vesper_001"
+    },
+    "Gant": {
+      "class": "Shadow Monk",
+      "status": "Ascended",
+      "location": "The Coiled Serpent",
+      "level": 20,
+      "inventory_add": [
+        "Bone-Spike Gauntlets"
+      ],
+      "conditions": [
+        "Mind Blank"
+      ],
+      "string_id": "npc_gant_001",
+      "present": true,
+      "role": "Exarch of Force (Level 20 Shadow Monk)",
+      "conscious": true
+    },
+    "Simulacrum (God-Tier)": {
+      "class": "Bard (College of Swords)",
+      "status": "Active",
+      "dc": 315,
+      "hp_max": 7000,
+      "location": "The High Hall",
+      "level": 350,
+      "hp_current": 7000,
+      "string_id": "npc_simulacrum_god_001",
+      "ac": 350,
+      "role": "The Second Sovereign",
+      "name": "The Perfect Echo"
+    },
+    "Raphael": {
+      "string_id": "npc_raphael_001",
+      "status": "Enslaved / Steward of Hope",
+      "role": "Reluctant Guide",
+      "location": "The Morphic Pool (Dock)",
+      "conditions": [
+        "Dominated (Permanent/Contract)",
+        "Broken Will"
+      ]
+    },
+    "Enver Gortash": {
+      "class": "Artificer",
+      "interaction_state": "Consulted on Theological Suppression",
+      "status": "Exarch / The Architect",
+      "location": "The High Hall",
+      "level": 20,
+      "inventory_remove": [
+        "Netherstone of Bane"
+      ],
+      "hp_current": 200,
+      "inventory_add": [
+        "Netherese Gauntlet (Replica)"
+      ],
+      "conditions": [
+        "Restored",
+        "Hands Healed"
+      ],
+      "knowledge": [
+        "Raphael's Ambition (Crown)",
+        "Zariel's Indifference (Blood War focus)"
+      ],
+      "role": "General of the Steel Watch",
+      "attitude": "Fanatical Devotion"
+    },
+    "Orin": {
+      "class": "Assassin / Slayer",
+      "status": "Exarch / The Blade",
+      "location": "The High Hall",
+      "level": 20,
+      "inventory_remove": [
+        "Bloodthirst",
+        "Crimson Mischief",
+        "Mutilated Carapace"
+      ],
+      "hp_current": 200,
+      "inventory_add": [
+        "Bloodthirst",
+        "Crimson Mischief"
+      ],
+      "conditions": [
+        "Restored",
+        "Limbs Regenerated"
+      ],
+      "role": "High Executioner",
+      "attitude": "Fanatical Devotion"
+    },
+    "Farslayer Gislev": {
+      "string_id": "npc_gislev_001",
+      "conscious": true,
+      "present": true,
+      "status": "Captured (Cell 3)",
+      "location": "The Coiled Serpent (High Security Ward)",
+      "conditions": [
+        "Dominated",
+        "Silenced"
+      ]
+    },
+    "Simulacrum": {
+      "class": "Bard (College of Swords)",
+      "location": "The Water Queen's House (Harbor)",
+      "current_task": "Freezing the Harbor / Suppressing Umberlants",
+      "string_id": "npc_simulacrum_001",
+      "present": true,
+      "conscious": true,
+      "spells_known": [
+        "Counterspell",
+        "Banishing Smite",
+        "Otto's Irresistible Dance",
+        "Teleport",
+        "Resurrection",
+        "Dominate Person"
+      ],
+      "name": "The Echo",
+      "spell_slots": {
+        "level_7": {
+          "used": 1,
+          "total": 1
+        },
+        "level_2": {
+          "used": 0,
+          "total": 3
+        },
+        "level_4": {
+          "used": 0,
+          "total": 3
+        },
+        "level_5": {
+          "used": 0,
+          "total": 2
+        },
+        "level_1": {
+          "used": 0,
+          "total": 4
+        },
+        "level_3": {
+          "used": 0,
+          "total": 3
+        },
+        "level_6": {
+          "used": 0,
+          "total": 1
+        }
+      },
+      "ac": 19,
+      "status": "Active",
+      "hp_max": 49,
+      "level": 14,
+      "hp_current": 49,
+      "role": "Duplicate of the Shadow Monarch"
+    },
+    "Elder Brain": {
+      "string_id": "npc_elder_brain_001",
+      "status": "Lobotomized / Biological Server",
+      "location": "The Morphic Pool",
+      "conditions": [
+        "Mind Blank (Bypassed)",
+        "Dominated",
+        "Soul Siphoned"
+      ]
+    },
+    "Silas": {
+      "class": "Gloom Stalker Ranger",
+      "status": "Ascended",
+      "location": "The Devil's Fee (Lower City)",
+      "level": 20,
+      "inventory_add": [
+        "Arrows of Construct Slaying (x5)"
+      ],
+      "current_task": "Auditing the Water Queen's House",
+      "conditions": [
+        "Mind Blank"
+      ],
+      "conscious": true,
+      "present": true,
+      "role": "Exarch of the Hunt (Level 20 Gloom Stalker)",
+      "string_id": "npc_silas_001"
+    },
+    "True Soul Leader": {
+      "status": "Dead (Burned Out)",
+      "location": "The Morphic Pool (Dock)",
+      "conditions": [
+        "Dominated",
+        "Idol-Locked",
+        "Mind Blank"
+      ],
+      "hp_current": 0,
+      "string_id": "npc_truesoul_001",
+      "present": false,
+      "role": "Cult Commander",
+      "conscious": false
+    },
+    "Tiamat": {
+      "status": "Active / Hostile",
+      "location": "Dragon's Spire (Avernus)",
+      "attitude": "Defiant"
+    },
+    "The Twelve": {
+      "status": "Active / Divergent",
+      "location": "Omnipresent",
+      "level": 350,
+      "age": 0,
+      "string_id": "npc_pantheon_001",
+      "description": "12 Perfect Echoes of the Shadow Monarch, each embodying a divine portfolio.",
+      "role": "Council of Simulacra",
+      "gender": "female",
+      "name": "The Pantheon of Self"
+    },
+    "Grand Duke Ravengard": {
+      "status": "Puppet Ruler / Mouthpiece",
+      "location": "The High Hall",
+      "attitude": "Fearful/Compliant"
+    },
+    "Bel": {
+      "status": "Subservient / Proxy General",
+      "role": "Castellan of Avernus",
+      "location": "Bronze Citadel",
+      "attitude": "Terrified Loyalty"
+    },
+    "Nyx": {
+      "class": "Fiend Warlock",
+      "status": "Ascended",
+      "location": "The Morphic Pool",
+      "level": 20,
+      "inventory_add": [
+        "Staff of Withered Necromancy"
+      ],
+      "conditions": [
+        "Mind Blank"
+      ],
+      "string_id": "npc_nyx_001",
+      "present": true,
+      "role": "Exarch of Magic (Level 20 Warlock)",
+      "conscious": true
+    },
+    "Lyra Umbrage": {
+      "class": "Eloquence Bard / Archmage",
+      "status": "Exarch / The Voice",
+      "location": "The Guildhall (Lower City)",
+      "level": 20,
+      "conditions": [
+        "Restored"
+      ],
+      "current_task": "Managing City Administration autonomously",
+      "hp_current": 200,
+      "role": "Exarch / The Voice",
+      "attitude": "Fanatical Devotion"
+    },
+    "Captain Valerian": {
+      "status": "Dead (Executed by Nocturne)",
+      "string_id": "npc_valerian_001",
+      "present": false,
+      "role": "Flaming Fist Traitor (North Gate Command)",
+      "location": "loc_umbrage_solarium_001",
+      "conditions": [
+        "Psychically Dominated",
+        "Mind Shattered"
+      ]
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "campaign_status": "Eternal Reign",
+    "active_missions": [
+      {
+        "title": "The Eternal Reign",
+        "status": "active",
+        "mission_id": "eternal_reign",
+        "objective": "Rule the dual-planar empire of Baldur's Gate and Avernus."
+      }
+    ],
+    "character_creation": {
+      "in_progress": false
+    },
+    "campaign_phase": "Sandbox Mode",
+    "last_location": "The Morphic Pool",
+    "divine_rank": "Divine Rank 6 (Lesser Deity)",
+    "core_memories": [
+      "Captured Moonrise Ship and True Soul Leader at Wyrm's Tooth.",
+      "Used God-Mode CHA/Idol to psychically hijack the True Soul Leader, overriding the Absolute's control.",
+      "Interrogated True Soul Leader: Revealed 'The Ascension' plot for Tarsakh 7 (Parliament Infection) and identified Captain Valerian as a traitor.",
+      "[auto] The ship groans as it cuts through the black water of the Chionthar, the storm outside battering the hull. Inside the Captain's Quarters, the only light comes from the viole",
+      "Isolated Captain Valerian at the Umbrage Estate. Activated Idol's Malice, achieving psychic dominance to interrogate him about Orin before deciding his fate. Rejected simple assassination in favor of intelligence gathering.",
+      "Psychically probed Captain Valerian: Confirmed Orin is the true threat, not the Absolute. Orin plans to assassinate Duke Ravengard at the Gala. Valerian's mind shattered in the process.",
+      "Executed Captain Valerian in the Umbrage Estate Solarium to fulfill the contract with Keene. Confirmed Orin the Bhaalist is the true threat, targeting Duke Ravengard at the Gala.",
+      "Executed Captain Valerian. Confirmed Orin as the Bhaalist threat targeting Ravengard. Convened War Council with Vesper and Silas to decide the Duke's fate.",
+      "Used Soul Coin Divination: Confirmed Gortash has Emergency Edict 14 ready. If Ravengard dies, Steel Watch declares Martial Law immediately.",
+      "Used True Sight at the Gala to identify Orin disguised as Ravengard's bodyguard.",
+      "Intercepted Orin at the Gala. Surgically amputated her limbs to neutralize the Slayer form. Captured the Chosen of Bhaal alive.",
+      "Intercepted Orin at the Gala. Surgically amputated her limbs to neutralize the Slayer form. Captured the Chosen of Bhaal alive. Forced Duke Ravengard to publicly endorse the Sovereign Shield.",
+      "Used God-Mode Detect Thoughts to rip the location of the Temple of Bhaal from Orin's mind. Discovered Orin's Netherstone is unguarded on the Altar. Gortash plans to seize it.",
+      "Defeated and captured Orin the Red (Chosen of Bhaal). Seized her legendary weapons. Reached Level 9 (Tier 2/3 transition).",
+      "Interrogated Orin: Revealed 'Farslayer Gislev' guards the Temple Bridge with 'Unstoppable' mechanic and 'Power Word Kill' ritual.",
+      "Used God-Mode Infernal Siphon to Dominate Farslayer Gislev, turning the Temple's defenses against Gortash's approaching Steel Watch.",
+      "Ambushed Gortash at the Temple of Bhaal. Turned Farslayer Gislev against the Steel Watch. Landed a devastating alpha strike on the Archduke.",
+      "Ambushed and captured Enver Gortash alive on the Temple Bridge. Turned the Farslayer against the Steel Watch. Seized the Netherstone of Bane.",
+      "Defeated Gortash and the Steel Watch on the Temple Bridge. Seized the Netherstone of Bane and the Netherstone of Bhaal. Captured Farslayer Gislev.",
+      "Broke Gortash using the 'Obsolete' bluff and the threat of Orin. Secured Steel Watch override codes: 'Tyrant-Ascendant-Zero'.",
+      "Interrogated Gortash using the 'Obsolete' bluff. Secured Steel Watch override: 'Tyrant-Ascendant-Zero'. Confirmed Elder Brain location: Morphic Pool via Submersible (Code: 'Dominion').",
+      "Interrogated Gortash: Confirmed Steel Watch Foundry requires physical breach due to 'Iron Curtain' protocol and 'Titan' guardian.",
+      "Seized control of the Steel Watch Foundry. Crippled Enver Gortash (severed tendons) to neutralize him as a threat while keeping him as a political asset.",
+      "Mastered the Steel Watch control protocols directly from Gortash. Became the sole Admin of the mechanical army.",
+      "Reached Level 10 (Bard). Unlocked Magical Secrets. Separated Gortash and Orin to prevent conspiracy.",
+      "Executed the Trinity Ritual using the True Soul Leader as a living conduit. Dominated the Elder Brain without destroying it. Became the Absolute.",
+      "Executed 'Infernal Siphon: The Lobotomy' on the Elder Brain. Consumed its intellect to gain 'Absolute Knowledge'. Reduced the Brain to a biological server for the Steel Watch and Hive Mind.",
+      "Reached Level 12. Defeated and Lobotomized the Elder Brain (24,000 XP). Separated Gortash (Shadow Bank) and Orin (Coiled Serpent) to prevent resonance.",
+      "Achieved Level 13 (Tier 3/4 Transition). Unlocked 7th Level Magic and Metamagic Adept. Defeated Netherbrain (Mythic).",
+      "Achieved Level 13. Learned Teleport. Defeated the Netherbrain and established the Shadow Empire.",
+      "Teleported to High Hall. Accepted the Coronet from Ravengard. Established the 'God-King in Shadow' reign. Campaign Victory.",
+      "Delegated the 'Three Threats' to lieutenants. Vesper secured the Shield of the Hidden Lord. Silas crushed the Githyanki. Lyra bought Mol. Total victory via proxy.",
+      "Synthesized the 'Rite of the Eclipse' using the Elder Brain. The path to Godhood requires consuming Gargauth, wearing the Crown of Karsus, and a mass-enchantment Wedding.",
+      "Consumed Zariel, Archduchess of Avernus. Acquired Portfolio of War and Divine Rank 2.",
+      "Defeated and Subjugated Tiamat in Avernus. Annexed the First Layer of Hell. Achieved status of God-King of Two Realms.",
+      "Defeated and Subjugated Tiamat in Avernus via Infernal Contract. Annexed the First Layer of Hell."
+    ],
+    "pantheon_status": "The Pantheon of Self (Established)",
+    "timeline_status": "Reset to Post-Zariel Victory",
+    "last_story_mode_sequence_id": 354,
+    "attribute_system": "D&D",
+    "elder_brain_protocol": "Active Overwatch (Split Stream)",
+    "sovereign_rule": "Secular Tyranny (Divine Camouflage)",
+    "player_status": "Overgod (Rank 25+)",
+    "empire_assets": {
+      "spire_of_night": "Complete (Active)",
+      "steel_watch": "Enslaved Legion",
+      "religion": "Outlawed / State Controlled",
+      "high_house_of_wonders": "Nationalized (State Engineers)",
+      "spire_amplifier": "Interplanar Broadcast Active",
+      "steel_watch_army": "Deployed (City-wide)",
+      "dragon_flight": "Subjugated (Contract Bound)",
+      "legions_of_avernus": "Commanded (Bel as Proxy)",
+      "administration": "Lyra Umbrage (Queen in Gold)",
+      "grey_chorus": "Active (Secret Police)",
+      "sovereign_rule": "Secular Tyranny (Divine Camouflage)",
+      "flying_fortress": "Active Flagship",
+      "elturel_tribute": "Active",
+      "shadow_bank": "Funding Ritual",
+      "the_twelve": "Active",
+      "avernus_layer_1": "Sovereign Territory",
+      "avatar_echo": "Active (Level 20 Bard Simulacrum)",
+      "house_umbrage": "Subverted",
+      "security": "Vesper & Silas (Black Lotus)",
+      "sovereign_shield": "Publicly Endorsed",
+      "flaming_fist_commander": "Subverted / Mobilized",
+      "guild_gala_support": "Mobilizing",
+      "elder_brain": "Server Mode (Stable)",
+      "baldur_s_gate": "Sovereign Territory",
+      "avernus_legions": "Direct Command (Sovereign)",
+      "hive_mind": "Under Player Control",
+      "containment": "Nyx & Gant (The Deep)",
+      "bronze_citadel": "Annexed Territory",
+      "council_of_exarchs": "Active (Lyra, Gortash, Orin, Vesper, Silas, Gant, Nyx)",
+      "water_queens_house": "Under Audit (Hostile)"
+    },
+    "strategy_focus": "Divine Ascension Analysis",
+    "avatar_status": {
+      "current_task": "Automated City Management",
+      "active": true,
+      "simulacrum_created": true
+    },
+    "spire_of_night": "Complete (Active)",
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "allies": [
+      "The Echo",
+      "Vesper",
+      "Silas",
+      "Gant",
+      "Nyx"
+    ],
+    "in_combat": true,
+    "enemies": [
+      "Zariel"
+    ]
+  },
+  "last_state_update_timestamp": "2025-12-01 18:58:52.573000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 0,
+    "hour": 12,
+    "time_of_day": "Midday",
+    "year": 1492,
+    "day": 15,
+    "month": "Kythorn"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "Inspiration: 5/5, Soul Coins: 18, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "active_missions": [
+    {
+      "title": "The Edict of Order",
+      "status": "active",
+      "mission_id": "edict_of_order",
+      "objective": "Dismantle the religious infrastructure of Baldur's Gate and replace it with State bureaucracy."
+    }
+  ],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "resources": {
+    "spell_slots": {
+      "level_9": {
+        "used": 1,
+        "total": 4
+      },
+      "level_6": {
+        "used": 1,
+        "total": 1
+      },
+      "level_5": {
+        "used": 1,
+        "total": 1
+      }
+    },
+    "consumables": {
+      "soul_coins": 0
+    },
+    "alter_reality": {
+      "used": 1,
+      "total": 1
+    },
+    "class_features": {
+      "action_surge": {
+        "used": 1,
+        "total": 1
+      }
+    }
+  },
+  "world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 12,
+    "minute": 0,
+    "time_of_day": "Midday",
+    "day": 15,
+    "year": 1492,
+    "month": "Kythorn"
+  },
+  "empire_assets": {
+    "house_of_hope": "Vassal State (Contract Bound)"
+  }
+}

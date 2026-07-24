@@ -1,0 +1,799 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 24,
+      "temp_hp": 0,
+      "hp": 24,
+      "conditions": []
+    },
+    "proficiency_bonus": 2,
+    "class_name": "Cleric (Forge Smith)",
+    "background": "Guild Artisan",
+    "entity_id": "pc_haldan_001",
+    "display_name": "Haldan Iron-Wrought",
+    "attributes": {
+      "strength": 16,
+      "dexterity": 8,
+      "intelligence": 8,
+      "wisdom": 16,
+      "charisma": 12,
+      "constitution": 14
+    },
+    "hit_dice_current": 2,
+    "hit_dice_max": 2,
+    "status_conditions": [],
+    "race": "Mountain Dwarf",
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 3
+      },
+      "spell_slots": {
+        "level_2": {
+          "current": 1,
+          "used": 1,
+          "max": 2
+        },
+        "level_1": {
+          "current": 4,
+          "used": 0,
+          "max": 4
+        }
+      },
+      "gold": 1052,
+      "last_long_rest_world_time": {
+        "hour": 4,
+        "day": 30,
+        "year": 1493,
+        "month": "Hammer",
+        "minute": 30
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 2700,
+      "current": 1775,
+      "to_next_level": 925
+    },
+    "base_attributes": {
+      "strength": 16,
+      "dexterity": 8,
+      "intelligence": 8,
+      "wisdom": 16,
+      "charisma": 12,
+      "constitution": 14
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Bless"
+      },
+      {
+        "level": 1,
+        "name": "Cure Wounds"
+      },
+      {
+        "level": 2,
+        "name": "Enhance Ability"
+      },
+      {
+        "level": 1,
+        "name": "Guiding Bolt"
+      },
+      {
+        "level": 1,
+        "name": "Healing Word"
+      },
+      {
+        "level": 2,
+        "name": "Spiritual Weapon"
+      },
+      {
+        "level": 2,
+        "description": "Domain Spell",
+        "name": "Heat Metal"
+      },
+      {
+        "level": 2,
+        "description": "Domain Spell",
+        "name": "Magic Weapon"
+      }
+    ],
+    "hp_max": 24,
+    "features": [
+      "Channel Divinity (1/rest)",
+      "Channel Divinity: Turn Undead",
+      "Channel Divinity: Artisan's Blessing"
+    ],
+    "level": 3,
+    "skills": [
+      "athletics",
+      "insight",
+      "persuasion",
+      "religion"
+    ],
+    "hp_current": 24,
+    "cantrips": [
+      {
+        "level": 0,
+        "description": "Smith's Eye",
+        "name": "Guidance"
+      },
+      {
+        "level": 0,
+        "description": "Forge Spark",
+        "name": "Sacred Flame"
+      },
+      {
+        "level": 0,
+        "description": "Stoke the Life-Fire",
+        "name": "Spare the Dying"
+      }
+    ],
+    "active_effects": [
+      "Synchronized Crew - Tilda and Bram provide a -1 DC reduction to complex crafting rituals.",
+      "Enhance Ability (Concentration) - Advantage on Ability Checks (appropriate variant assumed active)."
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "name": "Smith's Tools"
+        },
+        {
+          "name": "Mason's Tools"
+        },
+        {
+          "name": "Guild Introduction Letter"
+        },
+        {
+          "quantity": 20,
+          "name": "Iron Ingot"
+        },
+        {
+          "quantity": 10,
+          "name": "Steel Ingot"
+        },
+        {
+          "quantity": 50,
+          "name": "Coal"
+        },
+        {
+          "quantity": 10,
+          "name": "Leather Strips"
+        },
+        {
+          "name": "Whetstone"
+        },
+        {
+          "name": "Bellows"
+        },
+        {
+          "stats": "Expertise",
+          "name": "Smith's Tools"
+        },
+        {
+          "equipped": true,
+          "stats": "Expertise, +1 to Smith's Tools checks",
+          "name": "Blessed Smith's Tools"
+        },
+        {
+          "description": "A formal voucher of character and skill from a Master Smith.",
+          "type": "document",
+          "name": "Journeyman Sponsorship Letter (Thrum Bone-Breaker)"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "ac": 16,
+        "type": "armor",
+        "name": "Chain Mail"
+      },
+      "off_hand": {
+        "equipped": true,
+        "ac_bonus": 2,
+        "type": "shield",
+        "name": "Shield"
+      },
+      "main_hand": {
+        "damage": "1d8+3",
+        "equipped": true,
+        "type": "weapon",
+        "name": "Warhammer"
+      },
+      "ranged": {
+        "damage": "1d8",
+        "equipped": true,
+        "type": "weapon",
+        "name": "Light Crossbow"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 50,
+      "hour": 17,
+      "time_of_day": "afternoon",
+      "year": 1493,
+      "day": 1,
+      "month": "Ches"
+    },
+    "current_location_name": "Smuggler's Cove, Gray Harbor"
+  },
+  "npc_data": {
+    "npc_dammon_001": {
+      "display_name": "Dammon",
+      "race": "Tiefling",
+      "npc_id": "npc_dammon_001",
+      "role": "Master Smith",
+      "gender": "Male",
+      "tier": "noble"
+    },
+    "Thrum Bone-Breaker": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Formed a preliminary professional partnership for the harbor crane contract"
+          ]
+        }
+      }
+    },
+    "npc_lulu_001": {
+      "race": "Tressym",
+      "npc_id": "npc_lulu_001",
+      "role": "Forge Cat",
+      "tier": "commoner",
+      "display_name": "Lulu"
+    },
+    "npc_keene_001": {
+      "role": "Guild Master",
+      "display_name": "Nine-Fingers Keene",
+      "npc_id": "npc_keene_001",
+      "alignment": "Neutral",
+      "gender": "Female",
+      "tier": "lord"
+    },
+    "Tilda Iron-Wrought": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_tilda_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Tilda Iron-Wrought",
+      "hp_max": 4,
+      "level": 2,
+      "tier": "commoner",
+      "hp_current": 4,
+      "age": 12,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Grew up in the forge together",
+            "Helped manage the shop after parents' death"
+          ]
+        }
+      },
+      "gender": "Female",
+      "role": "Ledger Keeper / Sister"
+    },
+    "npc_ravengard_001": {
+      "role": "Ruler of Baldur's Gate",
+      "display_name": "Grand Duke Ulder Ravengard",
+      "npc_id": "npc_ravengard_001",
+      "alignment": "Lawful Good",
+      "gender": "Male",
+      "tier": "king"
+    },
+    "npc_faceless_001": {
+      "status": "hidden",
+      "npc_id": "npc_faceless_001",
+      "role": "Mysterious Patron",
+      "tier": "lord",
+      "display_name": "The Faceless One"
+    },
+    "Bram Iron-Wrought": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_bram_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Bram Iron-Wrought",
+      "hp_max": 3,
+      "level": 2,
+      "tier": "commoner",
+      "hp_current": 3,
+      "age": 8,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Grew up in the forge together",
+            "Assists with basic forge tasks"
+          ]
+        }
+      },
+      "gender": "Male",
+      "role": "Bellows Helper / Brother"
+    },
+    "Sergeant Gauntlet": {
+      "entity_id": "npc_gauntlet_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "tier": "guard",
+      "display_name": "Sergeant Gauntlet",
+      "level": 4,
+      "role": "Flaming Fist Sergeant",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "First customer of the new Iron-Wrought Forge"
+          ]
+        }
+      }
+    },
+    "Beldrit": {
+      "entity_id": "npc_beldrit_001",
+      "status": "normal",
+      "entity_type": "npc",
+      "display_name": "Beldrit",
+      "tier": "noble",
+      "level": 2,
+      "race": "Deep Gnome",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Formed bidding alliance at Smuggler's Cove"
+          ]
+        }
+      },
+      "role": "Ironhand Representative",
+      "gender": "Male"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "I wanna be a blacksmith in baldurs gate after events bg3 and let\u2019s do no or minimal combat to start."
+    },
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "smith_guild_tiers": [
+      "Apprentice",
+      "Journeyman",
+      "Master Smith",
+      "Artisan of the Realm",
+      "World-Renowned Grand Master"
+    ],
+    "success_streak": 1,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "StoryModeAgent",
+      "rewards_skip_count": 0
+    },
+    "character_creation_completed": true,
+    "last_location": "Smuggler's Cove, Gray Harbor",
+    "smith_guild_rank": "Apprentice",
+    "divine_potential": 0,
+    "core_memories": [
+      "Haldan Iron-Wrought is a Forge Smith Cleric of Baldur's Gate, inheriting his parents' shop and following a 30-level divine progression of the hammer and anvil.",
+      "Haldan Iron-Wrought has inherited the Iron-Wrought Forge in Baldur's Gate in 1493 DR, discovering a mysterious debt to 'The Faceless One'.",
+      "Haldan is an Apprentice in the Smith's Guild and cares for his younger siblings, Tilda (12) and Bram (8), following their parents' death.",
+      "Haldan opened the Iron-Wrought Forge for its first day of business with Tilda and Bram assisting, receiving a breastplate repair request from Sergeant Gauntlet.",
+      "Haldan successfully used the 'Community Pillar' strategy to impress Sergeant Gauntlet (Lvl 4), securing 2gp and a potential referral to the Basilisk Gate barracks.",
+      "Haldan successfully performed a Masterwork Finish on Sergeant Gauntlet's breastplate, reinforcing the Iron-Wrought reputation for quality and divine craftsmanship.",
+      "Haldan attempted to organize the shop for a rush and train Bram, but the effort was clumsy, resulting in a spilled coal crate and mockery from his rival, Thrum Bone-Breaker.",
+      "Master Horgun, a harbor consortium merchant, expressed skepticism about Haldan's ability to fulfill a large contract due to his Apprentice rank, despite being impressed by his tempered steel.",
+      "Haldan successfully performed the 'Five-Minute Challenge,' winning over Master Horgun and securing a lead on a major harbor crane contract.",
+      "Haldan attempted to negotiate a 'Divine Exclusivity' deal with Varek of the Guild, but the attempt failed poorly, resulting in a 50gp penalty and increased Guild pressure.",
+      "Dammon declined to mediate with the Guild, citing his own pressures and challenging Haldan to stand on his own.",
+      "Haldan paid the 50gp Guild 'consultation fee' immediately to protect his siblings and show Master Horgun that the shop's security is handled, though Horgun remains wary.",
+      "Haldan successfully used his technical expertise in metallurgy to secure a preliminary harbor crane contract from Master Horgun, overcoming the merchant's fears of Guild interference.",
+      "Haldan successfully proposed a strategic partnership to his rival, Thrum Bone-Breaker, leveraging Thrum's foundry scale and Haldan's divine tempering to secure the harbor contract.",
+      "Haldan entered a strategic partnership with Thrum Bone-Breaker, using his divine tempering to finish Thrum's bulk castings for the harbor contract while Thrum provides Guild protection.",
+      "Haldan successfully managed a grueling multi-forge work cycle following a long rest, stabilizing the shop's output but failing to win Thrum's professional respect through divine technique.",
+      "Haldan stabilized his partnership with Thrum through a period of diligent, humble labor, earning a harbor crane contract milestone and reaching Level 2.",
+      "Correction: Despite his divine gifts, Haldan's first attempts at high-volume industrial casting under Thrum resulted in brittle structural pins and a failure to meet 'Heavy Hammer' efficiency standards.",
+      "Haldan has attained Level 2 as a Forge Smith, unlocking the Artisan's Blessing ritual and a deeper divine connection to the metal.",
+      "Haldan successfully performed his first Artisan's Blessing ritual to forge a masterwork harbor hook, impressing Thrum Bone-Breaker with the steel's quality despite a failure in team coordination with his siblings.",
+      "Haldan spent three weeks training his siblings into a synchronized crew and used Artisan's Blessing to forge Blessed Smith's Tools, stabilizing the shop's income and reputation.",
+      "Haldan secured Thrum Bone-Breaker's technical mentorship by offering his own labor to clear the Heavy Hammer's backlog, further stabilizing the consortium.",
+      "Haldan discovered a secret family contract in his father's desk: a debt of a 'Masterpiece of Shadow-Steel' owed to a mysterious patron known as The Faceless One.",
+      "Dammon identified Shadow-Steel as a material harvested from the Shadowfell that requires binding essences to the grain; he warned that 'The Faceless One' is a title for a dangerous collector of dark debts.",
+      "Haldan successfully performed a dual Artisan's Blessing to craft masterwork tools for Bram and Thrum, and learned the requirements for the Smith's Guild Journeyman exam from Thrum.",
+      "Haldan secured the massive Western Wharf reconstruction contract and reached Level 3, but his research into the Shadow-Steel debt and the 'Faceless One' was blocked by a lack of information.",
+      "Haldan considered having Tilda subcontract for Thrum's bookkeeping to find consortium efficiencies, but the strategic complexity and potential risks left him mentally muddled.",
+      "Haldan has integrated the Soul of the Forge at Level 3, unlocking second-circle miracles like Heat Metal and Spiritual Weapon as the shop's prosperity grows.",
+      "Haldan learned the Journeyman Exam requirements (Sponsorship, Speed Pour, Masterpiece) and secured a lead for a masterpiece contract: a Sentinel Lock for Lady Jannath's estate.",
+      "Haldan successfully secured a Journeyman sponsorship letter from Thrum Bone-Breaker, who recognized their partnership as proof of Haldan's professional readiness.",
+      "Haldan has begun preparations for Lady Jannath's Sentinel Lock contract, though initial cost calculations for the necessary warding alloys have proven muddled and inconclusive.",
+      "Haldan successfully identified the 'Living Grain' design for Lady Jannath's Sentinel Lock, concluding that Star-Silver and Cold-Forged Magnetic Iron are required to counter Zhentarim 'Gloom-Thread' picks.",
+      "Haldan successfully used a synergistic presentation with Tilda and Bram to win over Lady Jannath, securing a preliminary masterpiece contract for a 'Living Grain' Sentinel Lock.",
+      "Haldan secured the Jannath Sentinel Lock contract for 500gp (250gp deposit received), though his request for a recurring retainer was deferred until the installation is proven.",
+      "Haldan secured a 250gp deposit from Lady Jannath and consulted Dammon on sourcing rare Star-Silver and Magnetic Iron, identifying a Guild-held shipment and a possible auction.",
+      "Haldan successfully scouted the Smuggler's Cove auction, identifying the Zhentarim agent Kriv and the Gnome representative Beldrit as key rivals for the Shadowfell-tainted Star-Silver.",
+      "Haldan successfully used a synergistic 'Diversionary Partnership' at Smuggler's Cove, with Bram's Sacred Flame distracting the Zhentarim while Haldan began negotiating a bidding pact with the gnome Beldrit.",
+      "Haldan successfully persuaded Beldrit of the Ironhand Gnomes to form a bidding alliance at Smuggler's Cove by demonstrating his divine craftsmanship."
+    ],
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "Scouting success builds tension but hasn't triggered a major shift yet."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_in_progress": false,
+    "level_up_pending": false,
+    "campaign_tier": "mortal",
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "multiverse_upgrade_available": false,
+    "divine_upgrade_available": false,
+    "universe_control": 0,
+    "character_creation_stage": "complete"
+  },
+  "social_hp_challenge": {
+    "social_hp": 3,
+    "roll_dc": 14,
+    "cooldown_remaining": 1,
+    "successes": 2,
+    "roll_result": 15,
+    "request_severity": "favor",
+    "npc_tier": "noble",
+    "successes_needed": 5,
+    "social_hp_damage": 2,
+    "status": "WAVERING",
+    "resistance_shown": "He hasn't walked away, but he's hovering on the edge of the anvil, waiting for a final strike to seal the weld.",
+    "social_hp_max": 5,
+    "objective": "Form a bidding pact to outbid the Zhentarim",
+    "skill_used": "Persuasion",
+    "npc_name": "Beldrit"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-06-16 23:02:29.527000+00:00",
+  "turn_number": 33,
+  "player_turn": 33,
+  "last_living_world_turn": 31,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 17,
+    "minute": 30,
+    "time_of_day": "afternoon",
+    "day": 1,
+    "year": 1493,
+    "month": "Ches"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "The auction for the Star-Silver is beginning at Smuggler's Cove.",
+    "thinking": "The alliance is struck. Beldrit is wavering but committed enough to pool his gold. The Zhentarim are recovering from Bram's distraction, and the auctioneer's gavel is about to fall for the opening bid. I need to decide how to manage the actual bidding: do I let the gnome lead to keep my profile low, or do I use my striking presence to intimidate the other minor bidders into folding early? I also need to keep an eye on Kriv; he won't take kindly to being outmaneuvered.",
+    "choices": [
+      {
+        "id": "gnome_leads_bidding",
+        "text": "Let Beldrit Lead",
+        "risk_level": "low",
+        "description": "Have Beldrit handle the actual bidding to make it look like a standard Ironhand acquisition, keeping the Iron-Wrought name out of the manifest for now.",
+        "cons": [
+          "Less control over the final price",
+          "Relies on Beldrit's nerve holding"
+        ],
+        "pros": [
+          "Lower profile",
+          "Zhentarim focus on the Gnomes first"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "haldan_intimidate_bidders",
+        "text": "The Divine Hammer's Presence",
+        "risk_level": "medium",
+        "description": "Step forward yourself, using your striking appearance and the visible divine tools to intimidate the smaller bidders and show the room that the Iron-Wroughts are serious.",
+        "cons": [
+          "Draws immediate Zhentarim and Guild attention",
+          "High profile"
+        ],
+        "pros": [
+          "May cause smaller bidders to fold immediately",
+          "Projects strength and authority"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "coordinated_bidding_pressure",
+        "text": "Coordinated Pressure (Synergistic)",
+        "risk_level": "low",
+        "description": "Beldrit bids while Tilda tracks the room's limits and you focus on Kriv, using your divine intuition to sense when the Zhentarim are reaching their breaking point.",
+        "cons": [
+          "Complex to coordinate in a chaotic room",
+          "Requires concentration"
+        ],
+        "pros": [
+          "Uses the whole crew's strengths",
+          "Maximizes efficiency of the pooled gold"
+        ],
+        "confidence": "high"
+      }
+    ]
+  },
+  "rewards_box": {
+    "current_xp": 1775,
+    "level_up_available": false,
+    "loot": [
+      "Bidding Alliance with Beldrit (Ironhand Gnomes)"
+    ],
+    "gold": 0.0,
+    "progress_percent": 49,
+    "xp_gained": 150,
+    "current_level": 3,
+    "xp_total": 1775,
+    "xp_to_next_level": 925,
+    "source": "encounter",
+    "next_level_xp": 0
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Returning to the forge or hearing from a courier",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Crucial coal shipment delayed at Wyrm's Crossing",
+        "actor": "Thrum Bone-Breaker",
+        "action": "Delayed Shipment",
+        "player_impact": "Consortium production may slow down tomorrow.",
+        "location": "The Heavy Hammer",
+        "id": "thrum_observing_rival",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Silfy reported the rumors",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Nine-Fingers Keene is aware of the Iron-Wrought Forge's potential involvement in the crane project",
+        "actor": "The Guild",
+        "action": "Began monitoring new supply contracts for the harbor reconstruction",
+        "player_impact": "Potential for Guild taxation or interference in the contract",
+        "id": "guild_monitoring_harbor",
+        "turn_generated": 6,
+        "delta_action": "add",
+        "location": "Lower City / Harbor",
+        "event_type": "long_term",
+        "scene_generated": 16
+      },
+      {
+        "discovery_condition": "Master Horgun sent a brief note of acknowledgement",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Initial satisfaction with the partnership's output",
+        "location": "Gray Harbor",
+        "action": "Observed the first shipment of consortium steel arriving at the harbor",
+        "player_impact": "Contract remains stable; first payment milestone met",
+        "actor": "Merchant's League",
+        "id": "harbor_crane_progress",
+        "event_type": "immediate"
+      },
+      {
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Guild is temporarily backing off the Iron-Wrought shop to avoid a feud with the Heavy Hammer",
+        "actor": "Varek",
+        "action": "Reported back to Nine-Fingers about Thrum's intervention",
+        "player_impact": "Reduced immediate harassment, but Guild is watching for a moment of weakness",
+        "location": "Lower City",
+        "id": "guild_frustration",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Listening to harbor gossip or merchant reports",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 15,
+        "actor": "Master Horgun",
+        "action": "Began speaking to other harbor masters about the 'divine blue steel' from the Lower City",
+        "player_impact": "Future contract opportunities",
+        "location": "Gray Harbor",
+        "outcome": "Increased interest in the Iron-Wrought brand",
+        "delta_action": "add",
+        "id": "harbor_blue_steel_rumor",
+        "event_type": "long_term",
+        "scene_generated": 37
+      },
+      {
+        "discovery_condition": "Direct visual witness by Haldan.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Increased Guild intelligence on Iron-Wrought finances.",
+        "actor": "Varek",
+        "action": "Observed questioning Thrum's journeymen about the consortium's harbor manifests.",
+        "id": "varek_probing_thrum",
+        "turn_generated": 25,
+        "location": "The Heavy Hammer / Street",
+        "delta_action": "add",
+        "event_type": "immediate",
+        "scene_generated": 56
+      },
+      {
+        "discovery_condition": "Attempting to purchase specialized metals.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Scarcity of specialized alloys in the Lower City markets.",
+        "actor": "Merchant's League",
+        "action": "Diverted a shipment of high-grade 'Cold Iron' scrap to High City estates.",
+        "id": "high_city_scrap_diversion",
+        "turn_generated": 25,
+        "location": "Gray Harbor / High City Gate",
+        "delta_action": "add",
+        "event_type": "long_term",
+        "scene_generated": 56
+      },
+      {
+        "is_historical": false,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Witnessing Guild searches at the gates or hearing rumors from Tilda.",
+        "actor": "Varek",
+        "action": "Began tracking High City metal imports",
+        "player_impact": "Sourcing alloys for the Sentinel Lock will be more difficult/risky.",
+        "location": "Basilisk Gate",
+        "outcome": "The Guild is looking for 'unauthorized' shipments of rare alloys destined for Lower City smiths.",
+        "delta_action": "add",
+        "id": "guild_contract_monitoring",
+        "turn_generated": 28,
+        "event_type": "long_term",
+        "scene_generated": 61
+      },
+      {
+        "discovery_condition": "Rumors from Silfy or Varek's future behavior",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Questioning why Haldan paid the 100gp 'release tax' so readily",
+        "actor": "Nine-Fingers Keene",
+        "action": "Audit Review",
+        "player_impact": "Guild believes Haldan has deeper pockets than an apprentice should.",
+        "location": "Guild Hall",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {},
+  "rumors": [
+    {
+      "content": "The Merchant's League is considering a 'Reconstruction Levy' on all smithies in the Lower City.",
+      "source_type": "merchant",
+      "related_event": "economic_pressure",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers Keene is personally reviewing all reconstruction manifests at the Gray Harbor.",
+      "source_type": "urchin",
+      "related_event": "guild_monitoring_harbor",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Iron-Wrought lad has sold his soul to a half-orc just to keep the lights on.",
+      "source_type": "traveler",
+      "related_event": "consortium_formation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The blue steel from the new harbor cranes is said to be blessed by Gond himself.",
+      "source_type": "merchant",
+      "related_event": "harbor_crane_progress",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A dwarf in the Lower City is using magic to turn rusted scrap into blue steel that laughs at the salt air.",
+      "source_type": "merchant",
+      "related_event": "harbor_blue_steel_rumor",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers is looking for someone to upgrade the Guild's personal vault hinges.",
+      "source_type": "urchin",
+      "related_event": "guild_monitoring_harbor",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lady Jannath is offering a 'Master's Purse' for any smith who can secure her private gallery against the Unseen.",
+      "source_type": "urchin",
+      "related_event": "jannath_contract_lead",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High City Watch has increased patrols around the Jannath Estate following a series of attempted burglaries.",
+      "source_type": "guard",
+      "related_event": "jannath_contract_lead",
+      "accuracy": "true"
+    },
+    {
+      "content": "A shipment of 'Star-Silver' from the north was delayed at the Wyrm's Crossing, likely due to Guild interference.",
+      "source_type": "traveler",
+      "related_event": "high_city_scrap_diversion",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Star-Silver at the Cove is cursed; they say it moans when the lights go out.",
+      "source_type": "commoner",
+      "related_event": "shadow_steel_auction",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking Zhentarim 'Fixer' was seen drinking at the Blushing Mermaid near the harbor.",
+      "source_type": "urchin",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "level_up_session": {
+    "status": "complete",
+    "last_error": null,
+    "current_level": 3,
+    "source": "model",
+    "selections": {},
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "source_story_id": "unknown",
+    "target_level": 3
+  },
+  "schema_migrated_at": "2026-06-15T21:00:36.111625+00:00",
+  "session_id": "legacy-migrated-d9440ea8b6ccbfca",
+  "frozen_plans": {},
+  "time_events": {
+    "star_silver_auction": {
+      "time_remaining": "Begins in 15 minutes",
+      "status": "ongoing",
+      "changes_this_turn": "Bidders have assembled",
+      "new_consequences": "Bidding starts at 17:45:00"
+    },
+    "harbor_contract_milestone": {
+      "time_remaining": "2 days",
+      "status": "ongoing",
+      "changes_this_turn": "First set of hooks completed",
+      "new_consequences": "Master Horgun expects delivery by sundown tomorrow"
+    }
+  },
+  "faction_updates": {
+    "The Zhentarim": {
+      "progress": "Kriv positioned at Smuggler's Cove.",
+      "next_action": "Bidding and potential ambush.",
+      "current_objective": "Acquire Star-Silver for Shadow-Steel research."
+    },
+    "Merchant's League": {
+      "progress": "Seeking reliable structural steel suppliers",
+      "player_standing_change": "Increased interest in Haldan Iron-Wrought",
+      "current_objective": "Rebuild harbor infrastructure"
+    },
+    "The Guild": {
+      "progress": "Varek reported the prompt 100gp payment.",
+      "player_standing_change": "Status: Highly Suspicious",
+      "next_action": "Attempting to bribe a journeyman for ledger access.",
+      "current_objective": "Determine the source of Haldan's sudden wealth (Jannath deposit)."
+    }
+  }
+}

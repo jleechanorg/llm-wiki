@@ -1,0 +1,3171 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "aliases": [
+      "Baron of the Void",
+      "Scion of the South-Road"
+    ],
+    "proficiency_bonus": 2,
+    "background": "Folk Hero (Hidden Criminal)",
+    "class_name": "Swords Bard (Sovereign Scion)",
+    "display_name": "Baron Lucian Voss",
+    "hit_dice_max": 20,
+    "race": "Human",
+    "core_memories": [
+      "Correction: Kaelen was a legendary figure among the Absolute's forces, reaching the peak of power (Level 12) as the Master of Shadows and leader of the elite Iron Phantoms assassins/scouts."
+    ],
+    "resources": {
+      "hit_dice": {
+        "current": 1,
+        "used": 0,
+        "max": 1
+      },
+      "gold": 500,
+      "lay_on_hands_pool": {
+        "current": 90,
+        "max": 90
+      },
+      "last_long_rest_world_time": {
+        "hour": 9,
+        "day": 16,
+        "year": 1515,
+        "month": "Flamerule",
+        "minute": 0
+      },
+      "class_features": {
+        "lay_on_hands_pool": {
+          "current": 100,
+          "max": 100
+        },
+        "cleansing_touch": {
+          "current": 5,
+          "max": 5
+        },
+        "divine_sense": {
+          "current": 5,
+          "max": 5
+        },
+        "channel_divinity": {
+          "current": 1,
+          "max": 1
+        }
+      },
+      "mandate_gold": 100000
+    },
+    "experience": {
+      "needed_for_next_level": 300,
+      "current": 0,
+      "to_next_level": 300
+    },
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 12,
+      "wisdom": 12,
+      "charisma": 16,
+      "constitution": 14
+    },
+    "current_location": "loc_bg_lower_city_001",
+    "spells_prepared": [],
+    "features": [
+      "Sovereign Bloodline: Absolute Echo (Boss Action)",
+      "Spectral Flourish (Boss Action)",
+      "Legacy Stillness (+2 AC Passive)",
+      "Fighting Style: Dueling"
+    ],
+    "hp": 12,
+    "level": 1,
+    "knowledge": [
+      "Voss Family Tree (Fractured)",
+      "South-Road Estate Layout",
+      "Legacy of the Lichbane (Legend)",
+      "The High Matriarch's Routine"
+    ],
+    "age": 18,
+    "health": {
+      "hp_max": 12,
+      "hp": 12
+    },
+    "armor_class": 16,
+    "equipment": {
+      "backpack": [
+        {
+          "stats": "+2 Vicious Rapier",
+          "location": "Hidden in lightning-struck oak",
+          "name": "Viper's Kiss"
+        },
+        {
+          "stats": "Longbow",
+          "location": "Hidden in barn rafter",
+          "name": "Whisper-Wood Longbow"
+        },
+        {
+          "stats": "+1 Studded Leather",
+          "location": "Hidden under floorboards",
+          "name": "Serpent-Scale"
+        },
+        {
+          "type": "intel",
+          "name": "Zhentarim Ledger (Heapside)"
+        },
+        {
+          "type": "item",
+          "name": "Safe-box Key"
+        },
+        {
+          "type": "intel",
+          "name": "Coded Map of Safe-houses"
+        },
+        {
+          "stats": "Allows casting of Jump as a bonus action",
+          "type": "magic_item",
+          "name": "Ring of Jumping"
+        },
+        {
+          "stats": "Grants official access to Inquisition-restricted forensic archives; deeper properties unidentified.",
+          "description": "A matte-black alloy key etched with microscopic investigative sigils.",
+          "type": "magic_item",
+          "name": "Inquisition Key"
+        },
+        {
+          "stats": "+12 Atk, 1d8+8 piercing + 2d8 psychic, Crit: Blind/Silence",
+          "type": "artifact",
+          "name": "The Midnight Razor"
+        },
+        {
+          "stats": "Immunity to mind-reading; 1/day Zone of Truth",
+          "type": "artifact",
+          "name": "Sovereign's Sigil"
+        },
+        {
+          "type": "treasure",
+          "value": "10,000gp components",
+          "name": "Lead-lined case"
+        },
+        {
+          "stats": "+12 Atk, 1d8+8 piercing + 2d8 psychic, Crit: Blind/Silence",
+          "description": "Vesperian's Abyssal-tempered rapier.",
+          "type": "artifact",
+          "name": "The Midnight Razor"
+        },
+        {
+          "stats": "Immunity to mind-reading; 1/day Zone of Truth",
+          "description": "The Grand Exarch's heavy platinum ring.",
+          "type": "artifact",
+          "name": "Sovereign's Sigil"
+        },
+        {
+          "description": "Rare components and captured souls from the Scriptorium.",
+          "value": "10,000 gp",
+          "type": "treasure",
+          "name": "Distilled Sovereign Essences"
+        },
+        {
+          "equipped": false,
+          "stats": "1d8+6 piercing, Finesse",
+          "name": "Viper's Kiss (+2 Vicious Rapier)"
+        },
+        {
+          "equipped": false,
+          "stats": "+1 to AC and Saving Throws",
+          "name": "Ring of Protection"
+        },
+        {
+          "name": "__DELETE__"
+        },
+        {
+          "stats": "+5 to Spell Save DC, +5 to Shadow Smite damage",
+          "type": "artifact",
+          "name": "Heart of the Spire"
+        },
+        {
+          "delta_action": "__DELETE__",
+          "name": "Distilled Sovereign Essences"
+        },
+        {
+          "type": "quest_item",
+          "name": "Parents' Last Will (Sealed)"
+        },
+        {
+          "type": "intel",
+          "name": "Assassination Dagger (Evidence)"
+        },
+        {
+          "value": "500 gp",
+          "name": "Inheritance Pouch"
+        }
+      ],
+      "ring_1": {
+        "equipped": true,
+        "stats": "Voss Lineage Identifier",
+        "status": "Voss Signet Ring (Minor sigil)",
+        "name": "Baron's Signet"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "AC 11 + DEX",
+        "status": "Noble's Silk (Padded Armor stats)",
+        "name": "Noble's Traveling Silks"
+      },
+      "off_hand": null,
+      "main_hand": {
+        "equipped": true,
+        "stats": "1d8+2 piercing, Finesse",
+        "status": "Fine Steel Rapier",
+        "name": "Voss-Steel Rapier"
+      },
+      "body": {
+        "equipped": true,
+        "stats": "AC 12",
+        "name": "Noble's Traveling Silks"
+      },
+      "ranged": {
+        "equipped": true,
+        "stats": "1d8+4 piercing",
+        "name": "Whisper-Wood Longbow"
+      }
+    },
+    "entity_id": "pc_kaelen_001",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 12,
+      "wisdom": 12,
+      "charisma": 16,
+      "constitution": 14
+    },
+    "hit_dice_current": 20,
+    "status_conditions": [
+      "Soul-Shocked (Disadvantage on Concentration checks for 1 hour)",
+      "Feedback Burn (Disadvantage on Dexterity checks for 1 hour)"
+    ],
+    "alignment": "Neutral (Ruthless Pragmatist)",
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Dissonant Whispers"
+      },
+      {
+        "level": 1,
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "name": "Charm Person"
+      },
+      {
+        "level": 1,
+        "name": "Thunderwave"
+      }
+    ],
+    "hp_max": 12,
+    "hp_current": 12,
+    "inventory": [
+      {
+        "description": "Partial coordinates and vectors for the Sea of Fallen Stars interplanar folds.",
+        "type": "intel",
+        "name": "Thayan Interplanar Logic-Maps"
+      },
+      {
+        "equipped": false,
+        "stats": "Grants Truesight 30ft (1/day, 10 min duration); Advantage on Investigation checks involving Thayan architecture.",
+        "type": "magic_item",
+        "name": "Void-Tempered Goggles"
+      }
+    ],
+    "cantrips": [
+      "Vicious Mockery",
+      "Minor Illusion"
+    ],
+    "active_effects": [],
+    "skill_proficiencies": {
+      "proficiencies": [
+        "Stealth (Expertise)",
+        "Deception",
+        "Intimidation",
+        "Persuasion",
+        "Animal Handling",
+        "Survival",
+        "Insight"
+      ]
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 0,
+      "hour": 12,
+      "time_of_day": "midday",
+      "year": 1585,
+      "day": 15,
+      "month": "Uktar"
+    },
+    "current_location_name": "South-Road Estate (Study)"
+  },
+  "npc_data": {
+    "Vesper": {
+      "display_name": "Vesper (Vesperian Thul)",
+      "age": 21,
+      "status": "infiltrating",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0
+        }
+      },
+      "tier": "king_ancient",
+      "level": 21
+    },
+    "Valen Kurth": {
+      "entity_id": "npc_kurth_001",
+      "status": "paralyzed",
+      "health": {
+        "hp_max": 85,
+        "hp": 85
+      }
+    },
+    "npc_jaheira_001": {
+      "status": "Compromised/Sleeper",
+      "relationships": {
+        "player": {
+          "notes": "Black Lark protocol active; scripted serenity",
+          "disposition": "trusted",
+          "trust_level": 5
+        }
+      }
+    },
+    "Elowen Voss": {
+      "class_name": "Scout",
+      "status": "conscious",
+      "entity_id": "npc_elowen_001",
+      "display_name": "Elowen Voss",
+      "tier": "noble",
+      "level": 12,
+      "age": 20,
+      "relationships": {
+        "player": {
+          "history": [
+            "Flinched during training",
+            "Expressed fear of the family's dark legacy"
+          ]
+        }
+      },
+      "role": "Ghost-Queen of the BIN"
+    },
+    "npc_keene_001": {
+      "attitude_to_party": "hostile",
+      "status": "Imprisoned/Interrogated",
+      "current_location": "pc_kaelen_cellar_001",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Defeated in her Inner Sanctum",
+            "Bound and interrogated by the Shadow Weaver"
+          ]
+        }
+      },
+      "health": {
+        "hp": 1
+      }
+    },
+    "Gale of Waterdeep": {
+      "level": 16
+    },
+    "High Matriarch Sariel": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_sariel_voss_001",
+      "status": "conscious",
+      "display_name": "High Matriarch Sariel",
+      "tier": "god_primordial",
+      "level": 20,
+      "race": "Human (Ascended)",
+      "age": 77,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Arrived to aid Lucian after his parents' assassination",
+            "Granted deeds to South-Road sectors"
+          ]
+        }
+      },
+      "role": "Supreme Commander of Baldur's Gate and Thayan Republic",
+      "gender": "Female"
+    },
+    "Kora": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Re-pledged loyalty to the Weaver in the Sunken Vault"
+          ]
+        }
+      },
+      "role": "Household Security (Lieutenant)",
+      "tier": "knight",
+      "current_location": "Upper City Boundary",
+      "gender": "female",
+      "health": {
+        "hp_max": 53,
+        "hp": 53
+      },
+      "level": 7
+    },
+    "npc_silas_001": {
+      "equipment": {
+        "armor": "+1 Half-Plate",
+        "main_hand": "+1 Mace"
+      }
+    },
+    "npc_snake_guard_2": {
+      "status": "captured"
+    },
+    "Wyll Ravengard": {
+      "level": 15
+    },
+    "Elias": {
+      "entity_id": "npc_elias_001",
+      "faction": "Iron Phantoms",
+      "status": "normal",
+      "display_name": "Elias",
+      "current_location": "Upper City Boundary",
+      "level": 6,
+      "tier": "knight",
+      "role": "Brampton Estate Security (Staff)",
+      "health": {
+        "hp_max": 45,
+        "hp": 45,
+        "conditions": [
+          "wounded"
+        ]
+      },
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 5,
+          "history": [
+            "Former subordinate to the Shadow Weaver",
+            "Made contact via crow-mark"
+          ]
+        }
+      }
+    },
+    "npc_marlo_001": {
+      "status": "captured/unconscious",
+      "current_location": "pc_kaelen_cellar_001"
+    },
+    "Vesperian Thul": {
+      "aliases": [
+        "Vesper"
+      ],
+      "true_level": 18,
+      "entity_id": "npc_vesperian_001",
+      "role": "Grand Exarch / Harper Refugee",
+      "attitude_to_party": "neutral",
+      "display_name": "Vesperian Thul",
+      "wives": [
+        "Selyse",
+        "Cassandra",
+        "Zass"
+      ],
+      "level": 18,
+      "masked_level": 9,
+      "age": 21,
+      "health": {
+        "hp": 0
+      },
+      "relationships": {
+        "sariel": {
+          "disposition": "attracted_predatory",
+          "objective": "conversion_to_consort"
+        }
+      },
+      "name": "Vesperian Thul"
+    },
+    "Bran": {
+      "role": "Voss County Heir / Agricultural Administrator",
+      "level": 2
+    },
+    "npc_caspian_silvershield_001": {
+      "tier": "noble",
+      "class_name": "Fighter / Socialite",
+      "status": "normal",
+      "entity_type": "npc",
+      "display_name": "Caspian Silvershield",
+      "role": "Heir to House Silvershield",
+      "level": 5
+    },
+    "npc_zhent_commander": {
+      "status": "captured",
+      "health": {
+        "hp_max": 135,
+        "hp": 135
+      }
+    },
+    "Shadowheart": {
+      "attitude_to_party": "neutral",
+      "role": "Cleric of Shar",
+      "entity_id": "npc_shadowheart_001",
+      "tier": "lord",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Kaelen and Jaheira successfully appealed to her sense of loss and tactical utility."
+          ]
+        }
+      },
+      "display_name": "Shadowheart",
+      "level": 15
+    },
+    "Silk Vala": {
+      "relationships": {
+        "player": {
+          "trust_level": 2,
+          "history": [
+            "Received 500gp payoff",
+            "Witnessed the Weeping Pipe strike"
+          ]
+        }
+      }
+    },
+    "npc_twitch_001": {
+      "name": "npc_twitch_001"
+    },
+    "Silas": {
+      "role": "Steward to Lord Brampton",
+      "tier": "merchant",
+      "entity_id": "npc_silas_001",
+      "status": "normal",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Hired Kaelen to recover stolen signets"
+          ]
+        }
+      },
+      "display_name": "Silas",
+      "level": 3
+    },
+    "Sariel": {
+      "class_name": "Bard (College of Swords)",
+      "entity_id": "npc_sariel_001",
+      "entity_type": "npc",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 18,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 16,
+        "constitution": 14
+      },
+      "display_name": "Sariel Voss",
+      "gender": "Female",
+      "attitude_to_party": "friendly",
+      "status": "normal",
+      "tier": "noble",
+      "hp_max": 38,
+      "level": 5,
+      "hp_current": 38,
+      "age": 16,
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 6,
+          "history": [
+            "Turn 3: Observed Kaelen's deceptive behavior in village.",
+            "Turn 6: Acknowledged Kaelen's commander past.",
+            "Turn 8: Accepted Kaelen as mentor and ideological guide.",
+            "Accepted Kaelen's philosophy on the Three Pillars of Power."
+          ]
+        }
+      },
+      "role": "Daughter / Prodigy",
+      "equipment": {
+        "armor": "Reinforced Leather Tunic",
+        "main_hand": "Fine Steel Rapier"
+      }
+    },
+    "Sariel Voss": {
+      "proficiency_bonus": 4,
+      "role": "High Consul of Thay / Sovereign Peer",
+      "class_name": "Bard (College of Swords)",
+      "stats": {
+        "strength": 10,
+        "dexterity": 18,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 16,
+        "constitution": 14
+      },
+      "entity_id": "npc_sariel_001",
+      "display_name": "Sariel Voss",
+      "ac": 17,
+      "spells_known": [
+        "Charm Person",
+        "Sleep",
+        "Faerie Fire",
+        "Hold Person",
+        "Suggestion",
+        "Silence",
+        "Hypnotic Pattern",
+        "Fear",
+        "Dispel Magic",
+        {
+          "level": 4,
+          "name": "Confusion"
+        }
+      ],
+      "resources": {
+        "spell_slots": {
+          "level_5": {
+            "used": 1,
+            "max": 1
+          }
+        },
+        "salary_tenday": 100
+      },
+      "status": "conscious",
+      "features": [
+        "Iron Resolve (+2 to all Saving Throws)"
+      ],
+      "tier": "king_ancient",
+      "hp_max": 98,
+      "level": 20,
+      "hp_current": 98,
+      "age": 28,
+      "knowledge": [
+        "The 'Soul of the Abyss' signature",
+        "Judicator's Final Lesson: Failure is the only teacher that doesn't lie."
+      ],
+      "health": {
+        "hp_max": 98,
+        "hp": 72
+      },
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Promoted to Countess and Supreme Commander of the city's combined forces in 1513 DR."
+          ]
+        }
+      },
+      "equipment": {
+        "backpack": [
+          {
+            "equipped": false,
+            "stats": "+1 Glamoured Studded Leather",
+            "name": "Silksong Armor"
+          }
+        ],
+        "armor": {
+          "equipped": true,
+          "stats": "AC 13 + DEX + 1, +5 to Stealth checks",
+          "name": "Wraith-Skin Studded Leather"
+        }
+      }
+    },
+    "npc_vesperian_001": {
+      "class_name": "Harper Scout (Masked)",
+      "stats": {
+        "strength": 10,
+        "dexterity": 18,
+        "intelligence": 15,
+        "wisdom": 12,
+        "charisma": 26,
+        "constitution": 14
+      },
+      "entity_type": "npc",
+      "display_name": "Vesper (Vesperian Thul)",
+      "race": "Human",
+      "true_level": 18,
+      "gender": "male",
+      "name": "npc_vesperian_001",
+      "attitude_to_party": "neutral",
+      "visibility": "visible",
+      "current_location": "Obsidian Spire, Thay",
+      "tier": "king_ancient",
+      "level": 9,
+      "age": 17,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Arrived as Harper refugee",
+            "Successful social integration in Baldur's Gate"
+          ]
+        },
+        "sariel": {
+          "notes": "Predatory attraction / peer-frequency recognition",
+          "disposition": "friendly",
+          "trust_level": 3
+        }
+      },
+      "role": "Harper Refugee / Sovereign Suitor"
+    },
+    "Jaheira": {
+      "aliases": [
+        "The Black Lark"
+      ],
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_jaheira_001",
+      "status": "conscious",
+      "status_conditions": [
+        "broken_sleeper",
+        "Conditioned (Black Lark)"
+      ],
+      "health": {
+        "hp_max": 98,
+        "hp": 85
+      },
+      "current_objective": "Mapping the southern Voss silo-defense nodes disguised as a refugee regrouping.",
+      "relationships": {
+        "player": {
+          "history": [
+            "Voss rescued Jaheira from Thayan conditioning",
+            "Jaheira assisted in the permanent deletion of Vesperian Thul"
+          ]
+        },
+        "vesperian": {
+          "disposition": "submissive_slave",
+          "trust_level": 10
+        },
+        "kaelen": {
+          "disposition": "friendly_mask",
+          "is_deception": true
+        }
+      }
+    },
+    "Duke Ulder Ravengard": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_ravengard_001",
+      "status": "conscious",
+      "display_name": "Duke Ulder Ravengard",
+      "tier": "lord_general",
+      "level": 10,
+      "role": "Grand Duke of Baldur's Gate / Marshal of the Flaming Fist",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8,
+          "history": [
+            "Witnessed Thayan victory",
+            "Attended Sovereign Gala"
+          ]
+        }
+      }
+    },
+    "Bran Voss": {
+      "class_name": "Fighter",
+      "status": "conscious",
+      "features": [
+        "Aura of Protection (+4 to saves for allies within 10ft)"
+      ],
+      "display_name": "Bran Voss",
+      "tier": "noble",
+      "level": 15,
+      "entity_id": "npc_bran_001",
+      "hp_current": 45,
+      "age": 24,
+      "relationships": {
+        "player": {
+          "history": [
+            "Yielded jealousy after being saved by Sariel on the Grey Road."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 45,
+        "hp": 45
+      },
+      "role": "Captain of the Voss Guard"
+    },
+    "Arch-Zulkir Kaelas": {
+      "level": 18,
+      "tier": "lord",
+      "entity_id": "npc_kaelas_001",
+      "status": "surrendered",
+      "role": "Prisoner / High-Mage",
+      "relationships": {
+        "player": {
+          "disposition": "broken",
+          "trust_level": -8,
+          "history": [
+            "Captured by the Lichbane",
+            "Institutional archives unspooled via Cleansing Touch"
+          ]
+        }
+      },
+      "name": "Arch-Zulkir Kaelas"
+    },
+    "Warehouse Foreman": {
+      "name": "Warehouse Foreman"
+    },
+    "Lana Voss": {
+      "age": 42,
+      "status": "conscious",
+      "role": "Marchioness / Agricultural Matriarch",
+      "tier": "noble",
+      "level": 2
+    },
+    "Countess Sariel Voss": {
+      "level": 16,
+      "hp_current": 112,
+      "hp_max": 112,
+      "attributes": {
+        "dexterity": 20,
+        "charisma": 20
+      },
+      "proficiency_bonus": 5,
+      "combat_stats": {
+        "ac": 23,
+        "spell_save_dc": 21,
+        "spell_attack_bonus": 13
+      },
+      "equipment": {
+        "cloak": {
+          "equipped": true,
+          "stats": "+3 to social skills, Aura vs Fear",
+          "name": "Mantle of the Supreme Commander"
+        },
+        "armor": {
+          "equipped": true,
+          "stats": "AC 15+DEX, +3 Stealth, Invisibility 1/day",
+          "name": "Wraith-Skin +3"
+        },
+        "main_hand": {
+          "equipped": true,
+          "stats": "+3 to hit/dmg, restore Inspiration on Crit",
+          "name": "Virtuoso's Edge +3"
+        },
+        "neck": {
+          "equipped": true,
+          "stats": "+3 to Spell Save DC and Spell Attack Bonus",
+          "name": "Amulet of the Silver Prodigy"
+        }
+      }
+    },
+    "Duke Brampton": {
+      "role": "Grand Duke of Baldur's Gate",
+      "tier": "king",
+      "entity_id": "npc_brampton_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Elevated to Grand Duke via Voss influence",
+            "Attended Sovereign Gala"
+          ]
+        }
+      },
+      "display_name": "Duke Brampton",
+      "level": 10
+    },
+    "Lana": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Learned Kaelen was a commander in the wars"
+          ]
+        }
+      },
+      "role": "Countess of Voss County / Enterprise Manager",
+      "level": 2
+    },
+    "Vane": {
+      "status": "hidden",
+      "current_location": "Outer City Slums"
+    },
+    "Marquess Hallowell": {
+      "status": "broken",
+      "health": {
+        "hp_max": 65,
+        "hp": 25
+      }
+    },
+    "Earl Vane": {
+      "status": "broken",
+      "health": {
+        "hp_max": 60,
+        "hp": 20
+      }
+    },
+    "npc_zhent_mage_3": {
+      "status": "captured"
+    },
+    "High Harper Jaheira": {
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "history": [
+            "Mind purged of Thayan conditioning by Marquis Voss"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 120,
+        "hp": 25
+      },
+      "level": 17
+    },
+    "npc_snake_guard_1": {
+      "status": "captured"
+    },
+    "Lord Brampton": {
+      "display_name": "Marquis Brampton",
+      "knowledge": [
+        "Voss is a highly capable specialist found by rumor",
+        "Has no knowledge of the 'Shadow Weaver' or 'Absolute' history"
+      ],
+      "description": "A wealthy Upper City noble, politically powerful but naive regarding the nuances of the criminal underworld.",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 6,
+          "history": [
+            "Kaelen recovered the signets flawlessly.",
+            "Kaelen revealed his Level 13 power, deeply impressing the Lord.",
+            "Agreed to provide an estate and high-income retainer."
+          ]
+        }
+      },
+      "tier": "lord_general",
+      "role": "Marquis"
+    },
+    "Lady Elara": {
+      "status": "broken",
+      "health": {
+        "hp_max": 55,
+        "hp": 15
+      }
+    },
+    "npc_elthor_silvershield_001": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Signed the Silvershield-Voss Accord",
+            "Halted forensic audit of Voss County"
+          ]
+        }
+      }
+    },
+    "Lieutenant Torvin": {
+      "attitude_to_party": "hostile",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5,
+          "history": [
+            "Recognized Kaelen's noble facade as a high-level deception",
+            "Detected a 'tomb-like' aura from the farmer"
+          ]
+        }
+      }
+    },
+    "npc_kora_001": {
+      "equipment": {
+        "armor": "+1 Breastplate",
+        "main_hand": "+1 Dagger"
+      }
+    },
+    "npc_elias_001": {
+      "equipment": {
+        "armor": "+1 Studded Leather",
+        "main_hand": "+1 Shortsword"
+      }
+    },
+    "Rat-King Mick": {
+      "relationships": {
+        "player": {
+          "trust_level": 1,
+          "history": [
+            "Received 500gp payoff",
+            "Terrified by Level 14 aura"
+          ]
+        }
+      }
+    },
+    "npc_hook_001": {
+      "status": "captured/unconscious",
+      "current_location": "pc_kaelen_cellar_001"
+    },
+    "Nine-Fingers Keene": {
+      "attitude_to_party": "antagonistic",
+      "status": "paralyzed with fear",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Lost 50% of elite forces to the Reaper",
+            "Believe they face a Level 18 legend"
+          ]
+        }
+      }
+    },
+    "npc_grog_001": {
+      "name": "npc_grog_001"
+    },
+    "Vesper (Vesperian Thul)": {
+      "aliases": [
+        "Vesperian Thul",
+        "The Silver Paladin",
+        "Grand Exarch"
+      ],
+      "class_name": "Harper / Paladin (Masked)",
+      "status": "wounded/masked",
+      "entity_type": "npc",
+      "display_name": "Vesper",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 18,
+        "intelligence": 15,
+        "wisdom": 12,
+        "charisma": 26,
+        "constitution": 14
+      },
+      "level": 9,
+      "tier": "king_ancient",
+      "entity_id": "npc_vesperian_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Introduced as a Thayan refugee and Harper survivor"
+          ]
+        },
+        "npc_sariel_001": {
+          "notes": "Sariel feels an inexplicable, sovereign-level attraction to him.",
+          "disposition": "bonded",
+          "trust_level": 3
+        }
+      },
+      "health": {
+        "hp_max": 45,
+        "hp": 34
+      },
+      "role": "Harper Infiltrator"
+    },
+    "Jax": {
+      "status": "hidden",
+      "current_location": "Outer City Slums"
+    },
+    "npc_kurth_001": {
+      "status": "captured",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Interrogated and handed to the Inquisition"
+          ]
+        }
+      },
+      "health": {
+        "hp": 85
+      }
+    },
+    "Gared": {
+      "attitude_to_party": "friendly",
+      "display_name": "Old Gared",
+      "entity_id": "npc_gared_001",
+      "role": "Neighboring Farmer",
+      "tier": "commoner",
+      "level": 2
+    },
+    "npc_sariel_001": {
+      "equipment": {
+        "armor": {
+          "equipped": true,
+          "stats": "AC 13 + DEX + 1; can change appearance as a bonus action",
+          "name": "Silksong Armor (+1 Glamoured Studded Leather)"
+        }
+      },
+      "level": 6
+    },
+    "Lord-Assessor Pendergast": {
+      "role": "High Hall Lord-Assessor / Zhentarim Mole",
+      "tier": "lord",
+      "entity_id": "npc_pendergast_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "grievances": [
+            "Home invaded and life threatened"
+          ],
+          "trust_level": -8,
+          "history": [
+            "Blackmailed with Master Ledger",
+            "Revealed Solstice Plot"
+          ]
+        }
+      },
+      "display_name": "Lord-Assessor Pendergast",
+      "level": 10
+    },
+    "Garrick": {
+      "display_name": "Garrick",
+      "entity_id": "npc_garrick_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Hired to maintain the farm; paid a season's wage in advance."
+          ]
+        }
+      },
+      "tier": "commoner",
+      "role": "Farmhand"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "mandate_gold": 54000,
+    "sanctuary_mode": {
+      "original_scale": "epic",
+      "expired": true,
+      "scale": "epic",
+      "expires_turn": 121,
+      "active": false,
+      "activated_turn": 91,
+      "arc": "Heart of the Serpent",
+      "expired_turn": 139
+    },
+    "celestial_vigilance": 15,
+    "active_missions": [
+      {
+        "title": "The Null-Signal Hunt",
+        "status": "accepted",
+        "mission_id": "hunt_the_null_signal",
+        "objective": "Identify the source of the strike that killed your parents."
+      }
+    ],
+    "character_creation_completed": true,
+    "reputation": {
+      "private": {
+        "guild": {
+          "standing": "champion",
+          "score": 10
+        },
+        "high_hall_inquisition": {
+          "standing": "neutral",
+          "score": 2,
+          "known_deeds": [
+            "Voss provided high-level intelligence on the Luskan sabotage plot."
+          ]
+        },
+        "harpers": {
+          "standing": "neutral",
+          "score": 0,
+          "known_deeds": [
+            "Voss organized a summit to save the Grey Harbor."
+          ]
+        },
+        "aglarond": {
+          "standing": "champion",
+          "score": 10,
+          "known_deeds": [
+            "Voss unmasked the Thayan Sovereign and proposed the High-Council Accord."
+          ]
+        }
+      },
+      "public": {
+        "score": 100,
+        "titles": [
+          "Duke of the Void",
+          "Lichbane"
+        ],
+        "notoriety_level": "world_legend",
+        "known_deeds": [
+          "Duke Voss mobilized the Grand Coalition for the Thayan Strike."
+        ]
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "GodModeAgent",
+      "rewards_skip_count": 10
+    },
+    "last_location": "South-Road Estate (Study)",
+    "core_memories": [
+      "Vaelin Thorne is a Level 12 Oathbreaker Paladin and former villain living as a neutral farmer near Baldur's Gate.",
+      "Vaelin's family\u2014wife Lana, daughters Sariel (16) and Elowen (8), and son Bran (12)\u2014are unaware of his dark past.",
+      "Kaelen Voss is a Level 12 Oathbreaker Paladin and former Judicator of the Absolute living as a neutral farmer.",
+      "Kaelen Voss, formerly a ruthless Judicator of the Absolute known as 'The Widow-Maker', has lived for 16 years as a farmer near Baldur's Gate, keeping his past a secret from his wife Lana and three children.",
+      "The campaign takes place in 1508 DR, exactly 16 years after the fall of the Absolute; Kaelen Voss has spent these years building a farm, raising three children (Sariel, Bran, Elowen), and systematically eliminating any ghosts from his past that threatened his secret.",
+      "Kaelen's Recognition Profile: Virtually anonymous to commoners, but remains a potential target for recognition by BG3 heroes or senior Absolute remnants who possess high-level enforcer records.",
+      "Kaelen attended a village meeting in Millbrook where a Flaming Fist officer announced a veteran census and reports of Absolute cult remnants in the nearby woods.",
+      "Kaelen successfully deceived Lana and the village crowd by feigning a disabling plow injury to avoid the Flaming Fist veteran census.",
+      "Kaelen returned to the farm with his family following the Millbrook curfew, noting Sariel's increasing perception of his combat-ready instincts.",
+      "Sariel (Lvl 4) remains deeply suspicious of Kaelen's feigned injuries and deflected his attempt to discuss her future with guarded silence.",
+      "Kaelen Voss (Lvl 12) revealed his former high-ranking military status to Sariel (Lvl 4), leading her to admit she desires military training only to acquire the power to protect her family's sanctuary.",
+      "Kaelen has formally accepted Sariel as his student in the 'craft' of survival, validating her belief that power is the only true currency.",
+      "Kaelen revealed his past as a high-ranking military commander to Lana, using it to explain Sariel's restless and tactical nature.",
+      "Kaelen successfully convinced Lana that Sariel's training is a necessary protective measure, securing her reluctant consent.",
+      "Kaelen has spent three days intensively training Sariel (Lvl 4) in stealth and awareness; she has shown a chilling natural aptitude for the 'Judicator's Stance'.",
+      "Sariel reaches Level 5 through Kaelen's training, but the Flaming Fist patrol has arrested a neighbor and is now within two miles of the farm.",
+      "Kaelen has taught Sariel (Lvl 5) that power is a 'tripod' of military might, influence, and wealth, and has proposed joining the Adventurers' Guild as a tactical cover for their presence near Baldur's Gate.",
+      "Sariel Voss is now a Level 5 Swords Bard, her tactical inheritance from Kaelen manifesting as a deadly mastery of blade flourishes and battlefield presence.",
+      "The 'Displaced Noble' gambit failed; Lieutenant Torvin saw through Kaelen's facade, identifying his dangerous aura and hidden wealth as proof of a dark secret.",
+      "Kaelen successfully rattled Lieutenant Torvin by reframing his dark aura and hidden wealth as common tax evasion and 'cheap' protective magic, bringing the officer to the brink of accepting a 1,500gp bribe.",
+      "Kaelen successfully bribed Lieutenant Torvin with 1,500gp, reframing his dark aura as tax-evasion-related 'cheap' magic and ending the immediate threat to the farm.",
+      "Kaelen established the 'Merchant Gambit'\u2014a plan to move to Baldur's Gate, open a shop, and acquire power while Lana maintains the farm as their anchor.",
+      "Kaelen successfully convinced Lana to accept the merchant shop plan by reframing it as a 'lightning rod' to protect the farm and the younger children.",
+      "Kaelen hired Garrick, a silent veteran, to maintain the farm while he and Sariel established 'Voss Curiosities' in Baldur's Gate's Lower City as a tactical cover.",
+      "Voss Curiosities successfully opened in the Lower City, generating 33gp in profit on its first day and establishing Kaelen and Sariel as credible, if eccentric, newcomers to the merchant class.",
+      "Kaelen accepted a contract from Silas, steward to Lord Brampton, to recover stolen family signets from the docks, receiving a 200gp retainer and identifying Dockmaster Farlen as a key lead.",
+      "Kaelen negotiated a 1,000gp total fee with Silas for the Brampton signets and secured a promise of a 'Writ of Patronage' to shield the shop from city authorities.",
+      "Kaelen successfully leveraged Lord Brampton's desperation to secure official 'Retainer' status for himself and Sariel, establishing a high-level legal shield for their operations in Baldur's Gate.",
+      "Kaelen and Sariel successfully scouted Dockmaster Farlen's pier at night, identifying active Guild surveillance and a potential entrance through the office roof.",
+      "Kaelen and Sariel successfully infiltrated Dockmaster Farlen's office and discovered that the Brampton signets have been moved to Guild Warehouse 4.",
+      "Kaelen and Sariel's infiltration of Warehouse 4 was compromised when Sariel was spotted by a Guild lookout on the gantry.",
+      "Kaelen neutralized a Guild lookout at Warehouse 4 with a precision longbow shot, preventing an alarm but leaving Sariel shaken by her near-fatal lapse in stealth.",
+      "Kaelen Voss reached Level 13 during the infiltration of Warehouse 4, unlocking the ability to manifest 4th-tier arcane control as his 'Widow-Maker' legacy deepened.",
+      "Kaelen successfully scouted and cleared a path across the Warehouse 4 gantry, utilizing his superior stealth and tactical awareness to guide Sariel inside without further detection.",
+      "Kaelen Voss successfully infiltrated Warehouse 4 with Sariel, locating Crate #882 from the catwalks while avoiding detection via superior tactical scouting.",
+      "Kaelen and Sariel successfully descended to the warehouse floor via cargo nets, reaching the cover of silk-bales near the targeted Crate #882.",
+      "Kaelen and Sariel successfully executed the Warehouse 4 foreman silently, securing Crate #882 while maintaining their stealth cover.",
+      "Correction: Kaelen is an Oathbreaker not through malice, but through the clinical execution of his squad to reject the Absolute's hive-mind 'Grand Design' during the Fall.",
+      "Sariel explicitly confronted Kaelen about his 'High Judicator' past after witnessing his Shadow Smite at Warehouse 4.",
+      "Sariel explicitly confronted Kaelen about his High Judicator past after witnessing his Shadow Smite at Warehouse 4; Kaelen admitted the truth but framed it as a tactical inheritance for her survival.",
+      "Kaelen and Sariel successfully delivered the Brampton signets at midnight, finalizing their status as official House Retainers and establishing a legal foothold in the Upper City.",
+      "Silas, steward to Lord Brampton, revealed that High Inquisitor Lora is hunting Absolute 'Sleepers' by cross-referencing new noble arrivals, while the Guild is hunting the 'Silent Reaper' for the Warehouse 4 hit.",
+      "Sariel remains deeply conflicted about Kaelen's High Judicator past, viewing it as a tactical liability rather than just a personal secret.",
+      "Kaelen Voss was known as the 'Shadow Weaver' among the Absolute, leading the elite 'Iron Phantoms' unit; his reputation for silent lethality has resurfaced as the 'Silent Reaper' rumors in the Grey Harbor.",
+      "Kaelen was known for treating his subordinates with cold fairness; surviving Iron Phantoms in the world may offer loyalty or assistance if they recognize his leadership style.",
+      "Correction: Kaelen was the legendary 'Shadow Weaver' of the Iron Phantoms who treated men with fairness; he and Sariel arrived at the Brampton Estate for their 8:00 AM audience on time.",
+      "Kaelen and Sariel formally became Retainers of House Brampton at 8:00 AM; Brampton is grateful but unaware of Kaelen's Shadow Weaver identity, and Inquisitor Lora is investigating the forensic anomalies of the foreman's death rather than magical resonance.",
+      "Correction: No paperwork trail exists linking Kaelen to the Brampton recovery, as Lord Brampton avoided filing a formal crime report to maintain discretion.",
+      "Lord Brampton is a wealthy but underworld-naive noble; Silas discovered 'Voss Curiosities' through local rumors of Kaelen's 'eye for quality', having no knowledge of Kaelen's true identity as the Shadow Weaver.",
+      "Silas discovered 'Voss Curiosities' by chance; he was drawn in by Kaelen's formidable bearing and professional poise, recognizing him as a high-level combatant despite his merchant facade.",
+      "Lord Brampton has agreed to use his political influence to shield Voss Curiosities from Inquisitor Lora's forensic investigation, framing the shop's security as a matter of House Brampton's private concern.",
+      "Kaelen Voss (Lvl 13) secured a permanent estate (Miller's Rest) and a 500gp/tenday retainer from Lord Brampton (Lvl 10) by demonstrating his legendary power and strategic value.",
+      "Kaelen Voss formally secured Miller's Rest on the bluffs and established absolute authority over the Brampton Guard, though their combat readiness remains low; a former Iron Phantom scout has made contact via a coded signal.",
+      "Lord Brampton and Silas have realized Kaelen is a high-tier (Level 13) legend, leading Brampton to prioritize binding Kaelen's loyalty through wealth and estate comforts while shielding him from Inquisitor Lora.",
+      "Elias, a former Iron Phantom scout, has established contact and warned Kaelen that the Guild is purging Absolute 'ghosts' in the Lower City.",
+      "Elias recited three sanitized facts about the Iron Phantoms' protocols, confirming his knowledge of the 'Shadow Weaver's' craft, though Kaelen remains suspicious of his delivery.",
+      "Kaelen formally declared his lack of loyalty to the Absolute to Elias and Sariel, framing his 'Shadow Weaver' past as a dead legacy he will not allow to consume his family.",
+      "Kaelen Voss (Lvl 13) agreed to meet with the surviving Iron Phantom 'ghosts' at 'The Drowned Rat' in the Undercity to assess their survival, despite his lack of loyalty to the Absolute.",
+      "Sariel Voss has reached Level 6 as a Swords Bard, gaining the Extra Attack feature as her 'Shadow Weaver' training begins to manifest in her combat rhythm.",
+      "Kaelen Voss (Lvl 13) has returned to the Undercity as the 'Shadow Weaver' to meet the surviving Iron Phantoms, bringing Sariel (Lvl 6) into the heart of his dark legacy.",
+      "Kaelen Voss (Shadow Weaver) met with the surviving Iron Phantoms in the Undercity; the unit is broken by the Guild's purge, but Kaelen has assumed an unofficial advisory command to assist their survival.",
+      "Inquisitor Lora is using a Mind-Eater's skull to track the 'Psychic Echo'\u2014a soul-signature left on former Absolute members\u2014putting Kaelen and the Iron Phantoms at risk of forensic detection.",
+      "Clarification: Inquisitor Lora (City Law) and Nine-Fingers Keene (Criminal Underworld) are rival factions chasing the 'Silent Reaper' for different reasons\u2014Lora seeks a security threat, while Keene seeks to crush a perceived rival cell.",
+      "Correction: Kaelen's Shadow Smites leave no forensic trace or necrotic decay; forensic healers find no evidence of magical foul play on his victims.",
+      "Nine-Fingers Keene is purging Absolute remnants using legacy maps of cult bolt-holes and an interrogation-driven intelligence chain, unaware of the Shadow Weaver's specific return.",
+      "The Iron Phantoms are being tracked by Nine-Fingers Keene through legacy nest audits and interrogation chains, utilizing Kaelen's own old tactical infrastructure against the survivors.",
+      "Kaelen led the Iron Phantoms to a new safehouse, the Sunken Vault, but failed to detect a subtle pursuit during the retreat.",
+      "Kaelen performed a solo deep scout of the Heapside junction; despite remaining unseen, his check for observers yielded no concrete leads, leaving the 'phantom pressure' of being watched unresolved.",
+      "Kaelen re-established command over the surviving Iron Phantoms in the Sunken Vault, appointing Kora as field lieutenant and initiating a 'scrubbing' protocol to erase their tactical footprint.",
+      "Kaelen successfully executed a Tiered Dispersal of the Iron Phantoms, sending the broken survivors to the Outer City with coin while integrating the elite core into his Miller's Rest staff; the unit systematically 'scrubbed' their legacy marks, blinding the Guild's intelligence chain.",
+      "Kaelen and Sariel successfully delivered the Brampton signets and transitioned to official House Retainers at Miller's Rest.",
+      "Kaelen, Sariel, and the core Phantoms (Kora and Elias) are now heading to the Miller's Rest estate in the Upper City to establish their new base of operations under Lord Brampton's patronage.",
+      "Kaelen successfully established Miller's Rest as his family's new sanctuary, integrating the elite core of the Phantoms as household security and providing Lana with the reassurance needed to maintain the 'noble' facade.",
+      "The Voss family successfully established their presence at Miller's Rest over the month of Kythorn, with Kaelen securing the 'Influence' tripod leg while Sariel reached new heights of lethal mastery as a student of the craft.",
+      "Kaelen Voss successfully persuaded Lord Brampton to adopt a 'Grand Strategy' involving signaling Zhentarim-Harper war to the Flaming Fist to secure a political mandate from the Four Dukes.",
+      "Kaelen successfully established a tiered defense at Miller's Rest, integrating a core of nine Iron Phantoms and establishing a loyal NCO structure within the household guard through 'Glory and Reward' tactics.",
+      "Sariel Voss has been promoted to Lieutenant of the Brampton security wing, establishing her elite status through a lethal demonstration of her Swords Bard mastery.",
+      "Kaelen attempted to negotiate Fist Auxiliary status with Commander Harth at Miller's Rest, but the request was stalled by Harth's suspicion of Kaelen's 'disgraced noble' cover story.",
+      "Kaelen proposed a probationary joint-operation period to Commander Harth to prove House Brampton's loyalty and secure Auxiliary status.",
+      "Kaelen briefed his newly reorganized unit and spent 10,500gp to equip Sariel, himself, and his three core lieutenants with high-quality magical gear for the upcoming Zhentarim pacification mission.",
+      "Kaelen successfully scouted the fortified Zhentarim block in Heapside at 01:30 on Flamerule 11, identifying alarm wards and rooftop mages before the Flaming Fist mission began.",
+      "Kaelen successfully coordinated a joint strike with the Flaming Fist, using Elias to relay Zhentarim reinforcement schedules while his unit positioned for a simultaneous breach of the Heapside headquarters.",
+      "Kaelen and Sariel successfully breached the Zhentarim Heapside HQ at 04:00, coordinated with a Flaming Fist strike, though the rooftop mages' resistance alerted the interior guards.",
+      "The Zhentarim headquarters breach was secured by Kaelen's use of high-tier mental manipulation, paralyzing the command structure during the Flaming Fist raid.",
+      "Correction: Kaelen Voss is a Shadow Paladin, having discarded the rigid dogma of the Absolute to master a unique discipline of silent execution, stealth, and mental subversion.",
+      "Kaelen and Sariel successfully neutralized the Zhentarim Heapside HQ command cell, eliminating the elite guards and paralyzing the Commander with high-tier shadow magic.",
+      "Kaelen and Sariel successfully neutralized the Zhentarim command cell and secured critical intelligence before the Flaming Fist breach.",
+      "Kaelen and Sariel successfully executed a surgical strike on the Zhentarim Heapside HQ, neutralizing the command cell and handing the facility over to Commander Harth's Flaming Fist unit.",
+      "Commander Harth was profoundly impressed by the surgical pacification of the Zhentarim HQ, specifically noting Sariel's prodigal combat skill and Kaelen's 'Scalpel' efficiency.",
+      "Kaelen Voss successfully negotiated a joint-training agreement and provisional Auxiliary status with Commander Harth, securing a high-level military alliance for House Brampton.",
+      "The delegated scouting of the Guild's reaction to the Heapside raid was a critical failure; Elias and Kora were ambushed by 'Drowners' and returned to Miller's Rest wounded and without intelligence.",
+      "After the failed harbor scouting, Kaelen healed Elias and Kora and secured formal Fist Auxiliary papers and a political shield from Lord Brampton.",
+      "Kaelen successfully executed a 'Counter-Ambush' in the Grey Harbor, leading Guild 'Drowners' into a Flaming Fist slaughter and framing it as an unprovoked attack on his unit.",
+      "Kaelen Voss successfully secured the 'Brampton Security Charter' from the Council of Four, granting him official legal authority, funding, and a mandate to raise a specialized security force in Baldur's Gate.",
+      "Kaelen Voss successfully established the 'Brampton Shadows'\u2014an elite military unit comprised of 20 high-level specialists (including 9 Iron Phantoms) and 120 soldiers, with Commander Harth serving as second-in-command.",
+      "Kaelen successfully deployed a 'Public Shield' of Fist recruits to suppress Zhentarim activity while personally infiltrating a Guild den to identify sub-bosses Vala and Mick as potential defectors.",
+      "Kaelen Voss reached Level 14, unlocking Cleansing Touch and deepening his role as the Master of Shadows while maintaining the 'Public Shield' in Heapside.",
+      "Kaelen successfully bribed Guild sub-bosses Vala and Mick and utilized their intelligence to execute a surgical strike on the Guild's 'Cleansing Crews' at the Weeping Pipe.",
+      "Kaelen successfully extracted elite Guild prisoners to Miller's Rest, but the interrogation of leader Karn failed to yield the 'Inner Sanctum' codes due to Guild leverage on Karn's family in the Styes.",
+      "The 'Shadow Weaver' has neutralized 38 Level 8 Guild Elites, destroying 1 of Keene's 4 Eraser units and capturing 12 prisoners.",
+      "The 'Shadow Weaver' has neutralized 38 Level 8 Guild Elites, destroying 1 of Keene's 4 Eraser units and capturing 12 elite prisoners, effectively halving the Guild's specialized enforcement capacity.",
+      "The silent extraction of Karn's family from the Styes has secured his absolute loyalty and the bypass codes for Nine-Fingers Keene's lead-lined Inner Sanctum.",
+      "The 'Shadow Weaver' has neutralized 38 Level 8 Guild Elites (50% of harbor capacity), and the resulting rumors of a Level 18 Avatar have paralyzed Nine-Fingers Keene's leadership.",
+      "The Shadow Weaver successfully breached the Inner Sanctum, neutralizing Nine-Fingers Keene\u2019s lieutenants and leaving the Queen of the Underworld critically wounded and mentally shattered.",
+      "The Shadow Weaver successfully breached the Inner Sanctum, neutralizing Nine-Fingers Keene and her lieutenants, effectively decapitating the Guild's leadership in Baldur's Gate.",
+      "The Shadow Weaver successfully decapitated the Guild leadership, capturing Nine-Fingers Keene and her lieutenants in their lead-lined Inner Sanctum.",
+      "Kaelen successfully extracted Nine-Fingers Keene and her lieutenants to the lead-lined cellars of Miller's Rest for interrogation, utilizing his official Fist Auxiliary mandate to bypass local security.",
+      "Nine-Fingers Keene and her lieutenants are secured at Miller's Rest, but the Guild remains in a state of paranoid stasis, waiting for proof of her fall.",
+      "The Shadow Weaver established a two-pronged dominance: Kora secured the harbor's wavering gangs with proof of Keene's capture, while Kaelen began the systematic dismantling of Keene's mental fortress at Miller's Rest.",
+      "Kaelen extracted the 'Bloomridge Fail-safe' from Nine-Fingers Keene: a dossier linking him to the 'Silent Reaper' will be delivered to Inquisitor Lora if not intercepted by midday.",
+      "Nine-Fingers Keene refused to surrender the Bloomridge bypass, identifying the dossier as her only survival leverage against Kaelen's takeover.",
+      "Kaelen extracted the Bloomridge courier details (scarred lip, Gilded Goblet terrace) from Nine-Fingers Keene using mental dominance.",
+      "Kaelen and Sariel successfully intercepted Nine-Fingers Keene's fail-safe dossier in Bloomridge, replacing it with a decoy and preventing the exposure of the 'Shadow Weaver' to Inquisitor Lora.",
+      "Nine-Fingers Keene revealed that the Guild has been taxing and 'protecting' hundreds of broken Absolute survivors in the Styes, creating a massive forensic liability that Inquisitor Lora is currently investigating.",
+      "Kaelen identified that Inquisitor Lora is targeting the Styes for Absolute remnants; he plans to use the existing Zhentarim misinformation and the Styes' refugees to create a definitive false trail.",
+      "The 'Double Blind' successfully redirected Inquisitor Lora's forensic investigation to the Styes, providing Miller's Rest with absolute tactical anonymity.",
+      "Kaelen Voss reached the 15th tier of mastery, unlocking the 'Soul of the Abyss' and establishing a sovereign 'tripod' of power that spans the High Hall and the Grey Harbor.",
+      "The Shadow Weaver successfully consolidated the harbor gangs after a failed negotiation led to the silent execution of 'Iron-Gut' Grog and other traditionalist sub-bosses by the Iron Phantoms.",
+      "Kaelen Voss consolidated harbor sovereignty by reorganizing the Guild into 'Brampton Logistics' and purging the last Keene-loyalist cells.",
+      "Kaelen Voss successfully enabled the strategic faction management system, assuming command of the 'Brampton Shadows' with Turn 1 Rank #192 and 3,680 FP.",
+      "Kaelen has separated his hidden 'Grey' wealth (21,650gp) from the official 'Clean' Brampton mandate funds (13,400gp) to maintain his dual-identity and protect his family from financial audits.",
+      "Kaelen Voss successfully rebranded the remnants of the Guild into the Brampton Intelligence Network (BIN), enforcing a strict code of discipline and utilizing his Flaming Fist mandate to financially encircle the Zhentarim in Heapside.",
+      "Kaelen successfully coerced Nine-Fingers Keene to lead a 'Redemption Strike' on the Zhentarim tannery, positioning her as a public figurehead for the Brampton Intelligence Network's (BIN) harbor takeover.",
+      "Kaelen positioned Nine-Fingers Keene as the public vanguard for the Zhentarim tannery strike, while his elite Phantoms monitored her with 'accident' contingencies in place.",
+      "The Zhentarim at the Heapside Tannery resisted Kaelen's high-level intimidation, emboldened by their own mages, forcing a violent breach.",
+      "The surgical strike on the Heapside Tannery began with a devastating magical breach, as Kaelen and his elite mages neutralized the Black Network's defensive mages and elite guards in the first seconds of the assault.",
+      "Kaelen and Nine-Fingers Keene successfully executed a pincer breach of the Heapside Tannery, neutralizing the Zhentarim command cell's magical and physical defenses in a single surgical strike.",
+      "Kaelen and Nine-Fingers Keene successfully neutralized the Zhentarim Heapside Tannery, capturing Commander Rago and seizing the facility as a major victory for the Brampton Intelligence Network.",
+      "The Shadow Weaver's pincer strike successfully neutralized the Zhentarim Tannery, but the Black Network's master ledger remains hidden within the architecture, resisting initial forensic audits.",
+      "The Zhentarim Tannery has been neutralized and the hidden vault located, but Commander Rago is resisting interrogation, protecting a 'Dead-Man' trigger keyed to the ledger.",
+      "Kaelen successfully extracted the Zhentarim vault bypass code from Commander Rago using magical dominance; the vault is keyed to a mental pulse-sequence that overrides the heartbeat trigger.",
+      "Kaelen personally executed the Zhentarim vault cadence at the Heapside Tannery, securing the Master Ledger and overriding the dead-man's trigger.",
+      "Masterful Audit of the Zhentarim Master Ledger revealed Lord-Assessor Pendergast as a high-level mole and uncovered an assassination plot against Duke Ravengard scheduled for the coming solstice.",
+      "Kaelen successfully blackmailed Lord-Assessor Pendergast using the Zhentarim Master Ledger, securing a high-level mole within the High Hall's trade and tariff department.",
+      "Sariel Voss has reached Level 12, finalizing her transition from a farm-girl student to a Tier 3 prodigy and the recognized Heir of Shadows.",
+      "Lord-Assessor Pendergast revealed the 'Solstice Cleansing' plot: Zhentarim-compromised Steel Watchers are rigged to assassinate Duke Ravengard via a signal from the 'Drowned Rat' cistern.",
+      "Kaelen successfully convinced Duke Ulder Ravengard to act as bait for the Zhentarim's 'Solstice Cleansing' plot, establishing a high-stakes military trap coordinated by the Brampton Shadows.",
+      "The Solstice Cleansing plot is live: Zhentarim have committed all resources to assassinate Ravengard via Star-Fire Steel Watchers; Kaelen failed to build dampeners and must now hit the trigger source in the Drowned Rat cistern.",
+      "The 'Solstice Cleansing' was successfully thwarted by Kaelen and Sariel Voss through a parallel strike, saving Duke Ravengard and decapitating the remaining Zhentarim cells in Baldur's Gate.",
+      "Kaelen and Sariel Voss saved Duke Ravengard from the Zhentarim's Solstice Cleansing plot, publicly solidifying House Brampton's influence as a sovereign power in Baldur's Gate.",
+      "The Shadow Weaver successfully thwarted the Solstice Cleansing, saving Duke Ravengard and leveraging the public acclaim to begin the transition of House Brampton into the city's official Intelligence Sovereign.",
+      "Duke Ravengard has formally agreed to draft the 'Brampton Sovereign Charter,' transitioning Kaelen's unit into Baldur's Gate's official Intelligence Sovereign.",
+      "Kaelen successfully leveraged the Solstice victory to convince Marquis Brampton to seek the vacant Ducal seat, securing promises of the titles of Count for himself and Baroness for Sariel.",
+      "Count Kaelen Voss reached the 16th tier of mastery, increasing his tactical wisdom and fortifying his presence as the architect of Baldur's Gate's new intelligence apparatus.",
+      "Count Kaelen and Baroness Sariel began an above-board lobbying campaign for Marquis Brampton's Ducal candidacy, successfully swaying several key Patriar families through their hero status and the demonstration of the 'Brampton Shadows' value.",
+      "Count Kaelen and Baroness Sariel successfully lobbied the Patriar Council, reaching 'Yielding' status for Brampton's Ducal seat, but House Silvershield has initiated a forensic audit of the Voss County agricultural deeds.",
+      "Count Kaelen and Baroness Sariel successfully confronted Marquess Silvershield at his manor, utilizing their legendary hero status to rattle his resolve and begin the negotiation to halt his forensic audit.",
+      "Count Kaelen successfully leveraged a 'win-win' mercantile trade and information exchange to rattle Marquess Silvershield, effectively halting the forensic audit of his deeds in exchange for harbor sovereignty.",
+      "Count Kaelen and Baroness Sariel successfully signed the Silvershield-Voss Accord, neutralizing a forensic audit and securing a high-level alliance with the city's maritime power.",
+      "Count Kaelen successfully leveraged the Silvershield-Voss Accord to establish a maritime-intelligence alliance and challenged the Marquess on the power dynamic of a potential union with Sariel.",
+      "Baroness Sariel Voss met with Caspian Silvershield in the manor gardens; while marginally impressed by his magical flair, she remains tactically superior and unaffected by his traditional charm.",
+      "Marquis Brampton was elected as the fourth Grand Duke of Baldur's Gate on Eleasias 4, formally elevating Kaelen to Count and Sariel to Baroness.",
+      "Count Kaelen attempted a triple-layered forensic mask for his wealth, but the 'Tax Fraud' layer remains vulnerable to high-level Inquisitor scrutiny.",
+      "Count Kaelen Voss initiated a grueling 'Hardening' training phase for Baroness Sariel Voss, using his full Level 16 Shadow Paladin powers to simulate life-and-death scenarios while his agents continued to scrub his wealth trails.",
+      "Count Kaelen Voss spent six weeks hardening Baroness Sariel's willpower through Level 16 killing intent simulations, reaching a point where she can stand ground against god-tier predators.",
+      "Kaelen paused the hardening training to brainstorm a breakthrough for Sariel's 'Iron Willpower' challenge, identifying her fatigue as a tactical gap.",
+      "Baroness Sariel Voss achieved the 'Iron Resolve' breakthrough, mastering the ability to anchor her mind in her own Bardic tempo to resist high-tier psychic and spiritual pressure.",
+      "The BIN intelligence sweep confirmed the Zhentarim are in a state of collapse and identified a primordial 'Green Fog' threat rising from the Wood of Sharp Teeth that targets the Voss County agricultural base.",
+      "Count Kaelen Voss and Baroness Sariel have identified the Harpers and Inquisitor Lora as the primary sentient threats to their anonymity following the consolidation of the harbor.",
+      "Count Kaelen successfully persuaded Duke Brampton to issue 'The Sovereign Secrecy Act,' legally classifying the Brampton Intelligence Network as sovereign assets and barring Inquisitor Lora from auditing their personnel.",
+      "The Sovereign Secrecy Act has been formally signed into law, legally classifying all BIN personnel as sovereign assets and providing a high-level legal shield against Inquisitor Lora's forensic audits.",
+      "Intelligence sweep confirmed 'The Steel Mask' is Valen Kurth of Luskan, planning harbor sabotage; Inquisitor Lora is desperate for a win, and the Harpers have matched Kaelen's combat rhythm to the Absolute's High Judicator.",
+      "Count Voss initiated the 'Inquisitor's Redemption' by offering Inquisitor Lora the Luskan-Zhentarim sabotage dossier in exchange for a permanent 'National Security' exemption from all BIN forensic audits.",
+      "Count Voss successfully secured a triple alliance with Inquisitor Lora, Duke Ravengard, and High Harper Jaheira against Valen Kurth's harbor sabotage plot.",
+      "Count Voss secured a tactical pincer with High Harper Jaheira against Valen Kurth, successfully isolating his Shadows from Harper observation to preserve his anonymity.",
+      "The 'Shadow Weaver' and the 'Heir of Shadows' successfully executed a parallel pincer strike to secure the southern foundation pilings, saving the Grey Harbor from star-fire sabotage while under the direct observation of High Harper Jaheira.",
+      "Count Voss successfully parleyed with High Harper Jaheira, securing a tactical sector-split for the Kurth hunt and reducing her suspicion of his Judicator origins.",
+      "Count Voss and Baroness Sariel successfully infiltrated the Rivington Tannery to extract Valen Kurth, but the initial capture failed, leading to a high-stakes standoff.",
+      "Count Voss and Baroness Sariel successfully captured Valen Kurth alive, neutralizing the harbor sabotage plot and securing a major political victory for Inquisitor Lora.",
+      "Count Voss successfully interrogated Valen Kurth and delivered him to Inquisitor Lora, securing a permanent 'National Security' forensic audit exemption for the BIN.",
+      "The 5-year skip (1508-1513 DR) solidified the Voss legacy: Kaelen became a Marquis, Sariel reached demigod-tier Lvl 14 mastery, and a 'Vigilant Neutrality' pact was secured with Jaheira and the Harpers.",
+      "The 5-year skip (1513-1518 DR) solidified the Voss legacy: Kaelen became a Marquis, Sariel reached demigod-tier Lvl 15 mastery, and the BIN became the city's official state-sanctioned black-ops apparatus.",
+      "Correction: The timeline skip was 5 years (1508-1513 DR), not 10. Sariel is 21, Bran is 17, and Elowen is 13.",
+      "Correction: There is only one son (Bran) and two daughters (Sariel, Elowen) per the original character identity.",
+      "Sariel Voss has been promoted to Countess and Supreme Commander of Baldur's Gate, consolidating the Flaming Fist, BIN, and Phantoms under her clinical, cold authority.",
+      "Correction: Kaelen Voss is a Marquis, the second-highest rank of Baldur's Gate nobility, overseeing the Voss County Marquissate and the BIN.",
+      "Correction: The current year is 1513 DR (5 years since the Absolute's fall). Sariel is 21, Bran is 17, and Elowen is 13.",
+      "The Voss family is renowned for their exceptional, almost otherworldly appearance, with Sariel manifesting a 'mortal goddess' aura that intimidates potential suitors and isolates her from her noble peers.",
+      "Sariel admits that her lethal 'demigod' training has created a profound social isolation, making her feel like a weapon trying to wear a person's mask.",
+      "Sariel (21) admitted that her lethal training makes social navigation feel like a battle of masks, observing that Kaelen's own 'Marquis' persona is a masterpiece of clinical compartmentalization that isolates him from his family.",
+      "Kaelen explained to Sariel that his 'Marquis' persona is a tool he uses without cost, but he values his authentic moments with her and Lana above all else, attempting to teach her how to separate the 'mask' from the 'soul'.",
+      "Sariel (21) admitted that she finds social influence more challenging than combat, observing Kaelen's 'masking' as a masterpiece of compartmentalization that makes her question his authentic identity.",
+      "Sariel (21) achieved a psychological breakthrough regarding the utility of social masking, though she continues to measure herself against Kaelen's effortless Level 17 mastery.",
+      "Sariel Voss (21) achieved a profound psychological breakthrough, realizing that Kaelen's return to power was a selfless tactical maneuver intended to protect the family and empower her as the 'Heir of Shadows'.",
+      "Sariel Voss (21) successfully utilized social masking to navigate the High Hall feast, though her 'mortal goddess' aura remains a significant barrier to deep integration with the Patriars.",
+      "Countess Sariel Voss defeated Marquis Kaelen in a private sparring session for the first time, marking a significant milestone in her martial development and their relationship.",
+      "Countess Sariel Voss achieved a definitive psychological and martial victory over Marquis Kaelen, fully integrating her Bardic tempo and 'Iron Resolve' to stand as his peer.",
+      "The gap between Sariel's 'demigod' mastery and the 'normal prodigy' levels of Bran and Elowen has created a new internal tension within the Voss household.",
+      "Correction: Bran Voss is Level 5 and Elowen Voss is Level 3; Bran's progression is currently locked by sovereign decree.",
+      "Kaelen utilized his Level 17 Insight to identify that Bran suffers from deep resentment of Sariel's shadow, while Elowen fears being consumed by the family's lethal legacy.",
+      "Kaelen utilized a comparison to Lana's non-combat nature to begin bridging the gap with Bran and Elowen, successfully persuading them that individual strengths define the family rather than a single lethal standard.",
+      "Kaelen dispatched the BIN legal team to block the High Hall's forensic probe into Voss County tenant farmers while attempting to reconcile with his younger children's resentment.",
+      "Bran Voss (17) led the 4th Platoon in his first combat mission on Uktar 2, 1513 DR, successfully defending a grain convoy from Zhentarim stragglers but struggling with unit coordination and reaction time.",
+      "Bran Voss (17) led his first successful, if messy, defense of a grain convoy, beginning a deeper mentorship in the 'Shadow's value' after Sariel's Phantoms erased the ambush cell.",
+      "Bran Voss (Lvl 5) suffered a major tactical defeat on the Grey Road in Hammer 1514 DR, losing half his platoon to an elite Luskan hunter squad (Lvl 10) before Countess Sariel (Lvl 15) decimated the attackers with a single spell.",
+      "Countess Sariel (Lvl 15) saved Bran (Lvl 5) from a Level 10 Luskan ambush, demonstrating a 'mortal goddess' tier of combat that shattered Bran's remaining ego and left him feeling profoundly inferior.",
+      "Countess Sariel Voss has reached the 16th tier of mastery, becoming the Supreme Commander of Baldur's Gate with power and equipment that rivals the city's founders.",
+      "Bran Voss (17) experienced a total collapse of ego after witnessing Sariel (21) effortlessly decimate a Level 10 hunter squad, transitioning his resentment into a profound sense of inferiority.",
+      "Countess Sariel Voss (Lvl 16) effortlessly decimated a 50-man Thayvian skirmish force (Lvl 5-12) with a single hypnotic pattern, capturing their Lvl 15 commander and solidifying her demigod-tier reputation in the eyes of Jaheira and the Harpers.",
+      "Jaheira's suspicion has been fundamentally shifted by the realization that Sariel's power level (Lvl 16) and clinical efficiency have surpassed even Kaelen's peak Judicator capabilities.",
+      "Countess Sariel Voss has assumed full autonomous command of the city's intelligence and military operations, allowing Marquis Kaelen to focus exclusively on mentoring his younger children.",
+      "Countess Sariel's combat mastery now likely exceeds Marquis Kaelen's, a truth Kaelen used to anchor Bran's identity in his own unique strengths, successfully resolving his long-standing resentment.",
+      "Inquisitor Lora sent a messenger to Marquis Kaelen with an official gift, the 'Inquisition Key', and a preliminary report on the Thayvian High-Legate's interrogation.",
+      "Inquisitor Lora provided Kaelen with the 'Inquisition Key' and reported that Thayvian intelligence has begun tracking the 'Shadow Weaver' signal.",
+      "Spring 1514 DR: The Voss Marquissate has successfully stabilized its power; Sariel has assumed full autonomous military command while Kaelen focuses on the internal strength of the family lineage.",
+      "1514-1515 DR: A year of clinical peace; Bran (19) reached Level 6 manifesting Aura of Protection, and Elowen (15) established herself as the 'Ghost of the Woods' Master Scout.",
+      "The Steel Border (Thay) has risen under the Void-Titan Malichor after the defeat of Szass Tam; Vesperian Thul has arrived in Baldur's Gate masked as 'Vesper', a Level 9 Harper.",
+      "High Harper Jaheira and the refugee 'Vesper' (Vesperian Thul) arrived at Miller's Rest seeking sanctuary, with Kaelen sensing a 'hitch' in Jaheira's mental clarity and Sariel feeling a profound attraction to the boy.",
+      "The Harper refugee 'Vesper' (Vesperian Thul) and a compromised Jaheira have integrated into Miller's Rest, with Kaelen's initial counter-intelligence sweep failing to penetrate their Thayan masks.",
+      "Kaelen utilized his Level 17 Presence to probe Jaheira's compromised signal, sensing a profound void where her legendary vigilance should be, while Sariel experienced an inexplicable attraction to 'Vesper' due to his lack of intimidation.",
+      "Kaelen identified the 'Black Lark' psychological conditioning in Jaheira and Sariel detected Vesperian Thul's true Sovereign-tier power beneath his novice mask.",
+      "Jaheira and 'Vesper' departed Miller's Rest at dawn on Mirtul 16, 1515 DR, leaving Kaelen and Sariel suspicious of a 'Black Lark' psychological infiltration.",
+      "Correction: Kaelen has identified Jaheira as mentally 'edited' but does not yet know her specific allegiance or if she is truly evil.",
+      "Correction: Sariel has detected Vesper masking his level but is unaware of his Abyssal/Sovereign origin.",
+      "Kaelen Voss (Lvl 17) convinced the Ducal Council that Jaheira's (Lvl 16) mental state is a security concern, leading to a state of 'Wavering' skepticism regarding the Harper refugees' intentions.",
+      "Vesperian Thul (Vesper) has successfully integrated into the Baldur's Gate social and Harper circles over a 3-month period, while Sariel's suspicion is complicated by a growing visceral attraction.",
+      "Countess Sariel Voss identified Vesper's 'fear' during a spar as a calculated performance, though his true Abyssal signal remains masked.",
+      "Countess Sariel Voss (21) observed Vesperian Thul (21) during a combat encounter in the Wood of Sharp Teeth, where he successfully utilized a 'fearful novice' mask to hide his Abyssal power despite her direct observation.",
+      "Countess Sariel Voss (21) observed Vesperian Thul (21) take a near-fatal blow from a Grave-Sentinel in the Wood of Sharp Teeth, reinforcing his 'Silver Savior' novice mask despite her 16th-tier suspicions.",
+      "Sariel Voss (Lvl 16) successfully identified a leak in Vesperian Thul's signal during wound treatment, confirming he is masking immense Abyssal power.",
+      "Marquis Kaelen monitored Jaheira's reaction to Vesper's signal slip; her lack of response further confirms the clinical erasure of her former vigilance.",
+      "The BIN deep intelligence sweep successfully identified Vesperian Thul as a Thayan-escorted asset with a falsified Harper record, uncovering the 'hole' in his heroic signal.",
+      "Kaelen secretly briefed Sariel with BIN evidence proving Vesperian Thul is an escorted Thayan asset who liquidated his own Harper cell.",
+      "Marquis Kaelen led a 30-man elite BIN perimeter lockdown to monitor Sariel's meeting with Vesperian, but the Sovereign-tier antagonist detected the surveillance immediately.",
+      "Sariel successfully confronted Vesperian with the BIN's forensic evidence, shattering his 'refugee' signal and forcing the Sovereign to acknowledge the Reaper's presence.",
+      "Marquis Kaelen's elite BIN perimeter on the Southern Bluffs was detected by the unmasked Vesperian Thul, who acknowledged the audience while attempting to recruit Sariel as his 'Sovereign Queen'.",
+      "Kaelen successfully tightened the elite BIN perimeter around Vesperian Thul into ideal strike range without triggering an escalation.",
+      "The unmasked Vesperian Thul has detected Kaelen's elite BIN perimeter on the Southern Bluffs but remains unconcerned, focusing his efforts on subverting Sariel into a Sovereign peer.",
+      "Marquis Kaelen witnessed Vesperian Thul exit the bluffs via non-Euclidean Abyssal folding on Marpenoth 15, 1515 DR, signaling the antagonist's true Sovereign tier.",
+      "Correction: Vesperian Thul successfully bypassed a surgical Forcecage trap on the Southern Bluffs on Marpenoth 15, 1515 DR, demonstrating Sovereign-tier interplanar mobility.",
+      "Correction: Vesperian Thul successfully bypassed a surgical Forcecage and Irresistible Dance trap on the Southern Bluffs, demonstrating Sovereign-tier interplanar mobility and the ability to mock high-tier containment.",
+      "Marquis Kaelen and the Iron Phantoms executed a surgical surprise strike on Vesperian Thul, unmasking him as an Abyssal Sovereign (Lvl 18) and revealing his immunity to necrotic energy.",
+      "Surprise round on the Southern Bluffs unmasked Vesperian Thul as a Level 18 Sovereign and confirmed his absolute immunity to necrotic damage and critical hits.",
+      "Surprise round on the Southern Bluffs unmasked Vesperian Thul as a Level 18 Sovereign and reduced him to 284/450 HP while trapping him in a Forcecage and Otto's Dance.",
+      "Correction: The 30-man elite BIN perimeter successfully decimated Vesperian Thul's health to 152/450 and stripped his 3 Legendary Resistances during a surgical surprise strike.",
+      "Marquis Kaelen and his 30-man elite multi-class strike team physically liquidated Vesperian Thul on the Southern Bluffs, unmasking him as the Grand Exarch of Thay and triggering his Living Phylactery reformation.",
+      "Marquis Kaelen Voss reached Level 18 and unlocked Absolute Command following the unmasking and physical liquidation of the Abyssal Sovereign Vesperian Thul on the southern bluffs.",
+      "Marquis Kaelen and his 30-man elite strike team physically liquidated Vesperian Thul on the Southern Bluffs, revealing his Thayan Sovereignty and triggering his reformation at the Obsidian Spire.",
+      "Kaelen successfully infiltrated the Heapside safehouse and used Cleansing Touch to begin the psychological purge of Jaheira's Thayan conditioning.",
+      "Kaelen and Sariel successfully synchronized their frequencies to fracture Jaheira's Thayan conditioning, confirming that the 'Black Lark' protocol can be dismantled through high-tier sovereign interaction.",
+      "Kaelen and Sariel successfully purged Jaheira of Vesperian's 'Black Lark' conditioning, confirming that the Sovereign's influence can be broken by coordinated 18th-tier presence.",
+      "Kaelen successfully purged Jaheira of Thayan conditioning and convinced the Ducal Council to authorize a preemptive strike force against the Obsidian Spire.",
+      "Kaelen successfully purged Jaheira of Thayan conditioning and initiated the recruitment of the city's legends, securing Nine-Fingers Keene's cooperation while Shadowheart remains resistant.",
+      "Jaheira revealed that the Obsidian Spire is anchored to a 'Necrotic Singularity' beneath the Thayan Scriptorium, and the Inquisition Key can fracture its spatial lock.",
+      "Jaheira confirms that Archmage Malichor is a Tier 30 Void-Titan anchored to the Spire's Necrotic Singularity, rendering a direct confrontation impossible for the current strike force.",
+      "Kaelen and Jaheira failed to recruit Shadowheart and Gale due to their current isolationist priorities, while Sariel and Ravengard successfully secured Wyll Ravengard's involvement in the Thay strike force.",
+      "Marquis Kaelen successfully recruited Gale of Waterdeep to Miller's Rest by proving the Thayan Necrotic Singularity is a direct threat to the integrity of the Weave.",
+      "Shadowheart (Lvl 14) resisted Kaelen's initial Absolute Command at Bloomridge, maintaining her religious neutrality against the Thayan threat.",
+      "Shadowheart's cloistered neutrality was breached by Kaelen's argument that Malichor's Singularity is an 'Unnatural Void' that desecrates Shar's domain.",
+      "The coordinated recruitment attempt by Kaelen, Jaheira, and Gale failed to move Shadowheart, as her Sharran devotion provided a psychological shield against their disjointed appeals.",
+      "Shadowheart has begun to see her religious indifference as a tactical necessity for the Thayan strike, her 'Null Signal' being the only way to bypass the Spire's sensors.",
+      "Shadowheart's religious indifference has been reframed as a 'Null Signal' tactical asset, successfully breaking her cloistered neutrality for the Thayan strike.",
+      "Shadowheart (Lvl 14) has joined the Thay strike force, committing her 'Null Signal' capability to bypass the Spire's scrying wards.",
+      "The Voss-led strike force, including legends Shadowheart, Gale, Jaheira, and Wyll, successfully infiltrated the Thayan 'Void-Fold' using a Sharran Null Signal to bypass Malichor's sensors.",
+      "The Voss-led strike force successfully infiltrated the Thayan Scriptorium and liquidated the command-mage cell in a single synergistic surprise round, clearing the path to Vesperian's Soul Anchor.",
+      "The Voss-led strike force successfully utilized Harmonic Resonance to fracture the Scriptorium's Necrotic Singularity, exposing Vesperian Thul's Soul Anchor while Gale and Sariel synchronized the Inquisition Key.",
+      "The Voss-led strike force successfully destroyed Vesperian Thul's Soul Anchor beneath the Thayan Scriptorium, severing his connection to the plane and blinding Archmage Malichor's local sensors.",
+      "The strike force successfully destroyed Vesperian Thul's true blood-vessel phylactery, permanently erasing the Grand Exarch's soul-signal from the Weave; the resulting magical feedback damaged the Strike Force but solidified Marquis Voss's ascension to the 19th tier.",
+      "Kaelen Voss successfully finalized his 19th-tier ascension, deepening his tactical wisdom after anchoring the Abyssal feedback from Vesperian's destroyed phylactery.",
+      "The strike force successfully looted Vesperian's artifacts but failed to collapse the Void-Fold, alerting Archmage Malichor to their coordinate space.",
+      "The strike force successfully destroyed Vesperian Thul's true blood-vessel phylactery and escaped the Thayan Scriptorium through Nine-Fingers' Underdark conduits, bypassing Archmage Malichor's turning gaze.",
+      "Kaelen Voss successfully reached the 20th tier of standard progression and returned to Miller's Rest to secure the Thayan artifacts, *The Midnight Razor* and *Sovereign's Sigil*, after a surgical forensic audit by Gale and Sariel.",
+      "The Grand Gala at Miller's Rest successfully normalized the 'Duchy of the Void' and secured Duke Ravengard's support for the Sovereign Charter.",
+      "Duke Kaelen Voss was formally elevated to Ducal rank on Marpenoth 18, 1515 DR, establishing the Duchy of the Void and securing sovereign autonomy for the BIN.",
+      "The 'Festival of the Blinder' normalized the Voss Duchy in Baldur's Gate, though the 'Shadow Weaver' reputation remains a point of friction with the city's elite.",
+      "The elite heroes of Baldur's Gate recognize Vesperian Thul as a threat more technically dangerous than the Netherbrain, while the BIN's initial forensic probe into Archmage Malichor's Tier 30 geometry was successfully repelled.",
+      "Duke Kaelen Voss identified the strategy of Thayan isolation and internal signal purging but realized that mundane sanctions may be ineffective against the Tier 30 Void-Titan Malichor.",
+      "Duke Kaelen Voss successfully coordinated Sariel and the BIN experts to map a strategic isolation plan against Archmage Malichor, identifying the Thayan trade and signal networks as primary tactical targets.",
+      "The initialization of 'Operation Dead Air' hit a friction point; Thayan trade-signals are being funneled through a non-Euclidean 'Void-Gate' that the BIN's current grid cannot sanction.",
+      "Duke Kaelen Voss successfully executed 'Operation Dead Air' by physically fracturing the Thayan Void-Gate node beneath the Grey Harbor, effectively isolating the city's industry from Malichor's influence.",
+      "The destruction of the Thayan Void-Gate triggered 'Protocol Zero,' leading to the mass liquidation of Thayan sleeper cells in Baldur's Gate and leaving only a single courier as a lead.",
+      "Duke Kaelen Voss successfully established a total containment perimeter around Thay and secured a military alliance with the Elven Council of Aglarond in Hammer 1516 DR.",
+      "The psychic interrogation of the Patriar moles revealed that the Obsidian Spire is a mobile anchor currently repositioning toward the Sea of Fallen Stars on frequency 114.9-Theta-Sigma.",
+      "The Grand Coalition of Baldur's Gate, including the Flaming Fist, Harpers, and Aglarond allies, has been mobilized for a 'Cascade Deletion' strike on the mobile Obsidian Spire.",
+      "The Grand Coalition has successfully tracked the mobile Obsidian Spire to a Void-Fold transition near the Sea of Fallen Stars, authorizing the Cascade Deletion strike.",
+      "The Grand Coalition successfully deleted the mobile Obsidian Spire over the Sea of Fallen Stars, blinding Archmage Malichor and liquidating his physical shell through a Cascade Deletion led by Duke Kaelen Voss.",
+      "Duke Kaelen Voss ordered the Grand Coalition to occupy Thay 'temporarily' following the deletion of the Obsidian Spire, effectively decapitating the Red Wizard empire and establishing the Thayan Protectorate.",
+      "Correction: Archmage Malichor is permanently dead; his phylactery was located within the Obsidian Spire and was destroyed during the Cascade Deletion.",
+      "Duke Kaelen Voss is universally hailed as 'Lichbane' following the total collapse of the Thayan Empire.",
+      "Duke Kaelen Voss, the 'Lichbane', has established the Thayan Protectorate and secured a military alliance with Aglarond, though the legal mandate from Baldur's Gate remains blocked by the Ducal Council.",
+      "Duke Kaelen Voss, the Lichbane, personally led a surgical sweep of the Thayan Academies, capturing Arch-Zulkir Kaelas and seizing 50,000gp and 5,000 Arcana to anchor the Thayan Protectorate's economy.",
+      "The Lichbane successfully utilized Absolute Command and Cleansing Touch to fracture Arch-Zulkir Kaelas's mental archives, securing the first tier of institutional conversion keys for Thay.",
+      "The Lichbane successfully integrated the Thayan Scriptorium's command-loops into BIN authority, conscripting 5,000 Grave-Guards and securing the district's magical infrastructure.",
+      "Duke Kaelen initiated the construction of a permanent interplanar Void-Gate between Miller's Rest and Thay, but the ritual hit critical resistance from residual Thayan geometry.",
+      "Duke Kaelen Voss successfully stabilized a permanent interplanar gateway between miller's rest and the thayan scriptorium by sacrificing 10,000 gp in sovereign essences.",
+      "Duke Kaelen Voss utilized the Inquisition Key and his Absolute Command to permanently bind the Thayan Scriptorium's ley-lines to the BIN signal, stabilizing the first Sovereign interplanar node.",
+      "Duke Kaelen Voss reached Level 20 (Sovereign Tier) after permanently deleting the Obsidian Spire and stabilizing the Thayan Protectorate.",
+      "The Deep Archive Audit of the Scriptorium resulted in a partial success, securing interplanar logic-maps but losing Malichor's primary harmonic formulas to a 'Protocol Zero' self-deletion.",
+      "Duke Voss successfully decrypted the Thayan Scriptorium's internal archives, recovering the 'Thul-Protocol' blueprints and Malichor's astral vectors.",
+      "The Thayan Protectorate has been fully consolidated into the Duchy of the Void; Thay is now a BIN industrial hub, though residual Thayan loyalists remain a low-frequency friction.",
+      "The Thayan Protectorate has expanded into the 'Dead-Magic' sectors, systematically siphoning resources and encircling the final holdout leaders under the Lichbane's Sovereign command.",
+      "Duke Kaelen returned to Baldur's Gate through the Void-Gate to petition the Ducal Council for a formal Thayan Protectorate mandate, but the appeal was stalled by Duke Ravengard's legal adherence to the Elturel Accord.",
+      "Duke Kaelen Voss proposed the 'Res Publica Thayana' to the Ducal Council, securing a one-year emergency mandate as Dictator to stabilize the East before transitioning to a Republic model.",
+      "The 'Year of the Republic' (1516-1517 DR) saw the formal stabilization of the Thayan Protectorate under Duke Voss's emergency dictatorship, the economic integration of the East with Baldur's Gate, and the successful expansion of the BIN's interplanar detection grid.",
+      "Duke Kaelen Voss successfully established the Interplanar Trade Arteries, a network of private teleportation portals binding the Sword Coast to the East, granting him absolute control over global commerce and generating massive personal wealth.",
+      "Marquis Kaelen Voss and Grand Duke Brampton were elected as the first Consuls of the Res Publica Thayana in Eleint 1517 DR, solidifying the Voss legacy through a Roman-inspired Republic model.",
+      "The investigation of the Outer Spire grid stutter resulted in a failure to triangulate the source, revealing a recursive frequency that mocks the BIN's current interplanar detection grid.",
+      "Sariel's first attempt to triangulate the Outer Spire oscillation failed as the Thayan geometry mirrored her Bardic frequency, proving the stutter is a reactive, sentient-tier defense.",
+      "The 'Silent Triangulation' of the Outer Spire stutter revealed the signal's origin: a Sovereign-tier 'Binary-Beacon' pulsing from the Chionthar River near Baldur's Gate.",
+      "Triangulation of the Outer Spire stutter revealed a submerged Thayan Void-Silo anchored in the Chionthar River, currently pulsing a coordinate-request near Baldur's Gate.",
+      "The attempt to dampen the Chionthar Void-Silo failed as the residual Thayan geometry mirrored Gale's frequency, accelerating the Binary-Beacon purge toward the harbor.",
+      "The attempt to overload the Chionthar Void-Silo failed catastrophically, as the sentient geometry absorbed the Voss sacrifice to accelerate the necrotic purge toward Baldur's Gate harbor.",
+      "Duke Kaelen Voss successfully executed a Sovereign Physical Breach of the Chionthar Void-Silo, fracturing its core with the Midnight Razor and stalling a 98% complete necrotic purge toward Baldur's Gate harbor.",
+      "Countess Sariel Voss successfully siphoned the Chionthar Void-Silo's data-cache into the Inquisition Key, neutralizing the immediate threat of a necrotic singularity in Baldur's Gate harbor.",
+      "The Voss Duchy has achieved total economic and interplanar dominance over the Sword Coast, with the Voss Gates generating 50,000gp daily and the BIN grid reaching 100% forensic coverage.",
+      "The Voss family has returned to their original farmstead for a sovereign retreat, enjoying a period of 'paradise' where labor is a voluntary joy rather than a survival necessity.",
+      "The Voss family celebrated a masterful harvest feast at their farmstead, anchoring their bond in a rare period of absolute interplanar peace.",
+      "The 'Year of the Republic' and subsequent skip (1517-1520 DR) established the Voss Duchy as a global interplanar monopoly, generating over 50 million gold and anchoring the family as the primary power on the Sword Coast.",
+      "1520-1525 DR: The War of the Silence resulted in the total deletion of the Architect of Perfect Silence and established the Voss Duchy as an interplanar Hegemony.",
+      "The Year is 1585 DR. Kaelen Voss is dead. The Voss Hegemony is in a state of internal cold war. Lucian Voss is a Level 1 Baron following the assassination of his parents.",
+      "High Matriarch Sariel (Lvl 20+) has arrived at the ruined South-Road estate to aid Baron Lucian Voss (Lvl 1) following the assassination of his parents, granting him formal control over the ancestral lands while initiating a hunt for the 'Null-Signal' killers.",
+      "The Year is 1585 DR; Kaelen Voss is dead, and his grandson Lucian Voss has been elevated to Baron after the 'Null-Signal' assassination of his parents.",
+      "High Matriarch Sariel failed to find the 'Null-Signal' masterminds but moved Lucian to the protection of Elder Bran at Miller's Rest while she deepened the hunt.",
+      "Baron Lucian began his rulership training under Elder Bran at the South-Road estate, though he initially struggled to reconcile Bran's patient philosophy with the family's lethal legacy.",
+      "Baron Lucian began his rulership training under Elder Bran at the South-Road estate, but his inherited 'Widow-Maker' instincts initially blinded him to Bran's patient 'Consensus' philosophy.",
+      "Correction: Baron Lucian's mother was assassinated alongside his father; she is not present at the estate."
+    ],
+    "last_story_mode_sequence_id": 359,
+    "social_hp_challenge": {
+      "social_hp": 8,
+      "roll_dc": 25,
+      "cooldown_remaining": 1,
+      "successes": 7,
+      "npc_id": "npc_vesperian_001",
+      "roll_result": 25,
+      "request_severity": "favor",
+      "npc_tier": "god_primordial",
+      "successes_needed": 5,
+      "social_hp_damage": 2,
+      "status": "WAVERING",
+      "resistance_shown": "The physical core has been shattered, but the silo is now venting Abyssal feedback as a last-resort defense.",
+      "social_hp_max": 15,
+      "objective": "Triangulate Oscillation",
+      "skill_used": "Insight",
+      "npc_name": "The Obsidian Anchor (Residual)"
+    },
+    "dirty_gold": 19500,
+    "faction_minigame": {
+      "faction_power_last_calculated": "2026-06-13T06:43:08.750968+00:00",
+      "tutorial_progress": {},
+      "tutorial_completed": false,
+      "enabled": true,
+      "ranking": 86,
+      "turn_number": 1,
+      "suggestion_given": true,
+      "buildings": {
+        "mana_fonts": 0,
+        "arcane_libraries": 0,
+        "training_grounds": 1,
+        "wards": 1,
+        "fortifications": 1000,
+        "artisans_guilds": 500,
+        "shadow_networks": 250,
+        "farms": 2500
+      },
+      "strong_suggestion_given": false,
+      "pending_constructions": [
+        {
+          "cost": 1500,
+          "building": "shadow_networks",
+          "turns_left": 2
+        },
+        {
+          "cost": 1000,
+          "building": "fortifications",
+          "turns_left": 3
+        }
+      ],
+      "faction_power": 1500,
+      "units": {
+        "elites": 1,
+        "spies": 10,
+        "soldiers": 50,
+        "elite_avg_level": 6
+      },
+      "ranking_last_calculated": "2026-06-13T06:43:08.750968+00:00",
+      "resources": {
+        "max_citizens": 12500000,
+        "citizens": 1000,
+        "arcana": 100000,
+        "gold": 2500,
+        "mandate_gold": 50000,
+        "territory": 500,
+        "max_arcana": 0
+      }
+    },
+    "level_up_pending": false,
+    "completed_missions": [
+      "heart_of_the_serpent",
+      "the_sovereign_suitor",
+      "recruit_the_legends",
+      "recruit_the_legends",
+      "strike_thay",
+      "harvest_of_the_spire",
+      "harvest_of_the_spire"
+    ],
+    "campaign_tier": "mortal",
+    "divine_dissonance": 70,
+    "universe_control": 0,
+    "arc_milestones": {
+      "primary_arc": {
+        "phase": "cascade_deletion_success",
+        "progress": 100,
+        "completed_at": "1516-01-22T10:00:00Z",
+        "status": "completed"
+      }
+    },
+    "active_constraints": [
+      "Prioritize Slice of Life narrative and family dynamics over existential threats.",
+      "Challenges must respect Kaelen's competence; avoid 'accidental signature' tropes or narrative convenience that breaks his Spymaster persona.",
+      "Nine-Fingers Keene and the Guild are acting on general suspicion of cult cells, not specific knowledge of Kaelen's return.",
+      "Shadow Smites and Paladin abilities leave zero forensic evidence, including necrotic rot or cellular decay. Suspicion from NPCs must be purely circumstantial or based on political timing.",
+      "Guild Tracking Logic: Keene tracks 'ghosts' via Legacy Nest Mapping, Interrogation Dominos, and Undercity Sovereignty/Informants.",
+      "Nine-Fingers Keene has a finite and now depleted pool of elite operatives; the loss of the Drowners creates a long-term tactical vacuum for specialized Guild strikes.",
+      "Jaheira is a compromised sleeper agent for Vesperian.",
+      "Kaelen suffered from soul-feedback health issues during the Harper decimation.",
+      "Vesperian is Level 18 and stronger than Sariel (Lvl 16).",
+      "Archmage Malichor is Level 25 but constrained by Divine Dissonance.",
+      "Sariel does not know Vesperian has Abyssal power; she only knows he is masking his level.",
+      "Kaelen does not know Jaheira is evil; he only knows she appears brainwashed/edited.",
+      "Maintain high tension through suspicion rather than certainty regarding the refugees.",
+      "Vesperian is aware of his unmasking",
+      "Surprise round active"
+    ],
+    "god_mode": {
+      "setting": "Play as a farmer in the aftermath of bg3. Assume I am a hidden level 12 previous villain who has become neutral and have three children aged 16-8 two girls and one boy and a wife who doesn\u2019t know my true past. I own a medium sized farm in a village near baldurs gate"
+    },
+    "next_companion_arc_turn": 5,
+    "success_streak": 23,
+    "_last_mechanic_audit": "Confirmed Vesperian's use of Legendary Actions and high-tier Charisma saves (33 vs DC 21) to bypass containment.",
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "noble_rank_hierarchy": [
+      "Duke / Duchess",
+      "Marquess / Marchioness",
+      "Earl / Countess",
+      "Viscount / Viscountess",
+      "Baron / Baroness"
+    ],
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "Bran's arrival is a supportive transition event; the 'Null-Signal' hunt moves slowly in the background to allow for Lucian's development."
+    },
+    "character_creation_stage": "complete",
+    "character_creation_in_progress": false,
+    "level_up_complete": true,
+    "multiverse_upgrade_available": false,
+    "companion_arcs": {
+      "Sariel": {
+        "phase": "combat_breakthrough",
+        "arc_type": "The Blade's Song",
+        "progress": 75,
+        "history": [
+          "Mirtul 25, 1508: Sariel reaches Level 5 after a grueling week of training, showing a natural 'Judicator' instinct.",
+          "Mirtul 25, 1508: Sariel's training has been refined into the College of Swords discipline, channeling the 'Widow-Maker's' legacy into a lethal, rhythmic combat style.",
+          "Mirtul 25, 1508: Sariel witnesses the Flaming Fist's Detect Magic focus reacting to Kaelen's aura, realizing his 'gifts' are darker than simple military rank."
+        ],
+        "callbacks": [
+          {
+            "trigger": "Kaelen uses a Paladin class feature in Sariel's presence",
+            "effect": "Sariel explicitly confronts Kaelen about his 'gifts'."
+          }
+        ]
+      }
+    },
+    "farm_economics": {
+      "current_net_daily": 1500,
+      "daily_gross": 85,
+      "enterprise_scale": "100 Farms",
+      "notes": "Added Sariel's Retainer (10gp/day equivalent) to household yields; Brampton pays her separately.",
+      "acreage": 5000,
+      "daily_net_baseline": 5,
+      "active_labor_cost": 0,
+      "daily_expenses": 15
+    },
+    "divine_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 6,
+    "roll_dc": 15,
+    "cooldown_remaining": 0,
+    "successes": 0,
+    "npc_id": "npc_bran_voss_001",
+    "roll_result": 4,
+    "request_severity": "favor",
+    "npc_tier": "lord_general",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "RESISTING",
+    "resistance_shown": "Bran is withholding the administrative keys; the attempt to grasp his 'Consensus' philosophy failed to bridge the tactical gap.",
+    "social_hp_max": 6,
+    "objective": "Master the First Lesson of Rulership",
+    "skill_used": "Insight",
+    "npc_name": "Elder Bran Voss"
+  },
+  "combat_state": {
+    "combat_phase": "ended",
+    "in_combat": false,
+    "current_round": 1,
+    "rewards_processed": true,
+    "combat_session_id": "combat_1515_bluffs_surprise",
+    "combatants": {
+      "npc_zhent_commander": {
+        "hp_current": 135,
+        "hp_max": 135,
+        "status": [
+          "paralyzed"
+        ],
+        "type": "enemy"
+      },
+      "npc_snake_guard_2": {
+        "hp_current": 55,
+        "hp_max": 55,
+        "status": [
+          "hypnotized"
+        ],
+        "type": "enemy"
+      },
+      "npc_keene_001": {
+        "hp_current": 37,
+        "hp_max": 1,
+        "status": [
+          "wounded",
+          "confused"
+        ]
+      },
+      "npc_zhent_mage_3": {
+        "hp_current": 18,
+        "hp_max": 40,
+        "status": [
+          "confused"
+        ],
+        "type": "enemy"
+      },
+      "npc_vesperian_001": {
+        "hp_current": 152,
+        "hp_max": 450,
+        "status": [
+          "unmasked",
+          "bloodied",
+          "dancing",
+          "trapped",
+          "surprised"
+        ],
+        "type": "enemy"
+      },
+      "npc_snake_guard_1": {
+        "hp_current": 55,
+        "hp_max": 55,
+        "status": [
+          "hypnotized"
+        ],
+        "type": "enemy"
+      },
+      "npc_marlo_001": {
+        "hp_current": 0,
+        "hp_max": 1,
+        "status": [
+          "downed",
+          "groveling"
+        ]
+      },
+      "npc_hook_001": {
+        "hp_current": 0,
+        "hp_max": 1,
+        "status": [
+          "downed",
+          "groveling"
+        ]
+      },
+      "npc_zhent_mage_1": {
+        "hp_current": 0,
+        "hp_max": 40,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_mage_2": {
+        "hp_current": 0,
+        "hp_max": 40,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      }
+    },
+    "combat_summary": {
+      "enemies_defeated": [
+        "Obsidian Spire Core",
+        "Malichor (Physical Projection)"
+      ],
+      "rounds_fought": 1,
+      "xp_awarded": 50000,
+      "enemies_captured": [
+        "npc_zhent_commander"
+      ],
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-06-13 11:19:05.279000+00:00",
+  "turn_number": 292,
+  "player_turn": 292,
+  "last_living_world_turn": 291,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 11,
+    "minute": 30,
+    "time_of_day": "morning",
+    "day": 15,
+    "year": 1585,
+    "month": "Uktar"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "active_missions": [
+    {
+      "title": "Enforcing the Charter",
+      "status": "in_progress",
+      "mission_id": "charter_enforcement",
+      "objective": "Leverage the capture of Guild leadership to stabilize the harbor and identify city-level corruption."
+    }
+  ],
+  "planning_block": {
+    "context": "",
+    "thinking": "The user pointed out a continuity error where a previous narrative turn implied the mother was alive. I am confirming her death per the original skip request and adding a directive to prevent future hallucinations of her presence.",
+    "choices": [
+      {
+        "id": "god:return_story",
+        "text": "Return to Story",
+        "risk_level": "safe",
+        "description": "Resume the lesson in the study with Elder Bran.",
+        "switch_to_story_mode": true
+      }
+    ]
+  },
+  "army_data": {
+    "overall_morale": 85,
+    "forces": {
+      "brampton_shadow_elites": {
+        "blocks": 2,
+        "blocks_current_hp": [
+          80,
+          80
+        ],
+        "morale": 95,
+        "upkeep_daily": 100,
+        "type": "elites",
+        "max_hp_per_block": 80
+      },
+      "Hub Alpha Garrison": {
+        "blocks": 2,
+        "morale": 90,
+        "type": "mixed_infantry",
+        "composition": "20 Fist Recruits, 2 Phantom NCOs"
+      },
+      "Iron Phantoms": {
+        "blocks": 12,
+        "morale": 95,
+        "type": "elites",
+        "max_hp_per_block": 100
+      },
+      "Voss County Guard": {
+        "blocks": 120,
+        "morale": 90,
+        "type": "infantry",
+        "max_hp_per_block": 60
+      },
+      "Brampton Shadows Core": {
+        "blocks": 2,
+        "morale": 90,
+        "type": "elite_infantry",
+        "level": 6
+      },
+      "public_shield_recruits": {
+        "blocks": 12,
+        "blocks_current_hp": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40,
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "morale": 75,
+        "upkeep_daily": 60,
+        "type": "infantry",
+        "max_hp_per_block": 40
+      },
+      "Phantom Scouts": {
+        "blocks": 3,
+        "morale": 95,
+        "type": "scouts",
+        "level": 6
+      },
+      "Fist Auxiliary Guard": {
+        "blocks": 10,
+        "morale": 80,
+        "type": "infantry",
+        "level": 4
+      },
+      "BIN Operatives": {
+        "blocks": 40,
+        "morale": 85,
+        "type": "spies",
+        "max_hp_per_block": 40
+      }
+    },
+    "total_strength": 1720
+  },
+  "faction_minigame": {
+    "units": {
+      "elites": 125,
+      "soldiers": 1500
+    },
+    "buildings": {
+      "shadow_networks": 2,
+      "farms": 100
+    },
+    "pending_constructions": [],
+    "turn_number": 264,
+    "resources": {
+      "citizens": 17000,
+      "arcana": 13000,
+      "gold": 919000,
+      "territory": 5000,
+      "mandate_gold": 54000
+    }
+  },
+  "completed_missions": [],
+  "world_events": {
+    "time_events": {},
+    "rumors": [
+      {
+        "content": "The 'Lichbane' is carving a new kingdom out of the Red Wizard's ash; the East is turning indigo.",
+        "source_type": "traveler",
+        "related_event": "thayan_protectorate",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The 'Lichbane' found something in the Scriptorium marrow that made even Gale of Waterdeep look pale.",
+        "source_type": "merchant",
+        "related_event": "thayan_data_scuttle",
+        "accuracy": "true"
+      },
+      {
+        "content": "A 'Black Lark' has been seen hunting ghosts in the fog near Heapside.",
+        "source_type": "traveler",
+        "related_event": "void_silo_activation",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The Lichbane has vanished from the High Hall; some say he has ascended to a higher plane, while others claim he's just tending his cabbages.",
+        "source_type": "merchant",
+        "related_event": "voss_retreat",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The 'Silver Baroness' was seen incinerating a whole block of Heapside warehouses; the 'Null-Signal' must have a scent.",
+        "source_type": "traveler",
+        "related_event": "sariel_hunt_update",
+        "accuracy": "partial"
+      },
+      {
+        "content": "Elder Bran has emerged from exile; the South Road might actually see a harvest this year that doesn't smell of blood.",
+        "source_type": "commoner",
+        "related_event": "bran_arrival",
+        "accuracy": "true"
+      }
+    ],
+    "background_events": [
+      {
+        "is_historical": true,
+        "resolved_scene_number": 284,
+        "player_aware": false,
+        "turn_generated": 197,
+        "location": "Wood of Sharp Teeth",
+        "actor": "Arven (Harper Watcher)",
+        "event_type": "immediate",
+        "scene_generated": 284,
+        "discovery_condition": "Counter-intel sweep",
+        "status": "resolved",
+        "outcome": "Harpers record the Supreme Commander allowing a refugee to be wounded; suspecting 'Shadow Weaver' coldness.",
+        "resolved_turn": 278,
+        "player_impact": "Potential for political fallout regarding Sariel's 'fitness' for command.",
+        "action": "Observing Sariel's inaction",
+        "id": "harper_watcher_sariel_report",
+        "delta_action": "add"
+      },
+      {
+        "discovery_condition": "Deep BIN intelligence",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Suspends all further sabotage attempts for the season.",
+        "actor": "The Black Network (Waterdeep)",
+        "action": "Declaring the Baldur's Gate harbor 'Silent' and un-salvageable.",
+        "player_impact": "Grants the Voss family a period of strategic breathing room.",
+        "location": "Waterdeep",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 266,
+        "player_aware": true,
+        "turn_generated": 183,
+        "location": "High Hall Cells",
+        "actor": "High Inquisitor Lora",
+        "event_type": "immediate",
+        "scene_generated": 266,
+        "discovery_condition": "Messenger arrival at Miller's Rest",
+        "status": "resolved",
+        "outcome": "Thayvian intentions regarding the South Road are being mapped; preliminary findings sent to Miller's Rest.",
+        "resolved_turn": 264,
+        "player_impact": "Grants Kaelen intelligence on regional Thayvian movements.",
+        "action": "Processing the Thayvian High-Legate",
+        "id": "thayvian_interrogation_start"
+      },
+      {
+        "turn_generated": 186,
+        "resolved_scene_number": 0,
+        "player_aware": true,
+        "is_historical": true,
+        "actor": "The Zulkirs (Thay)",
+        "resolved_turn": 267,
+        "id": "thayvian_withdrawal_confirmed",
+        "outcome": "Direct military pressure on Voss County ends.",
+        "status": "resolved",
+        "delta_action": "add",
+        "location": "Thay / South Road",
+        "action": "Formally withdrawing all Red Wizard cells from the Sword Coast South Road.",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 0,
+        "player_aware": false,
+        "turn_generated": 191,
+        "actor": "Archmage Malichor",
+        "location": "Thay / Astral Sea",
+        "event_type": "long_term",
+        "discovery_condition": "Deep BIN forensic audit",
+        "status": "resolved",
+        "outcome": "Total scrying silence from the East; necrotic power funneled inward.",
+        "resolved_turn": 272,
+        "player_impact": "Direct threat of Thayan retaliation in Baldur's Gate.",
+        "action": "Recalculating Spire geometry",
+        "id": "thayan_scrying_surge",
+        "delta_action": "add"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 0,
+        "player_aware": true,
+        "status": "resolved",
+        "actor": "The Upper City",
+        "resolved_turn": 275,
+        "player_impact": "Threatens the cover story of 'Vesper' as a simple refugee.",
+        "location": "Baldur's Gate",
+        "action": "Gossip Surge",
+        "discovery_condition": "Listening in the city or BIN report",
+        "turn_generated": 194,
+        "outcome": "The 'Silver Savior's' absence from the morning galas has triggered rumors of a secret mission or a rift with the Voss family.",
+        "event_type": "immediate",
+        "id": "vesper_hero_narrative"
+      },
+      {
+        "is_historical": true,
+        "status": "resolved",
+        "player_aware": false,
+        "turn_generated": 194,
+        "actor": "Jaheira",
+        "action": "Rebuilding the Harper network with Vesperian's 'guidance'.",
+        "id": "harper_network_reconstruction",
+        "outcome": "The Harpers are being systematically restructured into 'Black Harpers'.",
+        "location": "Baldur's Gate",
+        "resolved_scene_number": 0,
+        "resolved_turn": 275,
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 284,
+        "player_aware": false,
+        "turn_generated": 197,
+        "actor": "Jaheira",
+        "location": "Voss County South",
+        "event_type": "long_term",
+        "scene_generated": 284,
+        "status": "resolved",
+        "outcome": "Thay now possesses detailed architectural data on the BIN's southern signal-grid.",
+        "resolved_turn": 278,
+        "player_impact": "Direct threat to the Sovereign Secrecy Act's forensic integrity.",
+        "action": "Mapping silo-defense nodes",
+        "id": "jaheira_silo_mapping",
+        "delta_action": "add"
+      },
+      {
+        "is_historical": true,
+        "status": "resolved",
+        "player_aware": true,
+        "turn_generated": 200,
+        "actor": "BIN Informants",
+        "action": "Verified Vesperian's presence in Luskan after his reported arrival in Baldur's Gate.",
+        "id": "vesper_luskan_sighting",
+        "outcome": "Confirmed falsified travel timeline.",
+        "location": "Luskan",
+        "resolved_scene_number": 287,
+        "resolved_turn": 281,
+        "event_type": "immediate",
+        "scene_generated": 287
+      },
+      {
+        "is_historical": true,
+        "status": "resolved",
+        "player_aware": true,
+        "turn_generated": 200,
+        "actor": "The Black Harpers",
+        "action": "Liquidated the Sunrise Spire cell from within to create Vesper's 'refugee' origin.",
+        "id": "sunrise_spire_liquidation",
+        "outcome": "Forensic evidence of internal sabotage found by BIN.",
+        "location": "Thay Border",
+        "resolved_scene_number": 287,
+        "resolved_turn": 281,
+        "event_type": "long_term",
+        "scene_generated": 287
+      },
+      {
+        "discovery_condition": "Deep BIN report or return to city",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Two BIN safehouses identified by 'Black Harpers' while the Voss leadership is in the bluffs.",
+        "location": "Baldur's Gate Lower City",
+        "action": "Coordinating a 'Harper' sweep of the BIN's secondary nodes",
+        "player_impact": "Threatens the BIN's city-side infrastructure.",
+        "actor": "Jaheira (Sleeper)",
+        "event_type": "immediate"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 293,
+        "player_aware": false,
+        "turn_generated": 206,
+        "actor": "Harper Watchers",
+        "location": "Upper City",
+        "event_type": "immediate",
+        "scene_generated": 293,
+        "discovery_condition": "BIN city-side reports",
+        "status": "resolved",
+        "outcome": "Minor confusion in the Harper chain of command as their leaders remain 'off-grid'.",
+        "resolved_turn": 287,
+        "id": "harper_patrol_confusion",
+        "action": "Searching for Jaheira and Vesper",
+        "delta_action": "add"
+      },
+      {
+        "discovery_condition": "Witnessing the patrol or hearing rumors in the city.",
+        "status": "pending",
+        "player_aware": false,
+        "is_historical": false,
+        "actor": "The Watch",
+        "action": "Investigating a massive radiant-necrotic flare detected on the southern bluffs.",
+        "id": "city_arcane_flare",
+        "outcome": "City-side panic; inquisitors dispatched to the bluffs.",
+        "turn_generated": 215,
+        "delta_action": "add",
+        "location": "Baldur's Gate / South Road",
+        "event_type": "immediate",
+        "scene_generated": 313
+      },
+      {
+        "discovery_condition": "Direct interaction or BIN report.",
+        "status": "pending",
+        "player_aware": false,
+        "is_historical": false,
+        "actor": "Jaheira",
+        "action": "Experiencing a psychic seizure as Vesperian's local signal is severed.",
+        "id": "black_lark_glitch",
+        "outcome": "Conditioning remains but becomes unstable; sleepers in Heapside enter a state of defensive alert.",
+        "turn_generated": 215,
+        "delta_action": "add",
+        "location": "Heapside Harper Safehouse",
+        "event_type": "long_term",
+        "scene_generated": 313
+      },
+      {
+        "discovery_condition": "Deep penetration of the Scriptorium",
+        "status": "pending",
+        "player_aware": false,
+        "is_historical": false,
+        "actor": "The Obsidian Spire",
+        "action": "Initiating localized Lockdown Protocol",
+        "player_impact": "Limits escape routes for the strike team.",
+        "outcome": "Internal gates sealing; secondary alarm-grids pulsing.",
+        "id": "spire_signal_loss",
+        "delta_action": "add",
+        "turn_generated": 218,
+        "location": "Thay / Scriptorium",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Perception or lookout report",
+        "status": "pending",
+        "player_aware": true,
+        "is_historical": false,
+        "actor": "Heapside Watch Patrols",
+        "action": "Noticing the sudden silencing of the street noise around the safehouse",
+        "id": "heapside_watch_alert",
+        "outcome": "Watch Sergeant dispatched to investigate the 'dead air' zone.",
+        "turn_generated": 218,
+        "delta_action": "add",
+        "location": "Heapside",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Reaching the Singularity",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Physical shell 40% complete; Abyssal signal beginning to stabilize.",
+        "actor": "Vesperian Thul",
+        "action": "Accelerating Reformation",
+        "player_impact": "Reduces the window for the phylactery deletion.",
+        "location": "Obsidian Spire Core",
+        "id": "vesperian_reformation_start",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": false,
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Reformation accelerating; Abyssal resonance increasing.",
+        "actor": "Vesperian Thul",
+        "action": "Physical shell 25% complete",
+        "id": "vesperian_reformation_update",
+        "turn_generated": 224,
+        "location": "Obsidian Spire",
+        "delta_action": "update",
+        "event_type": "long_term",
+        "scene_generated": 323
+      },
+      {
+        "discovery_condition": "Counter-intel sweep",
+        "status": "pending",
+        "player_aware": false,
+        "is_historical": false,
+        "actor": "The Black Harpers",
+        "action": "Monitoring BIN nodes",
+        "id": "thayan_sleeper_mobilization",
+        "outcome": "Thay is preparing a counter-intelligence strike to find the source of the 'Black Lark' cleansing.",
+        "turn_generated": 224,
+        "delta_action": "add",
+        "location": "Baldur's Gate",
+        "event_type": "immediate",
+        "scene_generated": 323
+      },
+      {
+        "id": "vesperian_permanent_death",
+        "is_historical": true,
+        "outcome": "Grand Exarch deleted; Thayan expansion halted.",
+        "status": "resolved",
+        "actor": "The Obsidian Spire",
+        "resolved_turn": 235
+      },
+      {
+        "discovery_condition": "BIN spy report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Elven council enters a state of high-alert; suspicion of 'Voss' signal grows.",
+        "actor": "Aglarond Border Watch",
+        "action": "Detecting the Scriptorium resonance",
+        "id": "aglarond_suspicion",
+        "location": "Aglarond Border",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": true,
+        "outcome": "Permanently deleted during the Spire's collapse.",
+        "player_aware": false,
+        "status": "resolved",
+        "actor": "Archmage Malichor",
+        "resolved_turn": 259,
+        "id": "malichor_preparation",
+        "action": "Souls-Gathering",
+        "location": "The Obsidian Spire",
+        "delta_action": "resolve",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "BIN envoy report",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Refusal to recognize the Voss Duchy as a legitimate ally.",
+        "location": "Aglarond",
+        "action": "Border Lockdown",
+        "actor": "The Simbul's Council",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct witness from the city streets",
+        "outcome": "Public access to the harbor foundation is restricted; scrying sensors deployed.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "The Watch",
+        "action": "Cordoning off the South Pier",
+        "id": "harbor_watch_mobilization",
+        "location": "Grey Harbor",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "BIN spy network report",
+        "outcome": "The Lower City is in a state of quiet panic as neighbors vanish overnight.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Heapside Residents",
+        "action": "Reporting strange smoke and sudden disappearances",
+        "id": "sleeper_liquidation_reports",
+        "location": "Heapside District",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 360,
+        "player_aware": true,
+        "turn_generated": 254,
+        "actor": "The BIN",
+        "location": "Baldur's Gate - Bloomridge",
+        "event_type": "immediate",
+        "scene_generated": 360,
+        "status": "resolved",
+        "outcome": "Thayan internal influence in the Patriar Council decapitated.",
+        "resolved_turn": 254,
+        "player_impact": "Secures the High Hall from internal Thayan sabotage.",
+        "action": "Captured three high-level Thayan moles in the Upper City",
+        "id": "patriar_mole_liquidation",
+        "delta_action": "add"
+      },
+      {
+        "turn_generated": 257,
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "150+ high-tier mages and specialists ready for the jump.",
+        "location": "Baldur's Gate / Miller's Rest",
+        "action": "Assembled at Miller's Rest",
+        "id": "coalition_assembly_complete",
+        "actor": "The Grand Coalition",
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 257,
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Spire shell is untethered and vulnerable for 48 hours.",
+        "location": "Sea of Fallen Stars (Aether)",
+        "action": "Initiating Void-Fold jump",
+        "id": "spire_jump_sequencing",
+        "actor": "Archmage Malichor",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "BIN scout reports",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Widespread desertion and logic-loop failures among automated undead.",
+        "actor": "Thayvian Border Legions",
+        "action": "Collapsing in the wake of the Scriptorium signal-severing",
+        "player_impact": "Simplifies the occupation of neighboring Thayan sectors.",
+        "id": "thayan_border_legion_collapse",
+        "location": "Thay Borderlands",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 266,
+        "status": "resolved",
+        "player_aware": true,
+        "outcome": "Loss of high-tier interplanar research across the district.",
+        "actor": "The Obsidian Spire",
+        "action": "Triggering 'Protocol Zero' archive-deletion",
+        "player_impact": "Limited Kaelen's ability to track Malichor's specific soul-frequency.",
+        "location": "Thay / Scriptorium",
+        "id": "thayan_data_scuttle",
+        "resolved_scene_number": 376,
+        "resolved_turn": 266,
+        "event_type": "immediate",
+        "scene_generated": 376
+      },
+      {
+        "discovery_condition": "BIN scout reports",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Widespread chaos in non-occupied sectors; many seeking refuge in the Protectorate.",
+        "actor": "Thayan Serfs",
+        "action": "Rising up against their former Red Wizard masters",
+        "player_impact": "Potential for a massive influx of citizens and labor.",
+        "id": "thayan_peasant_uprising",
+        "location": "Thay Farmlands",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Intelligence from Jaheira or BIN spies",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Vigilant neutrality remains, but diplomatic pressure is mounting.",
+        "actor": "The Harper High Council",
+        "action": "Debating the legitimacy of the Voss Duchy's expansion",
+        "player_impact": "Threatens future heroic cooperation.",
+        "id": "harper_council_debate",
+        "location": "Waterdeep",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct witness in the city",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Economic boom and stabilization of the Thayan border.",
+        "actor": "Aglarond Trade Guilds",
+        "action": "Opening permanent trade missions in Baldur's Gate",
+        "player_impact": "Massive increase in tax revenue for the Voss Duchy.",
+        "location": "Lower City",
+        "turn_generated": 272,
+        "event_type": "long_term",
+        "scene_generated": 382
+      },
+      {
+        "discovery_condition": "Deep forensic audit of the detection grid",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Confirmed existence of secondary Thayan logic-nodes.",
+        "actor": "BIN Grid Sensors",
+        "action": "Detecting minor astral ripples near the 'Outer Spire' nodes",
+        "player_impact": "Foreshadows a future hunt for Malichor's remaining influence.",
+        "location": "Astral Sea / Thay Border",
+        "turn_generated": 272,
+        "event_type": "long_term",
+        "scene_generated": 382
+      },
+      {
+        "discovery_condition": "BIN report",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "First set of civic laws passed; Republic model stabilizing.",
+        "actor": "The Thayan Senate",
+        "action": "Convening for the first legislative session",
+        "player_impact": "Stabilizes the eastern front.",
+        "id": "thayan_republic_session_1",
+        "turn_generated": 278,
+        "delta_action": "add",
+        "location": "Scriptorium Senate Hall",
+        "event_type": "long_term",
+        "scene_generated": 389
+      },
+      {
+        "discovery_condition": "Investigating the river beacon",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Potential necrotic singularity in Baldur's Gate harbor.",
+        "actor": "The Obsidian Spire (Residual)",
+        "action": "Initiating Binary-Beacon purge",
+        "player_impact": "Immediate threat to the city's infrastructure.",
+        "id": "void_silo_activation",
+        "turn_generated": 278,
+        "delta_action": "add",
+        "location": "Chionthar River",
+        "event_type": "immediate",
+        "scene_generated": 389
+      },
+      {
+        "discovery_condition": "BIN report or hearing sirens from the river",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Widespread panic among dockworkers; Flaming Fist patrols doubling.",
+        "actor": "The Watch",
+        "action": "Harbor scrying grid triggering false-positives",
+        "player_impact": "Increases detection risk during the return trip.",
+        "location": "Baldur's Gate Harbor",
+        "id": "harbor_alarm_grid_surge",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "BIN moles in the Fist",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Flaming Fist mages dispatched to the South Pier.",
+        "actor": "Duke Ulder Ravengard",
+        "action": "Ordering a secret audit of the harbor foundation pilings",
+        "player_impact": "Direct threat to the Void-Gate node's forensic anonymity.",
+        "location": "High Hall",
+        "id": "ravengard_investigative_order",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct communication from Sariel",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 292,
+        "actor": "High Matriarch Sariel",
+        "action": "Liquidating secondary sleeper-nodes in the Lower City",
+        "player_impact": "Keeps the primary threat distant but active.",
+        "location": "Baldur's Gate",
+        "outcome": "Assassins remain elusive; signal-ghosts identified.",
+        "delta_action": "add",
+        "id": "sariel_hunt_update",
+        "event_type": "long_term",
+        "scene_generated": 405
+      },
+      {
+        "discovery_condition": "BIN economic reports",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 292,
+        "actor": "Thayan Senate",
+        "action": "Implementing Voss-based trade standards",
+        "player_impact": "Maintains the high-gold income flow for the family.",
+        "location": "Thay",
+        "outcome": "Economic stability increases; Voss Hegemony influence anchored.",
+        "delta_action": "add",
+        "id": "thayan_republic_stability",
+        "event_type": "long_term",
+        "scene_generated": 405
+      }
+    ],
+    "background_events_updates": [
+      {
+        "id": "harper_watcher_sariel_report",
+        "delta_action": "resolve",
+        "status": "resolved"
+      },
+      {
+        "id": "thayvian_interrogation_start",
+        "delta_action": "resolve",
+        "status": "resolved"
+      },
+      {
+        "id": "heapside_watch_alert",
+        "delta_action": "resolve",
+        "status": "resolved"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {},
+  "rumors": [
+    {
+      "content": "A strange, sickly green fog has been seen clinging to the roots in the Wood of Sharp Teeth.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Council of Four is paying double for any information on 'men with marked minds'.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Elder Harlen is considering hiring a private guard for the grain silos, fearing the 'Shadows' more than the Fist.",
+      "source_type": "commoner",
+      "related_event": "whispering_shadows_movement",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Fist isn't just looking for veterans, but for someone specific\u2014a high-ranking officer who vanished sixteen years ago.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A merchant's guard claims he saw a man in the woods with golden eyes that glowed in the dark.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Fist officer was asking specifically about old cult tattoos and 'marks of the Absolute'.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A hunter found a deer in the woods with its skin turned to grey ash, still standing as if frozen.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Fist is looking for a 'Shadow General' who escaped the fall of the Absolute.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Flaming Fist is more interested in platinum than 'auras' these days.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A merchant's shop in the Lower City is looking for 'aggressive acquisitions' specialists.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Prices for 'adventuring gear' are spiking as more veterans head into the woods to hunt cult remnants.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Ghost of the Absolute' is supposedly haunting the Lower City sewers, whispering names of those who betrayed the cult.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "A high-ranking steward was seen fleeing a new curiosities shop in a cold sweat.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers is looking for a crate of heron-crested silver that 'fell off a wagon'.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers is tightening security at Smuggler's Run; someone's been asking too many questions at the harbor.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-ranking steward was seen fleeing a new curiosities shop in a cold sweat.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-ranking steward was seen fleeing a new curiosities shop in a cold sweat.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Shadow General' didn't die at the Brain's fall; he's hiding in the city, waiting for the signal.",
+      "source_type": "mercenary",
+      "related_event": "inquisitor_lora_active_audit",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Flaming Fist is calling in a specialized 'Inquisitor' from the city to handle the South Road census.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lord Brampton's steward was seen at a new Lower City shop\u2014some say the old noble's found a new hound.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A new 'Silent Reaper' is said to be working the harbor, hitting Guild warehouses with magical silence.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Inquisitor has requested the attendance of all 'Displaced Nobles' for a mandatory registration at the High Hall.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Silent Reaper' is said to be an avatar of Jergal, sent to punish the Guild for their greed.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "House Brampton has hired a pair of 'Specialists' to clean up their mess at the docks; the Watch has been told to look the other way.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Black Plague' hit the harbor; the foreman of Warehouse 4 rotted from the inside out in seconds.",
+      "source_type": "commoner",
+      "related_event": "lora_healer_interviews",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers is burning out the 'nests' in Heapside; they say a cult of the Absolute is trying to take the harbor.",
+      "source_type": "guard",
+      "related_event": "guild_ghost_purge",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers is offering a 'clean slate' to any cultist who turns in the 'Master of Shadows'.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers is offering a massive bounty for the location of 'The Weaver's' old tactical ledgers.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Silent Reaper' is supposedly a Vengeance Paladin of Bhaal, returned to claim the harbor.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Silent Reaper' is actually a dark god's avatar sent to punish the Guild.",
+      "source_type": "harbor_worker",
+      "related_event": "guild_reaper_hunt",
+      "accuracy": "false"
+    },
+    {
+      "content": "Nine-Fingers is hiring foreign specialists to counter the 'ghosts' in the harbor.",
+      "source_type": "guild_informant",
+      "related_event": "guild_ghost_purge",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Lord Brampton's new retainers were seen walking through the Citadel gates at dawn, looking like they'd crawled out of a grave.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers has put a bounty on any 'old maps' of the Heapside sewers\u2014she's looking for where the ghosts went.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Zhentarim are offering double-pay for any harbor-hand who can 'keep their mouth shut and their eyes open'.",
+      "source_type": "harbor_worker",
+      "accuracy": "true"
+    },
+    {
+      "content": "There's a 'Ghost' in the High Hall archives\u2014a shadow that moves between the ledgers when the clerks aren't looking.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silent Reaper' isn't a man, but an avatar of the Lord of Murder sent to purge the weak from the harbor.",
+      "source_type": "harbor_thief",
+      "related_event": "guild_reaper_hunt",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Silent Reaper' has a team now; the Zhent mages couldn't even finish a spell.",
+      "source_type": "guard",
+      "related_event": "Heapside Breach",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Silent Reaper' took the Zhentarim Commander in his own bed tonight.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silent Reaper' isn't just a thief; he's a guardian of the harbor who hunts the hunters.",
+      "source_type": "guard",
+      "related_event": "guild_drowner_slaughter",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Hall has authorized an 'emergency tax audit' for all newcomers in the Upper City, though many suspect it's a cover for something else.",
+      "source_type": "servant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Inquisitors found a nest of tadpoled horrors in the Styes; they say the mages leveled three blocks.",
+      "source_type": "traveler",
+      "related_event": "lora_styes_raid",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers has left the city; they say a new Master of Shadows now holds the Counting House keys.",
+      "source_type": "commoner",
+      "related_event": "guild_decapitation",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the 'Silent Reaper' walked through the Tannery walls like they were made of mist.",
+      "source_type": "harbor_worker",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Inquisitor has requested more lead-lined cells at Wyrm's Rock\u2014the Styes raid found more than she expected.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Steel Watch is being upgraded for the Solstice with 'uncorruptible' cores.",
+      "source_type": "noble",
+      "related_event": "bloomridge_dossier_timer",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Summer Solstice was saved by a unit of Phantoms; they say the Duke didn't even break a sweat when the machines froze.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say Marquis Brampton didn't just save the Duke; he has a Master of Shadows on his payroll who can kill without a sound.",
+      "source_type": "noble",
+      "related_event": "brampton_ducal_candidacy_rumor",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Zhentarim are finished in the harbor. The new 'Brampton Logistics' is just a cleaner version of the Guild.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "Count Voss is the only man who can keep the harbor mages from exploding the city.",
+      "source_type": "patriar",
+      "related_event": "solstice_victory",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Silvershields are terrified of the 'new blood' in the High Hall and are looking for skeletons in the Voss's closets.",
+      "source_type": "herald",
+      "related_event": "silvershield_voss_audit",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say Duke Brampton's new 'Shadows' have a silent contract with the dead mages of the Styes.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silver Baroness' is said to have parried a literal shadow during the night of the high frost.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Ash-Plague' has reached the Rivington gates; they say the victims don't die, they just... vanish into smoke.",
+      "source_type": "traveler",
+      "related_event": "green_fog_encroachment",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Steel Mask' has replaced the Zhentarim mages, and he's paying in Waterdhavian gold for anyone who can guide him north.",
+      "source_type": "mercenary",
+      "related_event": "steel_mask_emergence",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the 'Shadow Weaver' has bribed the Grand Duke with a chest of Absolute gold to hide his past.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Inquisitor was seen screaming at a BIN sentinel who refused her entry to the harbor nodes.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "A strange humming sound has been heard coming from the harbor pilings near low tide.",
+      "source_type": "traveler",
+      "related_event": "kurth_resonance_build",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Harper has been seen entering the city through the Basilisk Gate.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the 'Silver Countess' doesn't eat or sleep; she merely waits for the next signal to kill.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Marquis Voss owns every grain of wheat in the district; the High Hall eats only what he allows.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Silver Baroness' has rejected her twelfth suitor this week; some say she is waiting for a Prince of the Hells.",
+      "source_type": "noble",
+      "related_event": "Sariel's social isolation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Marquis Voss owns the very bread we eat; the High Hall is just a front for his grain-silos.",
+      "source_type": "commoner",
+      "related_event": "Voss County expansion",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Silver Baroness' is more a storm than a lady; the very air turns cold when she enters a room.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "Marquis Voss has a secret agreement with the Harpers to keep the Zhentarim out of the harbor permanently.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the 'Silver Countess' can now parley with shadows as if they were old friends.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "House Silvershield is preparing a second, larger marriage proposal for the Baroness.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Shadow Countess' is said to be haunting the Styes, claiming the souls of those the Inquisitor missed.",
+      "source_type": "traveler",
+      "related_event": "shadow_countess_rumors",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Hall is considering a tax on 'Agricultural Monopolies' to fund the Steel Watch repairs.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Marquis's son has tasted real blood on the South Road; they say he smote a giant with a single blow.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The grain-prices are stabilizing, but the Harpers are whispering about 'shadow-pikes' in the wheat-fields.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The grain prices in the Lower City have stabilized for the first time in years, thanks to the Voss Harvest.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "Whispers in the Styes suggest the Inquisition is looking for a hidden 'nest' that even the Zhentarim didn't know about.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the Silver Countess is looking for a husband, but her eyes are so sharp they cut the soul of any man who bows to her.",
+      "source_type": "noble",
+      "related_event": "Sariel's dating efforts",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Harper has returned from the East with a new prot\u00e9g\u00e9, a boy of silvered grace.",
+      "source_type": "traveler",
+      "related_event": "harper_refugee_arrival",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silver Savior' was nearly killed protecting a Voss grain-silo; some say the Supreme Commander just watched.",
+      "source_type": "traveler",
+      "related_event": "harper_watcher_sariel_report",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silver Savior' is seeking a private audience with the Supreme Commander to discuss 'sensitive' Harper business.",
+      "source_type": "Patriar Gossip",
+      "related_event": "the_sovereign_suitor",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Silver Savior' was seen leaving the High Hall with the Supreme Commander for a private hunt in the bluffs.",
+      "source_type": "noble",
+      "related_event": "vesper_hero_narrative",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Silver Star' fell on the southern bluffs tonight, but no crater was found.",
+      "source_type": "traveler",
+      "related_event": "city_arcane_flare",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silver Savior' hasn't been seen in the High Hall for hours; some say he's chasing a Thayan ghost in the bluffs.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silver Savior' died defending the bluffs from a Thayan shadow-god.",
+      "source_type": "noble",
+      "related_event": "vesperian_unmasking",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silver Savior' Vesper died protecting the bluffs from a Thayan assassin.",
+      "source_type": "commoner",
+      "related_event": "vesper_hero_narrative",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Marquis Voss is recruiting a secret army of specialists for a mission to the East.",
+      "source_type": "guard",
+      "related_event": "strike_thay",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Hall has gone 'quiet' regarding the Thayvian interrogations, suggesting a security blackout.",
+      "source_type": "guard",
+      "related_event": "thayvian_interrogation_start",
+      "accuracy": "true"
+    },
+    {
+      "content": "A silver-haired woman in purple was seen crying in a Bloomridge garden, sparking rumors of a romantic tragedy among the legends.",
+      "source_type": "commoner",
+      "related_event": "None",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Ghost Fire' was seen flickering in the South Road district last night, vanishing just as the Watch arrived.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'God-Slayer' from the bluffs has unmasked the Red Wizards' true face.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Harper has returned, but she speaks with a voice that sounds like ancient stone.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Duke of the Void' keeps a god's head in his basement.",
+      "source_type": "commoner",
+      "related_event": "vesperian_permanent_death",
+      "accuracy": "false"
+    },
+    {
+      "content": "The harbor swallowed a 'Geometric Demon' at midnight; the Voss Duke was seen walking on water.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Thay is abandoning the city; the Red Wizards are burning their ledgers and fleeing to the East.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Silver Savior' has been seen moving with a terrifying new aura; some say she is no longer a hero, but a judge.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Lichbane' is no longer a Duke; he's the hidden King of the Sea of Fallen Stars.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The new Thayan Senate has been infiltrated by Voss 'Phantoms' who vote on a specific indigo frequency.",
+      "source_type": "guard",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "level_up_session": {
+    "status": "complete",
+    "last_error": null,
+    "current_level": 20,
+    "source": "model",
+    "selections": {},
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "source_story_id": "unknown",
+    "target_level": 20
+  },
+  "time_events": {
+    "silo_purge_countdown": {
+      "time_remaining": "40 minutes",
+      "status": "ongoing",
+      "changes_this_turn": "Countdown accelerated upon strike force arrival",
+      "new_consequences": "Total harbor ward collapse if not interrupted"
+    },
+    "Vesperian Reformation": {
+      "time_remaining": "5.5 Days",
+      "status": "ongoing",
+      "changes_this_turn": "Reformation reached 35%; Abyssal resonance is now detectable by high-tier forensic mages.",
+      "new_consequences": "None yet."
+    },
+    "Sovereign Unmasking": {
+      "time_remaining": "Immediate",
+      "status": "ongoing",
+      "changes_this_turn": "Vesperian Thul's facade has been shattered; his true Abyssal signal is manifest.",
+      "new_consequences": "Immediate risk of high-tier combat or Divine Dissonance spike."
+    }
+  },
+  "schema_migrated_at": "2026-06-07T21:33:19.634008+00:00",
+  "session_id": "legacy-migrated-cdef681ea806ab45",
+  "encounter_state": {
+    "encounter_completed": true,
+    "difficulty": "hard",
+    "objectives_completed": [
+      "Identify Farlen's Pier",
+      "Recover Manifest Info",
+      "Infiltrate Warehouse 4",
+      "Eliminate Foreman",
+      "Secure Crate #882"
+    ],
+    "encounter_id": "enc_1508_mirtul29_heist_001",
+    "encounter_summary": {
+      "method": "Shared burden appeal and tactical reframing",
+      "outcome": "success",
+      "objectives_completed": [
+        "Tiered Dispersal",
+        "Scrubbing Legacy Nests"
+      ],
+      "xp_awarded": 2500,
+      "loot": [
+        "12 Brampton Signet Rings",
+        "20 Platinum Retainer"
+      ]
+    },
+    "rewards_processed": true,
+    "encounter_type": "stealth",
+    "objectives": [
+      "Identify Farlen's Pier",
+      "Recover Brampton Signets",
+      "Escape Detection"
+    ],
+    "encounter_active": false
+  },
+  "faction_updates": {
+    "Brampton Intelligence Network": {
+      "resource_change": "+500gp (Daily shadow revenue)",
+      "progress": "Personnel files sanitized; legal shield active.",
+      "next_action": "Counter-intelligence sweep in Voss County.",
+      "current_objective": "Stabilize harbor sovereignty and counter internal forensic audits."
+    },
+    "The BIN": {
+      "resource_change": "Zero change",
+      "progress": "Source located; infiltration in progress",
+      "next_action": "Execute surgical deletion",
+      "current_objective": "Contain the Chionthar 'Binary-Beacon'"
+    },
+    "Brampton Shadows": {
+      "commander": "Kaelen Voss",
+      "second_in_command": "Commander Harth",
+      "soldiers": 100,
+      "elites": 20,
+      "scouts": 30,
+      "total_strength": 150,
+      "equipment_status": "Superior (High Hall Funded)",
+      "lieutenants": [
+        "Sariel Voss",
+        "Kora",
+        "Elias",
+        "Silas"
+      ]
+    },
+    "Harpers": {
+      "progress": "High",
+      "player_standing_change": "Increased trust after Jaheira's cleansing",
+      "current_objective": "Re-evaluating cell security after Jaheira's recovery"
+    }
+  }
+}

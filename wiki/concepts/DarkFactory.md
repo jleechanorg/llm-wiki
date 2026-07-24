@@ -86,3 +86,21 @@ See [AttractorPattern](AttractorPattern.md), [ModelStylesheet](ModelStylesheet.m
 - **Greenfield pipelines cannot delete.** Running a brownfield refactor/replace/DELETE task through the additive greenfield pipeline orphaned the deletion: it was staged as a conditional "after proof, delete X" with NO executor node, and the resume pipeline had no `implement` node at all. Net diff +2507/−54 with ZERO deletion. Proof was also BACKWARDS (old override present during the real-LLM proof, so green proved nothing), and DEAD CODE (a Pydantic `ConcludeSnapshot` defined-but-unwired to any runtime call site) still passed `test_e2e`.
 - **Fix:** `~/.claude/skills/factory-spec/SKILL.md` Step 0 now mandates Brownfield-vs-Greenfield classification with 6 brownfield rules — DELETE-FIRST ordering, deletion needs an executor node (not a conditional), net-LOC ≤ 0 guard, dead-code gate, replace at the same call site, prove against the post-deletion tree. Quick test: "if this milestone succeeds, should git diff show deletions?" → yes → brownfield.
 - **Timeout false-success:** `_tool` handler `timeout = int(node.attrs.get("timeout","300"))` (`runner/handlers.py:577`; `subprocess.run` :597) crashes real-LLM nodes >300s with `TimeoutExpired`, and `runs.final` stayed `'success'` on crash. Set `timeout="2400"`+ on long real-LLM nodes; a monitor must declare DONE only when the `exit` node is in the `steps` table, never from `runs.final`.
+
+## Update 2026-06-27 — reviewer/output/evidence contract
+
+See [Dark Factory reviewer/output/evidence contract and deterministic install smoke](../sources/project-2026-06-27-dark-factory-reviewer-output-evidence-contract.md).
+
+- Status strings are routing metadata only; the semantic inter-node contract is full free-form output plus artifact refs.
+- Evidence envelopes are mandatory by default and include command echo, events JSONL, CXDB hashes, `node_io.jsonl`, pipeline copy, and transcript refs.
+- Redundant/independent reviewer lanes use `type="parallel_reviewer"` where appropriate, preserving separate outputs while passing a combined free-form bundle downstream.
+- Shadow Codex review defaults on and remains explicitly opt-out.
+- `origin/main` was verified at `6f50d4c159c8467dfcb85c0096743f79e9a25f8a`.
+
+## Update 2026-07-06 — Go AO factory dispatch (jleechanorg/dark-factory)
+
+See [Go AO factory dispatch + claudem MiniMax sync --all](../sources/feedback-2026-07-06-go-ao-factory-claudem-setup.md).
+
+- `/af` tick uses Go `ao-go` (mirror: `agent-orchestrator-mirror`), not TS `ao-ts`; headless `ao daemon` on :3001.
+- MiniMax/claudem routing via `factory-ao-minimax-sync.sh --all` on every registered AO project (harness stays `claude-code`; literal `claudem` harness needs mirror patch).
+- Factory beads `jleechan-9byt.*` drive target PRs through `factory-ao-remediate.sh` → `ao spawn --claim-pr`.

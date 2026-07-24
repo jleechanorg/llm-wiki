@@ -3,7 +3,7 @@ title: "Model Routing"
 type: concept
 tags: [AI-models, cost-optimization, task-matching]
 sources: [agent-loop-demo, openclaw-workshop-notes]
-last_updated: 2026-04-08
+last_updated: 2026-07-11
 ---
 
 ## Definition
@@ -17,7 +17,7 @@ The practice of using different AI models for different tasks based on cost, cap
 | [Codex](../entities/Codex.md) 5.3/5.4 | Highest intelligence, excellent reasoning | Expensive, rapid token consumption | Complex code reviews, architectural decisions |
 | [Claude](../entities/Claude.md) | Quality review, evidence checking | Expensive | Review and quality assurance |
 | [Gemini](../entities/Gemini.md) Flash | Structured JSON, game state | Safety filters on creative | RPG mechanics, data extraction |
-| [Minimax](../entities/Minimax.md) | Cheap, repetitive tasks | Poor JSON adherence, drops fields | Volume work, initial drafts |
+| [Minimax](../entities/MiniMax.md) | Cheap, repetitive tasks | Poor JSON adherence, drops fields | Volume work, initial drafts |
 | [Grok](../entities/Grok.md) | Virtually uncensored | Less capable at pure coding | Creative narratives, unrestricted content |
 
 ## Cost Management Strategy
@@ -42,6 +42,16 @@ Use Claude team with Minimax model:
 - Gets volume done fast and cheap
 - Loop with dumb model, fix with smart model
 - Evidence review uses smarter model
+
+## 2026-07-11 WorldArchitect delegation experiment
+
+A five-PR repair run showed that task shape predicts delegation success better than nominal model tier:
+
+- gpt-5.6-luna: bounded TDD fixes, smoke, and gate operations.
+- gpt-5.6-terra: decomposed prompt/schema/state repairs.
+- gpt-5.4: independent adversarial review; high defect yield but significant wall time.
+
+The production-safe pattern is cheap author -> exact-SHA adversarial review -> bounded repair -> real evidence. Count retries, interventions, invalid pushes, and external evidence latency. An older model is not automatically cheaper end-to-end.
 
 ## Connections
 

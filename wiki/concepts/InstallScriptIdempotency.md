@@ -45,3 +45,11 @@ fi
 
 - [SelfHostedRunnerNaming](SelfHostedRunnerNaming.md) — naming must stay consistent across re-runs
 - [Launchd](Launchd.md) — launchd plist installation
+
+## Update 2026-06-27 — deterministic installer smoke
+
+An installer smoke test must prove installation mechanics, not product correctness. In dark-factory, `install.sh` already used `uv` for `uv python install`, `uv venv`, and `uv pip install`, but its default smoke used `pipelines/factory/hello.dot`, which can fail on sealed holdout evaluation even when installation is correct.
+
+Fix pattern: use a deterministic no-LLM/no-holdout graph for installer smoke. The dark-factory installer now uses `pipelines/parallel_demo.dot` with `--backend echo`, and `./install.sh --no-link --no-cmds` verified `final_outcome: success`.
+
+Source: [Dark Factory reviewer/output/evidence contract and deterministic install smoke](../sources/project-2026-06-27-dark-factory-reviewer-output-evidence-contract.md).

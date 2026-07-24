@@ -1,0 +1,580 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "class": "Paladin 3 (Modified Low-Magic DEX Variant)",
+    "backstory": "Ambitious son of Marcus Crassus. His 'Aura of Roman Discipline' makes his soldiers unbreakable and his own defenses impenetrable. He seeks to surpass his father's shadow through the systematic destruction of the slave rebellion.",
+    "personality": {
+      "traits": [
+        "Charismatic Intelligence",
+        "Sadistic Cruelty"
+      ],
+      "bonds": [
+        "The Shadow of Marcus Crassus",
+        "Legacy of the Legions"
+      ],
+      "flaws": [
+        "Desperate for Approval",
+        "Cold Sadism"
+      ],
+      "ideals": [
+        "Order & Dominance"
+      ]
+    },
+    "background": "Noble (Crassus Family)",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 12,
+      "wisdom": 8,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "success_streak": 0,
+    "race": "Human (Roman Patrician)",
+    "resources": {
+      "divine_smite_uses": {
+        "current": 0,
+        "max": 3
+      },
+      "lay_on_hands": {
+        "current": 5,
+        "max": 15
+      }
+    },
+    "experience": {
+      "current": 3050,
+      "to_next_level": 3450,
+      "needed_for_next_level": 6500
+    },
+    "name": "Tiberius",
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 12,
+      "wisdom": 8,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "features": [
+      "Aura of Roman Discipline (Lvl 6): Passive +CHA to AC and Saves.",
+      "Dueling Fighting Style: +2 dmg with Gladius.",
+      "Sentinel Feat: Lock down enemies in combat.",
+      "Oath of Conquest (Rome's Oath): Conquering Presence/Guided Strike."
+    ],
+    "hp_max": 36,
+    "level": 4,
+    "skills": [
+      "Athletics",
+      "History",
+      "Intimidation (Expertise)",
+      "Persuasion (Expertise)"
+    ],
+    "hp_current": 23,
+    "inventory": [
+      "Backpack",
+      "Bedroll",
+      "Mess kit",
+      "Tinderbox",
+      "Torch (10)",
+      "Rations (10 days)",
+      "Waterskin",
+      "Rope (50 feet)",
+      "Coin pouch (10gp)",
+      "Satchel containing 500gp (Bribe Money)",
+      "Satchel (Empty - 500gp handed over)"
+    ],
+    "active_effects": [
+      "Commanding Shouts (Inspirational Focus/Bless, Defensive Formation/Shield of Faith, Lictor's Decree/Command): 3 uses per short rest (0/3 remaining).",
+      "Ancestral Fury (Divine Smite (2d8)): Cold, calculated lethality (Force/Psychic damage).",
+      "Field Medicine (Lay on Hands): 15 HP pool for legion-based medical training.",
+      "Expertise: Persuasion & Intimidation (+7 bonus).",
+      "Stealth-Friendly Armor: No disadvantage on Stealth checks from Scale Mail."
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": "4",
+          "name": "Javelin"
+        },
+        {
+          "equipped": false,
+          "stats": "5",
+          "name": "Healing potion"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Superior healer's kit"
+        },
+        {
+          "equipped": false,
+          "stats": "250",
+          "name": "Gold pieces"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Noble signet ring"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Fine clothes"
+        }
+      ],
+      "shield": {
+        "equipped": true,
+        "stats": "+2 AC",
+        "name": "Shield"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "AC 14 + DEX (max 2)",
+        "name": "Scale mail (lorica hamata)"
+      },
+      "main_hand": {
+        "equipped": true,
+        "stats": "1d6+5 piercing (DEX + Dueling)",
+        "name": "Gladius (shortsword)"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 47,
+      "microsecond": 2,
+      "minute": 30,
+      "hour": 5,
+      "time_of_day": "Dawn",
+      "year": -72,
+      "day": 16,
+      "month": "October"
+    },
+    "current_location_name": "Alleys near the Southern Gate"
+  },
+  "npc_data": {
+    "Marcus Crassus": {
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": 1,
+          "history": [
+            "Approved of initial intel",
+            "Insulted by Tiberius's suggestion to dicker with pirates"
+          ]
+        }
+      }
+    },
+    "Julius Caesar": {
+      "level": 12,
+      "relationships": {
+        "player": {
+          "notes": "Unlike the TV show, Tiberius and Caesar view each other as effective instruments of Crassus's will.",
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Tactical alignment on the Sinuessa blockade",
+            "Mutual respect for intellectual rigor"
+          ]
+        }
+      },
+      "string_id": "npc_caesar_001",
+      "role": "Roman Officer / Legate",
+      "combat_stats": {
+        "initiative": 5,
+        "hp_max": 185
+      },
+      "name": "Julius Caesar"
+    },
+    "Spartacus": {
+      "combat_stats": {
+        "initiative": 6,
+        "hp_max": 210
+      },
+      "level": 13
+    },
+    "Heracleo": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 4,
+          "history": [
+            "Tiberius scouted the sea cave",
+            "Bribed with 500gp",
+            "Drank fine wine and discussed Crassus wealth"
+          ]
+        }
+      }
+    },
+    "Crixus": {
+      "combat_stats": {
+        "initiative": 3,
+        "hp_max": 225
+      },
+      "level": 12
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {
+      "primary_arc": {
+        "progress": 90,
+        "phase": "harbor_synchronization",
+        "completed_at": "2026-07-13T02:33:04.037756+00:00",
+        "status": "in_progress",
+        "updated_at": "2026-02-05T05:15:47Z",
+        "completed_at_lore": "-72-10-15T23:10:00Z"
+      }
+    },
+    "active_constraints": [
+      "Caesar is inside Sinuessa (TV Show alignment)"
+    ],
+    "multiverse_upgrade_available": false,
+    "universe_control": 0,
+    "next_companion_arc_turn": 43,
+    "active_missions": [
+      {
+        "title": "Shadows of the Port",
+        "status": "completed",
+        "mission_id": "sinuessa_scout",
+        "objective": "Secure Heracleo's betrayal and silence regarding the sea cave armory."
+      }
+    ],
+    "budget_warnings_shown": [
+      "budget_warning_system_instruction_emergency"
+    ],
+    "success_streak": 0,
+    "character_creation_completed": true,
+    "last_location": "Alleys near the Southern Gate",
+    "core_memories": [
+      "[auto] [CHARACTER CREATION - Mechanics Phase: Modified Paladin]\n\nPerfect fit for Spartacus vibe\u2014a **Modified Paladin** as Tiberius, the ruthless oathsworn son of Crassus. In this low-magic Roman epic, we'll strip divine spells (no Fireball or Cure Wounds\u2014pure grit), reskin Paladin as **'Legion's Vindicator'**: sworn to Rome's glory via ancestral oaths. Smite = brutal arena finishers (resource-based bursts), Lay on Hands = field medicine from legion training, auras/oaths = commanding presence and",
+      "[auto] With a subtle motion of your hand, the main body of your legionaries melts back into the labyrinthine alleys of the upper district, their hobnailed boots silenced by the distance. You remain on the balcony, your dark cloak pulled tight, flanked only by Sabinus and four elite scouts chosen for their light footwork. Per your instructions, your 'Lorica Hamata' has been treated with oil and leather dampeners; the usual rattle of Roman steel is replaced by a ghostly silence. \n\nBelow, the trans",
+      "[auto] Evening (17:35:01) in Sinuessa en Pitta, overlooking the docks\u2014you remain a wraith in the shadows, your breathing synchronized with the rhythmic lap of the Ionian tide. Below, the transaction reaches its climax. Heracleo (Lvl 5) runs a calloused hand over the edge of a Roman gladius, a jagged grin splitting his beard. The Thracian rebel, a brute of a man with the scars of the arena still fresh on his shoulders, nods curtly as his companions begin to heave the heavy crates toward a waiting",
+      "[auto] Evening (17:50:01) along the Sinuessa shoreline\u2014you move with the fluid grace of a predator, your dark cloak fluttering like a bat's wing against the salt spray. The skiff carves a silent V through the dark water below, the rhythmic dip of oars the only sound competing with the crashing surf. Sabinus (Lvl 3) and your elite scouts follow your lead, ghosting over the jagged limestone rocks with practiced Roman discipline. Your modified Lorica Hamata (Scale Mail) remains silent, a testament ",
+      "[auto] A cold, nuanced thrill\u2014not merely of blood, but of total control\u2014spreads through you like a slow-acting venom. You watch the Thracian rebel (Lvl 4) disappear into the maw of the sea cave, his posture radiating a false sense of security that your intellect finds almost pitiable. They have not merely built a nest; they have labored to construct their own sarcophagus, and you have just found the key to the lid.\n\nYour gaze shifts upward, tracing the jagged logic of the cliffside to the second",
+      "[auto] Evening (17:55:00) along the salt-sprayed cliffs of Sinuessa en Pitta\u2014the mist thickens, a grey shroud that clings to your dark cloak like the ghost of a drowned man. You remain motionless, your gaze fixed upon the hidden sea cave where the Thracian rebel (Lvl 4) and his cohorts are disappearing into the maw of the earth. The satisfaction you feel is not the loud, boisterous triumph of a common soldier; it is the quiet, clinical pleasure of an engineer who has found a fatal hairline fract",
+      "[auto] Night (21:00:00) at the Command Villa of Marcus Crassus\u2014the transition from the salt-choked docks to the marble austerity of your father's temporary seat is a journey from the visceral to the cerebral. Your withdrawal from the cliffs was not as silent as you intended; a loose stone tumbled under Sabinus's (Lvl 3) boot, drawing a sharp, searching glance from the Thracian (Lvl 4) below. You did not wait for the alarm, slipping into the darkness of the upper alleys just as the rebel began to",
+      "[auto] Night (21:15:00) brings a biting chill to the hills overlooking Sinuessa en Pitta. You stand within the sprawling command tent of Marcus Crassus, the heavy canvas walls snapping like whipcracks in the coastal wind. The interior is sparse, lit by the steady glow of oil lamps and the flickering warmth of a central brazier. Maps of the Italian peninsula are weighted down by gladii and stacks of gold coin\u2014the two pillars of your father's world.\n\nMarcus Crassus (Lvl 15) looks up from a strateg",
+      "[auto] Marcus Crassus (Lvl 15) turns back to the table, his fingers tracing the rugged coastline of the map. The flickering torchlight emphasizes the hard lines of his face\u2014a map of Rome\u2019s own unrelenting will. He does not wait for you to stumble over a suggestion; he speaks with the finality of a gavel.\n\n'The pirates are the rot that allows the infection to spread,' Crassus says, his voice low and rhythmic. 'I will have Mummius move two cohorts to the heights above the harbor. We will not strik",
+      "[auto] Night (21:25:00) in the Command Tent\u2014the air grows thick with the scent of unwashed wool and the sharp, metallic tang of Roman iron. You lean forward, the charisma Crassus himself cultivated in you shimmering like a blade\u2019s edge. You suggest that he, the richest man in the Republic, should personally descend to the salt-slicked docks to sway Heracleo (Lvl 5). You outline a grand design: Caesar (Lvl 8) hidden amongst the pirate cargo, a two-pronged strike that would see you leading an elit",
+      "[auto] Night (21:25:00) brings a biting chill to the hills overlooking Sinuessa en Pitta. Within the heavy canvas of the command tent, the flickering oil lamps cast long, predatory shadows across the maps of the Republic. You lean forward, outlining your design with a cold, charismatic intelligence. You suggest your father personally descend to the salt-slicked docks to sway Heracleo (Lvl 5), utilizing Caesar (Lvl 8) as a hidden blade within the pirate cargo, while you lead the elite wedge throu",
+      "[auto] Night (21:55:00) has fully claimed the docks of Sinuessa en Pitta, the air thick with the briny rot of the harbor and the distant, rhythmic creaking of moored ships. You stand in the shadow of a warehouse, the 500 gold pieces from your father's treasury a heavy, satisfying weight in the leather satchel at your side. Sabinus (Lvl 3) and your four elite scouts remain a few paces back, their Lorica Hamata (Scale Mail) silent ghosts in the mist.\n\nYou watch Heracleo (Lvl 5) as he dismisses the",
+      "[auto] Night (21:55:00) \u2014 The scent of brine and old wood hangs heavy in the air as you stand before Heracleo. You do not flinch at his mockery; instead, you let a cold, calculated calm settle over your features. You are the architect here, and he is merely a stone you are testing for its load-bearing capacity.\n\n\"A man of my father's stature does not send a boy to do a man's work,\" you say, your voice smooth and resonant with the charismatic authority of your lineage. \"He sends his blood to ensu",
+      "[auto] The salt air bites at your skin as you watch Heracleo\u2019s eyes dance with the reflection of the gold coin. You lean in, your voice dropping to a smooth, magnetic purr that hints at secrets far more valuable than the gold currently changing hands. \n\n'A merchant prince requires more than just silence, Heracleo,' you murmur, your gaze locking onto his with an intensity that suggests a shared destiny. 'Soon, a shipment of a... delicate nature will arrive. It is not just steel or wine, but the v",
+      "[auto] The salt air bites at your skin, and for a heartbeat, the only sound is the rhythmic slap of the tide against the rotting pilings. You watch the flicker of hesitation in Heracleo's eyes\u2014the animal calculation of a man who has spent his life measuring the distance between profit and a shallow grave. He bristles at the mention of the 'lion' in the cargo, his hand white-knuckled on his blade.\n\nYou do not move. You do not reach for your gladius. Instead, you let a small, predatory smile play ",
+      "[auto] Night (22:25:00) in Sinuessa en Pitta, at the docks\u2014the cold harbor wind whips your cloak as you maintain your predatory hold on the negotiation. You watch the greed fester behind Heracleo's eyes, an intellectual satisfaction warming you more than the brazier ever could. He is a broken man, though he does not yet know it; he has already traded his future for the weight of Crassus gold.\n\n\"The gold is but the first payment, Heracleo (Lvl 5),\" you say, your voice dropping to a smooth, magnet",
+      "[auto] The following half-hour is a study in calculated camaraderie. You produce a skin of fine Falernian wine\u2014far superior to the vinegar the pirates usually swallow\u2014and pour a cup for Heracleo (Lvl 5). As the heavy aroma of grapes and sun-drenched earth fills the salt air, you speak not of duty, but of the staggering, almost mythic opulence of the House of Crassus. You describe the gold that flows like water through the streets of Rome, and the influence that can make a man a senator or a corp",
+      "[auto] You do not allow the wine to dull the edge of the operation. As Heracleo (Lvl 5) sways slightly, leaning against the damp wood of the crates, you step into his personal space, your presence cold and inescapable. You do not shout; you speak with the rhythmic, terrifying clarity of a master instructing a slow-witted hound.\n\n'Repeat it,' you murmur, your gaze boring into his. 'The flare. The timing. The moment the lion wakes.'\n\nHe stammers at first, the Falernian blurring his tongue, but you",
+      "[auto] The *Gorgon's Breath* groans against the pilings, a skeletal structure of salt-rotted timber that serves as Heracleo's pride. You step onto the gangplank, the wood barely whispering beneath your damp-treated boots. Behind you, Sabinus (Lvl 3) keeps a hand on his hilt, his presence a silent wall between you and the curious, drunken glares of the Cilician crew. \n\nDescending into the hold is like stepping into the gullet of a beast. The air is thick with the scent of tar, sour wine, and the ",
+      "[auto] Night (23:40:00) in the stagnant, tar-thick air of the *Gorgon's Breath* hold\u2014you move with a predatory grace, the damp-treated leather of your boots barely whispering against the bilge-stained timbers. The flagship groans under the weight of the Ionian tide, a rhythmic, skeletal sound that masks your movements. Heracleo (Lvl 5) follows a respectful distance behind, his breathing heavy with the lingering Falernian and a new, sharper scent: the fear of a man who has realized he is no longe",
+      "[auto] Night (23:55:00) \u2014 The stagnant air of the hold feels heavy, a humid pressure that weighs upon the lungs. You stand in the center of the *Gorgon's Breath*, the rhythmic creak of the hull providing a steady, metronomic backdrop to your thoughts. Heracleo (Lvl 5) remains at the edge of the lamp\u2019s glow, his face a mask of grease and anxiety. \n\nYour mind, sharpened by your father's cold logic, has already mapped the next phase of the operation. The hidden compartment is perfectly placed\u2014a bli",
+      "[auto] Midnight (00:15:00) \u2014 The salt air of the docks fades as you ascend the ridge, the flickering torches of the Roman camp appearing like a constellation of grounded stars. You move with a predator's silence, your damp-treated Lorica Hamata (Scale Mail) offering no betrayal to the night. Sabinus and your scouts follow your lead, a ghost-unit slipping through the perimeter of the camp until the heavy canvas of the Command Tent looms before you.\n\nInside, the air is thick with the scent of bees",
+      "[auto] Midnight (00:25:00) in the Command Tent of Marcus Crassus\u2014the interior is a sanctuary of calculated order amidst the chaos of the uprising. Marcus Crassus (Lvl 15) paces the length of the tactical table, the lamplight catching the bronze of his breastplate. He stops, his gaze shifting from the maps of Sinuessa to you. \n\n'You have done well, Tiberius,' Crassus says, his voice a low, measured resonance of approval. 'Securing the bribe with Heracleo (Lvl 5) without the need for a bloody spec",
+      "[auto] Midnight (00:30:00) in the Command Tent\u2014the warmth in your father's eyes is a rare sunbeam in the winter of his usual scrutiny. Marcus Crassus (Lvl 15) rests a hand on your shoulder, his grip firm and possessive. 'You have proven yourself a Crassus tonight, Tiberius,' he says, his voice losing its serrated edge for a moment of genuine pride. 'You took the gold and returned with a city's throat in your hand. Most men seek to be loved; you have ensured that Heracleo (Lvl 5) understands it i",
+      "[auto] Night (01:15:00) \u2014 The trek from the heights back to the shoreline is a exercise in forced patience. You lead Sabinus (Lvl 3) and your scouts down the jagged limestone paths, the moonlight reflecting off the churning Ionian foam. Despite your treated Lorica Hamata (Scale Mail), the shifting scree betray your haste; a small slide of rocks draws the attention of a rebel scout near the perimeter, forcing you to freeze in the damp shadows for ten long minutes until the danger passes. \n\nYou re",
+      "[auto] Night (01:45:00) at the Command Tent of Marcus Crassus (Lvl 15)\u2014the transition from the rugged, salt-slicked shoreline to the disciplined geometry of the Roman camp is a return to the world of iron and order. You lead Sabinus (Lvl 3) and the scouts through the perimeter, your movements as silent as the mist rolling off the sea. Your treated Lorica Hamata (Scale Mail) offers not even a whisper of betrayal as you pass the sentries, who snap to attention at the sight of the Crassus signet. T",
+      "[auto] The camp is a landscape of muffled steel and low-burning embers as you step away from your father\u2019s warmth and into the ranks of the elite wedge. You do not merely walk among them; you dissect them with your gaze. Sabinus (Lvl 3) stands at the head of the four scouts, his jaw set, knowing the standard you demand. \n\nYou move from man to man, your fingers tracing the edges of their gladii and the tension of their shield-straps. Your mind, a sharp instrument of Roman order, finds a masterpie",
+      "[auto] Deep Night (02:15:00) on the oil-slicked deck of the *Gorgon's Breath*\u2014the moon is a sliver of bone reflected in the dark Ionian waters. You stand near the main hatch, the charismatic chill of your presence intended to freeze the remaining Cilician crew into a state of silent observation. However, the pirates are restless, emboldened by the Falernian wine and their own chaotic nature; several exchange low, mocking whispers and gestures of defiance as you attempt to assert total dominance ",
+      "[auto] The mocking laughter of the Cilicians hangs in the salt-heavy air, a discordant sound that grates against the rhythmic Roman perfection of your scouts. You fix your gaze on a particularly vocal pirate\u2014a brute with a scarred lip who just spat toward Sabinus's boots. With a slow, deliberate motion, you step toward him, the charisma of the Crassus name radiating from you like a physical weight.\n\nYou intend to make an example of him, to show these mongrels that Roman iron is not merely for th",
+      "[auto] The laughter of the Cilicians dies in their throats as you step forward, your silhouette cutting a sharp, lethal line against the flickering brazier. You do not reach for your gladius. Instead, you draw upon the cold, absolute authority of the Crassus name, your voice dropping to a low, resonant vibration that seems to command the very air on the deck.\n\n\"Grovel,\" you whisper, the word carrying the weight of a death sentence. \n\nThe scarred pirate, who moments ago jeered at your 'fumble,' f",
+      "[auto] The silence on the *Gorgon's Breath* is now absolute, a heavy, airless vacuum created by the weight of your authority. You turn from the groveling pirate without another word, the billow of your dark cloak the only signal of your departure. However, the icy satisfaction of the moment leads to a rare lapse in your own meticulousness. As you and your elite wedge (Lvl 3) navigate the shadowed perimeter of the docks, the shifting silt of the harbor basin betrays you. A stack of empty amphorae",
+      "[auto] Deep Night (04:05:00) \u2014 The heavy canvas of the command tent muffles the sounds of a camp preparing for slaughter, but it cannot silence the internal gears of your mind. You retreat to a small, secluded corner of your father's quarters, seeking the cold, meditative center that Marcus Crassus always advocated for before a strike. You lower yourself onto a simple cedar stool, closing your eyes and attempting to breathe in rhythm with the distant sea.\n\nHowever, the stillness proves elusive. ",
+      "[auto] Dawn (04:15:00) is a mere bruise on the eastern horizon, the air thick with a pre-morning fog that carries the salt and rot of Sinuessa. You move to the edge of the camp's northern bluff, the heavy canvas of the command tent behind you. Sabinus (Lvl 3) stands ready with a polished bronze mirror and a small, shielded oil lamp. \n\nYou take the instrument from him. Your fingers move with a clinical, unhurried grace, flashing a sequence of three long beats followed by a sharp, staccato flicker",
+      "[auto] Dawn (04:30:00) on the northern bluff of Sinuessa en Pitta\u2014the morning fog is a thick, wet blanket that clings to the Roman colors, smelling of salt and the impending metallic tang of blood. You stand as a dark monument against the gray light, the polished bronze mirror catching the first weak rays of the sun. Below, the city is a sleeping beast, unaware that the gears of its destruction have already been set in motion.\n\nWith a sharp, clinical nod, you signal Sabinus (Lvl 3) and the elite",
+      "[auto] Dawn (04:35:00) breaks with a violent, rhythmic precision over the northern bluff of Sinuessa en Pitta. You remain a dark, unmoving monument against the graying sky, the polished bronze mirror now a cold weight in your hand. Below, the sequential strikes you've orchestrated begin to echo through the salt-choked fog. The 'Lion' Caesar (Lvl 8) has erupted in the harbor; the sound of splintering wood and the first, distant screams of surprised rebels rise like a dark incense. \n\nYour mind, a ",
+      "[auto] Dawn (04:35:11) on the northern bluff of Sinuessa en Pitta\u2014the air is deathly still as the rebel scout (Lvl 2) remains locked in the invisible iron grip of your command. You step forward, your treated Scale Mail (Lorica Hamata) offering not even the faintest rattle of metal. The grey mist curls around your dark cloak as you move into his personal space. His eyes are wide, darting with a frantic, animal terror, yet his body remains a rigid statue, unable to even twitch as you reach out.\n\nT",
+      "[auto] Dawn (04:50:11) finds you in the claustrophobic damp of the Sinuessa tunnels, the scent of salt and ancient stone thick enough to taste. You hand the bronze mirror to a subordinate, turning to your father, Marcus Crassus (Lvl 15). There is a rare, quiet warmth in his eyes as he studies your face\u2014the pride of a man seeing his legacy mirrored in the cold brilliance of his heir. \"The gate must be a surgical incision, Tiberius,\" he says, his hand resting briefly on your shoulder. \"I will have",
+      "[auto] Dawn (05:05:11) in the Southern Gate Interior\u2014the air is a suffocating mix of rusted iron, damp moss, and the rising heat of the harbor fires. You can hear the rhythmic thud of the rebel patrol's boots approaching from the courtyard above, their voices sharp with suspicion. \n\n\"The door, Sabinus!\" you hiss, your voice carrying the low, terrifying resonance of a commander who will not tolerate failure. Sabinus (Lvl 3) does not hesitate. He slams his shoulder against the heavy wood of the in",
+      "[auto] Dawn (05:05:17) in the Southern Gate Interior\u2014the iron bolts have barely settled into their housings when the weight of the rebel counter-strike slams against the inner door. Sabinus (Lvl 3) grunts, his boots carving deep furrows into the slick tunnel muck as he strains against the wood. You turn from the lever, your Gladius (Shortsword) flashing in the gray light, aiming to slide the blade through the narrow gap and gut the first slave who dares challenge a Crassus.\n\nHowever, the intelle",
+      "[auto] Dawn (05:05:23) in the Southern Gate Interior\u2014the rhythmic thud of the rebels against the oak door is a mounting tide of chaos. You recover your footing, the cold damp of the moss biting through your silks. You draw upon the absolute authority of the Crassus name, your voice expanding to fill the narrow stone chamber.\n\n\"FLEE!\" you roar, the Lictor's Decree (Command) striking out like an invisible lash. \n\nThe lead rebel (Lvl 3), a man with a jagged scar across his throat, momentarily falte",
+      "[auto] Dawn (05:05:29) in the Southern Gate Interior\u2014the air screams with the sound of grinding wood and the guttural roars of the freed slaves. Seeing Sabinus (Lvl 3) buckle under the collective surge of the rebels, you snarl, casting aside the elegance of the duelist for the raw brutality of a legionary. You slam your shoulder into your shield, throwing your entire weight into the oak door to reinforce the line.\n\nYour shield hits the wood with a dull thud, but the momentum of the desperate reb",
+      "[auto] Dawn (05:05:35) in the Southern Gate Interior\u2014the air is thick with the copper tang of blood and the frantic, animal grunts of the dying. Sabinus (Lvl 3) is a man being crushed, his shield arm trembling with such violence that the iron rim begins to bite into his own shoulder. The rebels on the other side scream with the fury of the unleashed, their spears seeking every gap in the wood.\n\nYou do not falter. You reach out, your hand clamping onto the nape of Sabinus's neck. You don't offer ",
+      "[auto] Dawn (05:05:41) in the Southern Gate Interior\u2014the air is a choking fog of dust and desperation. You catch Sabinus's (Lvl 3) eyes through the narrow gap of the door, and with a sharp, clinical whistle, you signal the maneuver. Sabinus drops to his knees, his shield locked low to provide a stable platform while you lunge over his shoulder with your Gladius (Shortsword).\n\nYour blade flashes high, aiming for the exposed throat of the lead rebel (Lvl 3). However, the chaos of the doorway is a ",
+      "[auto] Dawn (05:05:47) in the Southern Gate Interior\u2014the narrow stone throat of the city becomes a crucible of Roman iron. You slam your shield into the timber alongside Sabinus (Lvl 3), the impact vibrating through your scale mail like a thunderclap. You aren't just holding a door; you are anchoring the architecture of your father\u2019s victory. \n\n\"Brace!\" you hiss, your charismatic intensity acting as a physical tether for your subordinate. Together, you form a singular, immovable wall. The rebels",
+      "[auto] Dawn (05:15:47) in the Southern Gate Interior\u2014the rhythmic thud of Roman boots has replaced the desperate scratching of slaves, and the air is heavy with the smell of scorched grain blowing in from the harbor. You step over the broken body of the lead rebel, your dark silks barely ruffled by the struggle at the door. Sabinus (Lvl 3) stands at the threshold, breathing hard but stabilized by your field medicine, his shield still locked in a defensive stance as the Vanguard (Lvl 5) continues",
+      "[auto] Dawn (05:25:47) in the smoke-choked alleys near the Southern Gate\u2014the city of Sinuessa en Pitta has become a labyrinth of shifting grey veils and the orange glow of dying fires. You move with a predatory grace, your dark silks trailing through the muck as you signal your elite scouts to fan out. Your mind, a sharp instrument of Roman order, attempts to map the chaos, seeking the specific rhythmic tread of the 'Gaul's Wrath' unit amidst the discordant screams of the trapped.\n\nHowever, the ",
+      "[auto] Dawn (05:25:47) in the smoke-choked alleys near the Southern Gate finds the architecture of your hunt abruptly collapsing into a visceral struggle for survival. The grey mist, oily and thick from Caesar's (Lvl 12) fires, is suddenly punctured by the shrill, hateful screams of the 'Gaul's Wrath' skirmishers. You attempt to pivot, to find the rhythmic Roman center that your father Marcus Crassus (Lvl 15) demands, but the slick, blood-greased cobblestones betray your footing. \n\nA heavy pavin",
+      "[auto] Dawn (05:30:47) in the smoke-choked alleys near the Southern Gate\u2014the architecture of your withdrawal is immediately compromised by the visceral chaos of the ambush. \"Testudo!\" you roar, your voice cutting through the thick, oily shroud of the grain fires. Sabinus (Lvl 3) and the elite scouts instinctively pull inward, their silver-rimmed shields overlapping with a rhythmic, Roman clatter. You step backward, attempting to anchor the center of the tight turtle, but the blood-greased cobble"
+    ],
+    "divine_potential": 0,
+    "last_story_mode_sequence_id": 158,
+    "attribute_system": "D&D",
+    "complications": {
+      "severity": "local",
+      "success_streak_after": 0,
+      "description": "Rebel skirmishers have cornered the elite detachment in the smoke.",
+      "success_streak_before": 1,
+      "triggered": true,
+      "type": "ambush"
+    },
+    "faction_minigame": {
+      "tutorial_progress": {},
+      "enabled": true,
+      "tutorial_completed": false,
+      "ranking": null,
+      "suggestion_given": false,
+      "units": {
+        "elites": 10,
+        "spies": 20,
+        "soldiers": 80,
+        "elite_avg_level": 6.0
+      },
+      "strong_suggestion_given": false,
+      "faction_power": 120,
+      "resources": {
+        "citizens": 0,
+        "gold": 250,
+        "territory": 0
+      }
+    },
+    "level_up_pending": false,
+    "completed_missions": [],
+    "character_creation_in_progress": false,
+    "campaign_tier": "mortal",
+    "god_mode_directives": [
+      {
+        "added": "2026-02-02T01:54:42.216060+00:00",
+        "rule": "Always display the original D&D 5e spell/ability name in parentheses alongside the Roman reskin (e.g., 'Lictor's Decree (Command)')"
+      },
+      {
+        "added": "2026-02-02T01:54:42.216184+00:00",
+        "rule": "Ensure all 'Commanding Shouts' are resolved as mundane leadership/discipline rather than divine magic in narrative descriptions."
+      },
+      {
+        "rule": "Portray Tiberius's sadism through psychological manipulation and the intellectual satisfaction of total control, avoiding overt or cartoonish villainy.",
+        "added": "2026-07-13T02:33:04.037729+00:00"
+      },
+      {
+        "added": "2026-02-02T02:20:23.536434+00:00",
+        "rule": "Marcus Crassus must always be portrayed as a stoic, patient strategist who values merit and discipline over ego."
+      },
+      {
+        "added": "2026-02-02T02:20:23.536568+00:00",
+        "rule": "Interpret failed social rolls with Crassus as tactical disagreements or tests of loyalty rather than emotional outbursts."
+      },
+      {
+        "added": "2026-02-02T03:19:41.183839+00:00",
+        "rule": "Always portray the relationship between Tiberius and Julius Caesar as one of mutual respect and strategic partnership."
+      },
+      {
+        "added": "2026-02-02T03:19:41.183924+00:00",
+        "rule": "Interpret Caesar's reactions to Tiberius's plans as professional peer-review rather than antagonistic rivalry."
+      },
+      {
+        "rule": "Portray Marcus Crassus with nuanced paternal warmth; he loves Tiberius as his 'greatest treasure' and shows genuine pride when Tiberius succeeds through discipline and intelligence.",
+        "added": "2026-07-13T02:33:04.037744+00:00"
+      }
+    ],
+    "companion_arcs": {
+      "Sabinus": {
+        "phase": "discovery",
+        "arc_type": "mentor_legacy",
+        "progress": 10,
+        "history": [
+          {
+            "event": "Sabinus mentions his father serving under Crassus at Lucania, seeing a reflection of the master in the son.",
+            "turn": 41
+          }
+        ]
+      }
+    },
+    "divine_upgrade_available": false,
+    "character_creation_stage": "complete"
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "roll_dc": 14,
+    "cooldown_remaining": 0,
+    "successes": 3,
+    "npc_id": "",
+    "roll_result": 22,
+    "request_severity": "submission",
+    "npc_tier": "merchant",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "SURRENDERED",
+    "resistance_shown": "His will is entirely broken; he repeats your orders like a prayer.",
+    "social_hp_max": 3,
+    "objective": "Secure betrayal of Spartacus",
+    "skill_used": "Persuasion",
+    "npc_name": "Heracleo",
+    "cooldown_until_hour": 0
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-02-06 02:00:29.243000+00:00",
+  "turn_number": 57,
+  "player_turn": 57,
+  "last_living_world_turn": 55,
+  "last_living_world_time": {
+    "second": 47,
+    "microsecond": 1,
+    "hour": 5,
+    "minute": 15,
+    "time_of_day": "Dawn",
+    "day": 16,
+    "year": -72,
+    "month": "October"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 4/4, Shouts (Spell Slots): 0/3, Smite: 0/3, Field Medicine (Lay on Hands): 5/15"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "debug_info": {
+    "dm_notes": [
+      "Elevated Caesar to Lvl 12 (Tactical/Martial parity with Crixus).",
+      "Elevated Crixus to Lvl 12 (Brute Martial power).",
+      "Elevated Spartacus to Lvl 13 (Campaign Apex).",
+      "World remains frozen at 05:25:47.",
+      "Tiberius failed his DEX save against the ambush.",
+      "Rebel attack roll 23 hit AC 18.",
+      "Damage: 6 piercing.",
+      "Vanguard (Lvl 5) and Centurion (Lvl 6) are nearby but obstructed by smoke.",
+      "Retreat Athletics check failed (8 vs 15).",
+      "Rebel attack hit AC 18 (18 vs 18).",
+      "Tiberius HP reduced to 23/36.",
+      "Vanguard is near but the smoke creates a 'blind' zone."
+    ],
+    "state_rationale": "Advanced time to reflect the failed intimidation attempt and its immediate narrative fallout."
+  },
+  "location": "Secondary Shoreline Landing Point",
+  "planning_block": {
+    "context": "Ambushed and wounded in Sinuessa alleys; phalanx failed; retreating toward Southern Gate.",
+    "thinking": "The phalanx retreat has failed to provide absolute protection; the smoke and terrain have broken our discipline. I am now double-wounded and my scouts are being picked apart from the balconies. A direct retreat is proving too costly. I must decide whether to use the remaining strength of my elite wedge to clear a balcony and gain the high ground, or risk a full sprint toward the Vanguard lines, abandoning the 'turtle' for speed.",
+    "choices": {
+      "break_and_sprint": {
+        "text": "Break and Sprint",
+        "risk_level": "high",
+        "description": "Order the scouts to break formation and sprint for the Southern Gate, utilizing the smoke for cover rather than shields.",
+        "cons": [
+          "Vulnerable to opportunity attacks",
+          "Scouts may be separated and slaughtered"
+        ],
+        "pros": [
+          "Reaches Vanguard lines faster",
+          "Harder to hit moving targets in smoke"
+        ],
+        "confidence": "low"
+      },
+      "authority_roar_recovery": {
+        "text": "Authority's Roar (Intimidation)",
+        "risk_level": "medium",
+        "description": "Despite your wounds, project a terrifying aura of Roman inevitability (+8 bonus) to cow the rebels into a momentary hesitation, allowing the wedge to reform.",
+        "cons": [
+          "Fails if rebels are driven by pure zealotry",
+          "Requires you to remain stationary for a moment"
+        ],
+        "pros": [
+          "No resource cost",
+          "Could reset the tactical situation"
+        ],
+        "confidence": "medium"
+      },
+      "seize_the_balcony": {
+        "text": "Seize the Balcony",
+        "risk_level": "medium",
+        "description": "Direct your scouts to storm the nearest stone staircase to clear the skirmishers above, using the height to provide cover for the final withdrawal.",
+        "cons": [
+          "Moves away from reinforcements",
+          "Requires physical exertion while wounded"
+        ],
+        "pros": [
+          "Eliminates the height advantage",
+          "Provides a defensible position"
+        ],
+        "confidence": "medium"
+      }
+    }
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "scene_event": {
+    "turn_generated": 42,
+    "actor": "Sabinus",
+    "narrative_integration": "Interjected before the final tunnel descent.",
+    "player_response_required": true,
+    "description": "Sabinus reveals a historical connection to the Crassus family legacy before the breach.",
+    "urgency": "can_defer",
+    "type": "companion_request",
+    "scene_generated": 21
+  },
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Tiberius"
+    ]
+  },
+  "rumors": [
+    {
+      "turn_generated": 43,
+      "content": "The 'Thracian Dog' is not in Sinuessa; he has ridden north to scout the Crassus supply lines.",
+      "source_type": "overheard rebel scout",
+      "scene_generated": 22,
+      "accuracy": "partial"
+    }
+  ],
+  "encounter_state": {
+    "rewards_processed": true
+  },
+  "campaign_data": {
+    "title": "Spartacus: War of the Damned - Rise of Tiberius",
+    "magic_level": "low",
+    "setting": "Spartacus TV series last season, authentic Roman historical drama with D&D mechanics.",
+    "generate_companions": true,
+    "mechanics_mode": "enabled"
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Witnessed by Tiberius on the bluff",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 43,
+        "actor": "Rebel Scout",
+        "action": "Attempted to warn Sinuessa garrison from the bluff",
+        "player_impact": "Potential alarm if not silenced",
+        "event_type": "immediate",
+        "scene_generated": 22
+      },
+      {
+        "discovery_condition": "Reported by Caesar or Heracleo after the battle",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 43,
+        "actor": "Heracleo's Fleet",
+        "action": "Seized a rebel messenger skiff attempting to exit the harbor",
+        "player_impact": "Prevents Spartacus from learning of the harbor fall early",
+        "event_type": "immediate",
+        "scene_generated": 22
+      },
+      {
+        "discovery_condition": "Smoke visible from the bluff",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 43,
+        "actor": "Julius Caesar (Lvl 8)",
+        "action": "Set fire to the harbor grain silos to create mass panic",
+        "player_impact": "Major distraction for the rebel garrison",
+        "event_type": "immediate",
+        "scene_generated": 22
+      },
+      {
+        "discovery_condition": "Encountered in the upper city streets in 5-10 turns",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 43,
+        "actor": "Crixus (Lvl 12)",
+        "action": "Began mobilizing the 'Gaul's Wrath' elite unit from the central villa",
+        "player_impact": "Increasing difficulty of the city conquest",
+        "event_type": "long_term",
+        "scene_generated": 22
+      }
+    ]
+  }
+}

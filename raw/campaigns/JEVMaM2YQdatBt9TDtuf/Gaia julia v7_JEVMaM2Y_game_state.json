@@ -1,0 +1,1102 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "aliases": [
+      "Vibia",
+      "Princess of Rome"
+    ],
+    "health": {
+      "hp_max": 33,
+      "temp_hp": 18,
+      "hp": 33,
+      "conditions": []
+    },
+    "background": "Imperial Royalty",
+    "mbti": "ENTJ",
+    "entity_id": "pc_gaia_julia_001",
+    "display_name": "Gaia Julia Caesar",
+    "class_name": "Bard",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 14,
+      "intelligence": 14,
+      "wisdom": 10,
+      "charisma": 18,
+      "constitution": 12
+    },
+    "proficiency_bonus": 3,
+    "status_conditions": [],
+    "race": "Human (Divine Blood)",
+    "ac": 14,
+    "alignment": "Lawful Evil",
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Charm Person"
+      },
+      {
+        "level": 1,
+        "name": "Command"
+      },
+      {
+        "level": 1,
+        "name": "Dissonant Whispers"
+      },
+      {
+        "level": 1,
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "name": "Bane"
+      },
+      {
+        "level": 2,
+        "name": "Suggestion"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 3,
+        "name": "Hypnotic Pattern"
+      },
+      {
+        "level": 3,
+        "name": "Tongues"
+      }
+    ],
+    "resources": {
+      "gold": 3436,
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "max": 3
+        },
+        "level_1": {
+          "current": 4,
+          "max": 4
+        },
+        "level_3": {
+          "current": 2,
+          "max": 2
+        }
+      },
+      "class_features": {
+        "bardic_inspiration": {
+          "current": 4,
+          "die": "d8",
+          "max": 4
+        }
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 14000,
+      "current": 10500,
+      "to_next_level": 3500
+    },
+    "name": "Gaia Julia",
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 14,
+      "intelligence": 14,
+      "wisdom": 10,
+      "charisma": 18,
+      "constitution": 12
+    },
+    "gender": "Female",
+    "features": [
+      "Auctoritas (Subtle Spellcasting)",
+      "Jack of All Trades",
+      "Song of Rest (d6)",
+      "Silver Tongue (Min 10 on Persuasion/Deception)",
+      "Expertise (Persuasion, Deception)",
+      "Ability Score Improvement (Charisma +2)",
+      "Font of Inspiration (Short Rest Recharge)",
+      "Unsettling Words",
+      "Divine Boon: Find Greater Steed (Celestial Aquila)"
+    ],
+    "hp_max": 33,
+    "level": 5,
+    "inspiration": true,
+    "hp_current": 33,
+    "age": 19,
+    "cantrips": [
+      {
+        "level": 0,
+        "description": "Subtle Auctoritas manipulation",
+        "name": "Friends"
+      },
+      {
+        "level": 0,
+        "description": "Psychic Ruination",
+        "name": "Vicious Mockery"
+      },
+      {
+        "level": 0,
+        "description": "Subtle Miasma manipulation of sound and image",
+        "name": "Minor Illusion"
+      }
+    ],
+    "skill_proficiencies": {
+      "expertise": [
+        "Deception",
+        "Persuasion"
+      ],
+      "proficiencies": [
+        "Deception",
+        "Persuasion",
+        "Insight",
+        "Performance"
+      ]
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Chain mail"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Longsword"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Shield"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Dungeoneer's pack"
+        },
+        {
+          "equipped": false,
+          "stats": "2",
+          "name": "Javelin"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "description": "Summons your Celestial Steed",
+          "name": "Celestial Aquila Whistle"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "stats": "AC 14 (Glamoured Studded Leather)",
+        "type": "armor",
+        "name": "Stola of the Miasma"
+      },
+      "off_hand": {
+        "equipped": true,
+        "stats": "Arcane Focus, Mind-Shielding",
+        "type": "obj",
+        "name": "The Julian Signet"
+      },
+      "main_hand": {
+        "equipped": true,
+        "stats": "+1 Finesse, DC 16 CON save vs Paralyzed",
+        "type": "weapon",
+        "name": "The Viper's Kiss"
+      },
+      "ranged": "Auctoritas (Vicious Mockery)"
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 25,
+      "hour": 22,
+      "time_of_day": "night",
+      "year": 44,
+      "day": 16,
+      "month": "March"
+    },
+    "location": "Capua - Ludus of Batiatus"
+  },
+  "npc_data": {
+    "Imperial Servant 4": {
+      "entity_id": "npc_imperial_servant_004",
+      "entity_type": "npc",
+      "role": "Servant",
+      "level": 1
+    },
+    "Shadow Agent 4": {
+      "entity_id": "npc_shadow_agent_004",
+      "entity_type": "npc",
+      "role": "Spy/Assassin",
+      "level": 5
+    },
+    "Voros": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_voros_001",
+      "class_name": "Fighter (Battle Master)",
+      "entity_type": "npc",
+      "display_name": "Voros",
+      "hp_max": 45,
+      "level": 5,
+      "tier": "knight",
+      "hp_current": 45,
+      "role": "Bodyguard"
+    },
+    "npc_batiatus_001": {
+      "role": "Lanista / Owner of the Ludus",
+      "entity_id": "npc_batiatus_001",
+      "entity_type": "npc",
+      "tier": "merchant",
+      "level": 4,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0
+        }
+      },
+      "gender": "Male",
+      "name": "Quintus Lentulus Batiatus"
+    },
+    "Imperial Servant 5": {
+      "entity_id": "npc_imperial_servant_005",
+      "entity_type": "npc",
+      "role": "Servant",
+      "level": 2
+    },
+    "Quintus Lentulus Batiatus": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_batiatus_001",
+      "stats": {
+        "debt_total": 2500,
+        "liquid_wealth": 12
+      },
+      "entity_type": "npc",
+      "display_name": "Quintus Lentulus Batiatus",
+      "hp_max": 18,
+      "tier": "merchant",
+      "status": "conscious",
+      "hp_current": 18,
+      "knowledge": [
+        "Deeply in debt to House Aemilius",
+        "Desperate for a patron"
+      ],
+      "relationships": {
+        "player": {
+          "debts": [
+            "Owes life of the House to Vibia"
+          ],
+          "disposition": "neutral",
+          "trust_level": -2,
+          "history": [
+            "Vibia paid the Valerius debt (1000gp)",
+            "Accepted a predatory patronage deal"
+          ]
+        }
+      },
+      "gender": "male",
+      "role": "Lanista / Owner of the Ludus"
+    },
+    "Shadow Agent 5": {
+      "entity_id": "npc_shadow_agent_005",
+      "entity_type": "npc",
+      "role": "Spy/Assassin",
+      "level": 7
+    },
+    "Atia of the Julii": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_atia_001",
+      "entity_type": "npc",
+      "tier": "noble",
+      "display_name": "Atia of the Julii",
+      "level": 8,
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -1,
+          "history": [
+            "Met at Batiatus banquet; exchanged pointed barbs."
+          ]
+        }
+      },
+      "role": "Roman Matriarch"
+    },
+    "Julian Shadow Agents": {
+      "entity_id": "npc_shadows_001",
+      "entity_type": "npc",
+      "hp_max": 33,
+      "tier": "guard",
+      "level": 5,
+      "display_name": "Julian Shadow Agents",
+      "hp_current": 33,
+      "role": "Spy"
+    },
+    "Voros the Thracian": {
+      "class_name": "Fighter (Battle Master)",
+      "entity_id": "npc_voros_001",
+      "entity_type": "npc",
+      "display_name": "Voros",
+      "tier": "knight",
+      "level": 5,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8,
+          "history": [
+            "Saved from Capuan fighting pits"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 49,
+        "hp": 49
+      },
+      "role": "Bodyguard"
+    },
+    "Julian Guard 3": {
+      "entity_id": "npc_julian_guard_003",
+      "entity_type": "npc",
+      "role": "Elite Guard",
+      "level": 6
+    },
+    "Shadow Agent 2": {
+      "entity_id": "npc_shadow_agent_002",
+      "entity_type": "npc",
+      "role": "Spy/Assassin",
+      "level": 6
+    },
+    "Julian Elite Vanguard": {
+      "entity_id": "npc_vanguard_001",
+      "entity_type": "npc",
+      "hp_max": 52,
+      "tier": "knight",
+      "level": 6,
+      "display_name": "Julian Elite Vanguard",
+      "hp_current": 52,
+      "role": "Guard"
+    },
+    "Imperial Servant 3": {
+      "entity_id": "npc_imperial_servant_003",
+      "entity_type": "npc",
+      "role": "Servant",
+      "level": 1
+    },
+    "Shadow Agent 1": {
+      "entity_id": "npc_shadow_agent_001",
+      "entity_type": "npc",
+      "role": "Spy/Assassin",
+      "level": 7
+    },
+    "Julian Guard 5": {
+      "entity_id": "npc_julian_guard_005",
+      "entity_type": "npc",
+      "role": "Elite Guard",
+      "level": 6
+    },
+    "Lucretia": {
+      "attitude_to_party": "antagonistic",
+      "entity_id": "npc_lucretia_001",
+      "entity_type": "npc",
+      "display_name": "Lucretia",
+      "hp_max": 22,
+      "tier": "merchant",
+      "hp_current": 22,
+      "knowledge": [
+        "Maintains a network of slave-spies",
+        "Obsessed with Roman status symbols"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -1,
+          "history": [
+            "Attempted to condescend to 'Vibia' at the gates"
+          ]
+        }
+      },
+      "gender": "female",
+      "role": "Noblewoman"
+    },
+    "Imperial Servant 1": {
+      "entity_id": "npc_imperial_servant_001",
+      "entity_type": "npc",
+      "role": "Servant",
+      "level": 3
+    },
+    "Julian Guard 1": {
+      "entity_id": "npc_julian_guard_001",
+      "entity_type": "npc",
+      "role": "Elite Guard",
+      "level": 7
+    },
+    "Ilithyia": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_ilithyia_001",
+      "entity_type": "npc",
+      "role": "Noblewoman",
+      "tier": "noble",
+      "level": 6
+    },
+    "Shadow Agent 3": {
+      "entity_id": "npc_shadow_agent_003",
+      "entity_type": "npc",
+      "role": "Spy/Assassin",
+      "level": 7
+    },
+    "Cinnaminus": {
+      "attitude_to_party": "trusted",
+      "entity_id": "npc_cinnaminus_001",
+      "class_name": "Rogue (Mastermind)",
+      "entity_type": "npc",
+      "display_name": "Cinnaminus",
+      "hp_max": 33,
+      "level": 5,
+      "tier": "merchant",
+      "hp_current": 33,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "grievances": [
+            "Profoundly terrified of Gaia"
+          ],
+          "trust_level": 4,
+          "history": [
+            "Hired for financial sabotage"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 33,
+        "hp": 33
+      },
+      "role": "Spy and Accountant"
+    },
+    "npc_lucretia_001": {
+      "role": "Noblewoman / Social Predator",
+      "entity_id": "npc_lucretia_001",
+      "entity_type": "npc",
+      "tier": "noble",
+      "level": 5,
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -1
+        }
+      },
+      "gender": "Female",
+      "name": "Lucretia"
+    },
+    "Julian Guard 2": {
+      "entity_id": "npc_julian_guard_002",
+      "entity_type": "npc",
+      "role": "Elite Guard",
+      "level": 7
+    },
+    "Mark Antony": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_antony_001",
+      "entity_type": "npc",
+      "role": "General / Politician",
+      "tier": "general",
+      "level": 12
+    },
+    "Imperial Servant 2": {
+      "entity_id": "npc_imperial_servant_002",
+      "entity_type": "npc",
+      "role": "Servant",
+      "level": 3
+    },
+    "Julian Guard 4": {
+      "entity_id": "npc_julian_guard_004",
+      "entity_type": "npc",
+      "role": "Elite Guard",
+      "level": 7
+    },
+    "Lyra": {
+      "attitude_to_party": "bonded",
+      "entity_id": "npc_lyra_001",
+      "class_name": "Cleric (Trickery Domain)",
+      "entity_type": "npc",
+      "display_name": "Lyra",
+      "hp_max": 38,
+      "level": 5,
+      "tier": "noble",
+      "hp_current": 38,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Fanatical worshipper of Venus bloodline"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 38,
+        "hp": 38
+      },
+      "role": "Handmaiden / Saboteur"
+    },
+    "Servilia of the Junii": {
+      "attitude_to_party": "antagonistic",
+      "entity_id": "npc_servilia_001",
+      "entity_type": "npc",
+      "role": "House Leader",
+      "tier": "noble",
+      "level": 9
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "character_creation_stage": "complete",
+    "divine_upgrade_available": false,
+    "dignitas_tracker": 65,
+    "character_creation_completed": true,
+    "reputation": {
+      "public": {
+        "score": 50,
+        "titles": [
+          "Princess of Rome"
+        ],
+        "notoriety_level": "respected"
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "HeavyDialogAgent",
+      "rewards_skip_count": 0
+    },
+    "core_memories": [
+      "Gaia identified that Atia of the Julii is in Capua seeking a new power base and financial backing due to her increasing political isolation by Octavian in Rome.",
+      "Gaia Julia leveraged the 'Vibia' persona to secure a 5,000gp monthly military training contract from Atia and Mark Antony, effectively making the legion her primary financial patron.",
+      "Mark Antony maintains a masterfully boisterous 'drunken general' persona in Capua, successfully deflecting Gaia's initial attempts to probe his true loyalty to the Emperor and Octavian.",
+      "Gaia Julia successfully leveraged the 'Golden Leash' to secure Mark Antony's interest in a 5,000gp monthly contract that bypasses Octavian's oversight, establishing direct financial leverage over the 5th Legion.",
+      "Atia revealed that the Senate specifically fears the 5th Legion views the Julian bloodline as a divine authority above Roman law, making Gaia's patronage a direct act of sedition.",
+      "Gaia Julia successfully probed Ilithyia, revealing that her husband Glaber intends to use House Aemilius to gain 'oversight' of Capua and counter Mark Antony's influence.",
+      "Gaia Julia successfully probed Ilithyia, revealing that Glaber intends to use a 'Public Safety Mandate' and House Aemilius to seize the Ludus and counter Antony's influence.",
+      "Gaia dispatched Cinnaminus to subvert the Aemilii branch in Capua by feeding them false intelligence regarding Glaber's intentions.",
+      "Voros intercepted House Aemilius's Sicarii in the Suburra, killing two, but one escaped to report the presence of elite security protecting 'Vibia'.",
+      "Gaia Julia successfully manipulated Mark Antony into deploying a century of the 5th Legion to occupy the Ludus of Batiatus, effectively shielding her assets from House Aemilius under the guise of 'public safety.'",
+      "Glaber and Ilithyia were forced to watch as Mark Antony occupied the Ludus, effectively neutralizing Glaber's legal 'Public Safety' seizure plan before it could be executed.",
+      "Gaia Julia successfully leveraged her role as 'The General's Muse' to provoke Mark Antony into publicly humiliating Glaber, effectively neutralizing Glaber's social and legal standing for the evening.",
+      "Gaia Julia is currently undergoing a divine internal resonance to anchor her Level 2 capabilities, beginning with the expansion of her physical vitality.",
+      "Correction: Gaia Julia Caesar has mechanically ascended to Level 5 (Manipulator), fully awakening her Julian Auctoritas while maintaining a perfect social mask of Level 1 to deceive her rivals.",
+      "Gaia Julia's mechanical ascension to Level 5 is finalized; she possesses the full capabilities of a Manipulator Tier Sovereign Voice while her social mask 'Vibia' remains perfectly anchored at Level 1.",
+      "The House of Batiatus is now a military-grade asset under the protection of the 5th Legion, providing Gaia a secure base for her southern operations.",
+      "Gaia Julia spotted Glaber passing a secret wax tablet to a Batiatus house slave while departing the banquet in disgrace.",
+      "Gaia Julia successfully executed a synergistic internal pincer, intercepting a wax tablet from Glaber that proved an assassination plot involving House Aemilius Sicarii and a compromised wine-steward."
+    ],
+    "army_data": {
+      "total_strength": 18
+    },
+    "imperial_escrow": 95000,
+    "social_hp_challenge": {
+      "social_hp": 1,
+      "roll_dc": 14,
+      "cooldown_remaining": 1,
+      "successes": 5,
+      "roll_result": 20,
+      "request_severity": "favor",
+      "npc_tier": "general",
+      "successes_needed": 5,
+      "social_hp_damage": 2,
+      "status": "YIELDING",
+      "resistance_shown": "He is effectively a military tool in your hand, though his personal loyalty is still to the gold.",
+      "social_hp_max": 8,
+      "objective": "Secure Military Occupation for Protection",
+      "skill_used": "Persuasion",
+      "npc_name": "Mark Antony"
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": false,
+    "campaign_tier": "mortal",
+    "masked_level": 1,
+    "universe_control": 0,
+    "arc_milestones": {
+      "primary_arc": {
+        "phase": "Political Leverage Established",
+        "progress": 60,
+        "status": "in_progress"
+      }
+    },
+    "active_constraints": [
+      "Gaia Julia is mechanically Level 5 (Manipulator Tier)",
+      "Social identity 'Vibia' is strictly masked as Level 1 for all social/magical detection",
+      "Retinue level range: 5-7 (combat), 5 (spy), 1-3 (slaves)",
+      "Atia of the Julii is currently fooled by the 'Vibia' perception filter and the Amalfi Seclusion history."
+    ],
+    "god_mode": {
+      "setting": "**\nThe heat of Capua is heavy, smelling of dust, pine, and the distant, bustling markets. You stand before the timber gates of the Ludus of Batiatus. Your retinue is small but perfectly curated to project high-tier equestrian wealth without screaming \"Imperial Heir.\" You are dressed in the teal stola of a wealthy noblewoman\u2014the fabric is imported, the dye is flawless, and the jewelry is tasteful but undeniably expensive.\n**The Hook:**\nThe gates groan open. Quintus Lentulus Batiatus emerges, wiping grease from his hands. He looks harried, a man drowning in debt. His wife, Lucretia, follows. Her gaze is sharp, predatory, and highly attuned to the social hierarchy. She steps closer, scanning your jewelry. \"You are far from Rome, child,\" Lucretia says, her voice dripping with aristocratic condescension. \"And far from your father's protection, whoever he may be. The sands of Capua can be... rough. Especially for a young woman trying to play at patronage.\"\n**The Action:**\n*How do you establish your dominance over the House of Batiatus?*\n * **[A] The Iron Fist in the Velvet Glove:** Use your *Silver Tongue* and raw Charisma to implicitly threaten their finances. Detail exactly how much debt they are in, proving your intelligence network is vastly superior to theirs, and demand to see their champions.\n * **[B] The Divine Awe:** Drop the \"Vibia\" mask for a fraction of a second. Unleash a subtle wave of *Auctoritas* (casting *Friends* or *Command*) to force Lucretia to step back and lower her eyes, physically crushing her aura with your own before smiling sweetly.\n * **[C] The Golden Bait:** Ignore Lucretia entirely, treating her as beneath your notice. Address Batiatus directly, opening a purse of heavy gold and demanding a private, immediate showing of his most lethal asset, treating him not as a host, but as a merchant.",
+      "character": {
+        "level": 5,
+        "class_name": "Fighter / Battle Master). *Role:* The Bodyguard. *Loyalty:* Life Debt. You Saved Him From The Capuan Fighting Pits",
+        "ac": 12,
+        "name": "Gaia Julia"
+      },
+      "description": "### **Section 1: Campaign Intro**\n**Title:** The Pax Caesara: Architect of the Golden Cage\n**The Concept:** The Ides of March failed. Gaius Julius Caesar survived his assassination by awakening the latent divine blood of Venus, crushing the Republic, and establishing an absolute, magically enforced empire. Now, in 44 BCE, the world is at peace, and peace is excruciatingly boring. You are Gaia Julia Caesar, the youngest and most powerful of the Julian line. Your goal is not to conquer the world with armies\u2014your father already did that\u2014but to conquer it socially, psychologically, and economically, proving you are the only true heir to the living god.\n**The Hook:** You are the smartest, most beautiful, and most terrifying predator in a society of vipers. This is a power fantasy of absolute social domination. You do not roll to survive; you roll to see how flawlessly you ruin the lives of those who displease you. A misplaced word from a Senator isn't met with a sword, but with the systematic, engineered destruction of his lineage, wealth, and reputation.\n### **Section 2: Character Personality**\n**Name & Archetype:** Gaia Julia Caesar / \"Vibia\" \u2013 The Decadent Conqueror (ENTJ/Architect of Influence).\n**Visual Signature & Habits:** You smell faintly of ozone, crushed myrrh, and impossible wealth. Your skin is entirely flawless, glowing with an inner, divine health. When analyzing a lie, you have a habit of slowly, rhythmically tapping a single gold coin against the wood of a table or the rim of a wine goblet\u2014a sound that induces pavlovian anxiety in your subordinates. When you cast a spell, the ambient light in the room physically dims, drawn into the gravity of your ego.\n**The Masks:**\n * **The Public Face:** The vain, spoiled, oblivious equestrian daughter \"Vibia\" or the innocent \"Daddy\u2019s Girl\" Princess of Rome. You pretend to care about silks, gossip, and chariot races to make your enemies underestimate you.\n * **The True Nature:** A bored, sadistic singularity. A hyper-intelligent sociopath who views human beings as predictable, fleshy clockwork to be dismantled for entertainment.\n   **The Core Compulsion:** The Hunger for Submission.\n * **Mechanic:** *The Price of Defiance.* If an NPC directly refuses your command or insults you and survives the encounter unpunished, you suffer Disadvantage on all Charisma checks against them until they are broken. If you publicly humiliate them or break their will, you gain Inspiration and Temporary HP equal to your Charisma score.\n   **Interaction Shorthand:**\n * **Rivals:** Condescending perfection. You speak softly, use their first names to diminish their titles, and smile with predatory warmth.\n * **Subordinates:** Cold, absolute expectation. You rarely look at them when giving orders, treating them as literal extensions of your own hands.\n   **Inner Monologue:**\n 1. \"Look at House Claudius puff out his chest. He thinks his lineage protects him. I could buy his entire bloodline with the gold I spend on bath oils.\"\n 2. \"Caesarion plays at being an Egyptian god. How derivative. Real divinity doesn't need a jackal mask; it just needs to whisper.\"\n 3. \"They are all so loud. If I take away Batiatus's funding, I wonder how long it will take for his wife to try and poison him? Three days? Let's find out.\"\n### **Section 3: Character Class**\n**Class Name & Flavor:** The Sovereign Voice (College of Eloquence Bard). Your power comes from the quickened blood of Venus Genetrix. You do not sing or play a lute; your \"art\" is the flawless manipulation of human psychology and the imposition of your divine will upon reality.\n**Unique Mechanic:** *Auctoritas (The Weight of the Divine).* Your spells have no visible verbal or somatic components. They manifest as pheromonal shifts, crushing atmospheric pressure, and perfectly pitched tones of voice that bypass the conscious mind.\n**Progression (Levels 1-30)**\n| Level"
+    },
+    "next_companion_arc_turn": 33,
+    "success_streak": 2,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 1,
+      "rationale": "The military occupation is the defining event of this window; focus now shifts to the social and political fallout."
+    },
+    "multiverse_upgrade_available": false,
+    "ludus_financial_rules": {
+      "monthly_net": 15900,
+      "priority_payment": "revenue_to_expenses_first",
+      "monthly_expenses": 5600,
+      "prestige_logic": "Projected Roman Equestrian wealth + Subliminal Auctoritas + Visible Elite Retinue",
+      "daily_payout": 318,
+      "logic": "Prestige + Supply Chain Optimization + Debt Liquidation",
+      "monthly_revenue": 21500
+    },
+    "level_up_complete": true,
+    "level_up_stage": null,
+    "companion_arcs": {
+      "Lyra": {
+        "phase": "discovery",
+        "arc_type": "prophetic_destiny",
+        "progress": 5,
+        "history": [
+          {
+            "event": "Observed divine signs at the Ludus gates.",
+            "turn": 6
+          },
+          {
+            "event": "Lyra witnessed the divine precision of Gaia's command, reinforcing her belief in Gaia's divinity.",
+            "turn": 31
+          }
+        ]
+      }
+    },
+    "character_creation_in_progress": false,
+    "companion_arc_event": {
+      "phase": "discovery",
+      "player_response_options": [
+        "\"Be careful, Lyra. Clay can be stubborn.\"",
+        "\"Then let us see what shape they take under my hand.\"",
+        "\"The gods require blood, Lyra. I only require results.\""
+      ],
+      "callback_planted": {
+        "effect": "Lyra will attempt to 'bless' the survivor in your name, possibly causing a scandal.",
+        "trigger_condition": "First gladiator death in the arena",
+        "min_turns_delay": 5
+      },
+      "progress_delta": 10,
+      "arc_type": "prophetic_destiny",
+      "companion": "Lyra",
+      "description": "Lyra identifies the gladiators as holy instruments for your coming reign.",
+      "event_type": "stakes_raised",
+      "companion_dialogue": "They are the clay from which you will sculpt your new world. Every drop of their blood is a prayer to your name."
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 3,
+    "roll_dc": 18,
+    "cooldown_remaining": 1,
+    "successes": 2,
+    "roll_result": 24,
+    "request_severity": "favor",
+    "npc_tier": "noble",
+    "successes_needed": 5,
+    "social_hp_damage": 1,
+    "status": "WAVERING",
+    "resistance_shown": "She concedes the financial point but remains guarded about Octavian's specific movements.",
+    "social_hp_max": 5,
+    "objective": "Extract Roman Political Vulnerabilities",
+    "skill_used": "Persuasion",
+    "npc_name": "Atia of the Julii"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-05-13 05:32:41.085000+00:00",
+  "turn_number": 32,
+  "player_turn": 32,
+  "last_living_world_turn": 32,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 22,
+    "minute": 25,
+    "time_of_day": "night",
+    "day": 16,
+    "year": 44,
+    "month": "March"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Post-interception tactical assessment",
+    "thinking": "The synergy of the 'Internal Pincer' was flawless. Cinnaminus retrieved the tablet before the steward could act, and Antony's ego is currently a shield I can wield at will. The reveal of Glaber's assassination plot is a nuclear option. I can use it to destroy Glaber's reputation instantly, or I can use it to force the Aemilii to liquidate Glaber themselves to avoid being tied to a failed hit on a Roman noblewoman.",
+    "choices": [
+      {
+        "id": "antony_revelation",
+        "text": "The General's Fury",
+        "risk_level": "medium",
+        "description": "Show the tablet to Antony now. His drunken, territorial rage will likely result in the immediate execution of the wine-steward and a direct, violent confrontation with Glaber's remaining agents.",
+        "cons": [
+          "May cause a public scandal that forces Octavian's hand early",
+          "Antony may become uncontrollable in his rage"
+        ],
+        "pros": [
+          "Instant physical elimination of Glaber's local assets",
+          "Permanent military entrenchment at the Ludus"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "aemilii_blackmail",
+        "text": "The Banker's Ransom",
+        "risk_level": "low",
+        "description": "Send Cinnaminus to the Aemilii branch manager with a copy of the tablet. Threaten to show the original to Antony unless they 'liquidate' Glaber's financial backing and provide the names of his other contacts.",
+        "cons": [
+          "Leaves Glaber alive to plan another strike",
+          "Requires trusting Cinnaminus to handle a high-stakes negotiation alone"
+        ],
+        "pros": [
+          "Systematic destruction of Glaber's power without a single sword stroke",
+          "Massive financial gain/Leverage Points with House Aemilius"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "counter_ambush",
+        "text": "The Viper's Snare",
+        "risk_level": "high",
+        "description": "Allow the 'all-clear' signal to be sent, but have Voros and the elite guards waiting at the side gate. Capture the Sicarii alive for a public 'confession' during the next morning's Primus.",
+        "cons": [
+          "High physical risk if the Sicarii are more numerous than expected",
+          "Requires precise timing to avoid alarming Antony's legionaries"
+        ],
+        "pros": [
+          "Public, undeniable proof of Glaber's treason",
+          "Maximizes Dignitas gain through a staged victory"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "text": "The Total Purge (+3 DC)",
+        "risk_level": "high",
+        "cons": [
+          "Divided focus increases the chance of Antony realizing your manipulation (+3 DC)",
+          "Requires direct proximity to the 'mud' of the Ludus"
+        ],
+        "id": "parallel_conflicting",
+        "pros": [
+          "Total control of both the military and intelligence fronts",
+          "Ensures the steward reveals the names of the Suburra agents personally"
+        ],
+        "description": "Use your Auctoritas to divide your attention: Keep Antony anchored while personally overseeing the interrogation of the wine-steward in the cellar.",
+        "confidence": "low",
+        "analysis": {
+          "combination_type": "conflicting",
+          "dc_modifier": 3,
+          "unique_outcome": "Extract the names of the Aemilii handlers before they can flee the city - impossible sequentially.",
+          "coordination_dc": 17
+        }
+      }
+    ]
+  },
+  "directives": {
+    "add": [
+      "Maintain ambiguity regarding the retinue's power: they are clearly high-tier (5-7), but their exact level is obscured by their dressed-down appearance."
+    ],
+    "drop": [
+      "Narrate the retinue's high level 'leaking' through their disguise"
+    ]
+  },
+  "world_events": {
+    "turn_generated": 28,
+    "background_events": [
+      {
+        "discovery_condition": "Interacting with military contacts or travelers from Rome",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Speculation of a southern campaign or training exercise",
+        "actor": "Mark Antony",
+        "action": "Moving the 5th Alaudae Legion toward Brundisium",
+        "player_impact": "Will disrupt southern logistics and grain prices",
+        "location": "Via Appia",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Talking to Batiatus or local merchants",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Several smaller luduses are facing immediate foreclosure",
+        "actor": "House Aemilius (Lepidus)",
+        "action": "Tightening loan conditions for Capuan entertainment venues",
+        "player_impact": "Increases Batiatus's desperation and makes him more vulnerable to your gold",
+        "location": "Capua - Banking District",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Interacting with silk merchants or Julia Major",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Price of luxury fabric set to spike",
+        "actor": "Gaius Blossius",
+        "action": "Purchasing raw silk shipments intended for Capua",
+        "player_impact": "Will make your 'Vibia' gifts more valuable and rarer",
+        "id": "silk_monopoly_attempt",
+        "location": "Capua - Docks",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Batiatus is pushed to the brink of financial collapse",
+        "location": "Ludus of Batiatus",
+        "discovered_turn": 10,
+        "player_impact": "Creates a perfect opening for your takeover",
+        "actor": "House Valerius",
+        "id": "valerius_debt_call",
+        "delta_action": "add",
+        "action": "Calling in a final notice of debt from Batiatus",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Overheard in the Ludus from the Valerian messenger",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Local travelers report massive troop movements, causing anxiety among Capuan merchants.",
+        "actor": "Mark Antony",
+        "action": "Legion movements toward Brundisium",
+        "player_impact": "Disruption of logistics and rising prices of supplies.",
+        "location": "Via Appia",
+        "id": "antony_march_rumors",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Interacting with banking agents or Cinnaminus's audit",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lepidus is suspicious of where Batiatus found a thousand gold pieces so quickly.",
+        "actor": "House Aemilius",
+        "action": "Monitoring Batiatus's sudden wealth",
+        "player_impact": "Increased surveillance on the 'Vibia' persona.",
+        "location": "Capua - Banking District",
+        "id": "aemilius_reaction",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct negotiation success",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Ludus becomes a de-facto military zone",
+        "actor": "Mark Antony",
+        "action": "Sending elite centurions to the Ludus for training",
+        "player_impact": "Grants high-tier physical security to the Ludus assets.",
+        "id": "antony_centurion_arrival",
+        "location": "Ludus of Batiatus",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Ambush or spy detection",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Pending",
+        "actor": "House Aemilius",
+        "action": "Hiring Sicarii to identify Vibia's source of wealth",
+        "player_impact": "Physical threat to Vibia's incognito status.",
+        "id": "aemilius_investigation",
+        "location": "Capua - Suburra",
+        "delta_action": "update",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Next turn's report",
+        "status": "pending",
+        "player_aware": true,
+        "outcome": "Aemilii trust in Glaber begins to erode",
+        "location": "Capua - Banking District",
+        "action": "Beginning the subversion of the local branch managers",
+        "player_impact": "Financial isolation of Glaber",
+        "actor": "Cinnaminus",
+        "id": "aemilii_subversion_start",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Cinnaminus's network or a direct reveal",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lepidus orders a full background check on the name 'Vibia' in Rome",
+        "actor": "House Aemilius Agents",
+        "action": "Reporting the presence of 'Vibia's' elite guards and the failure of the Sicarii",
+        "player_impact": "Threatens your incognito identity at a legislative level",
+        "location": "Capua - Banking District",
+        "id": "aemilius_debt_report",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Intercepting the messenger or hearing rumors of the inquiry",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A request for a formal inquiry into Antony's 'unauthorized' military movements in a civilian zone",
+        "actor": "Glaber",
+        "action": "Dispatching a private messenger to the Proconsul of Campania",
+        "player_impact": "Legal counter-attack against your military protection",
+        "location": "Ludus of Batiatus",
+        "id": "glaber_messenger_dispatch",
+        "delta_action": "add",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Gaia Julia"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "A 'Daughter of Venus' is traveling the south with a retinue of gods in disguise.",
+      "source_type": "traveler",
+      "related_event": "Your arrival in Capua",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Spartacus's spirit has been sighted near the slopes of Vesuvius.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "Messalla of House Valerius is liquidating his southern assets to fund a new villa in Rome.",
+      "source_type": "merchant",
+      "related_event": "valerius_debt_call",
+      "accuracy": "true"
+    },
+    {
+      "content": "A mysterious benefactor from the North has saved the House of Batiatus from the Valerii.",
+      "source_type": "merchant",
+      "related_event": "valerius_debt_call",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 5th Alaudae Legion is hungry; southern grain prices will spike by the month's end.",
+      "source_type": "traveler",
+      "related_event": "antony_march_rumors",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-born Roman woman is paying for the blood of gods to be spilled in Antony's name.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Fabii are angry; someone is whispering in the ears of their southern grain factors.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "Glaber has promised the Aemilii a piece of the Ludus in exchange for their support in the Senate.",
+      "source_type": "noble",
+      "related_event": "glaber_aemilii_alliance",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 5th Legion centurions are being paid in Julian gold, not Republic silver.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The wine-steward of Batiatus has a new mistress in the Suburra, paid for in Aemilian coin.",
+      "source_type": "commoner",
+      "related_event": "glaber_assassination_plot",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-05-11T06:43:12.008869+00:00",
+  "session_id": "legacy-migrated-0a6e1adf288ca035",
+  "time_events": {},
+  "faction_updates": {
+    "House Aemilius": {
+      "resource_change": "+Territory (Financial)",
+      "player_standing_change": "Neutral",
+      "progress": "Significant leverage over Batiatus and rivals",
+      "next_action": "Forcing a fire-sale of assets",
+      "current_objective": "Consolidating Capuan debts to control the gladiator trade"
+    },
+    "House Valerius": {
+      "resource_change": "+Gold (Projected)",
+      "player_standing_change": "Neutral",
+      "progress": "Active pressure on Capuan debtors",
+      "next_action": "Forfeiting Batiatus's property if payment is not met",
+      "current_objective": "Liquidating debts to consolidate Roman political power"
+    }
+  }
+}

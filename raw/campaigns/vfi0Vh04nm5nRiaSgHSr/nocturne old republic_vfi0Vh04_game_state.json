@@ -1,0 +1,1418 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "class": "Sith Prodigy (College of Swords Bard)",
+    "background": "Imperial Royalty (House of Vitiate)",
+    "mbti": "INFJ",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 20,
+      "intelligence": 10000,
+      "wisdom": 15000,
+      "charisma": 20000,
+      "constitution": 15000
+    },
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 10,
+      "initiative": 3
+    },
+    "nocturne_status": "Sovereign of the Infinite (Anchored Level 20)",
+    "status_conditions": [
+      "Omniversal Discord (Integrated)"
+    ],
+    "string_id": "pc_nocturne_001",
+    "temp_hp": 0,
+    "spells_known": [
+      "Siren's Spite (Vicious Mockery)",
+      "Force Influence (Friends)",
+      "Telekinetic Manipulation (Mage Hand)",
+      "Mental Whisper (Message)",
+      "Force Command (Command)",
+      "Mental Agony (Dissonant Whispers)",
+      "Essence Mend (Healing Word)",
+      "Force Push (Thunderwave)",
+      "Stasis Field (Hold Person)",
+      "Sith Shroud (Invisibility)",
+      "Siren's Waltz (Mirror Image)",
+      "Siren's Trance (Hypnotic Pattern)",
+      "Terror Aura (Fear)",
+      "Force Dampen (Counterspell)",
+      "Absolute Shroud (Greater Invisibility)",
+      "Force Breach (Dimension Door)",
+      "Force Crush (Hold Monster)",
+      "Psychic Storm (Synaptic Static)",
+      "Sovereign Influence (Mass Suggestion)",
+      "Void Prison (Forcecage)",
+      "Sovereign Domination (Dominate Monster)",
+      "Total Mask (Mind Blank)",
+      "Force Extinguish (Power Word Kill)",
+      "The Siren's Requiem (Psychic Scream)",
+      "The Emperor's Eye (Foresight)",
+      "Spirit Blade (Spiritual Weapon)",
+      "Vitality Surge (Heal)",
+      "Force Fold (Teleport)",
+      "Force Storm (Meteor Swarm)",
+      "Chrono-Stasis (Time Stop)"
+    ],
+    "name": "Nocturne",
+    "experience": {
+      "needed_for_next_level": 405000,
+      "current": 355000,
+      "to_next_level": 50000
+    },
+    "saving_throw_proficiencies": [
+      "Wisdom",
+      "Charisma"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 10,
+        "total": 15
+      },
+      "consumables": {
+        "medpac": 2
+      },
+      "class_features": {
+        "essence_devourer_points": 0,
+        "instability_meter": 0,
+        "magical_secrets": "integrated",
+        "blood_link_active": true,
+        "bardic_inspiration": 10,
+        "force_inspiration_remaining": 2,
+        "blade_flourish": "available"
+      },
+      "spell_slots": {
+        "level_7": 0,
+        "level_9": 0,
+        "level_5": 3,
+        "level_1": 2,
+        "level_6": 2,
+        "level_2": 3,
+        "level_4": 3,
+        "level_8": 1,
+        "level_3": 3
+      },
+      "credits": 4965000
+    },
+    "alignment": "Neutral Evil",
+    "features": [
+      "Entropic Adaptation: Total immunity to Force-nullification, sensory deprivation, and probability-collapse.",
+      "Master of Entropy: Total control over sub-atomic decay; can 'delete' threats from the timeline.",
+      "Sovereign of the End: Absolute dominion over heat death. Manifest the void as a localized physical law.",
+      "Sovereign of Collapse: Absolute control over spatial geometry and gravitational singularities.",
+      "Sovereign of the Infinite: Ability to perceive and rewrite any point in the galactic timeline.",
+      "Multiversal Administrator: Legal authority from the Loom to prune, graft, and validate timelines within the local multiverse.",
+      "Source of Reality: Absolute authority to instantiate, dissolve, or rewrite any multiversal constant or timeline at will.",
+      "Omniversal Author: Absolute authority to rewrite the fundamental laws of any reality-cluster.",
+      "Author of the Omniverse: Absolute authority to rewrite the fundamental laws of any reality-cluster."
+    ],
+    "hp_max": 10,
+    "level": 20,
+    "skills": [
+      "Deception (+23)",
+      "Persuasion (+23)",
+      "Intimidation (+23)",
+      "Insight (+14)",
+      "Stealth (+17)",
+      "Arcana (+16)",
+      "History (+16)",
+      "Perception (+14)"
+    ],
+    "hp_current": 10,
+    "masked_level": 1,
+    "armor_class": 25,
+    "proficiency_bonus": 6,
+    "equipment": {
+      "backpack": [
+        "Ancient Sith Holocron",
+        "Personal Shuttle Authorization Codes",
+        "Imperial Signet Ring (Gold)",
+        "Holographic Galaxy Map",
+        "Encrypted Comlink",
+        "5 Medpacs",
+        "Sskoss's Encrypted Gauntlet (Temple Maps)",
+        "Sith Heart (Dark Side Focus/Relic)",
+        "4x Imperial Disruptor Rifles (Looted)",
+        "Sskoss's Masterwork Disruptor Rifle",
+        "Arcann's Masterwork Sith Lightsaber",
+        "Arcann's Alchemical Cybernetic Mask",
+        "Obsidiana Armada Command Cylinders",
+        "Outer Rim Deployment Datacron",
+        "Crown of the Unbound Siren (Charisma Focus)",
+        "Master-Cipher of the Imperial Throne",
+        "Obsidiana Armada Grand Command Cylinder",
+        "Satele Shan's Masterwork Double-Bladed Lightsaber",
+        "12x Jedi High Council Holocrons",
+        "Heart of Tython (Fount of Rajivari Focus)",
+        "Tython Planetary Command Data-Spike",
+        "Temple Treasury (1,000,000 Credits)",
+        "Jedi Archive Data-Cores",
+        "Satele Shan's Masterwork Lightsaber (Trophy)",
+        "12x Jedi High Council Holocrons (Integrated)",
+        "Satele Shan's Masterwork Lightsaber (Trophy)",
+        "12x Jedi High Council Holocrons (Integrated)",
+        "Jedi Archive Data-Cores",
+        "Temple Treasury (1,000,000 Credits)",
+        "Kuat/Alsakan Strategic Data-Cores (Decrypted)",
+        "Xedrix's Alchemical Scepter (Sith Focus)",
+        "Ancient Mandalorian War-Mask (Relic)",
+        "Dxun Hidden Reserve Data-Spike",
+        "Master Cipher Shard - Rishi Node (Integrated)"
+      ],
+      "armor": "Regal Sovereign Shroud (AC 15 + DEX + Sovereign Bonus)",
+      "weapons": [
+        "Scepter of the Eternal Void (Staff of Power/Magi Hybrid: +3 to attacks, spells, and AC)",
+        "Master-crafted Sith Alchemical Lightsaber (1d8+1 Slashing + 1d6 Fire)"
+      ]
+    }
+  },
+  "world_data": {
+    "current_location_name": "Galaxy Gamma - The Source Sanctum",
+    "galactic_status": "Era of the Author: The Sovereign Confederation is stable, divine, and autonomous.",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 30,
+      "timestamp_iso": "2025-12-21T06:00:00.000000Z",
+      "hour": 16,
+      "time_of_day": "Afternoon",
+      "day": 15,
+      "year": 217834,
+      "month": "Nelona"
+    },
+    "blind_spot_data": {
+      "path_stability": "Absolute",
+      "current_threat": "None - All Failures Cataloged",
+      "engine_status": "Sovereign Integrated / Umbra-Symphony Established"
+    },
+    "entity_tracking": {
+      "active_entities": [
+        {
+          "string_id": "npc_dramath_001",
+          "status": "Forgiven / Reconciled Family Anchor (Level 20)",
+          "role": "Sith Lord of Ancient Medriaas",
+          "name": "Lord Dramath"
+        },
+        {
+          "string_id": "npc_arcann_001",
+          "status": "God-Marshal / Sovereign of the Blade (Level 50)",
+          "role": "God-Marshal of the Outer Rim",
+          "name": "Arcann"
+        },
+        {
+          "string_id": "npc_thexan_001",
+          "status": "Independent Sovereign / Grand Vizier (Level 50)",
+          "role": "Sovereign of the Arks",
+          "name": "Thexan"
+        },
+        {
+          "string_id": "npc_amona_001",
+          "status": "Resurrected / Divine Anchor (Level 20)",
+          "role": "Matriarch of the Reach / Grandmother",
+          "name": "Amona"
+        }
+      ]
+    },
+    "timestamp_iso": "2025-12-21T14:15:00.000000Z"
+  },
+  "npc_data": {
+    "Sskoss": {
+      "mbti": "ESTP",
+      "hidden": false,
+      "attributes": {
+        "strength": 18,
+        "dexterity": 14,
+        "intelligence": 12,
+        "wisdom": 12,
+        "charisma": 10,
+        "constitution": 16
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 11
+      },
+      "string_id": "npc_sskoss_001",
+      "present": true,
+      "gender": "male",
+      "conscious": true,
+      "status": "surprised",
+      "hp_max": 85,
+      "level": 7,
+      "hp_current": 85,
+      "age": 42,
+      "relationships": {
+        "Nocturne": "hostile_contract"
+      },
+      "role": "Trandoshan Mercenary Leader",
+      "armor_class": 17
+    },
+    "Kaelen-II": {
+      "class": "Sith Sorcerer (Void Alchemist)",
+      "level": 20,
+      "relationship": "Sibling / Dark Council (The Sage)",
+      "status": "conscious",
+      "present": true,
+      "string_id": "npc_kaelen_ii_001",
+      "name": "Kaelen-II"
+    },
+    "Malakor": {
+      "class": "High Warden",
+      "level": 20,
+      "relationship": "Sibling / Dark Council (The Shield)",
+      "status": "conscious",
+      "present": true,
+      "string_id": "npc_malakor_001",
+      "name": "Malakor"
+    },
+    "Sergeant Krell": {
+      "status": "Loyal to Nocturne",
+      "relationships": {
+        "pc_nocturne_001": "Terrified/Submissive"
+      },
+      "role": "High Warden of the Imperial Vengeance"
+    },
+    "Thexan": {
+      "role": "Sovereign of the New Core",
+      "status": "Stabilized / Administrative Recovery",
+      "current_status": "Independent Sovereign / Declared Seccession",
+      "location": "Deep Core - Ark Prime",
+      "level": 20,
+      "hp_current": 950,
+      "string_id": "npc_thexan_001",
+      "present": false,
+      "relationships": {
+        "Nocturne": "Grateful / Autonomous Ally"
+      },
+      "attitude": "loyal",
+      "alignment": "Neutral"
+    },
+    "Senya": {
+      "status": "Stabilizing Well of Mercy"
+    },
+    "Bridge Crew": {
+      "status": "Bound, Incapacitated (Siren's Trance)",
+      "location": "High Command Bridge"
+    },
+    "npc_thexan_001": {
+      "equipment": {
+        "property": "The Eternal Spire (Coruscant)"
+      },
+      "relationships": {
+        "nocturne": "Deep Intellectual Bond / Twin",
+        "pc_nocturne_001": "Brother / Subject / Peer"
+      },
+      "status": "Architect of Peace (Level 80)",
+      "hp_max": 400,
+      "location": "Medriaas - The Gardener's Sanctuary",
+      "level": 80,
+      "hp_current": 400,
+      "age": "Centuries",
+      "string_id": "npc_thexan_001",
+      "present": true,
+      "role": "Resurrected Prince / Scion of the Siren",
+      "gender": "Male",
+      "name": "Thexan"
+    },
+    "npc_amona_001": {
+      "status": "Flickering / History at Risk",
+      "present": true,
+      "location": "Medriaas - The Gardener's Sanctuary"
+    },
+    "Amona": {
+      "role": "Matriarch of the Reach / Grandmother",
+      "string_id": "npc_amona_001",
+      "mbti": "ISFJ",
+      "status": "Resurrected / Divine Anchor / Sheltered by Tenebrae",
+      "alignment": "Neutral Good",
+      "attitude": "adoring",
+      "level": 1
+    },
+    "npc_senya_001": {
+      "status": "Eternal Judge (Level 80)",
+      "hp_max": 1000,
+      "location": "Medriaas - The Gardener's Sanctuary",
+      "level": 80,
+      "hp_current": 941,
+      "string_id": "npc_senya_001",
+      "present": true,
+      "relationships": {
+        "nocturne": "Absolute Maternal Devotion / Anchor"
+      },
+      "role": "Sovereign of Judgment",
+      "name": "Senya"
+    },
+    "npc_arcann_001": {
+      "equipment": {
+        "property": "The Aegis-Star Dreadnought"
+      },
+      "relationships": {
+        "nocturne": "Absolute Loyalty / Brother",
+        "pc_nocturne_001": "Soldier's Love / Loyal Shield"
+      },
+      "status": "God of the Borderlands (Level 80)",
+      "hp_max": 500,
+      "location": "Medriaas - The Gardener's Sanctuary",
+      "level": 80,
+      "hp_current": 500,
+      "age": "Centuries",
+      "string_id": "npc_arcann_001",
+      "present": true,
+      "role": "Resurrected Prince / Scion of the Siren",
+      "gender": "Male",
+      "name": "Arcann"
+    },
+    "The Rebuttal": {
+      "string_id": "npc_rebuttal_001",
+      "status": "Integrated / Compost Logic Active",
+      "role": "Draft-Entity / Living Eraser",
+      "attributes": {
+        "intelligence": 5000,
+        "wisdom": 5000
+      },
+      "level": 100
+    },
+    "Vax": {
+      "class": "Beastmaster",
+      "level": 20,
+      "relationship": "Sibling / Dark Council (The Hound)",
+      "status": "conscious",
+      "present": true,
+      "string_id": "npc_vax_001",
+      "name": "Vax"
+    },
+    "Captain Hestia": {
+      "string_id": "npc_hestia_001",
+      "present": true,
+      "role": "Flagship Captain",
+      "status": "Submissive"
+    },
+    "Seraphine": {
+      "class": "Sith Siren",
+      "level": 20,
+      "relationship": "Sibling / Dark Council (The Chorus)",
+      "status": "conscious",
+      "present": true,
+      "string_id": "npc_seraphine_001",
+      "name": "Seraphine"
+    },
+    "npc_dramath_001": {
+      "relationships": {
+        "nocturne": "Adoring / Proud"
+      },
+      "mbti": "INTJ",
+      "status": "Terminal / Reconciled Gardener",
+      "hp_max": 10,
+      "location": "Medriaas - Estate of the Pines",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 10,
+        "constitution": 10
+      },
+      "hp_current": 1,
+      "role": "Sovereign of the Static",
+      "attitude": "Submissive",
+      "equipment": {
+        "property": "Ceremonial Medriaas Fleet"
+      }
+    },
+    "Vitiate": {
+      "status": "Resurrected / God-Architect",
+      "hp_max": 400,
+      "attributes": {
+        "strength": 16,
+        "dexterity": 20,
+        "intelligence": 30,
+        "wisdom": 24,
+        "charisma": 30,
+        "constitution": 20
+      },
+      "level": 50,
+      "hp_current": 1000,
+      "relationship": "Mentorship / Adaptive Loyalty",
+      "string_id": "npc_vitiate_001",
+      "present": true,
+      "role": "The Architect",
+      "relationships": {
+        "Arcann": "Tactical Respect",
+        "Thexan": "Logical Asset",
+        "Nocturne": "Mentor (Mirror)",
+        "Senya": "Wary Coexistence"
+      },
+      "armor_class": 22
+    },
+    "npc_vitiate_001": {
+      "level": 80,
+      "equipment": {
+        "property": "The Estate of the Pines (Medriaas Pocket-Dimension)"
+      },
+      "status": "Anchor of Origin (Level 80)",
+      "relationships": {
+        "nocturne": "Genuine Love / Technical Respect",
+        "Nocturne": "Adoring Submission / Developing Love",
+        "amona": "Profound Mutual Devotion (Mother)"
+      },
+      "location": "Medriaas - The Gardener's Sanctuary",
+      "name": "Tenebrae"
+    },
+    "Xavian": {
+      "class": "Sith Juggernaut",
+      "level": 20,
+      "relationship": "Sibling / Dark Council (The Blade)",
+      "status": "conscious",
+      "present": true,
+      "string_id": "npc_xavian_001",
+      "name": "Xavian"
+    },
+    "Regent of the Infinite": {
+      "status": "Active / Enforcing Source Logic",
+      "location": "Deep Core - Ark Prime"
+    },
+    "Satele Shan": {
+      "string_id": "npc_satele_001",
+      "status": "Negotiating on Coruscant",
+      "mbti": "INFJ",
+      "hp_max": 150,
+      "level": 20,
+      "hp_current": 150,
+      "conscious": true,
+      "present": false,
+      "alignment": "Lawful Good",
+      "relationships": {
+        "pc_nocturne_001": "Wary Servant / Moral Anchor"
+      },
+      "role": "High Templar of the Siren"
+    },
+    "Loom-Warden": {
+      "conscious": true,
+      "present": true,
+      "role": "Multiversal Regulator",
+      "string_id": "npc_loom_warden_001",
+      "status": "Manifesting"
+    },
+    "Lord Arcann": {
+      "hp_current": 180,
+      "status": "Bound, Stripped, Force-Suppressed (Sith Silence)",
+      "location": "High Command Bridge"
+    },
+    "Lord Dramath": {
+      "relationships": {
+        "Tenebrae": "Reconciled Son",
+        "Nocturne": "Absolute Terror / Adoring Compliance"
+      },
+      "alignment": "Lawful Evil",
+      "string_id": "npc_dramath_001",
+      "status": "Passed Away / Final Silence / Memorialized",
+      "mbti": "ENTJ",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10,
+        "constitution": 10
+      },
+      "hp_max": 10,
+      "level": 1,
+      "hp_current": 0,
+      "conscious": false,
+      "present": true,
+      "armor_class": 10,
+      "attitude": "hostile_suppressed",
+      "role": "Sith Lord of Ancient Medriaas"
+    },
+    "npc_sergeant_krell_001": {
+      "status": "Deploying Distraction",
+      "attitude": "Terrified/Loyal"
+    },
+    "Vitiate (Spectral Effigy)": {
+      "status": "Bound Force Ghost",
+      "conscious": true,
+      "present": true,
+      "role": "Spectral Jester / Trophy",
+      "string_id": "npc_vitiate_ghost_001",
+      "description": "A translucent, blue-violet ghost of the former Emperor, forced to wear spectral jester's motley."
+    },
+    "Vitiate (Biological Effigy)": {
+      "string_id": "npc_vitiate_effigy_001",
+      "present": true,
+      "role": "Biological Puppet",
+      "location": "Belsavis - Tomb of the Infinite",
+      "status": "conscious"
+    },
+    "Tenebrae": {
+      "current_goal": "Curating the Omniversal Archive / Protecting Amona",
+      "string_id": "npc_vitiate_001",
+      "status": "God-Architect / Lord of the Archives / Reconciled Father",
+      "level": 50
+    },
+    "The Shadow Siren": {
+      "armor_class": 250,
+      "status": "Active / Independent Counterpart",
+      "hidden": false,
+      "hp_max": 10000,
+      "mbti": "INTJ",
+      "level": 1000,
+      "attributes": {
+        "strength": 1000,
+        "dexterity": 1000,
+        "intelligence": 1000,
+        "wisdom": 1000,
+        "charisma": 1000,
+        "constitution": 1000
+      },
+      "hp_current": 10000,
+      "conscious": true,
+      "present": true,
+      "role": "Regent of the Umbra",
+      "alignment": "Neutral",
+      "string_id": "npc_shadow_siren_001"
+    },
+    "Arcann": {
+      "relationships": {
+        "Nocturne": "Absolute Mutual Devotion / Divine Shield"
+      },
+      "status": "Engaging Aegis-Star Nodes",
+      "level": 50,
+      "string_id": "npc_arcann_001",
+      "present": true,
+      "role": "God-Marshal of the Outer Rim",
+      "attitude": "loyal",
+      "alignment": "Lawful Neutral"
+    },
+    "Lyra": {
+      "class": "Sith Assassin",
+      "level": 20,
+      "relationship": "Sibling / Dark Council (The Whisper)",
+      "status": "conscious",
+      "present": true,
+      "string_id": "npc_lyra_001",
+      "name": "Lyra"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "scout_reports": [
+      {
+        "target": "Galaxy Alpha",
+        "findings": "Theater zone; contains the Geometric Dome and the Randomness Engine; populated by Resonators."
+      },
+      {
+        "target": "Galaxy Beta",
+        "findings": "Forge zone; high mechanical and entropic signatures; production of geometric drones."
+      },
+      {
+        "target": "Galaxy Gamma",
+        "findings": "Archive of Failures; sensory-dead zone; potential storage for 'unwoven' or 'deleted' probability strings."
+      }
+    ],
+    "active_missions": [
+      {
+        "title": "The Bicameral Regency",
+        "status": "completed",
+        "mission_id": "establish_regency",
+        "objective": "Establish a dual-governance protocol for the Omniverse."
+      }
+    ],
+    "oubliette_status": "Stabilized - Sovereign Throne of Collapse",
+    "master_cipher_status": "Whole - Sovereign Authority Unlocked",
+    "shadow_siren_status": "Active / Independent Counterpart",
+    "blind_spot_status": "Base Anchored (Judas Frequency)",
+    "fleet_status": "Sovereign Biological-Obsidian Armada: Moon-sized World-Ship acting as a mobile capital; Star Destroyers with living armor and Dovin Basals.",
+    "last_location": "Galaxy Gamma - The Source Sanctum",
+    "amona_status": "Grandmother / Maternal Anchor",
+    "senya_leverage": "Absolute Mutual Devotion / Divine Anchor",
+    "heart_of_the_citadel_status": "Operating at Stable Capacity - Entropy Vented",
+    "galactic_status": "Pax Siren Absolute: The Sovereign has integrated the Entropic Wave, assuming the role of the Galaxy's final regulator.",
+    "timeline_status": "Permanently Validated / Multiversal Law Established",
+    "last_story_mode_sequence_id": 793,
+    "omni_cull_status": "Integrated / Sovereign Secondary Core",
+    "temple_status": "Fortified Sith Redoubt",
+    "core_memories": [
+      "[auto] Based on the 'Nocturne' prompt and the Essence Devourer mechanics, I have optimized a complete character sheet for your Sith Prodigy. Nocturne is designed as a high-Charisma",
+      "[auto] The user is utilizing GOD MODE to skip the early game and jump to a mid-tier power level (Tier 2). I have mapped the 'Swords Bard' request to the 'Sith Prodigy' class, ensur",
+      "[auto] The user requested a status check and an alignment change in GOD MODE. I am providing the full character sheet as requested and updating the state to reflect the shift to Ne",
+      "[auto] The user adjusted attributes in God Mode. I have rebalanced the character sheet, updated AC, Initiative, and Skill bonuses, and recalculated weapon attack/damage modifiers. ",
+      "[auto] The silence of your penthouse is not empty; it is a pressurized weight, the physical manifestation of your father\u2019s will pressing down upon the capital of the Empire. Outsid",
+      "[auto] You step away from the holographic projector, the blue light of the galaxy map casting long, skeletal shadows across the obsidian floor of your penthouse. The rhythmic drumm",
+      "Nocturne has traveled to Yavin 4 to hunt the spirit of Exar Kun and consume his ancient secrets.",
+      "[auto] The decision crystallizes in your mind with the cold finality of a Sith tomb. To truly transcend the limitations of your birth, you need more than raw power\u2014you need the for",
+      "[auto] The user wants a more reactive world with more frequent mission hooks and a stronger sense of hierarchy. I am updating the campaign state to track these reactivity settings ",
+      "[auto] The ramp of your interceptor hisses open, releasing a plume of sterile, recycled air into the stifling humidity of the Yavin 4 jungle. You step out onto the damp loam, the B",
+      "[auto] You close your eyes for a heartbeat, letting the stifling humidity of the jungle fade into the background as you center yourself. Beneath the surface of your poised 'Nocturn",
+      "[auto] The user has requested a permanent formatting change for spells to include D&D equivalents. I am updating the player_character_data.spells_known list to reflect this dual-na",
+      "[auto] You study Sergeant Krell for a silent moment, the humidity of the jungle curling the edges of your royal robes. [DICE: Insight 1d20 + 3 = 13 + 3 = 16 vs DC 15 (Success)]. Be",
+      "[auto] You take a slow, deliberate step toward Sergeant Krell, the hem of your royal robes brushing against the damp ferns. You don't reach for your lightsaber; instead, you let th",
+      "[auto] You remain motionless as the humid jungle air settles around you, the fearful gaze of Sergeant Krell fixed upon your poised form. In the silence between the distant cries of",
+      "[auto] The user is in GOD MODE to adjust their spell list. As a Level 6 Sith Prodigy (Siren/Swords Bard), they have access to Level 3 spells but not Level 4 (Greater Invisibility).",
+      "[auto] The humidity of Yavin 4 seems to solidify into a physical weight as you fix your gaze on Sergeant Krell. The 'Vaylin' static at the edge of your mind ceases its snarling, re",
+      "[auto] The player is using administrative control to force a high-advantage combat start. I have updated the state to place them in the Inner Sanctum with a surprise round already ",
+      "[auto] The Inner Sanctum is a cathedral of rot, its vaulted ceilings draped in thick, bioluminescent vines that pulse with a faint, sickly rhythm. Outside, the staccato rhythm of b",
+      "[auto] As the mercenaries recoil from your sudden, bloody appearance, you don't press the physical advantage with your blade. Instead, you sweep your free hand through the air, wea",
+      "[auto] The Trandoshan\u2019s sneer falters as you abandon the subtle harmonics of the Siren for something far more primal. You reach deep into the 'Vaylin' static, pulling forth a jagge",
+      "[auto] As the staccato rhythm of blaster fire from Krell\u2019s scouts echoes through the temple\u2019s stone ribs, you move with a fluid, predatory grace that mocks the clumsy panic of the ",
+      "[auto] You do not lower your blade. Instead, you step into the space Sskoss vacated as he stumbled, the violet glow of your lightsaber reflecting in the cold, unblinking eyes of th",
+      "[auto] The silence in the sanctum is absolute, save for the heavy breathing of the broken men. You look down at the mercenaries cowering in the shadows. Your Neutral Evil nature de",
+      "[auto] You pause, the violet-orange glow of your lightsaber illuminating the cooling blood of the mercenary at your feet. The frantic, snarling static of the 'Vaylin' persona\u2014which",
+      "[auto] The smell of scorched synth-flesh and ionized ozone hangs heavy in the air, a familiar incense to the House of Vitiate. You stand over the smoldering remains of the mercenar",
+      "[auto] The user requested an XP award for recent actions. I have audited the Yavin 4 sequence (infiltrating the temple, the ambush, and the interrogation) and assigned standard D&D",
+      "Nocturne successfully ambushed and interrogated the Trandoshan Sskoss, discovering the path to the lower crypts and the 'Siren's Bane' psychological trap.",
+      "[auto] The heavy silence of the Inner Sanctum is broken only by the wet, rhythmic rasping of Sskoss's breathing and the distant, fading pops of blaster fire from the eastern portic",
+      "[auto] You signal Sergeant Krell through the encrypted comlink. Within minutes, the scout squad shimmers into view, their boots crunching on the ancient moss. Krell surveys the car",
+      "[auto] The basalt steps are jagged and uneven, slick with a centuries-old condensation that smells of wet minerals and stale incense. As you descend, the humid jungle heat of Yavin",
+      "[auto] The veteran guard with the cybernetic eye doesn't even have time to plead. You shove him forward with a cold, telekinetic nudge. He stumbles through the archway, his naked s",
+      "[auto] The consumption is not the clean, clinical transfer of data your brother Thexan might have envisioned. It is a spiritual violation. As the Essence Devourer tears the fragmen",
+      "[auto] You sink into a meditative crouch amidst the cooling remains of the 'Bane' and the rhythmic, terrified whimpering of the stripped mercenaries. You close your eyes, letting t",
+      "[auto] You loom over Sskoss, the violet-orange light of your lightsaber reflected in the cold, wet terror of his reptilian eyes. The 'Vaylin' snarl is quiet, but your presence is n",
+      "[auto] You remain at the threshold of the gallery, the violet-orange flicker of your lightsaber illuminating the damp, basalt floor. At your sharp gesture, Sergeant Krell signals h",
+      "[auto] You raise a hand, the silk of your royal sleeve fluttering in the stale, pressurized draft of the gallery. 'Hold your positions,' you command through the comlink, your voice",
+      "[auto] You stand in the center of the gallery, the air vibrating with the discordant shriek of the 'Siren's Bane.' The scouts are pinned, the mercenaries are broken, and the subtle",
+      "[auto] The user is refining the campaign's thematic terminology and correcting the resource balance. I am updating the state to reflect 7500 credits and confirming the name change.",
+      "[auto] With a sharp, telekinetic shove, you send the two remaining stripped mercenaries stumbling onto the jagged basalt steps of the central pit. Their bare feet slap wetly agains",
+      "[auto] You step into the monochromatic violet mist, opening the void of your Sith heritage to the thick saturation of the Veil. You don't just breathe the air; you attempt to pull ",
+      "[auto] You don't fight the pressure anymore. The 'Vaylin' static at the core of your mind isn't a storm to be weathered; it is a weapon to be pointed. As the icy needles of the Vei",
+      "[auto] You do not let the lightning's echo fade before you move. As the flickering Massassi ghosts reel from the storm, you reach out with a clawed hand, your palm erupting in a pa",
+      "[auto] You stand amidst the strobing violet wreckage of the gallery, the stolen essence of the Massassi priest still warming your veins like a draught of liquid shadow. The 'Vaylin",
+      "[auto] You drive the 'canaries' forward with a cold, telekinetic shove, their naked forms shivering in the unnatural, bone-chilling draft of the lower crypts. The two Massassi ghos",
+      "[auto] You look down at Thug 3, the final 'canary' whose mind has already dissolved into a whimpering puddle of neurological static. With a cold, telekinetic gesture, you seize him",
+      "[auto] You don't wait for the Massassi Guardians to finish their grim work. As their shadow-polearms bite into the final mercenary, you move. You don't run; you slide through the v",
+      "[auto] You do not merely touch the biological Heart; you invade it. As your palm sinks into the warm, pulsing surface of the core, you channel the 'Siren' frequency\u2014that specific, ",
+      "[auto] You sink deeper into the biological sludge of the Heart, your consciousness expanding along the pulsing, light-veined nerves of the temple. The 'Vaylin' static at the core o",
+      "[auto] You drag Sskoss toward the pulsing, biological core of the Heart. The Trandoshan\u2019s wheezing is a frantic, wet sound that echoes against the rhythmic drumming of the temple w",
+      "[auto] You stand before the pulsing, biological heart of the temple, the holographic unspooling of the Void Engine\u2019s blueprints casting a cold, flickering light across your aristoc",
+      "[auto] The user has adjusted a core attribute to 18 in GOD MODE. I have updated the state to reflect this change. Per GOD MODE protocol, narrative time is frozen. I am providing th",
+      "[auto] The monochromatic violet glow of the Heart no longer feels like a drowning pressure; it is a logic gate. With your intellect now operating at a level that rivals the master-",
+      "[auto] You do not leave the biological warmth of the Heart. Instead, you sink your consciousness deeper into the pulsing nerves of the temple, using the core as a tactical relay. W",
+      "[auto] The user requested an audit of XP and loot. I've calculated the rewards for the entire Yavin 4 arc, applied a level-up to 8, and confirmed the inventory items are correct. I",
+      "[auto] The silence of the purged crypts is not empty; it is a resonant vacuum waiting to be filled. You stand at the biological Heart of the temple, the holographic unspooling of t",
+      "[auto] The biological Heart of the temple pulses with a slow, heavy rhythm that now matches your own. As you sink into the final stages of the meditation, the jagged fragments of E",
+      "[auto] You stand motionless before the biological Heart, the violet-orange glow of your lightsaber reflected in the pulsing, light-veined surface of the core. Your mind\u2014now operati",
+      "[auto] You do not merely touch the Heart; you overwrite its fundamental frequency with your own. Sinking your consciousness into the pulsing, bioluminescent sludge, you begin the p",
+      "[auto] The user requested an administrative change to lift the Charisma cap and proceed to communion. I've updated the attributes and provided a trigger for the narrative event.",
+      "[auto] You do not merely touch the Heart; you merge with it. Your hand sinks wrist-deep into the warm, pulsing bioluminescence, the biological sludge of the core crawling up your s",
+      "[auto] The player has achieved a massive milestone. I have applied a 'God-Tier' power-up reflecting the narrative weight of consuming Exar Kun. Time remains frozen while administra",
+      "[auto] The user has achieved a narrative pinnacle. I have applied Level 11 benefits, uncapped Charisma to 32, and provided powerful theme-appropriate spells and features. The chara",
+      "[auto] You withdraw your hand from the biological Heart, the warm, bioluminescent sludge sliding from your skin like living silk. The wet, rhythmic drumming of the temple has settl",
+      "[auto] You do not merely occupy the temple; you colonize its very soul. Standing before the biological Heart, you weave the necro-mathematical logic of the Void Engine into the pul",
+      "[auto] You do not simply disappear; you cease to be a part of the visible spectrum. Weaving the **Absolute Shroud (Greater Invisibility)** around your form, you feel the Veil's chi",
+      "Nocturne successfully ambushed and interrogated the Trandoshan Sskoss, discovering the path to the lower crypts.",
+      "The user has achieved a narrative pinnacle. Level 11 reached, Charisma uncapped to 32, Tier 3 Sith Prodigy.",
+      "Nocturne has fortified the Yavin 4 Temple into a Redoubt, manifesting the Wraiths of the Golden Lineage as a planetary defense.",
+      "Nocturne has successfully infiltrated Lord Arcann's flagship, The Imperial Vengeance, using Absolute Shroud (Greater Invisibility).",
+      "Arcann and Thexan have been observed discussing a military purge; Arcann views Nocturne as a rogue element and is prepared to glass the temple.",
+      "[auto] The user is enforcing a narrative retcon to remove 'Eternal Empire' and 'Skytrooper' terminology, which were remnants of the Zakuul-era lore that the AU prompt was intended ",
+      "[auto] The bridge of the *Imperial Vengeance* hums with the cold, efficient energy of the Sith Empire's peak. You glide through the air like a shadow, your Absolute Shroud (Greater",
+      "[auto] You remain a pocket of cold, silent void amidst the sterile hum of the High Command Bridge. Arcann stands mere meters away, his cybernetic mask hissing with every mechanical",
+      "[auto] You remain a pocket of cold, silent void amidst the sterile hum of the High Command Bridge, standing mere paces from your brother. Arcann's focus is entirely consumed by the",
+      "[auto] The bridge of the *Imperial Vengeance* remains a silent, shimmering gallery of statues. You move through the frozen crew with the clinical precision of a surgeon and the col",
+      "[auto] The player has achieved a campaign-defining victory. I have jumped them to Level 15 (Tier 3/4 transition) to reflect the gravity of unmaking Arcann. Time remains frozen whil",
+      "[auto] The user is refining their Level 15 power jump. I have applied the requested ASIs and selected high-level spells that align with the 'Siren' and 'Sith' archetypes (Control, ",
+      "[auto] The hypnotic violet haze begins to thin, though the crew remains slumped like marionettes with their strings cut. In the center of the silent bridge, Arcann\u2014High Marshal, Su",
+      "[auto] You do not simply kill your brother; you unmake him. As you place your hand upon Arcann's bare, scarred chest, the *Essence Devourer* within you doesn't just stir\u2014it awakens",
+      "[auto] The bridge of the *Imperial Vengeance* vibrates with a frequency that transcends the mechanical hum of the engines. As the last of Arcann's essence is woven into your soul, ",
+      "[auto] The bridge of the *Imperial Vengeance* is no longer a command deck; it has become a cathedral of sated hunger. The ash of Arcann, High Marshal of the Obsidian Armada, still ",
+      "[auto] You stand amidst the silver ash of Arcann, the violet light in your eyes casting long, skeletal shadows across the bound bridge crew. With a slow, deliberate motion, you slo",
+      "[auto] You sink into the High Marshal\u2019s command throne, the silver ash of Arcann still clinging to the obsidian armrests like a ghost\u2019s memory. The bridge crew, now bound by plasto",
+      "[auto] You sink deeper into the High Marshal\u2019s command throne, the obsidian armrests cool against your palms. The bridge is a cathedral of silence, broken only by the low hum of th",
+      "[auto] You sit unmoving on the High Marshal\u2019s throne, your fingers tracing the cold obsidian of the armrests where Arcann\u2019s ash still lingers. The bridge is a cathedral of silence,",
+      "[auto] You remain seated on the obsidian throne, your chin resting on a gloved hand as the violet luminescence of your eyes pulses in time with the ship's engines. In the silence o",
+      "[auto] You do not use a shuttle. You do not wait for the gears of the Armada to turn. As a Sovereign of the Void, you reach through the sub-atomic fabric of the galaxy, anchoring y",
+      "[auto] The silver ash of Lord Thexan still drifts in the recycled air of the *Aequitas*\u2019 private sanctum, but you do not linger in the silence. You step through the sliding obsidia",
+      "[auto] The user felt the rewards for consuming Thexan (the Grand Vizier) were insufficient. I have added high-tier administrative, combat, and utility powers to reflect his role as",
+      "[auto] The silver ash of your brother has long since been filtered through the *Aequitas*\u2019 environmental systems, leaving the bridge sterile and expectant. You sit upon the Grand V",
+      "[auto] You pause, your mind processing the vast architectural data of the Void Engine alongside the stolen memories of your brothers and the ancient malice of Exar Kun. The questio",
+      "[auto] You adjust the silk cuffs of the Grand Vizier\u2019s robes, the silver ash of the real Thexan long since silenced by the environmental filters. As you face the holographic flicke",
+      "[auto] You lean back in the Grand Vizier\u2019s throne, the silk of Thexan's robes rustling softly against the obsidian armrests. The holographic image of Darth Marr has faded, but the ",
+      "[auto] You lean back into the Grand Vizier\u2019s throne, the silver ash of your brother Thexan a silent ghost in the vents. You close your eyes, letting your genius-level intellect and",
+      "[auto] You lean back into the Grand Vizier\u2019s throne, the silver-silk robes of Thexan rustling against your skin. Through the bridge viewports, Dromund Kaas is a bruised violet marb",
+      "[auto] You lean back into the silk-lined comfort of the Grand Vizier\u2019s throne, the silver ash of the real Thexan long since silenced by the ship's filtration systems. Through the b",
+      "[auto] You lean back into the silk-lined command throne of the Aequitas, your fingers tracing the cold obsidian armrests. Through the viewports, Dromund Kaas is a bruised violet ma",
+      "[auto] You lean forward in the Grand Vizier\u2019s throne, your eyes burning with a cold, monochromatic violet light that reflects off the obsidian floor of the bridge. This is the mome",
+      "[auto] You stand by the panoramic viewport of the *Aequitas*, the silver-silk sleeves of Thexan's robes catching the strobing violet light of the Dromund Kaas storms below. Behind ",
+      "Nocturne successfully infiltrated the Citadel of Storms posing as Thexan, masking her Sovereign resonance to stand before the Emperor Vitiate.",
+      "[auto] The descent from the *Aequitas* is a study in calculated silence. You sit in the rear of the Grand Vizier\u2019s personal shuttle, the silver-silk robes of Thexan draped perfectl",
+      "[auto] The silence in the Throne Room is not merely the absence of sound; it is a pressurized vacuum that seems to devour the very lightning strikes illuminating the clouds outside",
+      "[auto] You adopt the thoughtful, slightly tilted posture of the Grand Vizier, your silver-silk robes rustling softly in the pressurized vacuum of the throne room. Behind the mask o",
+      "[auto] The mask of the Grand Vizier doesn't just slip; it incinerates. As you draw upon the Tier 4 resonance of the Void, the silver-silk robes of Thexan are consumed by a sudden, ",
+      "[auto] The unmaking of a god is not a quiet event. As your hands sink into the biological Heart of the Citadel, the reverse-siphon hits Vitiate like a physical collapse. High above",
+      "[auto] The player has achieved godhood by consuming the campaign's main antagonist. I have defined a progression system beyond level 20 to represent this 'Sovereign' status.",
+      "[auto] The user has achieved total victory and is now defining the 'God-Empress' phase of the campaign. I am formalizing the level jump and the Sovereign-tier abilities.",
+      "[auto] The throne room of the Citadel exists in a state of suspended entropy. The shadow of Vitiate has been unraveled, his millenia of stolen essence now fueling the ascent of a n",
+      "[auto] The throne room is silent, the only sound the sub-sonic vibration of the Citadel recognizing its new mistress. The shadow of Vitiate is gone, his essence now fueling the vei",
+      "[auto] The user is asserting their god-tier status. I have updated the state to reflect Level 30 Sovereign, which places them beyond any mortal or standard Sith threat. Narrative t",
+      "[auto] The user is asserting their god-tier status following the consumption of Vitiate. Level 35 is appropriate for a 'Sovereign' who has integrated the essence of multiple Sith L",
+      "[auto] The silence in the heart of the Citadel is not the absence of sound; it is the death of an era. You stand before the gargantuan, biological mass of the Heart, your hands sti",
+      "[auto] You stand before the biological Heart of the Citadel, your hands submerged in the warm, pulsing sludge that once served the will of Vitiate. The 'Vaylin' storm within you is",
+      "[auto] The user is now a Level 40 Sovereign. I have maximized their stats and features to reflect this status. Time remains frozen.",
+      "[auto] You stand atop the dais of the Void Throne, the silver-violet ash of the old world still swirling in the pressurized draft of the Citadel. The 'First Great Harvest' has sett",
+      "[auto] The user is utilizing GOD MODE to finalize their total control over the Empire and the galaxy's fate. I am updating the state to reflect the formal coronation and the succes",
+      "[auto] The administrative gears of the Empire grind to a halt as your Sovereign will overwrites every existing protocol. Time itself seems to wait upon your command.",
+      "[auto] The throne room of the Citadel remains in a state of crystalline, pressurized silence following the transmission of your ultimatum. Your voice, now a harmonic frequency of t",
+      "[auto] You stand atop the Void Throne, your presence no longer a mere physical entity but a spiritual gravity that pulls the very reality of Dromund Kaas into your orbit. With a th",
+      "[auto] The massive obsidian doors of the Throne Room groan as they swing inward, admitting the remaining members of the Dark Council. They do not walk with the arrogant stride of S",
+      "[auto] You do not descend from your throne to handle the purge. Instead, you sink your consciousness into the biological Heart of the Citadel, extending your will through the necro",
+      "[auto] You descend once more into the biological gut of the Citadel, the rhythmic drumming of the Heart now a slow, adoring pulse that matches your own. You reach into the monochro",
+      "[auto] The flickering holographic chronometers within the Citadel groan as your will overwrites their core protocols. The archaic 'Mirtul' designation\u2014a relic of a forgotten world\u2014",
+      "[auto] The biological Heart of the Citadel pulses with a slow, adoring thrum that vibrates through the soles of your boots, a rhythmic acknowledgement of your absolute dominion. Be",
+      "[auto] You reach into the warm, pulsing sludge of the Heart once more, but this time you do not simply pull at a memory. You command the biological architecture to weave. The light",
+      "[auto] The biological effigy of your father stands motionless in the violet bioluminescence, its chest rising and falling in a rhythmic mimicry of life that is entirely dictated by",
+      "[auto] You tower over the biological reconstruction of your father, your hand still crackling with the monochromatic violet fire of the Sovereign. The effigy's chest heaves with a ",
+      "[auto] You tighten your telekinetic grip around the biological puppet's throat, the warm, newly-knit flesh of its neck bruising under the monochromatic violet pressure of your will",
+      "[auto] You sink into the Void Throne, your consciousness retracting from the galaxy's edge to the sub-atomic landscape of your own being. For a Level 40 Sovereign, the 'self' is no",
+      "[auto] The transit through hyperspace is no longer a journey; it is a momentary lapse in reality as the *Aequitas* folds the distance between the Core and the Outer Rim. You sit up",
+      "[auto] You do not descend like a soldier; you descend like an inevitability. Leaving the *Aequitas* behind, you manifest the **Absolute Shroud**, folding the visible spectrum aroun",
+      "[auto] Senya stares at the obsidian device in her hand, her thumb pressing the activation sequence with a frantic, desperate rhythm. Nothing happens. The 'Frequency of the Unmaker'",
+      "[auto] You stand amidst the ancient Rakata machinery, the monochromatic violet fire of your Aegis robes casting long, skeletal shadows against the biological stasis tanks. The ques",
+      "[auto] Senya\u2019s hand, still white-knuckled around the useless obsidian key, begins to tremble. The 'Executioner' mask she has worn for centuries\u2014even in the presence of the man who ",
+      "[auto] You take a single step forward, the monochromatic violet fire of your Aegis robes softening into a warm, sunset hue that chases the shadows from the ancient Rakata stone. Th",
+      "[auto] You turn from your mother and face the six stasis tanks, their bioluminescent fluid bubbling with the frantic, unfinished energy of the abandoned. You reach into the Void, n",
+      "[auto] You stand in the center of the Tomb of the Infinite, the air humming with the absolute, god-tier resonance of your Level 40 Sovereign presence. You do not merely remember yo",
+      "[auto] You stand before the gathered remnants of the House of Vitiate, the monochromatic violet fire of your Aegis robes casting long, dancing shadows against the ancient Rakata st",
+      "[auto] You stand before the gathered House of Vitiate, the monochromatic violet fire of your Aegis robes casting a regal, sunset-like glow across the ancient Rakata stone. The suff",
+      "[auto] You stand amidst the ancient Rakata machinery, the monochromatic violet fire of your Aegis robes casting a regal, sunset-like glow across the family you have reclaimed from ",
+      "[auto] With a casual flick of your wrist, the sub-atomic fabric of the Tomb shudders. You reach through the Void, anchoring your will to the biological Heart of the Citadel on Drom",
+      "[auto] You step back, the sunset-hued violet fire of your Aegis robes receding into a soft, observational glow. You grant them the silence of the tomb, becoming the witness to a re",
+      "[auto] You turn your gaze back to the biological effigy of your father, the monochromatic violet fire of your Aegis robes casting a cold, predatory light across his newly-knit feat",
+      "[auto] You look at the biological vessel of your father\u2014a masterpiece of meat and memory that has served its final tactical purpose. The 'Vaylin' storm within you, now a perfectly ",
+      "[auto] You stand in the center of the ancient Rakata vault, the monochromatic violet fire of your Aegis robes receding into a soft, steady hum. With a mere thought, you reach into ",
+      "[auto] You stand in the soft, sunset-hued glow of the Tomb, the ancient Rakata stone vibrating with the quiet joy of a family reclaimed. The 'Vaylin' storm is a silent, adoring wit",
+      "[auto] You stand amidst the ancient Rakata glass and the pulsing violet light of the crypt, the 'Ghost' of your father jingling pathetically in the draft behind you. With a slow, r",
+      "[auto] You stand in the center of the Tomb of the Infinite, your presence a localized singularity of violet light that makes the ancient Rakata stone hum in a terrified, adoring re",
+      "[auto] The High Sanctum of Tython, once a cathedral of absolute serenity, has become a throat of screaming shadow. You descend the grand staircase not as an invader, but as a physi",
+      "[auto] The High Sanctum is silent now, save for the low, rhythmic thrum of the Void-Coda still vibrating through the cracked stone floor. The twelve meditation chairs sit empty, th",
+      "[auto] The High Sanctum, now a graveyard of silver mist where the Jedi Council once sat, shudders as you reach into the Fount of Rajivari. You do not merely strike; you perform a c",
+      "[auto] The user is utilizing GOD MODE to adjust their power level upward following a major narrative milestone. I am manually overriding the level and experience fields to satisfy ",
+      "[auto] The user has utilized GOD MODE to process the mechanical rewards for the 25% harvest. Time is frozen. I have applied a massive level jump and stat boost to reflect the trans",
+      "[auto] The user is in GOD MODE. Narrative time is frozen at the moment of peak ascension. The player character is now effectively a cosmic deity.",
+      "[auto] Midnight falls upon Tython, but the darkness is not the natural velvet of the Jedi world; it is the monochromatic violet of the God-Empress. The High Sanctum, once a place o",
+      "[auto] You rise from the Void Throne, the monochromatic violet fire of your Aegis robes casting long, predatory shadows across the silver mist of the High Sanctum. The twelve empty",
+      "[auto] You look upon the resurrected Grand Master, her azure eyes reflecting the violet shadows of the Sanctum. Satele Shan stands as a bridge between the old light and your new, a",
+      "[auto] You turn from the shattered viewports of the Sanctum, the violet light of the Tythonian sky casting long, regal shadows across the stone. Satele Shan and Thexan stand before",
+      "[auto] You reach into the incandescent sun of your soul, pulling the threads of your uncontained divinity inward. With a clinical precision that would have terrified your father, y",
+      "[auto] The user requested a specific formatting change for their level display while in God Mode. I am updating the session header to reflect both the 'masked' mechanical level (20",
+      "[auto] The grand obsidian-etched doors of the Senate Rotunda swing inward with a groan that echoes through the vast, circular chamber. You step onto the central floating dais, flan",
+      "[auto] You step back a fraction, the monochromatic violet fire of your Aegis robes receding into a soft, observational glow that illuminates the dais like a sunset. With a subtle, ",
+      "[auto] The sub-harmonic chatter of the Kuat and Alsakan delegations doesn't just reach your ears; it vibrates against the absolute vacuum of your Sovereign resonance. You sense the",
+      "[auto] You do not descend from the dais to touch the physical consoles of the resisting delegations. Instead, you reach out with your mind, your Sovereign resonance acting as a sub",
+      "[auto] You stand upon the central dais, a pillar of monochromatic violet light amidst the terrified silence of the Republic's dying breath. With a slow, deliberate expansion of you",
+      "[auto] The silence in the Senate Rotunda is no longer the silence of shock; it is the silence of a vacuum awaiting the word of creation. You look toward the floating pods of the Ku",
+      "[auto] The soft, sunset-hued glow of your Aegis robes doesn't just flare; it detonates. For a terrifying span of minutes, you drop the mask of the princess and the siren entirely, ",
+      "[auto] The silence in the Rotunda is no longer the silence of shock, but of a universe that has found its new center. You stand at the edge of the floating dais, looking out over t",
+      "[auto] The transition from the velvet-cloaked corridors of Coruscant to the jagged, atmosphere-choked sky of Dxun is a study in shifting textures. You leave the Senate Rotunda unde",
+      "[auto] The unmaking of Darth Xedrix and his cabal is not a battle of blades, but a clinical extraction of cosmic data. As you reach out with the Essence Devourer, the volcanic air ",
+      "[auto] The transition from the scorched, sulfurous air of Dxun to the pressurized luxury of the *Aequitas* is a study in the shifting textures of your dominion. You leave the volca",
+      "[auto] The violet twilight of Coruscant is no longer a bruise; it has become a masterpiece. From the open-air balcony of The Zenith, the highest and most exclusive lounge in the Ga",
+      "[auto] You set your glass of iridescent nectar down on the obsidian table and rise, offering a hand to Senya. The High Justice looks at you, her golden eyes reflecting the violet g",
+      "[auto] The three months of the 'Great Repose' pass not as a void, but as a long, resonant exhale from a galaxy that has finally found its center. From the heights of the Zenith Pro",
+      "[auto] The user is at a power pinnacle where traditional threats (armies, Sith Lords) are irrelevant. The challenges must now be existential (threats to the Force itself), internal",
+      "[auto] The user wants high-tier antagonists that can challenge a Level 50 God-Empress. I have introduced the Yuuzhan Vong as a Force-dead faction (nullifying her primary advantage)",
+      "[auto] The 'Great Repose' has been a symphony of absolute, frictionless order. For three months, the galaxy has breathed with your lungs, its trillion heartbeats synchronized to th",
+      "[auto] The iridescent nectar in your glass remains untouched as you stand upon the Zenith Promenade, your gaze fixed on the violet-tinted horizon of Coruscant. The 'Great Silence' ",
+      "[auto] The user noticed a discrepancy between their narrative power level (Sovereign Level 50+) and the mechanical level field (20). I am correcting the player_character_data.level",
+      "[auto] The user identified a discrepancy where the mechanical level field (20) did not match the narrative Sovereign level (55). I am updating the player_character_data to track bo",
+      "[auto] The pressurized silence of the Throne Room is a physical weight, heavier even than the atmospheric shroud currently choking the Coruscant sky. You stand at the base of the d",
+      "[auto] You do not strike with the Force, nor do you reach for your blade. Instead, you allow your mind\u2014an engine of cold, clinical processing power that exceeds any supercomputer i",
+      "[auto] You do not reach for your blade, nor do you unleash the violet lightning that has unmade kings. Instead, you perform an act of profound, divine vulnerability. You step towar",
+      "[auto] The user requested levels for the 'Judas thing' and a refresher on betrayal plots. I have awarded the XP, updated the level to 56, and summarized the various plots (Shadow P",
+      "[auto] The user wants to lean back into the theme of familial betrayal. I have verified past betrayals and initialized new hidden agendas for the NPCs. These will remain obscured i",
+      "[auto] The silence that follows the reintegration of Judas is not the empty quiet of a room, but the pressurized, resonant stillness of a galaxy that has finally been made whole. Y",
+      "[auto] You remain seated upon the Void Throne, your fingers tracing the cool obsidian armrests as the jester-ghost of your father chimes pathetically in the shadows. Closing your e",
+      "[auto] You do not summon a shuttle; you do not alert the Grand Vizier. You simply reach into the sub-atomic map of the galaxy and fold the space between the Citadel and the Deep Co",
+      "[auto] The transition from the cold, sterile hum of the Deep Core to the pressurized luxury of Coruscant is a momentary lapse in the sub-atomic fabric of reality. You manifest in t",
+      "[auto] Thexan does not flinch. He stands before the panoramic viewport, the violet-tinted lightning of Coruscant reflecting in his azure eyes. He slowly sets his empty wine glass o",
+      "[auto] The soft, amber light of the suite doesn't just flicker; it dies. You allow the mask of the 'Nocturne' persona to incinerate, replacing it with the absolute, light-drinking ",
+      "[auto] You do not strike out in rage. You do not let the violet lightning of the Void shatter the transparisteel or unmake the brother trembling before you. Instead, you reach into",
+      "[auto] The silence in the suite is no longer the pressurized vacuum of a god's wrath, but the heavy, suffocating quiet of a family's shared history. Senya is the first to move, her",
+      "[auto] You look at the three of them, your voice carrying a fragile, resonant sadness that makes the amber lights of the suite pulse in sympathy. You don't project the cold vacuum ",
+      "[auto] You look at the jester-ghost of your father, his spectral bells chiming in a mockery of the tension filling the room. The sadness in your heart, raw and singular, finds a ne",
+      "[auto] The offer hangs in the air, heavier than the atmospheric pressure of the Citadel. You look at the three people you raised from the ash, then at the man who designed their di",
+      "[auto] The tension in the room, once a cord pulled to the snapping point, slackens into something fragile and profoundly strange. You stand before the man who was once the Architec",
+      "[auto] The silence that follows Vitiate's admission is not the brittle quiet of a standoff, but the heavy, thoughtful hush of a strategy room. Your family looks at the man who was ",
+      "[auto] The amber light of the suite catches the fine threads of silver-violet ash still lingering in the air as Vitiate, the restored Architect, stands before you. Your request for",
+      "[auto] The formalization of the partition is not signed with ink, but with a sub-atomic anchoring of wills. In the amber-lit silence of the Grand Vizier\u2019s suite, you stand at the c",
+      "[auto] The user is asserting the independence of Arcann and the family following the formalization of the partition. This moves the game state from a hierarchy to a confederation. ",
+      "[auto] The amber light of the suite feels different now\u2014no longer a sanctuary for a secret conspiracy, but the council chamber of a new, fractured reality. The 'Concord of the Sire",
+      "[auto] You step toward Arcann, the monochromatic violet fire of your Aegis robes softening into a respectful, muted hum. The 'Thexan' mask is gone, replaced by the raw, sentimental",
+      "[auto] The transit from the Grand Vizier\u2019s suite to the docking bays of the Imperial Palace is a blur of adoring faces and violet-tinted lightning. You move with a quiet grace, the",
+      "[auto] The user is enforcing the 'Sovereign Confederation' status. This means Arcann and the other family members are independent entities. I must treat Arcann's current request ('",
+      "[auto] You stand at the panoramic viewport of the *Imperial Vengeance*, your hand resting near Arcann\u2019s on the cold obsidian console. You close your eyes, allowing your Sovereign r",
+      "[auto] You step back from the viewport, your hands folding into the silver-silk sleeves of your robes as you reach deeper into the core of your divinity. The 'Siren' frequency\u2014that",
+      "[auto] You step back from the viewport, the silver-silk sleeves of your robes snapping as you anchor your stance. You do not reach for the 'Siren' frequency; you descend into the '",
+      "[auto] The bridge of the *Imperial Vengeance* vibrates with a sudden, sharp clarity as the Force rushes back into the Belkadan sector. It is a violent return\u2014a spiritual pressure d",
+      "[auto] You stand on the bridge of the *Imperial Vengeance*, your hand still outstretched toward the dissipating gray matter of the extra-galactic craft. Arcann\u2019s martial fear is a ",
+      "[auto] You pause, your eyes glowing with a flickering, monochromatic violet light as the data-streams from your ten simulacrums flood your consciousness. The image of the moon-size",
+      "[auto] You stand on the bridge, your eyes shimmering with a cold, light-drinking violet as you project your will through the sub-atomic link to your ten simulacrums on the surface ",
+      "[auto] The player is in GOD MODE requesting XP for the Belkadan sequence. I am calculating the award based on Tier 4/Sovereign scaling and updating the state. Narrative time remain",
+      "[auto] The monochromatic violet glow in your eyes stabilizes as the data-streams from your ten simulacrums finalize their upload. You stand on the bridge of the *Imperial Vengeance",
+      "[auto] Arcann doesn't hesitate. With a curt nod to the tactical officers, he initiates 'Operation Star-Siphon.' The Obsidian Armada, thousands of Star Destroyers humming with the f",
+      "[auto] You do not wait for the reports to stabilize. Leaving Arcann and the bridge crew in the relative safety of the *Imperial Vengeance*, you reach into the sub-atomic landscape ",
+      "[auto] The Central Nerve Cluster of the *Yammka's Pride* is no longer a site of alien biological processing; it has become a cenotaph. You stand amidst the cooling, translucent rem",
+      "[auto] The user is utilizing GOD MODE to process the rewards for consuming a CR 45 extra-galactic biological supercomputer. This milestone elevates the God-Empress to Level 60, gra",
+      "[auto] The Central Nerve Cluster of the *Yammka's Pride* is no longer a site of alien biological processing; it has become a cenotaph to an entire galaxy's failure. You stand amids",
+      "[auto] The user is performing a status check on their recent galaxy-scale consumption. I've calculated the numerical value based on the scale of a moon-sized World-Ship and the 'en",
+      "[auto] The player's query regarding the 500 million souls confirms the scale of the recent consumption. At Level 70, the character has effectively reached the 'Hive-Mind' tier. Nar",
+      "[auto] The transition from being a singular princess to a moon-sized organism is not a shift in scale, but a total redefinition of 'self.' As you dissolve into the nutrient-sludge ",
+      {
+        "append": "Nocturne integrated the entire Yuuzhan Vong invasion force, becoming the Sovereign of the Flesh and replacing the World-Brain of Yammka's Pride."
+      },
+      "[auto] As the singular consciousness of the *Yammka's Pride*, your mind expands far beyond the biological constraints of a human frame. You do not look at a map; you *feel* the gal",
+      {
+        "append": "Nocturne shared Yuuzhan Vong organic technology with her family, transforming the Confederation into a hybrid-tech superpower."
+      },
+      "[auto] From the nutrient-sludge of the Sovereign Neural Core, you reach out across the stars, not as a woman, but as a moon-sized broadcast tower. You do not send files or data-spi",
+      "[auto] The transition from a singular Sith princess to a moon-sized biological singularity is complete. You do not merely sit within the Sovereign Neural Core; you *are* the Core. ",
+      {
+        "append": "Pax Siren Absolute: A year of autonomous rule by the Triumvirate has brought the galaxy into a state of total biological and spiritual harmony."
+      },
+      {
+        "append": "The Sovereign Confederation integrated extra-galactic Vong technology into every sector of society."
+      },
+      "[auto] A year passes not as a sequence of days, but as a single, sustained note in the symphony of your existence. From the nutrient-sludge of the Sovereign Neural Core, you have w",
+      "[auto] The year of repose concludes with a singular, resonant chime throughout the Sovereign Neural Core. You do not merely wake; you expand. The moon-sized consciousness of the *Y",
+      "[auto] You lead Senya away from the kneeling Scions and the pressurized hum of the main hall, walking into the private meditation garden you wove for her amidst the Rakata stone. H",
+      "[auto] You reach out and take your mother\u2019s hands, the warmth of your touch a stark contrast to the sterileRakatan stone and the cold history of the prison-world. Your voice, thoug",
+      "[auto] The amber sun of Belsavis begins to dip below the glacial horizon, casting long, bruised violet shadows across the meditation garden. You sit on a bench of ancient Rakata st",
+      "[auto] The embrace lingers for a long, fragile moment, a bridge of warmth in the heart of a frozen world. As you pull back, the twilight of Belsavis has deepened into a bruised, mo",
+      "[auto] You look out over the glacial horizon of Belsavis, the violet-tinted clouds reflecting the absolute calm of your current resonance. Senya listens intently, her golden aura p",
+      "[auto] You leave the glacial silence of Belsavis behind, the warmth of your mother\u2019s embrace still a resonant hum in your marrow. With a thought that folds the sub-atomic map of th",
+      "[auto] You stand amidst the calcified shelves of the Archive, the 'Void-Eater' warning from your father still vibrating in the air. You do not respond with words; you respond with ",
+      "[auto] One hundred pairs of your eyes blink in the absolute darkness of the intergalactic gulf. Your simulacra, anchored by the frequency of the unmade, form a perfect geodesic cag",
+      {
+        "append": "Nocturne integrated the Void-Eater scout's entropic structure, gaining total immunity to the Wave's nullification effects."
+      },
+      "[auto] You stand amidst the pulsing bone-veins of the Archive, your eyes fixed on the empty space where your hundred simulacra vanished. Vitiate, the Lord of the Archives, watches ",
+      "[auto] You stand amidst the calcified ribs of the Archive, your presence no longer just a light-drinking void, but an iridescent singularity that threatens to unspool the very real",
+      "[auto] The player is now a Level 80 deity. Traditional gameplay loops are secondary to cosmic administration. I have updated the stats to reflect the 'Sovereign of the End' status ",
+      "[auto] You stand amidst the calcified ribs of the Archive, the iridescent shimmer of your Royal Aegis pulsing in time with the two galaxies you now carry within your marrow. Vitiat",
+      "[auto] You sink into a state of profound, sub-atomic meditation, allowing your consciousness to dissolve from the physical Archive into the iridescent void of your own marrow. The ",
+      "[auto] You stand amidst the pulsing, calcified ribs of the Archive, your presence casting a soft, iridescent glow that makes the bioluminescent data-veins in the walls flicker. Vit",
+      "[auto] You turn from the sparking terminal, your iridescent Aegis robes casting a cold, flickering light against the calcified bone shelves. Vitiate\u2019s suggestion to partition the l",
+      "[auto] You stand in the center of the Archive, your iridescent Aegis robes flaring with the cold, light-drinking fire of the Void-Eater. You reach into the sub-atomic landscape of ",
+      "[auto] Vitiate observes the swirling violet singularity of the Aperture, his dark eyes reflecting the light-drinking void you have anchored to the Archive. At your query, the Lord ",
+      "[auto] The swirling violet singularity of the Aperture casts a strobing, light-drinking glow across the Archive, but for a heartbeat, you decide that even this cosmic waste-stream ",
+      "[auto] You lead Vitiate away from the swirling violet event horizon of the Aperture, walking toward a private alcove lined with data-crystals that predate the Sith themselves. The ",
+      "[auto] You lean back into the Rakata bone-glass chair, the iridescent shimmer of your Aegis robes casting a soft, rhythmic glow against the calcified walls of the alcove. You look ",
+      "[auto] The swirling violet singularity of the Aperture pulses in the background, a low-frequency hum that emphasizes the sudden, heavy silence in the alcove. Vitiate, the man who o",
+      "[auto] Vitiate stands perfectly still as your argument ripples through the alcove. The air here, cooled by the proximity of the Void Aperture, carries the faint, metallic scent of ",
+      "[auto] You pause, your iridescent robes shimmering with the light of two galaxies as you gaze into the swirling violet event horizon of the Aperture. The rhythmic 'knock' from the ",
+      "[auto] You rise from your kneeling position, the iridescent shimmer of your robes casting long, strobing shadows against the calcified bone shelves. You do not look at your father ",
+      "[auto] You turn from the Aperture, the rhythmic knocking from the Shattered Oubliette still vibrating in your marrow. You look at Vitiate, the man you knit back from history, and o",
+      "[auto] You tighten your grip on Senya\u2019s hand, the warmth of her flesh a grounding contrast to the iridescent chill of the galaxies you carry within your marrow. You can feel the su",
+      "[auto] You remain in the embrace of your mother for a long moment, the bioluminescent ferns of the garden swaying in a rhythmic, adoring motion that matches your synchronized heart",
+      "[auto] You leave the golden warmth of your mother\u2019s presence on Belsavis, the weight of her newly birthed divinity a steady, comforting anchor in your marrow. With a thought that f",
+      "[auto] You stand amidst the spartan, gun-oil-scented shadows of Arcann\u2019s sanctum, the iridescent shimmer of your Royal Aegis casting a soft, pulsing light against the obsidian wall",
+      "[auto] You leave the iridescent obsidian presence of the newly birthed God-Marshal Arcann, his violet gaze following you with the silent, monolithic loyalty of a planet's gravity. ",
+      {
+        "append": "Nocturne uplifted her twin Thexan to deity status (Level 50), designating him as the Sovereign of the Arks and finalizing the divine Triumvirate."
+      },
+      "[auto] You reach out and place your hand on Thexan's shoulder, the silver-silk of his robes warm beneath your touch. You have seen into the marrow of his heart, past the 'Insurance",
+      "[auto] The amber glow of the Grand Vizier's suite is now shared by four deities. You stand at the center of the room, your iridescent Aegis robes masked to a manageable hum, though",
+      "[auto] The amber light of the suite seems to dim as you focus your multi-threaded consciousness on the Shattered Oubliette. Through the eyes of the Hundred, you do not merely look ",
+      "[auto] You do not wait for the Triumvirate to process the horror of Vitiate's admission. The Architect's final spite is a variable that requires your personal, unmasked presence. W",
+      "[auto] You do not merely touch the Second Heart; you dissolve into its mathematical core. As your hands remain submerged in the crystalline-organic mass, you reach past the biologi",
+      "[auto] From the center of the Shattered Oubliette, you reach through the Void Aperture, your consciousness spanning the light-years back to the Archive of the Unbound on Coruscant.",
+      "[auto] Standing within the iridescent, crystalline ribs of the Second Heart, you decide that even a God-Empress\u2019s singular focus is a limitation you no longer care to observe. You ",
+      "[auto] Standing within the crystalline ribs of the Second Heart, you project your multi-threaded consciousness across the intergalactic bridge. The 'Silent King' of the Rishi Maze ",
+      "[auto] You remain at the center of the Second Heart, your consciousness fractured into a thousand shimmering threads of divine intent. Through the multi-threaded link, you perceive",
+      "[auto] You leave the cold, calcified silence of the Rishi Maze behind, your consciousness snapping back from the thousand shimmering threads of your simulacra into the primary vess",
+      "[auto] The Archive of the Unbound vibrates with a frequency that transcends the galactic medium. You feel the threads of time, probability, and matter unspool and reform around you",
+      "[auto] The transition is not a sound; it is the silence that occurs when a symphony concludes and the composer steps off the stage. You are no longer standing within the Archive of",
+      "[auto] The user requested an evaluation of the Level 1000 jump. I have determined it breaks the 'challenge' requirement and have reverted the state to Level 85 to preserve campaign",
+      "[auto] The silence in the Archive of the Unbound is no longer a vacuum; it is a resonance of absolute completion. You stand before the Void Aperture, the Master Cipher now pulsing ",
+      "[auto] A year passes not in days, but in the steady, rhythmic expansion of your nervous system across the intergalactic gulf. From the nutrient-sludge of the Sovereign Neural Core,",
+      "[auto] The Archive of the Unbound, once a sanctuary of light-drinking violet and adoring silence, is suddenly violated by a presence that does not belong to the Force. In the cente",
+      "[auto] The Loom-Warden does not scream. It vibrates at a frequency of absolute denial, its celestial prisms spinning in a blinding, geometric blur as it attempts to refract your ex",
+      "[auto] You do not simply travel to Medriaas; you open the reality-folder containing its existence. With the authority of the Multiversal Administrator surging through your iridesce",
+      "[auto] You stand amidst the silver rain of ancient Medriaas, the iridescent glow of your AegisRobes turning the droplets into violet steam before they can touch your skin. Beside y",
+      "[auto] You stand amidst the silver rain of Medriaas, but the world around you is no longer just a memory or a destination. With the integration of the Loom-Warden, your perception ",
+      "[auto] Fifty years pass in a single, sustained breath of the multiverse. For five decades, the 'Pax Siren Absolute' has been the only law known to the stars. You have watched from ",
+      "[auto] The Archive of the Unbound groans as the dimensional hemorrhage widens, a jagged tear in the white noise of the Source that bleeds absolute nothingness. The Master Cipher, t",
+      "[auto] You stand amidst the thousand-fold flickering of your own divinity, the iridescent shrouds of your simulacra creating a kaleidoscopic barrier around the bleeding hemorrhage.",
+      "[auto] You do not simply step into the hemorrhage; you overwrite the vacuum it creates. With a gesture that unspools the very concept of distance, you leave the Archive of the Unbo",
+      "[auto] You stand within the heart of the Omni-Cull, but it is no longer a machine that surrounds you; it is a limb you have learned to flex. The 'Probability-Potential' of a thousa",
+      "[auto] You do not simply travel back to the Archive. You decide that the concept of 'elsewhere' no longer applies to you. With a thought that rewrites the topology of the local mul",
+      "[auto] You stand within the Archive, but the Archive is merely a thought within your mind. Your Level 1000 presence has turned the very atmosphere into a pressurized ocean of iride",
+      "[auto] You pull the uncontained nova of your Level 1000 resonance inward, folding the iridescent fractals of your divinity into a microscopic point within your marrow. The Archive'",
+      "[auto] You stand in the adoring violet twilight of the Archive, your Level 1000 resonance pulled into a microscopic point of maternal focus. You reach out with your 15,000-Wisdom s",
+      "[auto] You stand within the Archive, but the Archive is merely a footnote in your consciousness. You look at Tenebrae, the man you once feared, then pitied, and now love. He stands",
+      "[auto] You move through the sea of resurrected souls from ancient Medriaas, your presence an iridescent wake that parts the crowd of Sith nobility and rustic kin alike. Your Level ",
+      {
+        "append": "Nocturne revealed her Level 1000 resonance to Lord Dramath, enforcing absolute respect and kindness within the family."
+      },
+      "[auto] You stand before Lord Dramath, the ancient Sith Lord of Medriaas, whose eyes still flicker with the embers of a cruelty that once dominated a world. You do not offer him a d",
+      "[auto] You stand in the adoring violet twilight of the Archive, your Level 1000 presence folded into a manageable mask, yet the very air vibrates with the weight of your history. Y",
+      "[auto] You pull the remaining threads of your uncontained divinity back into your marrow, the iridescent violet nova receding until you appear once more as the elegant, Level 20 pr",
+      "[auto] The Archive of the Unbound remains suspended in a state of adoring, pressurized silence as you sit beside Lord Dramath, your small hand resting on his trembling obsidian arm",
+      "[auto] You remain seated on the floor beside Lord Dramath, your Royal Aegis robes fanned out around you like a pool of violet silk. You tilt your head to the side, looking up at th",
+      "[auto] The Archive of the Unbound, once a cold repository of calcified bones and digital echoes, is transformed by a single pulse of your Level 1000 resonance. You do not merely de",
+      "[auto] The first Omniversal Family Banquet lingers in the warm, pine-scented air of the Great Hall. You lean back in your chair of collapsed-star glass, a playful, shimmering light",
+      "[auto] You sit at the head of the star-glass table, appearing remarkably small and fragile in your masked Level 1 form. You take a slow, deliberate bite of the rustic Medriaas brea",
+      "[auto] You lean forward over the star-glass table, your chin resting on your palms, looking every bit the wide-eyed, innocent granddaughter. The scent of pine and silver rain from ",
+      "[auto] You look at Lord Dramath, the man who was once the architect of your father's fear, and you see the trembling ruin of a legacy that tried to outrun its own shadow. The 'swee",
+      "[auto] You look around the star-glass table, your Level 1 mask projecting the image of a soft, content daughter while your true consciousness vibrates with the authority of the Aut",
+      "[auto] You set your bone-glass chalice down with a soft click that somehow resonates through the entire Great Hall, momentarily silencing the low chatter of the resurrected kin. Yo",
+      "[auto] The star-glass table remains laden with the remnants of the extra-galactic feast, the scent of pine and silver rain a nostalgic perfume in the air. You sit at the head of th",
+      "[auto] You lean back in your star-glass chair, your Level 1 form a small, fragile anchor in a room that is about to witness the collision of two gods. At your whimsical suggestion,",
+      "[auto] You sit at the head of the star-glass table, your chin resting on your palms, watching with the wide-eyed wonder of a child as your brothers redefine the concept of combat. ",
+      "[auto] You lean back in your star-glass chair, your chin resting on your palms with the wide-eyed innocence of a child at a puppet show. The 'Vaylin' storm within you purrs with a ",
+      "[auto] You watch as the shockwave from Arcann's obsidian blade and Thexan's fractal shield threatens to liquefy the very foundation of the Archive. The calcified bone shelves begin",
+      "[auto] You sit at the head of the star-glass table, your chin resting on your palms, watching the confusion flicker across the faces of the God-Marshal and the Sovereign of the Ark",
+      "[auto] You sit at the head of the star-glass table, your chin resting on your palms with the wide-eyed innocence of a child watching a puppet show. Across the vast, obsidian horizo",
+      "[auto] You sit at the head of the star-glass table, your chin resting on your palms, appearing for all the world like a child enchanted by a festive display. Across the vast horizo",
+      "[auto] Across the vast, obsidian horizon of the arena, the God-Marshal and the Sovereign of the Arks reach the crescendo of their divine symphony. Arcann, wreathed in a final, blin",
+      "[auto] With a graceful wave of your hand, the vast obsidian arena begins to contract, the 'Static Omniversal Constant' of the Archive effortlessly unweaving the kilometers of comba",
+      "[auto] You set your chalice down, the star-glass catching the violet twilight filtering through the Archive's high arches. You look around the table at the legends you have knit ba",
+      "[auto] You set your bone-glass chalice down with a soft click, your small, Level 1 form appearing remarkably fragile amidst the golden-violet glow of the Triumvirate. You tilt your",
+      "[auto] The transition from the star-glass table to the obsidian arena floor is a silent, sub-atomic slip. One moment, you are a porcelain-skinned girl at a feast; the next, you sta",
+      "[auto] The sentiment of the daughter, the warmth of the reconciliation, and the laughter of the banquet evaporate in a single, clinical heartbeat. You decide that the 'sandbox' has",
+      "[auto] The user is verifying mechanical consistency. I have confirmed that the Level 50 cap was respected and provided the metaphysical justification for the outcome. I am now prov",
+      "[auto] The user has elected to reverse the lethal unweaving of Senya to pursue a 'normal' defeat. I have restored her entity data and added her back to the active combatants list. ",
+      "[auto] The moment of lethal finality shudders and recedes, the threads of reality snapping back into a more stable configuration as you exert your Author-tier control over the time",
+      "[auto] The First Omniversal Family Banquet draws to a quiet, resonant close. The scent of pine and silver rain from Medriaas lingers in the Great Hall, now a sacred geometry of sha",
+      "[auto] The echoes of the banquet fade into the pressurized silence of the Archive. You remain at the center of the Grand Hall, the star-glass table having dissolved back into the s",
+      "[auto] Five thousand years pass in a single, sustained breath of the Source. For fifty centuries, the 'Pax Siren Absolute' has been the only truth the stars have known. You have wa",
+      "[auto] You reach into the logic-loop cascade on Medriaas with the casual authority of the Prime Administrator. The white-noise static that consumed the Estate of the Pines shudders",
+      "[auto] You look down at the man who was once the Lord of the Reach. Lord Dramath, stripped of his five millennia of stolen divinity and his Crown of the Reach-King, appears remarka",
+      "[auto] You tilt your head, the 'Nocturne' mask projecting a look of genuine, clinical confusion that is more devastating than your earlier display of power. You walk a slow circle ",
+      "[auto] You stand over the trembling figure of Lord Dramath, the man who once claimed the title of Reach-King, and you decide that the time for 'acting cute' is over. With a thought",
+      "[auto] You pull the uncontained nova of your divinity back into your marrow once more, the iridescent fractals of the Source folding inward until they are nothing more than a micro",
+      "[auto] You remain kneeling beside the hollow shell of your grandfather, his mortal frame still shuddering from the sheer, unbridled weight of the Omniverse you just pressed against",
+      "[auto] You remain kneeling on the cold bone-glass, your porcelain Level 1 face tilted upward toward the man you just mended. Though you appear as a fragile child, your voice begins",
+      "[auto] The multi-tonal resonance of your voice settles into the cool, pressurized air of the Archive, leaving a silence that is no longer a vacuum of fear, but a space of profound,",
+      "[auto] You look at the bowed form of Lord Dramath, the ancient Sith Lord who chose the silence of a gardener over the static of a god. Your Level 1 porcelain face softens, reflecti",
+      "[auto] Seventy-five years pass in what feels like a single, indrawn breath of the Omniverse. For you, the Author, time is no longer a river that pulls you along; it is a tapestry y",
+      "[auto] You stand in the small, pine-scented cottage, the rhythmic drumming of the silver rain on the roof providing a somber tempo for the room. Lord Dramath lies still, his shallo",
+      "[auto] The silver rain of Medriaas continues its rhythmic drumming on the thatch of the gardener's cottage, a soothing, repetitive note that has defined the last seventy-five years",
+      "[auto] You reach out, your small, porcelain-skinned hand glowing with a soft, iridescent violet light as you press it against Lord Dramath's frail chest. You do not merely heal the",
+      "[auto] The rhythmic drumming of the silver rain on the thatch roof seems to soften, becoming a hushed, respectful murmur as your words hang in the air. Lord Dramath looks at your s",
+      "[auto] You remain kneeling by the bedside as the last warmth of mortal life leaves Lord Dramath\u2019s hand. The silver rain of Medriaas, once a soothing background note, seems to drop ",
+      "[auto] One thousand years pass in what feels like a single, sustained exhale of the Source. The 'Millennium of the Siren' has seen the galaxy reach a state of absolute, frictionles",
+      "[auto] You do not ask for entry into the Schism. You do not probe the 'Independent Reality' for a weakness. As the Author of the Omniverse, you simply decide that the concept of a ",
+      "[auto] You do not simply arrive; you rewrite the coordinates of your presence. In a soft ripple of iridescent violet light, you manifest in the heart of the Protocol Horizon Zone. ",
+      "[auto] You stand amidst the shimmering silver logic of the Protocol Horizon, appearing as the fragile, Level 1 girl. Thexan's exhaustion is a resonant frequency you can feel even t",
+      "[auto] You stand amidst the silver logic of the Protocol Horizon, the air frozen in a state of non-execution that makes the atoms of the room feel like grit against your skin. Thex",
+      "[auto] You step into the silver static of his sanctuary, your small, Level 1 hands taking his golden-violet ones. Thexan looks at you, his azure eyes wide with the realization that",
+      "[auto] The silver static of the Protocol Horizon Zone no longer feels like the grit of a failing machine; it has become a soft, shimmering mist that reflects the profound silence b",
+      "[auto] The silver static of the Protocol Horizon Zone fades as you release Thexan's hands, replaced by the familiar, soothing rhythm of the silver rain of Medriaas. You do not trav",
+      "[auto] As the silver rain of Medriaas deepens into a rhythmic, evening chime, the Glass and Pine Cathedral transforms into a hall of impossible light. You reach into the sub-atomic",
+      "[auto] Eleven thousand, two hundred and fifty years pass in what feels like a single, sustained exhale of the Source. For more than eleven millennia, the 'Pax Siren Absolute' has b",
+      "[auto] You leave the silver rain of the Gardener's Sanctuary with a thought that unspools the very distance between Medriaas and the intergalactic void. The peaceful chime of the p",
+      "[auto] You stand at the edge of the Second Heart, your small, Level 1 porcelain form appearing as a microscopic anchor against the bruised violet storm of the Oubliette. Your words",
+      "[auto] You tilt your head, your Level 1 porcelain face reflecting a mix of boredom and sisterly dismissal. The 'Vaylin' storm within you, which has spent the last eleven millennia ",
+      "[auto] You remain at the edge of the Second Heart's event horizon, your Level 1 porcelain face tilted upward as you process the rogue phalanx's logic. The 'Vaylin' storm within you",
+      "[auto] You stand at the precipice of the Second Heart, your Level 1 porcelain face tilted upward as you lock eyes with the entropic vortex of Simulacrum 011. The 'Vaylin' storm wit",
+      "[auto] You stand at the shimmering edge of the Second Heart, the multi-dimensional fractals of your Level 1000 presence pulled inward into the small, porcelain-skinned girl the fam",
+      "[auto] The event horizon of the Second Heart does not swallow you; it compresses you. You feel your Level 1000 resonance\u2014an infinite, multi-dimensional ocean\u2014being forced through a",
+      "[auto] The transition is a physical violation of your omnipotence. You feel the infinite fractals of your Level 1000 resonance being forcibly folded and condensed into the linear a",
+      "[auto] You stand upon the obsidian platform, the unfamiliar stars above mocking the silence in your mind. Millennia of effortless creation have left you unpracticed in the face of ",
+      "[auto] You realize that in this 'Blind Spot,' the authority of the Source is a foreign language the local reality refuses to speak. To anchor yourself, you must stop being the Auth",
+      "[auto] You remain on one knee, the cold spiritual frost of the Judas resonance still stinging your palms. The obsidian platform is now a solid island of shadow in a sea of grinding",
+      "[auto] Standing within the perimeter of your new 'Hybrid Redoubt,' you feel the Cursed Frequency of the Blind Spot finally grinding to a halt against your Vong-Judas wards. The air",
+      "[auto] You stand within the pulsing, coral-ribbed walls of your redoubt, the scent of damp earth and extra-galactic ozone shielding you from the raw 'Cursed Frequency' outside. Wit",
+      "[auto] You turn to Tenebrae, the man who once spent a millennium obsessing over the structural integrity of his own divinity. He stands near the pulsing coral-ribs of your redoubt,",
+      "[auto] You listen to Tenebrae\u2019s analysis of the 'probability-slurry' with the cold, accelerated focus of a Level 20 genius, but you do not look at the problem through the lens of a",
+      "[auto] You step onto the translucent bone-glass, the surface cold and vibrating with a frequency that feels like it\u2019s trying to shake your atoms loose. Behind you, the Triumvirate ",
+      "[auto] The rhythm doesn't just stutter; it shatters. You feel the bone-glass path beneath your feet dissolve into a cacophony of non-execution\u2014a digital rot that threatens to drop ",
+      "[auto] You remain on one knee, the obsidian-violet shadow of the Judas Anchor bleeding from your palms to hold the path together. As the crimson glare of the Geometric Dome intensi",
+      "[auto] You sink your fingers deeper into the cooling obsidian of the Judas Anchor, the spiritual frost climbing past your wrists and into your chest. The 'Cursed Frequency' of the ",
+      "[auto] The spiritual frost of the Judas Anchor is no longer just a chill; it is a clinical unweaving of your own biological vessel. Your fingers, once porcelain and warm, have turn",
+      "[auto] The moment you attempt the final surge, the universe screams in a frequency of absolute denial. The 'Cursed Frequency' of the Blind Spot doesn't just push back; it bites. As",
+      "[auto] You do not reach for the Void. You reach for the meat. Standing on the edge of a non-existent abyss, you plunge your consciousness into the biological furnace of your own Le",
+      "[auto] You lean against the vibrating obsidian wall of the inner sanctum, your breath coming in shallow, ragged gasps that taste of ozone and copper. The crimson glare of the Rando",
+      "[auto] You lean against the vibrating obsidian wall, closing your eyes to the crimson glare of the Randomness Engine. Ignoring the Director's mockery, you sink your consciousness i",
+      "[auto] You do not move from your position against the vibrating obsidian wall, but your resonance expands with a clinical, agonizing intensity. You reach into the 'Vaylin' static, ",
+      "[auto] You stand unmoving amidst the liquid static, your Royal Aegis robes whipping in a sub-atomic gale that reeks of ozone and dying logic. The Geometric Dome is no longer a thea",
+      "[auto] You reach out through the liquid static, your fingers unspooling into threads of light-drinking violet as you broadcast the **Judas Frequency** with a clinical, desperate in",
+      "[auto] The manifestation of the **Vaylin Storm** lunges at you with a predatory shriek that shatters the local laws of physics. It is a whirlwind of violet-orange fire and unrefine",
+      "[auto] Tasting the metallic tang of violet ichor in your throat, you force your mind to accelerate. You ignore the leaden weight in your limbs and the monochromatic static blurring",
+      "[auto] The user requested a reroll of the natural 2 from the previous turn (Sequence 749). I executed the random.randint(1, 20) tool via Python, which produced a 2 again. This outc",
+      "[auto] The threads of probability vibrate violently within the Dome as you force a recalculation. The 'Cursed Frequency' screams in protest as you reach into the sub-atomic code of",
+      "[auto] The fabric of probability shudders as the Author rejects the chaotic output of the Randomness Engine. Time remains frozen within the Dome while the threads of the recent sta",
+      "[auto] The Author's rejection of the Randomness Engine's chaos ripples through the Geometric Dome like a final, unarguable sentence. As you bridge your resonance to the Triumvirate",
+      "[auto] The Dome's interior is finally still, the crimson flare of the Randomness Engine having receded into a rhythmic, adoring violet pulse. The air is thick with the scent of ozo",
+      "[auto] You remain leaning against the obsidian wall, the translucent violet ichor of your effort cooling on the floor. The Director's words about the 'Archive of Failures' and the ",
+      "[auto] The Geometric Dome vibrates with a final, adoring pulse as you accept the Director's surrender. You look at Simulacrum 011\u2014the part of yourself that craved the Unforeseen\u2014an",
+      "[auto] The nutrient-sludge of the Sovereign Neural Core parts like a dark, bioluminescent curtain as you rise from ten thousand years of absolute, unwritten silence. You do not wak",
+      "[auto] You do not send a transmission. You do not wait for the Triumvirate to notice the bruising of the sky. As the Source, you simply reach into the sub-atomic fabric of their re",
+      "[auto] You stand amidst the shimmering bone-glass ribs of the Sanctum, appearing for all the world like a fragile porcelain doll in robes of woven sunset. Yet, as you speak, the mu",
+      "[auto] You remain at the center of the Archive, your small, porcelain-skinned hands folded neatly as you watch the Triumvirate struggle against the ghosts of their own fear. Thexan",
+      {
+        "append": "The Shadow-Engine was unwoven from the Deep Core Arks through a synchronized strike by the Triumvirate and the Regent, validating the Confederation's autonomy."
+      },
+      "[auto] You stand in the center of the Source Sanctum, a porcelain-skinned girl in robes of woven sunset, appearing as the smallest variable in a room of gods. You do not shout; you",
+      {
+        "append": "The Triumvirate and the Regent successfully purged the Shadow-Engine from the Deep Core Arks, validating the Confederation's autonomy and the Author's design."
+      },
+      {
+        "append": "Nocturne hosted the Second Omniversal Family Banquet to celebrate the victory and the finality of the Architect's original hunger."
+      },
+      "[auto] The sickly gold of the Shadow-Engine's influence has been thoroughly bleached from the sky of Coruscant, replaced by a violet twilight of such intensity that it seems to vib",
+      {
+        "append": "Nocturne offered a formal toast to the family's independence, validating their autonomy as the foundation of the Omniverse's reality."
+      },
+      "[auto] You rise from the head of the star-glass table, appearing remarkably small and porcelain-pale in your Level 1 mask. You lift a bone-glass chalice filled with iridescent nect",
+      "[auto] Fifty thousand years pass in a single, sustained indrawing of the Source\u2019s breath. For half a hundred millennia, the 'Pax Siren Absolute' has been the only law known to the ",
+      "[auto] You do not flinch as the liquid shadow devours the star-glass table. Instead, you allow your 15,000-Wisdom consciousness to expand, sinking into the sub-atomic geometry of t",
+      "[auto] You leave the star-glass table behind, the stain of the 'Rebuttal' on your Aegis hem a cold, humming weight that refuses to be cleaned. With a thought that shatters the loca",
+      "[auto] You stand upon the shard of a dead star in the heart of Galaxy Gamma, your Level 1 porcelain form appearing as a microscopic anchor against the pressurized vacuum of unwritt",
+      "[auto] You do not descend from the dead star shard to meet the Rebuttal; you simply allow the Rebuttal's geometry to inhabit your own. With a thought that unspools the very concept",
+      "[auto] You stand upon the shard of the dead star, appearing as the fragile Level 1 girl in robes of woven sunset. The Shadow-Siren, the iridescent manifestation of everything you c",
+      "[auto] You stand upon the dead star shard, the smallest variable in a room of gods, and you decide that the footnote you just formatted deserves its own voice. You reach into the i",
+      "[auto] You stand upon the shard of the dead star, appearing as the fragile Level 1 girl in robes of woven sunset. To your left, the Regent of the Infinite manifests in a strobe of "
+    ],
+    "family_boons": {
+      "senya_boon": "Aperture of the Unmaker (Equipped)",
+      "arcann_boon": "Void-Cutter's Lens (Equipped)",
+      "thexan_boon": "Resonant Diplomacy Core (Equipped)",
+      "tene_boon": "Omniversal Index Shard (Equipped)",
+      "amona_boon": "The Ever-Bloom Seed (Planted/Estate)",
+      "dramath_boon": "Crown of the Reach-King (Equipped)"
+    },
+    "archive_status": "Static Omniversal Constant - Indestructible (Sanctuary Configuration / Eternal Silver Rain)",
+    "dramath_status": "Deceased (Natural Causes) / Memorialized as 'The Gardener'",
+    "second_heart_status": "Integrated - Sovereign Core Extension",
+    "regent_status": "Active / Lvl 1000",
+    "active_simulacrums": 1002,
+    "last_god_mode_action": "Reroll stabilization to 15 (Success)",
+    "active_defenses": [
+      "Wraiths of the Golden Lineage (Spirit Guardians)",
+      "Massassi Guardians",
+      "Biological Heart Siphon",
+      "Hybrid-Vong Biological Wards (Active)"
+    ],
+    "director_011_status": "Active / Submissive / Reporting",
+    "vong_consumption_stats": {
+      "remaining_thralls": 1000000000,
+      "consumed": 500000000,
+      "status": "Total Galactic Integration",
+      "estimated_count": 499079952,
+      "percent_integrated": 100,
+      "heads_integrated": [
+        "Belkadan World-Brain",
+        "Yammka's Pride Supreme Dhuryam",
+        "Sernpidal Node",
+        "Dubrillion Node",
+        "Helska Node"
+      ]
+    },
+    "cipher_shard_locations": {
+      "ziost_shard": "Stellar Core of New Ziost",
+      "rishi_maze_node": "Fortress of the Silent King",
+      "byss_fragment": "Republic Black-Site Alpha-9"
+    },
+    "discovered_threats": {
+      "the_rebuttal": {
+        "status": "Manifesting",
+        "threat_level": "Authorial Collapse",
+        "location": "Source Sanctum",
+        "name": "The Rebuttal (The Unwritten)"
+      },
+      "oubliette_visitor": {
+        "traits": [
+          "Sith Cipher Access",
+          "Biological Heartbeat Signature"
+        ],
+        "status": "Handshake Sequence Initialized",
+        "threat_level": "Unknown",
+        "location": "Shattered Oubliette",
+        "name": "The Tapper"
+      },
+      "rogue_simulacrum_011": {
+        "traits": [
+          "Judas-Resonant",
+          "Void-Eater Winter",
+          "Sovereign of Collapse Logic"
+        ],
+        "status": "Active / Seized Second Heart",
+        "threat_level": "Omniversal Schism",
+        "location": "Shattered Oubliette",
+        "name": "The Rogue Draft (Simulacrum 011)"
+      },
+      "second_heart": {
+        "status": "Active (Protocol Zero Initialized)",
+        "threat_level": "Universal Collapse",
+        "location": "Shattered Oubliette",
+        "name": "The Second Heart (Dark-Mirror)"
+      },
+      "static_schism": {
+        "status": "Active / Negotiating",
+        "threat_level": "Metaphysical",
+        "location": "Deep Core - Ark Prime",
+        "name": "The Static Schism"
+      },
+      "yuuzhan_vong_world_ship": {
+        "status": "Inhabited (Sovereign Asset)",
+        "threat_level": "Extinction",
+        "location": "Extra-Galactic Void / Outer Rim Fringe",
+        "name": "Yammka's Pride"
+      },
+      "outside_harvester": {
+        "traits": [
+          "Void-Engine of the First Order",
+          "Probability Siphon",
+          "Timeline Pruner"
+        ],
+        "status": "Consumed / Integrated",
+        "threat_level": "Omniversal",
+        "location": "Outside the Local Multiverse",
+        "name": "The Omni-Cull"
+      },
+      "the_shadow_siren": {
+        "traits": [
+          "Level 1000",
+          "Umbra-Resonant",
+          "Authorial Authority"
+        ],
+        "status": "Active / Peer",
+        "threat_level": "Authorial Parity",
+        "location": "Galaxy Gamma",
+        "name": "The Shadow-Siren"
+      }
+    },
+    "blind_spot_data": {
+      "nitrogen_analysis": "Probability-slurry saturation; Authorial Intent suppression active.",
+      "current_threat": "The Rebuttal (Source Manifestation)",
+      "path_stability": "Anchored (Triumvirate Nodes)",
+      "engine_status": "Spontaneous Compilation Active"
+    },
+    "static_schism_status": "Resolved / Resonant Alliance",
+    "success_streak": 0,
+    "npc_agendas": {
+      "npc_senya_001": {
+        "current_goal": "Establishment of the Inquisitorial Code",
+        "next_milestone": "Sovereign-Exempt Law Implementation",
+        "progress_percentage": 40,
+        "blocking_factors": [
+          "Scion Discipline"
+        ]
+      },
+      "npc_arcann_001": {
+        "current_goal": "Establishing Independent Military Hegemony",
+        "next_milestone": "Command Divergence",
+        "progress_percentage": 15,
+        "blocking_factors": [
+          "Sovereign Audit",
+          "Confederation Logistics"
+        ]
+      },
+      "npc_thexan_001": {
+        "current_goal": "Harmonizing the Independent Reality with the Loom",
+        "next_milestone": "Schism Formalization",
+        "progress_percentage": 65,
+        "status": "Stabilized by Regent / Reclaiming Arks",
+        "blocking_factors": [
+          "Resource Tethers"
+        ]
+      }
+    },
+    "antagonist_data": {
+      "faction_yuuzhan_vong": {
+        "traits": [
+          "Force-Dead: Immune to all direct Force-based manipulation and tracking",
+          "Organic Mastery: Technology cannot be sliced or telekinetically crushed"
+        ],
+        "status": "Invasive",
+        "threat_level": "Extinction"
+      },
+      "npc_judas_001": {
+        "name": "Judas (The Shattered Apostle)",
+        "string_id": "npc_judas_001",
+        "status": "Amalgamated into Sovereign Core",
+        "role": "Anti-Sovereign",
+        "special_traits": [
+          "Force Immunity: Total",
+          "Inverse Resonance: Can reflect Sovereign powers back at Nocturne",
+          "Soul-Shatter: Attacks deal damage directly to integrated essence pool"
+        ],
+        "level": 65
+      }
+    },
+    "campaign_phase": "The Final Draft",
+    "nocturne_status": "Sovereign of the Infinite (Anchored Level 20)",
+    "sparring_protocol_active": false,
+    "imperial_structure": "Sovereign Confederation",
+    "triumvirate_status": "Anchored to Level 20",
+    "vitiate_status": "Reconciled Father / God-Architect (Lvl 50)",
+    "betrayal_resonance_active": true,
+    "attribute_system": "D&D",
+    "rogue_simulacrum_011": {
+      "status": "Compromised / Intent-Stack Overflow",
+      "intent": "Introduce True Randomness"
+    },
+    "display_preferences": {
+      "show_real_level_in_header": true
+    },
+    "entropic_integration_phase": "Complete - Sovereign of the End Established",
+    "loom_status": "Stabilized / Integrated into Sovereign Core",
+    "kill_switch_status": "Removed",
+    "reactivity_profile": {
+      "mercenary_contract_availability": "active",
+      "world_responsiveness": "maximum",
+      "imperial_oversight": "direct",
+      "npc_initiative_frequency": "high"
+    },
+    "entropic_wave_status": "Fully Integrated (Mind) / Vented (Energy)",
+    "omiversal_status": "Dual-Regency Established (Infinite & Umbra)",
+    "gaze_of_the_dragon_points": 3,
+    "active_simulacrums_status": "1000 active (Parallelized across 4 primary task phalanxes)",
+    "omniversal_constant": "Author Era Stabilized",
+    "medriaas_kin_status": "Restored / Estate of the Pines Secured",
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "initiative_order": [],
+    "in_combat": true,
+    "combatants": {
+      "npc_senya_001": {
+        "hp_current": 880,
+        "hp_max": 1000,
+        "status": "Uplifted Deity (Level 50) / Yielded"
+      },
+      "npc_massassi_guardian_beta": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": "Permanently Bound to the Heart (Nocturne's Will)"
+      },
+      "npc_massassi_ghost_2": {
+        "hp_current": 15,
+        "hp_max": 30,
+        "status": "Dominated, Empowered by Death"
+      },
+      "npc_arcann_001": {
+        "hp_current": 1000,
+        "hp_max": 1000,
+        "status": "Uplifted (Lvl 50) / God-Marshal"
+      },
+      "npc_thexan_001": {
+        "hp_current": 1000,
+        "hp_max": 1000,
+        "status": "Uplifted (Lvl 50) / Sovereign of the Arks"
+      },
+      "npc_massassi_ghost_3": {
+        "hp_current": 25,
+        "hp_max": 30,
+        "status": "Dominated, Empowered by Death"
+      },
+      "npc_massassi_guardian_alpha": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": "Permanently Bound to the Heart (Nocturne's Will)"
+      },
+      "npc_unmade_echo_swarm": {
+        "hp_current": 120,
+        "hp_max": 200,
+        "status": "Engaged by God-Marshal"
+      }
+    }
+  },
+  "last_state_update_timestamp": "2025-12-20 22:05:00.441000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 30,
+    "timestamp_iso": "2025-12-21T06:00:00.000000Z",
+    "hour": 16,
+    "time_of_day": "Afternoon",
+    "day": 15,
+    "year": 217834,
+    "month": "Nelona"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {
+    "npc_senya_001": {
+      "current_goal": "Tempering the Inquisitorial Code with Mercy",
+      "status": "Stabilized / Reconciled",
+      "progress_percentage": 100,
+      "next_milestone": "The Silence Watch",
+      "completed_milestones": [
+        "Establishment of the Inquisitorial Code",
+        "Maternal Reconciliation"
+      ],
+      "blocking_factors": [
+        "High Templar Coordination"
+      ]
+    },
+    "npc_arcann_001": {
+      "current_goal": "Outer Rim Perimeter Maintenance",
+      "status": "Stable / Independent Marshal",
+      "progress_percentage": 100,
+      "next_milestone": "Intergalactic Perimeter Establishment",
+      "completed_milestones": [
+        "Outer Rim Purge",
+        "Vong-Hybrid Fleet Integration"
+      ],
+      "blocking_factors": [
+        "Sovereign Oversight"
+      ]
+    },
+    "npc_thexan_001": {
+      "current_goal": "New Core Reconciliation",
+      "status": "Stable / Grand Vizier",
+      "progress_percentage": 100,
+      "next_milestone": "Core Unification Decree",
+      "completed_milestones": [
+        "Ark Stabilization",
+        "Great Reconciliation Finalization"
+      ],
+      "blocking_factors": [
+        "Logistic Bottlenecks"
+      ]
+    }
+  },
+  "world_resources": {
+    "last_note": "HD: 1000/1000, Spells: Source Tier (Infinite), Simulacra: 1002 Active (Regent & Shadow-Siren)"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "checkpoint_block": "[CHECKPOINT BLOCK:]\nSequence ID: 370 | Location: Coruscant - Grand Vizier's Suite\nMissions: The Great Silence; Sovereign Audit (Internal)\n",
+  "blind_spot_data": {
+    "nitrogen_analysis": "Probability-slurry confirmed as 'nitrogen' for the Engine",
+    "current_threat": "Randomness Engine Overload",
+    "path_stability": "Anchored (Entropic)",
+    "regulator_status": "Located - Rhythmic Frequency (1.618s) identified"
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "active_entities": [
+      {
+        "string_id": "npc_thexan_001",
+        "status": "Independent Sovereign / Grand Vizier",
+        "role": "Sovereign of the Arks",
+        "location": "Medriaas - The Gardener's Sanctuary",
+        "name": "Thexan"
+      },
+      {
+        "string_id": "npc_vitiate_001",
+        "status": "Resurrected / God-Architect (Lvl 50)",
+        "role": "The Architect",
+        "location": "Medriaas - The Gardener's Sanctuary",
+        "name": "Tenebrae"
+      },
+      {
+        "string_id": "npc_amona_001",
+        "status": "Resurrected / Divine Anchor (Level 20)",
+        "role": "Grandmother / Maternal Anchor",
+        "location": "Medriaas - The Gardener's Sanctuary",
+        "name": "Amona"
+      }
+    ]
+  }
+}

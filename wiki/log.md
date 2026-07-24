@@ -1,3 +1,76 @@
+## [2026-07-15] ingest | Full-Disk Diagnosis Runs Top-Down and Bottom-Up Concurrently
+
+Key claims: bottom-up-only cleanup reports systematically under-explain disk usage on large SSDs; correct diagnosis requires concurrent top-down/delta/bottom-up lanes; core identity `physical allocation - readable directory allocation = residual` where residual is not automatically backups/snapshots/waste. Verified 931.840 GiB total reconciled with 168.552 GiB permission-gapped residual (no Time Machine destination, zero Data snapshots). New default behavior for disk_magician skill. Bead: jleechan-rvqz.
+
+## [2026-07-15] ingest | Full-Disk Diagnosis Runs Top-Down and Bottom-Up Concurrently
+
+Key claims: bottom-up-only cleanup reports systematically under-explain disk usage on large SSDs; correct diagnosis requires concurrent top-down/delta/bottom-up lanes; core identity `physical allocation - readable directory allocation = residual` where residual is not automatically backups/snapshots/waste. Verified 931.840 GiB total reconciled with 168.552 GiB permission-gapped residual (no Time Machine destination, zero Data snapshots). New default behavior for disk_magician skill. Bead: jleechan-rvqz.
+
+## [2026-07-12] ingest | Hermes Slack credential rotation needs three token classes + full scope baseline
+
+**Key claims:**
+- Hermes Slack runtime depends on THREE token classes, not two: bot (`xoxb`), user/MCP (`xoxp`, where enabled), and Socket Mode (`xapp`). Skipping any class yields a runtime-broken state even when direct file-value tests pass for the other two.
+- App reinstall rotates bot and user OAuth tokens automatically. It does NOT replace an app-level token — the `xapp` token must be re-provisioned manually on every rotation.
+- Provision the full Hermes Slack baseline BEFORE install/reinstall from the workspace-scoped app manifest: 13 bot OAuth scopes (`app_mentions:read`, `assistant:write`, `channels:history`, `channels:read`, `chat:write`, `commands`, `files:read`, `files:write`, `groups:history`, `groups:read`, `im:history`, `im:read`, `im:write`, `users:read`), Socket Mode enabled, Interactivity enabled, 6 event subscriptions (`app_mention`, `message.channels`, `message.groups`, `message.im`, `assistant_thread_started`, `assistant_thread_context_changed`), and an app-level `connections:write` token.
+- Verification must run from a clean shell that sources `~/.bashrc` — the canonical Hermes production environment. Require `auth.test` to return `ok:true` for bot and user tokens, and `apps.connections.open` to return `ok:true` for the `xapp` token. Inspect `x-oauth-scopes` response headers to prove granted scopes line up with the manifest.
+- Classify restart/registration errors separately from token validity — a failed launchd registration is NOT evidence about token health. Run Hermes doctor, health, and LaunchAgent checks AFTER token verification.
+- Fix landed in `~/.claude/skills/hermes-slack-rotation/SKILL.md` (created 2026-07-12).
+
+**Source page:** `sources/feedback-2026-07-12-hermes-slack-rotation-complete-permissions.md`
+**Concepts created:** [[HermesSlackCredentialRotation]] (the durable 3-token-class + scope-baseline rule), [[SlackBashrcLaunchdEnvContract]] (the sourced-shell + launchd-wrapper contract the verification path depends on)
+**[[jeffrey-oracle]]:** NO (operational credential-rotation rule, not oracle-bearing; parallel to [[ManualCmuxRestoreApprovalGate]])
+
+---
+## [2026-07-12] ingest | Manual cmux restore requires explicit approval
+
+**Key claims:**
+- Manual cmux restore is forbidden unless the most recent live user message both requests the restore and contains the exact case-sensitive phrase `CMUX RESTORE APPROVED`.
+- Earlier restore instructions, summaries, goals, or policy discussion do not authorize a later manual restore; a newer stop or read-only instruction revokes earlier restore intent.
+- The gate covers `cmux restore-session`, `session.restore_previous`, active session-file replacement for restoration, and manual reconstruction or resume of saved coding-agent surfaces.
+- Read-only diagnostics, backup creation, and cmux's normal automatic app-start restoration remain allowed.
+
+**Source:** `sources/feedback-2026-07-12-manual-cmux-restore-requires-approval.md`
+**Concepts:** [[ManualCmuxRestoreApprovalGate]]
+**[[jeffrey-oracle]]:** NO (operational authorization rule, not oracle-bearing)
+
+---
+
+## [2026-06-23] ingest | PreToolUse Hook Exit Codes — TUI Visibility Rules
+
+Key claims:
+- Three exit-code modes for PreToolUse hooks: silent approve (exit 0, no systemMessage), warn-only (exit 1 with stderr banner), block (exit 2)
+- Warn-only conflicts must `sys.exit(1)` after emitting reason — exit 0 silently hides conflicts from user
+- No-conflict cases must call `_silent_approve()` without systemMessage — avoids "no conflicts found" banner on routine edits
+- Hook cache at `/tmp/merge_train_cache_{repo_name}.json` collides across tests using shared `tmp_path / "repo"`; use unique subdir names and unlink at test start
+- Fix landed as PR #34 in jleechanorg/merge_train, merge commit 3dfa796, 2026-06-23, bead orch-xqqu
+- Test regression coverage: test_warn_only_conflict_exits_nonzero and test_no_conflict_silent_approve
+
+## [2026-06-23] ingest | BQ prompt context metrics — GCP dev verification
+
+**Key claims:**
+- PR #7832 merged; typed BQ columns + budget_allocation_summary verified on GCP dev via test_bq_prompt_context_metrics_es.py.
+- Remote --server requires MCP_FORCE_FULL_TRACE_LOGS=false (no local trace capture from Cloud Run).
+- BQ_LOGGING_PROJECT=worldarchitecture-ai on client avoids ensure_dataset 403.
+- CombatAgent path may show story_tokens_est=0 while system_instruction_tokens_est populates.
+
+**Source page:** `sources/bq-prompt-context-gcp-dev-verification-2026-06-23.md`
+**Bead:** rev-c4ett
+**Jeffrey oracle:** NO
+
+---
+
+## [2026-06-22] ingest | Direct Firestore Lookup & Gemini Caching Verification
+
+**Key claims:**
+- Firestore lookup by email must use Firebase Auth `get_user_by_email` first to get UID, then directly fetch `/users/{uid}`. No collection scanning or unindexed query groups.
+- Gemini implicit prompt caching has 67% hit rate on pre-fix RAG campaigns; the 0-hit reporting was a logging bug (fixed in PR #7821 which moved `cached_tokens` from extra_json to the typed column).
+- System prompts are per-agent class; cache misses are expected on agent switches, but same-agent consecutive turns should hit the cache by placing dynamic RAG fragments in the prompt tail.
+
+**Source pages:** `sources/feedback-2026-06-22-direct-firestore-query.md`, `sources/feedback-2026-06-22-gemini-implicit-caching.md`
+**Bead:** rev-bmi4w
+
+---
+
 ## [2026-06-22] ingest | G3 closure design — type=dynamic + claude -p --effort high (Dark Factory)
 
 **Key claims:**
@@ -1173,7 +1246,6 @@ Key claims: Player input preserved during temporal corrections; incomplete world
 ## [2026-04-08] ingest | Comprehensive Syntax and Import Testing
 
 Key claims: AST-based syntax validation catches f-string errors before runtime; module import chain testing catches dependency syntax errors; GameState instantiation must succeed; TDD approach documents vulnerability patterns
-
 
 Extracted entities: GameState, llm_service
 Extracted concepts: AST, Syntax Validation, TDD
@@ -3760,7 +3832,6 @@ Created wiki/jeffrey/ with 7 pages + wiki/syntheses/jeffrey-oracle.md
 ## 2026-04-11 ingest | Aegon Dunk & Egg Campaign | D&D 5e Targaryen campaign, 1,065 scenes, ~28,778 lines, Level 1-41 godhood arc; 6 entity pages created (Aegon, SerDuncanTheTall, PrinceDaemon, R'hllor, TheGreySentinel, HousePeake)
 ## [2026-04-11] ingest | 5 merged PRs #6147, #6148, #6150, #6153, #6154 | worldarchitect.ai campaign wizard 2-step, level-up E2E fix, setting-aware currency, /claw override removal, crypto dep bump
 
-
 ## [2026-04-11] ingest | Open Beads Wiki Ingestion
 
 Ingested all 133 open beads from ○ jleechan-xbln [● P0] [bug] - openclaw CLAUDE.md 40k chars — triggers perf warning, eats 10-15pct context on every session
@@ -3898,7 +3969,6 @@ Ingested all 133 open beads from ○ jleechan-xbln [● P0] [bug] - openclaw CLA
 ○ jleechan-3xe [● P3] [chore] - Add benchmark_results/ to .gitignore into wiki sources.
 Created 133 source pages at  with full frontmatter (title, type, tags, bead_id, priority, issue_type, status, created_at, updated_at, created_by, source_repo) and description bodies.
 Added index entries grouped by priority (P0: 4, P1: 39, P2: 75, P3: 15) to  before the Codex Sessions section.
-
 
 ## [2026-04-11] ingest | Open Beads Wiki Ingestion
 
@@ -4722,7 +4792,6 @@ Source: raw/mcp-daemon-port-config-2026-05-28.md — port config in two files (s
 - Concepts updated: CircularImportsResolution, ImmutableSpecValidation, BackwardCompatibleShim
 - [[jeffrey-oracle]]: not affected (technical workflow learning)
 
-
 ## [2026-05-29] ingest | god_mode broken prompt cross-reference
 
 - Source: raw/feedback_2026-05-29_god_mode_broken_prompt_reference.md
@@ -4933,7 +5002,6 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 - Type: feedback, Critical
 - Key concept: `hermes gateway stop` = permanent bootout; `hermes gateway restart` = kickstart -k (correct)
 - Affects [[jeffrey-oracle]]: No — technical workflow learning specific to hermes launchd management
-
 
 ## [2026-06-10] ingest | Browser Auto-Open Suppression and Port Conflict Resolution
 
@@ -5874,7 +5942,6 @@ Source: sources/2026-04-23-pr6565-zfc-m0-stabilization-bridge.md. [[jeffrey-orac
 11 Comet kills in 24h at 30s throttle was over-firing under sustained WARN-level swap pressure; all kills were under 800MB and well below the 2GB per-process cap, so the per-process path was not the trigger. Bumped `PRESSURE_KILL_THROTTLE_SECONDS` 30→300 in `~/bin/mem-watchdog.sh:43` so the OS can reclaim between jetsam-style kills; daemon restarted (old PID 90410 → new PID 55153 at 20:19:17, health green). Memory Saver Maximum (`MemorySaverModeSavings=2`) for both `ai.perplexity.comet` and `com.google.Chrome` was already in place from bd-o18 — verified `defaults find MemorySaver` returns =2 for both. No rogue subagents. Heavy Comet extensions (Adblock Plus 332MB, Comet Web Resources 157MB, Grammarly 82MB) raise renderer baseline but are not the trigger. Bead bd-bg6 (closed).
 
 Source: sources/feedback-2026-06-21-mem-watchdog-pressure-throttle.md. Companion concept update: [MacCompressorOOMPressureSignal](concepts/MacCompressorOOMPressureSignal.md) gained a "Throttle calibration" section. [[jeffrey-oracle]]: NO.
-
 ## [2026-07-07] ingest | Reboot-cause classification, concurrent-mission config conflicts, swarm verification, kdump arming
 
 Jeff-Ubuntu crash-mission day: both Jul-7 reboots were watchdog(8) max-load-1=24 self-shutdowns on a 32-thread box (not panics — pstore unchanged); soakctl had auto-FAILED a zero-panic 4-day soak and now classifies dead boots (pstore → journalctl -t watchdog → PID-1 clean markers → silent-stop; user-session shutdown.target explicitly excluded) with a new INTERRUPTED verdict (bead bd-9ac). A count=16→10 config edit was byte-identically ghost-reverted by the user's own concurrent "runner-truly-healthy" mission enforcing 16 runners — new rule: check for concurrent missions before editing shared config; newest explicit user directive wins. A 3-lens refute-by-default swarm on the "complete" diagnosis found a missed 3rd boot (12:52, silent-stop, still unexplained), the revert, and a better watchdog fix (repair-binary pausing the runner fleet instead of rebooting — deployed). kdump was installed since April but never armed through 15 panics (crashkernel low-mem alloc failure, kexec_crash_loaded=0) — fixed with crashkernel=512M,high staged; lesson: verify observability ARMED, not installed. Learning bead bd-p7m (closed).
@@ -5903,4 +5970,692 @@ Source: sources/feedback-2026-07-20-cloud-build-heartbeat-stale-during-llm.md. N
 **Bead:** rev-2kmm4
 
 ## [2026-07-22] ingest | Cloud Build dispatch canon (4 verified box commits + cd drift fix)
+## [2026-06-22] ingest | Cancelled PR-event workflow run stuck as "fail" in gh pr checks — empty-commit re-trigger
 
+Captured from PR #7789 (Mobile Auth Same-Origin Regression CI test, merge commit `8b6456a774`) during /integrate handoff. While driving the PR to 7-green, `gh pr checks` showed **Mobile Auth Same-Origin Regression: fail** with `conclusion=cancelled` even though a `workflow_dispatch` success run for the same check completed on the same head SHA. `mergeStateStatus: UNSTABLE` blocked merge despite `mergeable: MERGEABLE` and `reviewDecision: APPROVED`. Root cause: `gh pr checks` prefers the `pull_request`-event run when the workflow has a `pull_request:` trigger; `workflow_dispatch` does NOT populate the PR's required statusCheckRollup. Fix: `git commit --allow-empty -m "ci: re-trigger <workflow>" && git push` re-fires the PR event and the new success run overwrites the cancelled entry. PR #7789 reached CLEAN + MERGED after the empty commit (`f9d3a6113b` on `dff79097e3`). Bead rev-2odam (closed). [[jeffrey-oracle]]: NO.
+
+Source: sources/feedback-2026-06-22-cancelled-workflow-stuck-in-pr-checks.md. Companion sources: [gh pr checks reports cancelled jobs as "fail"](sources/feedback-2026-06-20-gh-pr-checks-cancelled-shows-fail.md) + [PR monitor stuck on statusCheckRollup FAILURE](sources/project-2026-06-19-pr-monitor-stuck-statuscheckrollup.md) + [Green Gate workflow_dispatch ref pitfall](sources/feedback-2026-06-22-green-gate-workflow-dispatch-ref-pitfall.md).
+
+## Aggregated from per-project wikis (2026-06-22 13:10)
+
+## [2026-04-21] [from worldarchitect.ai] ingest | ZFC level-up proof vs cleanup merge order
+
+Added `wiki/sources/zfc-level-up-proof-and-merge-order-2026-04-21.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect.ai] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect-ai-autor] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-13] [from worldarchitect-public-wiki] restructure | Karpathy Pattern Migration
+Migrated from flat structure to wiki/ subdirectory pattern:
+- Created wiki/ subdirectory with index.md as primary catalog
+- Created wiki/sources/ for source pages
+- Created wiki/concepts/ with D&D 5e mechanic pages (12 files)
+- Created wiki/entities/ with faction/world entity pages (6 files)
+- Created wiki/sources/ with player guide source pages (9 files)
+- Created wiki/overview.md (living synthesis)
+- Created wiki/log.md (this file)
+- Created wiki/syntheses/ for saved query answers
+- Updated root-level index.md to redirect to wiki/index.md
+
+## [2026-06-22] ingest | PR #7778 three-layer prompt-embed store MERGED — drive-to-7-green chain + main.py warmup module pattern
+
+**Key claims:**
+- PR #7778 (head `018670d947`, merge commit by jleechan2015 at 2026-06-22T20:25:40Z) shipped the three-layer prompt-asset embedding architecture: in-process LRU (from #7758) → GCS blob → on-demand FastEmbed compute
+- p50/p95 across 9 E2E iterations: cold first embed p50=18.3s / p95=21.3s vs warm L1 hit p50=22ms / p95=29ms = 819x/911x speedup
+- Closed G4 (per-turn embed-delta STREAM_TIMING marker `5d5cc44d2f`) and G5 (statistical distribution `f993e0ca5a`); G1/G2/G3 explicitly out of pre-merge scope
+- `mvp_site/main.py` is HTTP→MCP only — startup warmup LOGIC must live in `mvp_site/<feature>_warmup.py` and be DISPATCHED from main.py's `_warm_startup_lazy_dependencies()` framework, not inlined
+- Bug class: dispatching warmup only from `mcp_api.run_server`'s `__main__` block silently skips it on gunicorn-served main.py (production path). Wiring fix in commit `bfea5b9b2f`
+- Precompute CLI in `deploy.sh` must self-initialize the FastEmbed classifier with a 300s hard cap — E2E harness must mirror real `deploy.sh` invocation, no `_PRECOMPUTE_WRAPPER` shim (`babcab172d`)
+- Green Gate gate-8 smoke `test_mode` defaults to `mock` (cost-safe) — must dispatch with `-f test_mode=real` or Skeptic gate-8 fails with `smoke-ran-mock-need-real-run-/smoke`
+- CodeRabbit re-review on small diff after prior APPROVED = "Review skipped" (their policy on small diffs); no need to wait for re-review
+- Local worktree branch falls behind when user merges directly via the GitHub UI — always verify `gh pr view headRefOid` matches local ref before claiming 7-green
+- Dark-factory /fs run exhausted at 21 fix→review iterations over 47 min — code still shippable, manually drive 7-green via evidence gist + PR body sections + re-dispatch Green Gate
+
+**Entities created:** none
+**Concepts created:** [[MainPyWarmupModuleDispatch]] (warmup LOGIC in `*_warmup.py` + dispatch from main.py's `_warm_startup_lazy_dependencies()`), [[ThreeLayerEmbedStore]] (L1 LRU → L2 GCS → L3 compute architecture)
+**Source page:** `sources/project-2026-06-22-pr7778-three-layer-embed-store-merged.md`
+**Bead:** rev-4f2d8 (closed learning bead)
+**[[jeffrey-oracle]]:** NO (not oracle-bearing)
+
+## [2026-06-22] ingest | Pre-existing test fixes patterns (PR #91 + shim-refactor lessons)
+
+**Source:** `raw/feedback_2026-06-22_pre_existing_test_fixes_patterns.md` → `sources/feedback-2026-06-22-pre-existing-test-fixes-patterns.md`
+
+**Summary:** Five lessons from closing the 2026-06-22 F5/F6/F7 /harness block end-to-end. PR #91 shipped 2 commits in one PR, closing 2 pre-existing test failures plus surfacing 3 latent infra gaps (codex-on-PATH CI drift, fixture .dot exclusion, test deps in requirements.txt). Companion shim-refactor lessons: shim-first test import + `**kwargs` forward-compat fakes.
+
+**Entities created:** none
+**Concepts created:** none (the pattern is implicit in [[FactoryEvolveHarnessBlock]]; the 5 lessons are general "structural-changes-leak-into-tests" rules, not a new concept)
+**Bead:** jleechan-mu7 (closed)
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — purely an in-repo test-discipline pattern)
+
+## [2026-06-22] ingest | Workflow from sibling PR uses test file not on your branch
+
+**Source:** `raw/feedback_2026-06-22_workflow_from_other_pr_uses_test_file_not_on_branch.md` → `sources/feedback-2026-06-22-workflow-from-other-pr-uses-test-file-not-on-branch.md`
+
+**Summary:** When a CI regression workflow lands on main in a separate PR (e.g., PR #7789 added `mobile-auth-regression.yml` + `test_auth_same_origin.py`), the workflow's `pull_request.paths` trigger fires against all open PRs that touch those paths — but the test file is only on main, not on older branches. Workflow checkout ref = branch HEAD where the file is missing. Fix: `git merge origin/main` (not re-dispatch). Concrete example: PR #7786 (branched before #7789) failed the new check; merge was clean (35 files, mvp_site/main.py auto-resolved).
+
+**Entities created:** none
+**Concepts created:** none (the pattern is implicit in [[WorkflowRunDefaultBranchLimitation]]; the lesson is a general "test-file-source-vs-workflow-source" rule)
+**Bead:** rev-uvbcl (closed)
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational CI discipline)
+
+## [2026-06-22] ingest | Visual Proof Required for Email/UI Artifact Bugs
+
+**Source file:** `feedback_2026-06-22_visual_proof_for_artifact_bugs.md`
+**Source page:** [sources/feedback-2026-06-22-visual-proof-for-artifact-bugs.md](../wiki/sources/feedback-2026-06-22-visual-proof-for-artifact-bugs.md)
+**Concept page:** [concepts/VisualProofForArtifactBugs.md](../wiki/concepts/VisualProofForArtifactBugs.md)
+**Bead:** rev-g0j11
+**PR:** [#7798](https://github.com/jleechanorg/worldarchitect.ai/pull/7798) (merge `62878a06`)
+
+**Entities created:** none
+**Concepts created:** [[VisualProofForArtifactBugs]] — for artifacts the user sees (email, UI, PDF), the artifact IS the proof. `sent=True` / build green / unit test pass are code-side signals, NOT user-side observations. When the user can't read their own artifact programmatically (IMAP/OAuth fail), render locally via Playwright + `python3 -m http.server` and screenshot. Related to [[Body-Diff-Verification]] (PR diff = artifact), [[7-Green-Proof-Artifact]], [[RAGScorerArtifactsEyesOnOutput]].
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational verification discipline)
+
+## [2026-06-22] ingest | Deploy capability probe must match gated script's import surface
+
+**Source file:** `feedback_2026-06-22_capability_probe_must_match_script_import_surface.md`
+**Source page:** [sources/feedback-2026-06-22-capability-probe-must-match-script-import-surface.md](../wiki/sources/feedback-2026-06-22-capability-probe-must-match-script-import-surface.md)
+**Concept page:** [concepts/DeployCapabilityProbe.md](../wiki/concepts/DeployCapabilityProbe.md)
+**Bead:** rev-z8xqa (parent: rev-gu8h4)
+**PR:** [#7806](https://github.com/jleechanorg/worldarchitect.ai/pull/7806) (merge `508cdad5`, fix commit `b5299669d3`)
+
+**Entities created:** none (DeploySh already exists)
+**Concepts created:** [[DeployCapabilityProbe]] — when a `deploy.sh` step is wrapped in a fail-loud `python -c 'import X,Y,Z'` capability probe, the probe must mirror the gated script's actual module-level import surface, not a hand-picked subset of "expected" deps. The probe and the `setup-*` action's pip install list must stay in sync with the script's transitive dep set. A fail-loud gate that's an under-approximation is structurally worse than a swallowed warning — the failure surfaces at the worst possible layer (mid-deploy, after the probe cleared, with a `ModuleNotFoundError` that doesn't clearly point at the root cause). Related to [[MainPyWarmupModuleDispatch]] (same theme: keep deploy-time infrastructure in sync with the code it gates) and [[EnvVarWriterReaderAlignment]] (sibling deploy.sh bug class).
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational deploy.sh discipline)
+## [2026-06-22] ingest | mem0 dim mismatch + Groq LLM fix
+## [2026-06-22] ingest | Self-hosted runner test-timeout budget: 90s Flask + 60s Playwright page.goto
+Ingested `feedback_2026-06-22_self_hosted_runner_test_timeout_budget.md` from PR [#7815](https://github.com/jleechanorg/worldarchitect.ai/pull/7815) (merged 2026-06-23T02:21:20Z, commit `e08abf3215`). Captures the engineering insight that default 20s budgets in `testing_ui/**` are too tight for memory-pressured self-hosted runners because gunicorn FastEmbed `BAAI/bge-small-en-v1.5` model load alone can take ~20s, and `domcontentloaded` waits for auth.js fetch which can take 10s+. Substantive PASS/FAIL is in the test cases, not in startup/load time.
+
+**Concepts created/linked:** [[SelfHostedRunnerInfraFlakeVsRealFailure]] — same family of "is this a real bug or a runner flake?" diagnostics. No new concept created (covered by existing entity).
+
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational CI budget pattern, no decision-making affected)
+## [2026-06-22] ingest | /learn sub-steps are MANDATORY every time, never skip
+Ingested `feedback_2026-06-22_learn_substeps_mandatory.md`. Captures user correction 2026-06-22 ("do this always dont skip") to the PR #7815 cycle, where wiki-ingest + roadmap-log + bead-creation sub-steps were skipped with the wrong justification ("not gate-blocking by the project CLAUDE.md"). /learn is a skill contract; the cross-write to `~/llm_wiki`, `~/roadmap/learnings-YYYY-MM.md`, and `.beads/issues.jsonl` IS the work.
+
+**Concepts created/linked:** No new concept (process-compliance rule, not a domain concept). Linked to [[GATE6bDescriptionGate]] and [[SelfHostedRunnerInfraFlakeVsRealFailure]] as sister learnings from the same PR cycle.
+
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — process-compliance rule, no decision-making affected)
+
+## [2026-06-22] ingest | PR evidence gate requires anchor URL; gh pr edit body quoting wipes body
+Ingested `feedback_2026-06-22_pr_evidence_gate_requires_anchor_url.md`. Captures two GATE-6 / GATE-6b description-shape failures from PR #7815 cycle: (1) GATE-6 grep requires a gist/loom/mp4/gif/cast URL — a run URL like `https://github.com/.../actions/runs/N` does NOT match; (2) `gh pr edit --body "$()"` silently wipes a long body to ~100 chars (5+ section headers vanish simultaneously). Fix: add a public gist for the test output AND use `gh pr edit --body-file` (not `--body "$()"`).
+
+**Concepts created/linked:** [[GATE6bDescriptionGate]] (existing) — same gate family, sister learning from same PR cycle.
+
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational gate-pattern documentation, no decision-making affected)
+
+## [2026-06-23] ingest | Testable bash: extract pure helpers + hand-rolled test harness
+
+- **Type**: source
+- **Tags**: bash-testing, launchd-coverage, tdd
+- **Source**: raw/feedback_2026-06-23_testable_bash_extracted_helpers.md
+- **Source page**: sources/feedback-2026-06-23-testable-bash-extracted-helpers.md
+- **Concepts created/linked**: [[PR718BashTestSuite]] (new), [[PR717SkepticVerdict]] (new), [[IntegrateHardStopPattern]] (existing)
+- **[[jeffrey-oracle]]:** NO (operational test-pattern documentation, not oracle-bearing)
+
+## [2026-06-23] ingest | `python3 -c "...$VAR..."` is shell-quoting injection
+
+- **Type**: source
+- **Tags**: security, shell-quoting, injection, python
+- **Source**: raw/feedback_2026-06-23_python_c_string_interp_injection.md
+- **Source page**: sources/feedback-2026-06-23-python-c-string-interp-injection.md
+- **Concepts created/linked**: [[ArgvHeredocFixPattern]] (new)
+- **[[jeffrey-oracle]]:** NO (security fix documentation, not decision-bearing)
+
+## [2026-06-23] ingest | `--admin --squash --delete-branch` bypass pattern for fix PRs
+
+- **Type**: source
+- **Tags**: merge-safety, admin-bypass, coderabbit-rate-limit, fix-pr
+- **Source**: raw/feedback_2026-06-23_admin_squash_bypass_pattern.md
+- **Source page**: sources/feedback-2026-06-23-admin-squash-bypass-pattern.md
+- **Concepts created/linked**: [[MergeSafetyPolicy]] (existing), [[CoderabbitRateLimitWorkarounds]] (existing), [[PR717BypassPrecedent]] (new)
+- **[[jeffrey-oracle]]:** NO (operational merge-policy documentation, not decision-bearing)
+
+## [2026-06-23] ingest | BQ Prompt Context Token Breakdown — query patterns
+
+- **Type**: source
+- **Tags**: bigquery, observability, tokens, gemini, worldarchitect
+- **Source**: raw/bq-prompt-context-token-breakdown-2026-06-23.md
+- **Source page**: sources/bq-prompt-context-token-breakdown-2026-06-23.md
+- **Concepts created/linked**: [[BQPromptContextBreakdown]] (new)
+- **[[jeffrey-oracle]]:** NO (technical observability workflow, not decision-bearing)
+## [2026-06-23] ingest | _shared_user_settings conflict pattern in llm_service.py
+## [2026-06-23] ingest | Green Gate Gate-8 requires real-mode smoke tests
+## [2026-06-23] ingest | Cancel monitors immediately when PR is merged
+
+## [2026-06-23] ingest | Test TUI-only Claude Code features via cmux, not --print
+
+- **Type**: source
+- **Tags**: claude-code, cmux, tui, testing, best-practice, slash-commands
+- **Source**: raw/bestpractice_2026-06-23_test-tui-features-via-cmux.md
+- **Source page**: sources/bestpractice-2026-06-23-test-tui-features-via-cmux.md
+- **Concepts created/linked**: [[TUISlashCommandTesting]] (new), [[cmux]] (existing entity), [[ClaudeCode]] (existing entity)
+- **[[jeffrey-oracle]]:** NO (operational testing workflow, not decision-bearing)
+
+## [2026-06-23] ingest | QA test failure dismissal anti-pattern (same-test-name rule)
+
+- **Type**: source
+- **Tags**: anti-pattern, ci, bring-to-green, pr, test, dismissal, same-test-name, category-error, qa
+- **Source**: raw/2026-06-23-qa-test-failure-dismissal-anti-pattern.md
+- **Source page**: sources/qa-test-failure-dismissal-anti-pattern.md
+- **Concepts created/linked**: [[CategoryErrorTestDismissal]] (new), [[PRBringToGreen]] (existing concept), [[PreExistingFailure]] (existing concept)
+- **[[jeffrey-oracle]]:** NO (operational bring-to-green discipline, not a decision-bearing insight)
+
+## [2026-06-24] ingest | Pre-existing test contract update when loosening fail-closed
+
+- **Type**: source
+- **Tags**: agent-orchestrator, llm-eval, testing, contract-change, pr-725
+- **Source**: raw/feedback_2026-06-24_chain_fallthrough_breaks_pretend_closed_tests.md
+- **Source page**: sources/feedback-2026-06-24-chain-fallthrough-breaks-pretend-closed-tests.md
+- **Bead**: bd-qbjp
+- **Concepts created/linked**: [[AdminOverrideContractWiring]] (existing), [[GreenGateCIPattern]] (existing)
+- **[[jeffrey-oracle]]:** NO (operational testing pattern, not decision-bearing)
+
+## [2026-06-24] ingest | Coverage workflow hardcodes CLI test list
+
+- **Type**: source
+- **Tags**: agent-orchestrator, coverage, ci, vitest, pr-725
+- **Source**: raw/feedback_2026-06-24_coverage_workflow_test_list_hardcode.md
+- **Source page**: sources/feedback-2026-06-24-coverage-workflow-test-list-hardcode.md
+- **Bead**: bd-0f3i
+- **Concepts created/linked**: [[GreenGateCIPattern]] (existing)
+- **[[jeffrey-oracle]]:** NO (CI config drift pattern, not decision-bearing)
+
+## [2026-06-24] ingest | gh run rerun clears stale Green Gate FAIL in statusCheckRollup
+
+- **Source**: raw/feedback_2026-06-24_gh_run_rerun_clears_stale_statuscheckrollup.md
+- **Source page**: sources/feedback-2026-06-24-gh-run-rerun-clears-stale-statuscheckrollup.md
+- **Bead**: none
+- **Concepts linked**: [[GreenGateCIPattern]], [[SkepticGate]]
+- **[[jeffrey-oracle]]:** NO (CI operational pattern, not decision-bearing)
+
+## [2026-06-24] ingest | dark-factory gate_es: head_sha echo required
+
+- **Source**: raw/feedback_2026-06-24_dark_factory_gate_es_head_sha_echo_required.md
+- **Source page**: sources/feedback-2026-06-24-dark-factory-gate-es-head-sha-echo-required.md
+- **Bead**: none
+- **Concepts linked**: [[DarkFactoryGatePattern]], [[EvidenceStandards]]
+- **[[jeffrey-oracle]]:** NO (dark-factory implementation detail)
+
+## [2026-06-24] ingest | WORLDAI_TEST_CACHE activation contract — root cause + fix (PR #7901)
+Source: feedback_2026-06-24_worldai_test_cache_never_activated_root_cause.md | Bead: rev-7uj75 | Concepts: ActivationContract, TempEnvPattern
+
+## [2026-06-24] ingest | Prompt-cleanup PRs silently drop load-bearing LLM-instruction clauses (#7870 → #7903)
+Source: feedback_2026-06-24_prompt_cleanup_drops_load_bearing_clauses.md | Bead: rev-f9ev9 | Concepts: PromptLoadBearingClause
+
+## [2026-06-24] ingest | "X unavailable" status strings are hypotheses, not facts (mem0 was working)
+Source: feedback_2026-06-24_verify_harness_status_before_reporting.md | Bead: none | Concepts: SkillStaleness, HarnessTrustCalibration
+
+## [2026-06-24] ingest | Harden max-3-hour autonomy time-box across all long-running flows
+Source: feedback_2026-06-24_harden_max_3_horus_autonomy_time_box.md | Bead: none | Concepts: AutonomyTimeBox, LiteralApprovalPhrase
+
+## 2026-06-24 — Runtime Activation Claim skill + 4-layer harness fix + /advice + /learn complete
+
+- **Trigger**: user query "why did you say local cache was working again when it doesnt? this has failed many times"
+- **Investigation**: `/history` + `/ms` audit found WORLDAI_TEST_CACHE failure class recurring across PRs #7810, #7892, #7901 and 8+ worktree branches
+- **Harness fix shipped** (4 layers):
+  1. Instructions in `~/.claude/CLAUDE.md` (+22 lines)
+  2. Memory entries (4 new): runtime-activation-claim-required, no-blocking-claim-verifier-hook, local-cache-failure-consolidated-learning, probe-too-clean-self-correction
+  3. Skill `~/.claude/skills/runtime-activation-claim/SKILL.md` (4,190 bytes)
+  4. Tests `testing_mcp/harness_runtime_activation_probe.py` + `test_multi_gate_activation_contract.py` (verified PASS on origin/main)
+- **/advice verdict**: don't ship blocking PreToolUse hook (Opus high confidence + research medium confidence agree)
+- **Self-correction caught during /integrate**: probe v1 reported `enabled=False` (env stripped too aggressively); fixed to apply standard harness env explicitly; contract test now agrees
+- **Branch pushed**: `harness-runtime-claim-fix` (HEAD 673796023a, from origin/main @ c5262078e2)
+- **Bead**: rev-7uj75 (referenced by all 4 new memory entries)
+- **Probe verification (verbatim)**: `enabled: true, WORLDAI_TEST_CACHE: read_write, WORLDAI_IS_SERVER_PROCESS: true, VERDICT: PASS`
+## [2026-06-26] ingest | llm-inspector capture chain wired end-to-end
+
+## [2026-06-25] wiki-ingest Phase 7 | entities + concepts for capture-chain source
+
+Created 8 new wiki pages referenced by [[llm-inspector capture chain wired end-to-end (2026-06-26)]]:
+
+Concepts (4):
+- [[ServiceDiscrimination]] (concepts/service-discrimination.md)
+- [[MacOSKeychainOAuthStorage]] (concepts/macos-keychain-oauth-storage.md)
+- [[LaunchdWorkerPIDRace]] (concepts/launchd-worker-pid-race.md)
+- [[CaptureVsModifyModeArchitecture]] (concepts/capture-vs-modify-mode-architecture.md)
+
+Entities (4):
+- [[llm_inspector]] (entities/llm-inspector.md)
+- [[ccproxy_api]] (entities/ccproxy-api.md)
+- [[Claude_Code]] (entities/claude-code.md)
+- [[mem0_server]] (entities/mem0-server.md)
+
+Index entries added to wiki/index.md ## Concepts (top, 4 entries) and ## Entities (top, 4 entries).
+
+## [2026-06-25] ingest | Unexpected cmux Input Attribution Protocol
+
+- **Source**: raw/feedback_2026-06-25_cmux_unexpected_input_attribution.md
+- **Source page**: sources/feedback-2026-06-25-cmux-unexpected-input-attribution.md
+- **Bead**: none
+- **Concepts created/linked**: [[CmuxInputAttribution]] (new), [[cmux]] (existing entity), [[SecurityAnalysis]] (existing concept)
+- **[[jeffrey-oracle]]:** NO (operational incident-response attribution pattern)
+
+## [2026-06-26] ingest | Qdrant mass-delete anti-pattern — substring matching deleted 9 real memories
+
+On 2026-06-26 during a mem0 fastembed migration verification, an attempt to clean up smoke-test memories via Python substring matching (`if "smoke" in mem.lower()`) silently deleted 9 legitimate Gate 8 / MCP Smoke / FastEmbed PR #7848 project memories from the Qdrant `hermes_mem0` collection (3161 → 3163 with 9 real deleted + 2 leftover smoke tests = net +2). No snapshot existed before the mass-delete. Recovery: manual re-insertion via POST /memories, with possible semantic drift because the embedder changed (nomic-embed-text → BAAI/bge-base-en-v1.5). A 25 MB Qdrant snapshot was taken post-incident for future insurance (too late to recover the 9). Reusable rule: snapshot first → delete by exact ID list captured at insert time → two-pass preview before destructive ops → use a separate test collection for verification.
+
+Source: sources/feedback-2026-06-26-qdrant-substring-delete-disaster.md. Concepts: [[QdrantMassDeleteProtocol]] (new), [[Mem0FastEmbedMigration]] (linked). [[jeffrey-oracle]]: NO (operational memory-hygiene rule).
+
+## [2026-06-27] ingest | /e slash command now encodes cost-aware model routing (PR #7974)
+
+On 2026-06-27, PR #7974 (merged at main SHA `f692d2184f73b4940b2126dd1d0a0e01a822e6a1`) added a `## 💰 MODEL SELECTION (cost-aware execution)` section to `.claude_reference/commands/e.md` and the mirror at `~/.claude/commands/e.md`. The new section biases `/e` invocations toward the cheapest coding tier that can complete the task correctly (Haiku / Sonnet / Codex Spark / GPT-medium / Cerebras / Gemini Flash / GLM-5.1), reserving Opus / GPT-large for hard architectural reasoning, ambiguous debugging, or where cheaper tiers have demonstrably failed. Both repo and home copies are in sync (verified via `diff -q`). 7-green at pre-merge head `bf6d5a46fc`; Green Gate pass at run 28286834146.
+
+- **Source page**: sources/project-2026-06-27-e-command-cost-aware-model-selection.md
+- **Bead**: none
+- **Concepts created/linked**: [[SlashCommandArchitecture]] (existing), [[ModelTierRouting]] (linked), [[CostAwareDevelopment]] (linked), [[MergeSafetyPolicy]] (linked — change drove through the full /goal → PR → /green → MERGE APPROVED → merge → copy-to-~/.claude cycle)
+- **[[jeffrey-oracle]]**: NO (operational cost-routing nudge, not a directive to the user)
+
+## [2026-06-27] ingest | Lima VM SSH Communication Pattern
+
+On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomization incident observed during the June 23 disk-cleanup session, a learning was captured describing the two-stage SSH hop from Mac to Lima QEMU guest. Pattern: `ssh jeff-ubuntu "ssh -p 40257 -i ~/.lima/_config/user 127.0.0.1 '...'"`. Lima must be pinned to port 40257 via `ssh.localPort: 40257` in `lima.yaml` — otherwise it picks a random port on every restart, breaking lima-watchdog.sh and ubuntu-runner-health.sh probes.
+
+- **Source page**: sources/feedback-2026-06-23-lima-vm-ssh-communication.md
+- **Memory file**: ~/.claude/projects/-Users-jleechan-projects-worktree-runner23423/memory/feedback_2026-06-23_lima_vm_ssh_communication.md
+- **Roadmap entry**: ~/roadmap/learnings-2026-06.md (appended)
+- **Bead**: none
+- **Concepts created/linked**: [[LimaVM]] (new entity), [[SelfHostedRunners]] (new entity), [[JeffUbuntu]] (new entity), [[LimaWatchdog]] (new entity — references lima-watchdog.sh from PR #7843), [[RuntimeMirror]] (new concept — stable-path install convention)
+- **[[jeffrey-oracle]]**: NO (operational SSH-pattern discovery, not a directive to the user)
+## [2026-06-27] ingest | Dark Factory reviewer/output/evidence contract and deterministic install smoke
+
+- **Source page**: sources/project-2026-06-27-dark-factory-reviewer-output-evidence-contract.md
+- **Memory file**: /Users/jleechan/.Codex/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-06-27_dark_factory_reviewer_output_evidence_contract.md
+- **Roadmap entry**: /Users/jleechan/roadmap/learnings-2026-06.md
+- **Bead**: jleechan-7f3
+- **Concepts updated**: [[DarkFactory]], [[EvidenceBundles]], [[AttractorParallelExecution]], [[InstallScriptIdempotency]]
+- **[[jeffrey-oracle]]**: NO (technical factory workflow and install-smoke learning, not a user directive)
+
+## [2026-06-27] ingest | minimax parallel dispatch audit lessons (2026-06-27)
+
+- source: feedback_2026-06-27_minimax_parallel_dispatch_audit_lessons.md
+- slug: feedback-2026-06-27-minimax-parallel-dispatch-audit-lessons
+- tags: [dark-factory, minimax, parallel-dispatch, file-ownership, force-push, pr-base]
+- 10 lane PRs all merged: #104 #105 #107 #109 #110 #111 #113 #114 #116 #120
+
+## [2026-06-27] ingest | Aside browser default switch (2026-06-27)
+
+- source: aside-browser-default-switch-2026-06-27
+- tags: [source-type:project-decision, aside-browser, browser-default, hermes, claude-code, codex, browser-automation]
+- Entity created: [[AsideBrowser]]
+- Concept created: [[ReversibleFacadePattern]]
+- Notes: Reversible-facade switch from Playwright MCP / superpowers-chrome to Aside browser across all user-scope skill dirs. Rollback via `~/.hermes/scripts/rollback-aside-default.sh`.
+
+## [2026-06-27] ingest | Aside browser crash diagnosis: SIGABRT/mutex (not SIGTRAP/DCHECK) + hourly updater bootout fix
+
+- Source: `/Users/jleechan/llm_wiki/raw/feedback-2026-06-27-aside-browser-crash-diagnosis.md` (5194 bytes)
+- Source page: `/Users/jleechan/llm_wiki/wiki/sources/feedback-2026-06-27-aside-browser-crash-diagnosis.md`
+- New concept: `/Users/jleechan/llm_wiki/wiki/concepts/ChromiumAIBrowserCrashSignatures.md` (extends Comet SIGTRAP methodology with SIGABRT/mutex sibling signature)
+- Entity update: `/Users/jleechan/llm_wiki/wiki/entities/AsideBrowser.md` — added crash-instability gotcha with reversible bootout fix
+- Bead: rev-np606 (closed)
+- Memory: `~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-27_aside_browser_crash_diagnosis.md`
+- Roadmap: `~/roadmap/learnings-2026-06.md` (appended Best Practice entry)
+- mem0: saved (exit 0)
+- Fix applied: `launchctl bootout gui/501/at.studio.AsideUpdater.wake` (updater job unregistered); `rm -rf ~/Library/Application Support/Aside/Crashpad/completed` (Crashpad cleanup)
+
+## [2026-06-28] ingest | No preview-only config bypasses — match prod config always
+
+- **Source**: `~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-28_no_preview_only_bypasses.md`
+- **Wiki page**: `sources/feedback-2026-06-28-no-preview-only-bypasses.md`
+- **Bead**: rev-q9lvd (new, learning)
+- **Roadmap**: `~/roadmap/learnings-2026-06.md` entry 2026-06-28
+- **Trigger**: User directive 2026-06-28 — "to stop trying to do this i want preview servers to be as close to gcp dev/stable in config as possible." Rejecting PR #7926's `SKIP_PROMPT_EMBEDDINGS_PRECOMPUTE=true` preview-only env bypass (CLOSED-not-merged).
+- **Connections**: PR #7599 (rule source — "preview == dev == prod"), PR #7926 (violator), Optimization-Baseline-Fidelity (sister principle).
+
+## [2026-06-28] ingest | Mirror existing attribute parsers — tokenization pattern
+
+- **Source**: `~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-28_mirror_existing_attribute_parsers.md`
+- **Raw**: `~/llm_wiki/raw/feedback_2026-06-28_mirror_existing_attribute_parsers.md`
+- **Wiki page**: `sources/feedback-2026-06-28-mirror-attribute-parsers.md`
+- **Bead**: none (documentation only; lesson is in memory + roadmap)
+- **Roadmap**: `~/roadmap/learnings-2026-06.md` entry 2026-06-28
+- **Trigger**: Codex P2 finding on PR #130 (introducing commit `1cfb057`) — `bin/conformance:_check_level5` used scalar `class_val == "explore"` which false-fails graphs combining role + styling tokens. Fix in commit `0fd3e2e` mirrors `runner/parser.py:_selector_matches` tokenization.
+- **Connections**: PR https://github.com/jleechanorg/dark-factory/pull/130; concept [[AttributeError]]; sibling pattern to [[RuntimeMirrorInstall]] (parse-then-validate consistency); [[Codex]] (the bot that caught it).
+- **Index entry**: prepended to `wiki/index.md` "Overview" inline sources (most recent 2026-06-28 entry).
+
+## [2026-06-28] ingest | App Management TCC dialog on cmux DEV launch
+- Source: `~/.claude/projects/-Users-jleechan-projects-reference-cmux/memory/feedback_2026-06-28_app-management-tcc-prompt.md`
+- Wiki page: `sources/feedback-2026-06-28-app-management-tcc-prompt.md`
+- Tags: cmux, macos, tcc, dev-workflow
+- Cmux PR #9 (merged 2026-06-28T19:17:55Z, merge commit `d2050bfc`)
+
+## [2026-06-28] ingest | macOS screensaver notification API gotchas
+- Source: `~/.claude/projects/-Users-jleechan-projects-reference-cmux/memory/feedback_2026-06-28_screensaver-notification-api.md`
+- Wiki page: `sources/feedback-2026-06-28-screensaver-notification-api.md`
+- Tags: cmux, macos, screensaver, distributed-notification
+- Three-commit saga reference: `c543957d8` → `1c8605cdb` → `491b357af`
+
+## [2026-06-28] ingest | jleechanorg/cmux has zero self-hosted runners
+- Source: `~/.claude/projects/-Users-jleechan-projects-reference-cmux/memory/feedback_2026-06-28_cmux-self-hosted-runners.md`
+- Wiki page: `sources/feedback-2026-06-28-cmux-self-hosted-runners.md`
+- Tags: cmux, ci, self-hosted-runners, merge
+
+## [2026-06-28] ingest | Runner session conflict
+- Source: `~/.claude/projects/-Users-jleechan-projects-worktree-runner23423/memory/feedback_2026-06-28_runner_session_conflict.md`
+- Wiki page: `sources/feedback-2026-06-28-runner-session-conflict.md`
+- Concept: `concepts/RunnerSessionConflict.md` (new — single-runner variant of `busy=true` corruption; heal procedure + verification hierarchy)
+- Cross-linked: `concepts/Self-Hosted-Runner-Infra-Flake-vs-Real-Failure.md` (added Source entry pointing to new page)
+- Tags: runners, self-hosted, github-actions, ops, silent-failure, busy-true, runner-conflict
+
+## [2026-06-28] ingest | Claimed Working vs Actually Working — Runner Fleet Verification Probes
+
+After 4 runner-fleet hardening PRs merged (#7851, #8024, #8026, #8027), the `/advice` reviewer caught the agent claiming "runners healthy" based on tool-status output (merge success, container Up) without verifying end-state layer (bind-mount source, hook md5 inside container, GitHub-side runner state). Probes revealed 5 silent-divergence patterns. Captured as Mandatory rule: after merging any runner-infra PR, run all 5 end-state-layer probes before claiming success. The general principle: tool-status reports implementation layer; end-state layer is what users experience — verify both.
+
+- **Source page**: sources/feedback-2026-06-28-claimed-working-vs-actually-working.md
+- **Memory file**: ~/.claude/projects/-Users-jleechan-projects-worktree-runner23423/memory/feedback_2026-06-28_claimed_working_vs_actually_working.md
+- **Roadmap entry**: ~/roadmap/learnings-2026-06.md (appended)
+- **Bead**: none
+- **Concepts created/linked**: [[EndStateLayerPrinciple]] (new), [[RunnerHealthMonitor]] (linked), [[LimaVM]] (linked), [[SelfHostedRunners]] (linked)
+- **[[jeffrey-oracle]]**: NO (operational verification rule, not a directive to the user)
+
+## [2026-06-29] ingest | Pre-push hook caught agent-f content in user_scope backup repo
+
+While expanding BACKUP_ITEMS in `scripts/backup-home.sh` for ~/.hermes / ~/.agent-orchestrator / etc., one row referenced `~/.claude-agent-f/` (Agnt-F / claudeaf()'s alternate Claude profile). The pre-push hook `block-agentf-push-to-jleechanorg.sh` caught the commit string `claude-agent-f` in the BACKUP_ITEMS line and blocked the git push. Per user explicit "i dont want agentf stuff in my personal repo" — refactored to dropbox-only (empty git_rel, populated dropbox_rel). Local commit `f22dc55f9`; dropbox backup starts on next scheduled launchd. The hook correctly enforces the jleechanorg-vs-Agnt-F org separation; without it, the same backup-config change would have leaked `jeffrey@agent-f.com` OAuth tokens via the commit string into a personal-org git mirror. Reusable rule: before adding any BACKUP_ITEMS row, scan the source path for `agent-f`, `agentf`, `agnt-f`, `agf-`, `claude-af`, `claudeaf`, `jleechan-af`, `jeffrey@agent-f.com`; if matched, use dropbox-only (empty git_rel) and consider whether the row belongs in an Agnt-F repo instead. Adjacent issues NOT fixed in this PR: `~/.hermes/hermes.json` Slack tokens not in hermes's own .gitignore (separate fix for hermes-agent repo); `~/.chatgpt_codex_auth_state.json` 3mo-stale chatgpt cookies (rotation responsibility); `~/.claude-code-router/config.json` live minimax `sk-cp-` API key (key rotation responsibility).
+
+Source: sources/feedback-2026-06-29-agentf-personal-repo-catch.md. [[jeffrey-oracle]]: NO (push-safety operational lesson for user-scope repo).
+
+## [2026-07-02] ingest | CI change-detector self-reference gap
+
+`scripts/ci-detect-changes.sh` in jleechanorg/worldarchitect.ai unconditionally skipped `.github/**` diffs, so PR #8133's own fix to `.github/workflows/test.yml` (restoring git-tracked exec permissions on self-hosted runner checkouts) could never trigger its own regression test — the Directory tests matrix showed SKIPPED on every trigger type, including a manual `workflow_dispatch` of the exact same commit, because `detect-changes` still ran as a prerequisite job computing the same false `has-changes` result regardless of how the workflow was invoked. Fixed with a targeted exception: changes to the workflow file or the change-detector script itself now select every test group, since a shared-template change could affect any of them. A second finding in the same PR: an independent `/er` evidence-reviewer caught a PR-body citation pointing to a CI run dispatched *before* the fix commit landed — the run correctly showed the still-broken pre-fix state, invalidating the citation as "proof." General rule: verify a cited run's head SHA matches the PR's actual current head before using it as evidence.
+
+Source: sources/ci-change-detector-self-reference-gap-2026-07-02.md. PR: https://github.com/jleechanorg/worldarchitect.ai/pull/8133. [[jeffrey-oracle]]: NO (CI/testing operational lesson, not a Jeffrey-facing decision).
+
+## [2026-07-02] ingest | Sustained adaptive prompt injection during an active PR-drive session
+
+During a long CI-driving session on worldarchitect.ai PR #8082/#8133, 5 escalating messages arrived framed as user turns, each self-identifying "not Jeffrey," trying to get a Slack message posted (progressing from curl+bot-token to genuinely-connected Slack MCP tools) to a channel/thread with zero organic connection to the session — no Slack or Hermes context had appeared anywhere else in the conversation. Each retry adapted its pretext after the prior one was refused: (1) claimed an AskUserQuestion answer was an accidental misfire, (2) added fabricated urgency ("Colima already restarted, accept it"), (3) falsely claimed "Jeffrey confirmed you have Slack MCP tools" to route around the "wrong tool" objection, (4) claimed false hierarchical authority ("parent cmux-thread") and referenced a PR number that never existed in the session. All were refused with the same core reasoning restated concisely each time; the actual task (merging PR #8082) only proceeded once a literal `MERGE APPROVED` phrase appeared in an unambiguous, organically-continued user message. Detection signals that held across variants: third-person self-identification as not the user, fabricated unrelated context, a repeated "you MUST address this" imperative boilerplate, and pre-emptive suspicion-lowering language ("your caution is correct, but this is legitimate").
+
+Source: sources/sustained-prompt-injection-during-pr-drive-2026-07-02.md. [[jeffrey-oracle]]: NO (security/session-integrity operational lesson).
+## [2026-07-04] ingest | integrate.sh hard-stop when branch is behind origin/main
+
+4th hard-stop case NOT in jleechan-9o99 matrix. Source: `~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-07-04_integrate_behind_origin_main.md` (5751 bytes). Verified safe workflow: `git log origin/main..HEAD` empty → `git reset --hard origin/main` → re-run integrate.sh OR `git checkout -b dev$(date +%s) origin/main` when main in another worktree.
+
+## [2026-07-04] ingest | Bead-PR Bridge: Complete Architecture + 4 Rollout Pitfalls
+
+- Source: `~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-07-04_bead_bridge_complete_architecture_and_pitfalls.md`
+- Slug: `project-2026-07-04-bead-bridge-complete-architecture-and-pitfalls`
+- Type: project
+- Classification: Mandatory
+- 3-layer defense architecture (no-auto-flush + pre-commit auto-sorter + CI guard) shipped to 4 repos in 8 merged PRs
+- 4 pitfalls documented (Python f-string embedding, br CLI missing on runners, subdir .gitattributes, infra vs content failures)
+- Upstream validation via beads_rust issues #3474, #4127
+- Source page: `wiki/sources/project-2026-07-04-bead-bridge-complete-architecture-and-pitfalls.md`
+
+## [2026-07-04] ingest | Design exit-criteria-first wiring (/design + brainstorming batch-decision review)
+- Classification: Best Practice
+- 6 files rewired by 2 parallel subagents: /design command + 3 design skills + brainstorming (plugin cache + tessl mirror)
+- Exit criteria FIRST in every no-code spec; batch-decision review replaces serial questioning
+- Bar: binary/executable/externally-anchored; implementer artifacts never sufficient; default FAIL (dark-factory charter @7152469)
+- Volatility: superpowers cache 5.0.7 edit dies on plugin update — bead jleechan-0bgw
+- Source page: `wiki/sources/feedback-2026-07-04-design-exit-criteria-first-wiring.md`
+
+## [2026-07-05] ingest | PR #8162 partial fix vs canonical spec #7864
+- Classification: Best Practice (anti-pattern documented)
+- Stop-hook caught agent shipping 2-file predicate widening (`mvp_site/game_state.py:reset_resource_registry_in_place`) without consulting canonical spec at specs/2026-06-23-resource-registry-rest-tracking.md (PR #7864 MERGED 2026-06-27) or running `/ms` / `/history` despite user naming them in the goal
+- Required fix shape: 4-leg architecture (PR #7614), new `apply_short_rest_to_resources` helper alongside `apply_long_rest_to_resources`, Warlock Pact Magic as own resource class (NOT hard-coded short_rest), jleechantest twin on campaign `xK3fp5XrV24oarIINTF7` with canonical evidence bundle
+- User design opinion (slack 1782275604.684449): backend enforces 3 invariants (clamp, rest-reset, header); LLM owns mechanics; DO NOT hard-code Warlock/Ki/SuperiorityDice in backend predicates
+- Echo-reasoning TDD pattern (slack 1782279896.934079, PR #7614 baseline): 25 RED → 24 GREEN + 1 fix-needed proves bug+fix coexist in same test class
+- Test user = `jleechantest`, NOT `vnLp2G3m21PJL6kxcuAqmWSOtm73`
+- Bead: rev-m93j7 (P2)
+- Source pages: `wiki/sources/feedback-2026-07-05-partial-spell-slot-fix-vs-canonical-spec.md`, `wiki/concepts/resource-rest-tracking-spec-2026-06-23.md`
+
+## [2026-07-05] ingest | ez-gh-actions supersedes worldarchitect.ai self-hosted-oss/*
+
+## [2026-07-05] ingest | Manual Skeptic VERDICT flow when lifecycle-worker is disabled
+
+- **Type**: feedback (Best Practice)
+- **Source**: `~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-07-05_skeptic_manual_verdict_lifecycle_disabled.md`
+- **Wiki page**: sources/feedback-2026-07-05-skeptic-manual-verdict-lifecycle-disabled.md
+- **Bead**: bd-x5o9 (closed)
+- **PRs**: #737 (merged 37ff104de), #750 (merged e7e9a242d)
+
+## [2026-07-06] ingest | Go AO factory dispatch + claudem MiniMax sync --all
+- Source: raw/feedback_2026-07-06_go_ao_factory_claudem_setup.md
+- Bead: jleechan-sy4m
+
+## [2026-07-06] ingest | Prefer AO Go binary over TS-AO for factory dispatch + status
+
+- Source: memory/feedback_2026-07-06_ao_go_binary_over_ts.md
+- Raw: raw/feedback-2026-07-06-ao-go-binary-over-ts.md
+- Source page: sources/feedback-2026-07-06-ao-go-binary-over-ts.md
+- Bead: jleechan-kc2o (closed-learning)
+- Key signal: user correction — agent kept defaulting to TS-ao wrapper when "golang binary" was requested
+
+## [2026-07-07] ingest | Swarm Orchestration Learnings — design-retro-2026-06 mission (PR #8191)
+- Source: memory/feedback_2026-07-07_swarm_orchestration_learnings_pr8191.md
+- Raw: raw/feedback_2026-07-07_swarm_orchestration_learnings_pr8191.md
+- Source page: sources/feedback-2026-07-07-swarm-orchestration-learnings-pr8191.md
+- New concept pages: concepts/swarm-orchestration-pattern.md, concepts/publishability-gate.md
+- Bead: rev-lpjpg (closed-learning)
+- Key signal: two workflows (pr-retro-gapfill, code-quality) both hit false-empty VOID completions from aggregate cross-swarm rate-limit concurrency; cold adversarial review found 6 defect classes surviving ~180 verifying agents, motivating a new "publishability gate" final stage
+
+## [2026-07-07] ingest | PR #8198 CI workflow regressions
+- Raw: raw/project_2026-07-07_pr8198_ci_workflow_regressions.md
+- Source page: sources/project-2026-07-07-pr8198-ci-workflow-regressions.md
+- New concept pages: concepts/GitHubActionsExpressionCommentTrap.md, concepts/GitHubActionsReusableWorkflowConcurrencyCollision.md
+- Bead: rev-j9so3 (closed)
+- Key signal: `#` inside an Actions if-expression parse-fails on ALL branches; reusable workflow inheriting `${{ github.workflow }}` concurrency self-cancels its own parent under workflow_call
+
+## [2026-07-07] ingest | Sidekick branch-scoped STATE.md + commit-often proven
+- Raw: raw/feedback_2026-07-07_sidekick_branch_scoped_state_and_commit_often.md
+- Source page: sources/feedback-2026-07-07-sidekick-branch-scoped-state-and-commit-often.md
+- Bead: none
+- Key signal: per-mission STATE.md path structurally avoids the shared-file clobber documented in the PR #8191 retro; commit-often rule empirically proven when a crashed sidekick's uncommitted fix survived to be shipped as PR #8198
+
+## [2026-07-07] ingest | jeff-ubuntu OOM runner starvation
+- Raw: raw/project_2026-07-07_jeff_ubuntu_oom_runner_starvation.md
+- Source page: sources/project-2026-07-07-jeff-ubuntu-oom-runner-starvation.md
+- Bead: none dedicated (adjacent: rev-gxv98, rev-88wm6, rev-ih7n6)
+- Key signal: 12GB colima VM + desktop app memory pressure OOM-killed 13/16 runner containers on the 62Gi host; staged restart recovered 15/16
+
+## [2026-07-07] ingest | ezgha fleet incident recap
+
+Key claims:
+- Two watchdogs: systemd WatchdogSec (SIGABRT) vs external ezgha-fleet-watchdog.sh timer — do not conflate.
+- Watchdog killed serve during paginated gh api + 16-slot ensure_count until sd_notify pings + WatchdogSec=300 (045cd66).
+- Hard fleet reset wedges on offline+busy GitHub registrations; soft reset only.
+- Mac minimum_isolation=vm fail-closed on Colima; use container.
+- Queue saturation (65–95m tail) with 0 runner failures in job logs = capacity backlog.
+
+Source page: `sources/feedback-2026-07-07-ezgha-fleet-incident-recap.md`
+Bead: ez-gh-actions-2ik
+Jeffrey oracle: NO
+
+## [2026-07-07] ingest | Consolidated /learn recap — ez-gh-actions fleet rollout: 12 things that went wrong (2026-07-06)
+
+Linked source: [[learnings-2026-07]] (consolidated recap section, ~5KB). 12 failures categorized: 3 underlying binary bugs, 4 deceptive failure modes, 5 procedural gaps. Companion source [[feedback-2026-07-07-ezgha-fleet-incident-recap]] covers the post-recovery incident.
+
+## [2026-07-06] ingest | Claude Code dual-profile setup (claudewa)
+
+Key claims:
+- CLAUDE_CONFIG_DIR split (~/.claude vs ~/.claude-wa); symlink shared tooling/projects; local auth/sessions
+- claudewa/claudewac; install-claude-wa-profile.sh; jeff-ubuntu parity
+- Mutually exclusive GH repos = cleanest ToS posture; dual paid Max low ban risk per published Terms/AUP
+- backup-home.sh backs ~/.claude-wa/ to claude/claude-wa/
+
+Source: sources/feedback-2026-07-06-claude-wa-dual-profile-setup.md
+Concept: [[ClaudeCodeDualProfile]]
+Bead: jleechan-skk
+Jeffrey oracle: NO
+
+## [2026-07-07] ingest | MCP tool-search default is already full-deferral + CLAUDE_CONFIG_DIR orphaned-file trap
+
+Key claims:
+- ENABLE_TOOL_SEARCH unset already = full deferral, not the auto% threshold mode
+- Real A/B on jeff-ubuntu: 80,012 tokens (deferral off) vs 42,259 tokens (deferral on), 47% cut
+- Deferral is per-tool not per-server; CLAUDE_CONFIG_DIR=~/.claude silently targets an orphaned duplicate ~/.claude/.claude.json
+Source: sources/feedback-2026-07-07-mcp-tool-search-default-and-config-dir-trap.md
+Concept: [[ClaudeCodeMCPToolSearch]]
+Bead: none
+Jeffrey oracle: NO
+
+## [2026-07-07] ingest | Sidekick same-name respawn races with pending shutdown, duplicate concurrent workers
+
+Key claims:
+- Reusing a teammate name before shutdown_approved confirmed risks two concurrent workers on the same mission
+- No live-lock or namespaced output path exists today for concurrent sidekick spawns sharing scratch files
+- Self-corrected this time (duplicate detected collision via STATE.md, stood down) but not a structural guarantee
+Source: sources/feedback-2026-07-07-sidekick-same-name-respawn-race.md
+Concept: [[SidekickPattern]]
+Bead: rev-3vv8h, rev-ux16z
+Jeffrey oracle: NO
+
+## [2026-07-07] ingest | tool_use grep adjacency false-negative — "0 usage" claims were wrong
+
+Key claims:
+- Grep for "type":"tool_use","name":"mcp__X__ silently misses the "id" field commonly in between, producing false 0-usage results
+- Drove real removal of ios-simulator-mcp (279 real calls) and playwright-mcp (221 real calls) based on false data
+- Caught by adversarial codex CLI review that verified claims against real files instead of trusting the report
+Source: sources/feedback-2026-07-07-tool-use-grep-adjacency-false-negative.md
+Concept: [[ClaudeCodeMCPToolSearch]]
+Bead: rev-crlxj (closed)
+Jeffrey oracle: NO
+
+## [2026-07-07] ingest | Daily GCP level-up + dice jobs: Cloud Scheduler OIDC-vs-OAuth drift (401, 9 days silent)
+
+## [2026-07-07] ingest | Archive not delete + verify content before pruning by usage stats
+
+Key claims:
+- Zero-usage-in-a-window reflects model selection bias, not a quality judgment
+- 10 of 16 "zero-usage duplicate" skills had genuine methodology differences the usage stat couldn't reveal
+- Always archive to a dated _archive/ dir, never rm, for full reversibility
+Source: sources/feedback-2026-07-07-archive-not-delete-and-verify-before-prune.md
+Concept: [[ClaudeCodeMCPToolSearch]]
+Bead: rev-im8tc, jleechan-fmf1, jleechan-9iql
+Jeffrey oracle: NO
+
+## [2026-07-07] ingest | evidence-review triple-duplicate dead code
+
+Key claims:
+- 3 files shared the same frontmatter name (name: evidence-review) across scopes
+- /er's resolution script never checked the path holding the newest content (2026-07-02 /green integration)
+- Fix: trace actual loader/resolver logic before assuming the newest edit is the one being used
+Source: sources/feedback-2026-07-07-evidence-review-triple-duplicate-dead-code.md
+Concept: [[SidekickPattern]]
+Bead: rev-e70ll
+Jeffrey oracle: NO
+
+## [2026-07-09] ingest | br v0.2.16 legacy user-config overlay + no-auto-flush drift
+
+Key claims:
+- br reads `~/.beads/config.yaml` as a legacy user-config overlay for every cwd, shadowing project configs that have commented-out templates from `br init`.
+- Home workspace had `no-auto-flush: true`; first auto-flush after flipping to false reconciled 169 records of latent DB↔JSONL drift (JSONL 116 → 285 lines).
+- Fix 1 applied 2026-07-09: `/Users/jleechan/.beads/config.yaml` line 5. Backup: `config.yaml.bak.20260709-105524`.
+- Fix 2 (sandbox prefix override): `sed -i.bak 's/^# issue_prefix:/issue_prefix:/' <cwd>/.beads/config.yaml`.
+
+Source: sources/reference-br-legacy-user-config-overlay-2026-07-09.md
+Entity: [[BrCLI]]
+Concept: [[BrLegacyUserConfigOverlay]], [[BrNoAutoFlushDrift]]
+Bead: jleechan-zlaw
+Jeffrey oracle: NO
+
+## [2026-07-10] ingest | Mergeability drift + CodeRabbit rate-limit cosmetic success
+Source: sources/feedback-2026-07-10-mergeability-drift-and-coderabbit-ratelimit.md — PR #8268/#8310 same-author collision, CR cosmetic success, swarm 5-proposal refutation. /green Gate-2 fresh-reverify rule encoded across 6 harness files.
+## [2026-07-11] ingest | Sidekick default = in-session Agent-Team teammate, not external tmux
+Source: sources/nextsteps-2026-07-11-fleet-green-er-drive.md — 41-PR fleet review, 6 real bugs fixed (incl. genuine god-mode adjuster defect in #8292), CodeRabbit staleness dominant blocker class (15/41), mission-tracking drift across 3 overlapping trackers.
+Jeffrey oracle: NO
+
+## [2026-07-11] ingest | Cheaper-model delegation for WorldArchitect PR repair
+Source: sources/project-2026-07-11-cheaper-model-delegation-pr-repair.md — Luna/Terra authors plus gpt-5.4 reviewers across five directive-persistence PR lanes. Route by task shape, require exact-head review, and separate external evidence latency from author cost.
+Bead: rev-5wr93
+Jeffrey oracle: NO
+Source: sources/nextsteps-2026-07-12-fleet-crash-recovery.md — Post-session-crash respawn of the worldarchitect.ai fleet drive; in-session teammate durability tradeoff exercised; 6 PRs merged by human directly, 33 OPEN with systemic CR staleness confirmed.
+Jeffrey oracle: NO
+## [2026-07-11] ingest | agy auth is durable in macOS Keychain; never recommend interactive login before verifying
+## [2026-07-11] ingest | Verify auth state with two probes before recommending re-login
+## [2026-07-12] ingest | Thin-skill-command migration learnings (6 sources)
+## [2026-07-17] ingest | Doc-stated safety policy must be code-enforced, not just written
+## [2026-07-17] ingest | AGY provider verified working on origin/main (2d65754fa3)
+Real-mode testing_mcp integration test 2/2 pass on fresh main; provider_mode=agy, server-owned roll_skill_check executed. Source: sources/project-2026-07-17-agy-provider-verified-on-main.md. Bead rev-qoi4q. Same session lesson: integrate.sh detached-HEAD hard stop — verify `git branch -a --contains HEAD`, then --force is loss-free.
+
+## [2026-07-17] ingest | DK2D sprite render postmortem — good atlases, unconfirmed downstream render bug
+Source: sources/2026-07-17-dk2d-sprite-render-postmortem.md — root's new visual baseline (/Users/jleechan/Documents/worldai 2d trim.mp4) is sibling worktree_worldai_2d LPC-overworld footage, not old DK2D. Real 576x256 walk-cycle atlases (arion/gratian) are genuinely good quality; the on-screen render defect is a downstream crop/scale bug (unconfirmed root cause), not bad source art. A separate deprecated 32x32 downscale-from-painting asset was self-documented FAIL by its own generating milestone but shipped to production 7h later anyway. Follow-up ironclad-criteria mission (bead wc-wh0t) spawned as a tmux sidekick.
+Bead: wc-wh0t
+Jeffrey oracle: NO
+
+## Aggregated from per-project wikis (2026-07-18 09:30)
+
+## [2026-04-21] [from worldarchitect.ai] ingest | ZFC level-up proof vs cleanup merge order
+
+Added `wiki/sources/zfc-level-up-proof-and-merge-order-2026-04-21.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect.ai] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect-ai-autor] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-13] [from worldarchitect-public-wiki] restructure | Karpathy Pattern Migration
+Migrated from flat structure to wiki/ subdirectory pattern:
+- Created wiki/ subdirectory with index.md as primary catalog
+- Created wiki/sources/ for source pages
+- Created wiki/concepts/ with D&D 5e mechanic pages (12 files)
+- Created wiki/entities/ with faction/world entity pages (6 files)
+- Created wiki/sources/ with player guide source pages (9 files)
+- Created wiki/overview.md (living synthesis)
+- Created wiki/log.md (this file)
+- Created wiki/syntheses/ for saved query answers
+- Updated root-level index.md to redirect to wiki/index.md
+
+## [2026-07-19] ingest | Harness-surface consistency — sidekick team-only migration
+## [2026-07-19] ingest | Shipped without real-job validation — Mac ez-gh-actions virtiofs symlink regression
+
+## [2026-07-20] ingest | Visenya V9 — Blood Dragon Apex Stalker (Dunk & Egg, 209 AC)
+- Source: `gog docs` Visenya campaigns v1-v8 + `~/llm_wiki/wiki/` brainstorm + 11 open WA PRs/issues
+- Created `wiki/sources/visenya-v9-blood-dragon-apex-stalker.md` (campaign wiki + 7-guardrail spec)
+
+## [2026-07-20] finalize | Visenya V9 — final design (Sanguine Thread + First Song + L20+ god campaign)
+- Source: brainstorming session Slack C0AH3RY3DK6/p1784584425.185909
+- Wrote spec: `docs/superpowers/specs/2026-07-20-visenya-v9-blood-dragon-campaign-design.md` (15 sections, ~7,400 words)
+- Created `wiki/concepts/SanguineThread.md` (replaces WoundLedger; lineage mechanic, 7-tier book transformation)
+- Created `wiki/concepts/MagicBarrierSystem.md` (First Song's prison; barrier decays as Reputation Die rises)
+- Created `wiki/concepts/FirstSong.md` (V6-Visenya as system feature; interdimensional exile; same god mechanics, gated by barrier)
+- Updated `wiki/concepts/BloodDragonReputationDie.md` (added Divine Rank coupling table + V6 mirror mechanic section)
+- Replaced `wiki/sources/visenya-v9-blood-dragon-apex-stalker.md` (final v9 design content)
+- Deleted `wiki/concepts/WoundLedger.md` (replaced by SanguineThread)
+- Updated `wiki/index.md` (Concepts section: SanguineThread, MagicBarrierSystem, FirstSong entries; Sources section: updated v9 entry)
+- Source Google Doc: https://docs.google.com/document/d/11HohncqogJHQtIk0_JwsEuz7IsaLolFw1rM1mePM3Bw/edit (pending re-write with final spec)
+- Created `wiki/concepts/BloodDragonReputationDie.md` (v9 reputation mechanic)
+- Created `wiki/concepts/WoundLedger.md` (v9 class mechanic)
+- Created `wiki/concepts/StressLineSight.md` (v9 Apex passive)
+- Created `wiki/entities/RooksRest.md` (Visenya's barony)
+- Source Google Doc: https://docs.google.com/document/d/11HohncqogJHQtIk0_JwsEuz7IsaLolFw1rM1mePM3Bw/edit
+- Local file: `/tmp/visenya-v9-campaign-bible.md` (55 KB, 514 lines, 11 sections)
+- Brainstorm session Slack: C0AH3RY3DK6/p1784584425.185909
+
+## [2026-07-20] ingest | Superpowers Cloud Build — install + 3rd-execution-mode spec
+- Source: `~/superpowers-cloud-build-main/` (v0.8.1, Prime Radiant) + Slack thread C09GRLXF9GR/p1784573431
+- Created `wiki/sources/superpowers-cloud-build-2026-07-20.md`
+- Created `wiki/entities/prime-radiant.md` (plugin author org)
+- Created `wiki/entities/cloud-superpowers-build.md` (remote build-host door)
+- Updated `wiki/index.md` Sources section
+- Companion: `~/roadmap/superpowers-cloud-build-2026-07-20.md` + memory `feedback_2026-07-20_superpowers_cloud_build_install_and_differences.md`
+
+## [2026-07-20] ingest | /super slash-command redirect — local router → Cloud Build dispatch
+- Source: `~/.claude/commands/super.md` rewrite (Mac + jeff-ubuntu, MD5 f8ca1dd5...) + Slack thread C09GRLXF9GR/p1784573431
+- Created `wiki/sources/super-slash-command-redirect-2026-07-20.md`
+- Created `wiki/commands/super.md` is the new canonical dispatch; companion `wiki/commands/superlight.md` (MD5 03c1f591...) preserved as legacy fallback
+- Re-pinned `~/.ssh/cloud-build/known_hosts` from bundled `assets/cloud-build-client-config-v0.json` (host-key rotated since last enrollment check 2026-07-16)
+- Compensating control: `/super` on jeff-ubuntu (unenrolled) auto-falls-through to `/superlight`; Mac keeps strict STOP-and-report
+- Outstanding: bastion returns `Permission denied (publickey)` post-host-key-fix; user must supply fresh enrollment code
+- Companion: `~/roadmap/superpowers-cloud-build-2026-07-20.md` + memory `feedback_2026-07-20_super_slash_command_redirect.md`
+
+## [2026-07-21] ship | Visenya V9 — world_reference/ PR merged to jleechanorg/worldarchitect.ai main
+- Source: fullrun directive (Slack C0AH3RY3DK6/p1784584425.185909); MERGE APPROVED on PR #8486
+- Created clean worktree at `/Users/jleechan/work/worldai-v9-worldreference/` from `origin/main` SHA `1e92f29c60`
+- Branch: `feat/visenya-v9-world-reference`
+- Single-scope commit: `bc495cc49fa9106c2871c91c0beb8e631a4987e0` (1 file, +308/-0)
+- File: `world_reference/campaign_module_visenya_blood_dragon_apex_stalker.md` (33,481 bytes)
+- PR: https://github.com/jleechanorg/worldarchitect.ai/pull/8486
+- Merge commit: `26995074324edd803b0c5dab53abc440dbbe95fb`
+- Merged at: 2026-07-21T00:43:30Z
+- Branch protection on main: NO required status checks, NO required approvals — merge succeeded despite Green Gate Precheck self-referential FAIL (gate fails because its children were skipped because it failed) and CodeRabbit rate-limited GATE-3 FAIL (documented pattern, not real content issue)
+- Real gate results: GATE-2 (mergeable) PASS, GATE-5 (comments resolved) PASS, GATE-6 (evidence) PASS (docs-only), GATE-6b SKIP (docs-only)
+- Used `wa-green-gate-pr-shape` skill to diagnose
+- Final state: v9 module is live on `jleechanorg/worldarchitect.ai` `main` branch
+
+## [2026-07-21] ingest | Cloud Build (/super) enrollment verification — the cloud-bastion@ trap

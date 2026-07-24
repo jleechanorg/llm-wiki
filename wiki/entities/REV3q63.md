@@ -15,4 +15,4 @@ The schema originally had `"required": []` at the top level, allowing empty obje
 ## Related
 - [PR4534](PR4534.md) — Parent PR
 - [SchemaValidation](../concepts/SchemaValidation.md) — The validation system being fixed
-- [JSONSchema](JSONSchema.md) — The schema standard used
+- [JSONSchema](jsonschema.md) — The schema standard used

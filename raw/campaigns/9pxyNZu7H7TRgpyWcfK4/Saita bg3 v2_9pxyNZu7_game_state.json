@@ -1,0 +1,1239 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 178,
+      "hp": 178
+    },
+    "active_effects": [
+      "Enhance Ability (Dexterity) - Advantage on DEX checks (Duration: 1 hour)"
+    ],
+    "class_name": "Bard",
+    "background": "Custom (Empress in Hiding)",
+    "entity_id": "pc_saita_001",
+    "display_name": "Saita",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 22,
+      "intelligence": 12,
+      "wisdom": 12,
+      "charisma": 22,
+      "constitution": 16
+    },
+    "gender": "Female",
+    "spells_known": [
+      {
+        "level": 0,
+        "name": "Vicious Mockery"
+      },
+      {
+        "level": 0,
+        "name": "Prestidigitation"
+      },
+      {
+        "level": 0,
+        "name": "Mage Hand"
+      },
+      {
+        "level": 0,
+        "name": "Message"
+      },
+      {
+        "level": 1,
+        "name": "Charm Person"
+      },
+      {
+        "level": 1,
+        "name": "Dissonant Whispers"
+      },
+      {
+        "level": 1,
+        "name": "Silvery Barbs"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Suggestion"
+      },
+      {
+        "level": 2,
+        "name": "Mirror Image"
+      },
+      {
+        "level": 3,
+        "name": "Hypnotic Pattern"
+      },
+      {
+        "level": 3,
+        "name": "Fear"
+      },
+      {
+        "level": 3,
+        "name": "Slow"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      },
+      {
+        "level": 4,
+        "name": "Polymorph"
+      },
+      {
+        "level": 4,
+        "name": "Confusion"
+      },
+      {
+        "level": 5,
+        "name": "Hold Monster"
+      },
+      {
+        "level": 5,
+        "name": "Dominate Person"
+      },
+      {
+        "level": 5,
+        "name": "Wall of Force"
+      },
+      {
+        "level": 6,
+        "name": "Otto's Irresistible Dance"
+      },
+      {
+        "level": 6,
+        "name": "Mass Suggestion"
+      },
+      {
+        "level": 7,
+        "name": "Forcecage"
+      },
+      {
+        "level": 8,
+        "name": "Dominate Monster"
+      },
+      {
+        "level": 9,
+        "name": "Foresight"
+      },
+      {
+        "level": 9,
+        "name": "Wish"
+      },
+      {
+        "level": 4,
+        "name": "Banishment"
+      },
+      {
+        "level": 0,
+        "name": "Minor Illusion"
+      }
+    ],
+    "name": "Saita",
+    "experience": {
+      "needed_for_next_level": 48000,
+      "current": 34000,
+      "to_next_level": 14000
+    },
+    "resources": {
+      "gold": 1606,
+      "spell_slots": {
+        "level_7": {
+          "used": 0,
+          "max": 2
+        },
+        "level_9": {
+          "used": 0,
+          "max": 1
+        },
+        "level_5": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_6": {
+          "used": 0,
+          "max": 2
+        },
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_4": {
+          "used": 0,
+          "max": 3
+        },
+        "level_8": {
+          "used": 0,
+          "max": 1
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "class_features": {
+        "bardic_inspiration": {
+          "used": 0,
+          "max": 6
+        }
+      }
+    },
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 22,
+      "intelligence": 12,
+      "wisdom": 12,
+      "charisma": 22,
+      "constitution": 16
+    },
+    "core_memories": [
+      "Abandoned an evil empire because absolute rule became boring.",
+      "Adopted the identity of a 16-year-old smith's apprentice.",
+      "The mask is the anchor for her new 'Level 1' life.",
+      "Deeply regrets her evil past and the terrifying actions committed as Empress.",
+      "Was a magical child prodigy who consumed her parents in her early rise to power.",
+      "Abandoned her empire to seek redemption and escape the guilt through honest, mundane labor.",
+      "The mask is her penance, anchoring her to a life where she is nobody.",
+      "Seeking a genuine peaceful life and redemption through honest labor.",
+      "No longer seeking the thrill of 'leveling up,' but the quiet satisfaction of a job well done.",
+      "Permitted to show genuine growth and competence in smithing without intentional bumbling.",
+      "Revealed true gender and 'Exiled Sage' identity to Gale and Lae'zel to maintain her cover."
+    ],
+    "features": [
+      "Jack of All Trades",
+      "Song of Rest (d6)"
+    ],
+    "hp_max": 178,
+    "level": 8,
+    "hp_current": 178,
+    "inventory": [
+      {
+        "damage": "1d6+3",
+        "equipped": false,
+        "stats": "Legendary Rapier: +1 to Atk/Dmg/Save DC per kill (max 3), Scarlet Remittance.",
+        "type": "weapon",
+        "name": "Rhapsody"
+      }
+    ],
+    "cantrips": [
+      {
+        "description": "The biting tongue of a fallen empress, lashing out with words that sting like a whip and leave foes reeling.",
+        "name": "Vicious Mockery"
+      },
+      {
+        "description": "Subtle magic used to instantly clean soot from her mask or heat a piece of metal as if it just left the forge.",
+        "name": "Prestidigitation"
+      }
+    ],
+    "skill_proficiencies": {
+      "expertise": [
+        "Deception",
+        "Intimidation",
+        "Performance",
+        "Persuasion"
+      ],
+      "proficiencies": [
+        "Acrobatics",
+        "Athletics",
+        "Deception",
+        "Intimidation",
+        "Performance",
+        "Persuasion"
+      ]
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "stats": "Mundane",
+          "type": "tool",
+          "name": "Smithing Hammer"
+        },
+        {
+          "stats": "Psychological Anchor",
+          "type": "item",
+          "name": "Soot-stained Mask"
+        },
+        {
+          "stats": "Mundane",
+          "type": "tool",
+          "name": "Iron Tongs"
+        }
+      ],
+      "cloak": {
+        "equipped": true,
+        "stats": "Enemies have disadvantage on attack rolls until you take damage",
+        "type": "cloak",
+        "name": "Cloak of Displacement"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "Add full DEX mod to AC, +2 to Saving Throws",
+        "type": "armor",
+        "armor_class": 17,
+        "name": "Armor of Agility"
+      },
+      "main_hand": {
+        "damage": "1d8+8",
+        "equipped": true,
+        "stats": "Crit on 19, Extra Reaction, +2 bonus",
+        "type": "weapon",
+        "name": "Duellist's Prerogative"
+      },
+      "feet": {
+        "equipped": true,
+        "stats": "Cannot be moved against your will, ignore difficult terrain",
+        "type": "feet",
+        "name": "Helldusk Boots"
+      },
+      "head": {
+        "equipped": true,
+        "stats": "Charisma +2 (up to 22)",
+        "type": "head",
+        "name": "Birthright"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "Restore one spell slot of any level per long rest",
+        "type": "neck",
+        "name": "Spellcrux Amulet"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 25,
+      "hour": 10,
+      "time_of_day": "morning",
+      "year": 1492,
+      "day": 29,
+      "month": "Marpenoth"
+    },
+    "current_location": "Shadow-Cursed Border",
+    "locations": {
+      "loc_oakhaven_001": {
+        "entity_id": "loc_oakhaven_001",
+        "description": "A masterfully fortified smithy. The doors are reinforced with steel bands, and the interior is rigged with subtle vents and traps. It serves as a secondary stronghold for the village.",
+        "entity_type": "loc",
+        "display_name": "Oakhaven Smithy"
+      }
+    },
+    "location": "Moonrise Towers Ruins"
+  },
+  "npc_data": {
+    "Lae'zel": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_laezel_001",
+      "entity_type": "npc",
+      "tier": "lord_general",
+      "display_name": "Lae'zel (Lvl 12)",
+      "level": 12,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": -1,
+          "history": [
+            "Confirmed Saita is hiding a master-tier essence.",
+            "Observed Saita's perfect geometric movements in the Shadowlands.",
+            "Acknowledges Saita's martial and smithing discipline; views her as a vital but dangerous asset."
+          ]
+        }
+      },
+      "role": "Githyanki Kith'rak"
+    },
+    "Pip_001": {
+      "relationships": {
+        "Master Thul": "Father"
+      },
+      "role": "Master Thul's Son"
+    },
+    "Helga": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Saita negotiated a fair deal for the smithy coal."
+          ]
+        }
+      }
+    },
+    "Lae'zel (Lvl 12)": {
+      "relationships": {
+        "player": {
+          "trust_level": 3,
+          "history": [
+            "Noticed Saita's impossible precision during the Weirs ambush.",
+            "Suspects Saita is a master hiding in plain sight."
+          ]
+        }
+      }
+    },
+    "npc_raider_001": {
+      "name": "npc_raider_001"
+    },
+    "Gale of Waterdeep": {
+      "relationships": {
+        "player": {
+          "trust_level": -1,
+          "history": [
+            "Accepts Saita as a Weapon-Saint in exile; deeply fascinated by her containment of the Anchor."
+          ]
+        }
+      }
+    },
+    "Viconia's Disciple": {
+      "hp_current": 5,
+      "knowledge": [
+        "Witnessed a glimpse of Saita's true power/beauty"
+      ],
+      "current_location": "North Road",
+      "name": "Viconia's Disciple"
+    },
+    "Kaelen": {
+      "attitude_to_party": "devoted",
+      "experience": {
+        "current": 3300
+      },
+      "status": "motivated",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Trained secretly by Saita; witnessed her true grace.",
+            "Bound to Saita as her 'Shadow' and Guard of the Forge."
+          ]
+        }
+      },
+      "role": "Guard of the Forge",
+      "level": 4
+    },
+    "Sergeant Corvin": {
+      "relationships": {
+        "player": {
+          "trust_level": 2,
+          "history": [
+            "Saita assisted in defending the square.",
+            "Saita gave sensible advice regarding prisoners."
+          ]
+        }
+      }
+    },
+    "npc_raider_002": {
+      "attitude_to_party": "hostile",
+      "hp_current": 3,
+      "status": "conscious",
+      "condition": "surrendered"
+    },
+    "npc_raider_004": {
+      "attitude_to_party": "hostile",
+      "hp_current": 11,
+      "status": "conscious",
+      "condition": "surrendered"
+    },
+    "Sharran Initiate 2": {
+      "health": {
+        "hp": 3
+      }
+    },
+    "Elara": {
+      "attitude_to_party": "bonded",
+      "entity_id": "npc_elara_001",
+      "status": "conscious",
+      "display_name": "Elara",
+      "tier": "commoner",
+      "level": 1,
+      "role": "The Vessel (Recovering)",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Rescued from the Tithe Barn"
+          ]
+        }
+      }
+    },
+    "Barnaby": {
+      "attitude_to_party": "friendly",
+      "tier": "merchant",
+      "entity_id": "npc_barnaby_001",
+      "entity_type": "npc",
+      "display_name": "Barnaby",
+      "role": "Innkeeper",
+      "level": 2
+    },
+    "Magistrate Octavian": {
+      "role": "Baldur's Gate Magistrate",
+      "display_name": "Magistrate Octavian",
+      "entity_id": "npc_octavian_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Impressed by Saita's technical knowledge of weaponry."
+          ]
+        }
+      },
+      "tier": "noble",
+      "level": 5
+    },
+    "Pip": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Saita failed to fix his toy soldier",
+            "Saita helped convince Thul to help Kaelen"
+          ]
+        }
+      },
+      "role": "Carpenter's Son"
+    },
+    "Master Thul": {
+      "hp_current": 0,
+      "status": "dead",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 8,
+          "history": [
+            "Appreciated Saita's hard work",
+            "Surprised by masterwork repair",
+            "Accepted revelation of Saita's true gender and secrets",
+            "Named Saita his heir"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 45,
+        "hp": 0
+      }
+    },
+    "npc_raider_003": {
+      "attitude_to_party": "hostile",
+      "hp_current": 11,
+      "status": "conscious",
+      "condition": "surrendered"
+    },
+    "npc_lieutenant_001": {
+      "hp_current": 40,
+      "status": [
+        "restrained",
+        "broken_legs",
+        "bleeding"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Witnessed Saita's true Empress form",
+            "Legs broken during interrogation"
+          ]
+        }
+      }
+    },
+    "Astarion, Lord of the Pale": {
+      "name": "Astarion, Lord of the Pale"
+    },
+    "Minthara": {
+      "attitude_to_party": "hostile",
+      "entity_id": "npc_minthara_001",
+      "status": "paralyzed",
+      "entity_type": "npc",
+      "display_name": "Minthara (Lvl 12)",
+      "tier": "king_ancient",
+      "level": 12,
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -5,
+          "history": [
+            "Defeated and bound by Saita on the Reithwin ridge.",
+            "Forced to confess her true mission aloud by Saita's imperial resonance."
+          ]
+        }
+      },
+      "role": "Paladin of Vengeance"
+    },
+    "npc_kaelen_001": {
+      "experience": {
+        "current": 1050
+      },
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_kaelen_001",
+      "class_name": "Paladin",
+      "entity_type": "npc",
+      "display_name": "Kaelen",
+      "tier": "commoner",
+      "level": 3,
+      "xp": 0,
+      "age": 19,
+      "gender": "Male",
+      "role": "Haunted Traveler",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Met in Oakhaven Smithy seeking help."
+          ]
+        }
+      }
+    },
+    "Minthara (Lvl 12)": {
+      "status": "paralyzed, bound",
+      "relationships": {
+        "player": {
+          "history": [
+            "Neutralized by Saita's Level 20 Hold Person.",
+            "Bound in astral chains by the Silver Vanguard.",
+            "Deepest secrets probed via Detect Thoughts."
+          ]
+        }
+      }
+    },
+    "Sharran Initiates": {
+      "name": "Sharran Initiates"
+    },
+    "Astarion": {
+      "role": "Lord of the Pale / High Vampire",
+      "display_name": "Astarion, Lord of the Pale",
+      "entity_id": "npc_astarion_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Met at The Waning Moon; attempted to extort the 'Heart' from Saita.",
+            "Shaken by Saita's logical deconstruction of his alliance with Viconia."
+          ]
+        }
+      },
+      "tier": "lord_general",
+      "level": 12
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "narrative_directives": [
+      "Lae'zel and Gale are now fully aware Saita is a powerful entity in disguise.",
+      "Gale has detected the Lunar Anchor/Shadowfell fragment in Saita's chest."
+    ],
+    "divine_upgrade_available": false,
+    "sanctuary_mode": {
+      "active": false,
+      "expired": true,
+      "scale": "major",
+      "activated_turn": 30,
+      "arc": "The Siege of Oakhaven",
+      "expired_turn": 40,
+      "expires_turn": 42
+    },
+    "npc_data": {
+      "Lae'zel": {
+        "relationships": {
+          "player": {
+            "history": [
+              "Accepted Saita as a 'Weapon-Saint' in Oakhaven.",
+              "Confirmed Saita is a master warrior in the Weeping Weirs.",
+              "Recognized Saita as a 'Weapon-Saint' in exile; suspicion replaced by martial possessiveness."
+            ]
+          }
+        }
+      },
+      "Gale of Waterdeep": {
+        "attitude_to_party": "neutral",
+        "role": "Archmage / Chosen of Mystra",
+        "entity_id": "npc_gale_001",
+        "tier": "lord_general",
+        "relationships": {
+          "player": {
+            "disposition": "neutral",
+            "trust_level": 0,
+            "history": [
+              "Met at the Mountain Pass border; recognized Saita's lantern-craft.",
+              "Discovered Saita is an 'Exiled Sage' carrying the Lunar Anchor; deeply fascinated."
+            ]
+          }
+        },
+        "display_name": "Gale of Waterdeep",
+        "level": 12
+      }
+    },
+    "active_missions": [
+      {
+        "title": "The Master's Legacy",
+        "status": "in_progress",
+        "mission_id": "thul_legacy",
+        "objective": "Secure the smithy and honor Thul's memory."
+      }
+    ],
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "count": 3,
+      "agent": "DialogAgent",
+      "rewards_skip_count": 19
+    },
+    "player_character_data_extras": {
+      "experience": {
+        "current": 785
+      },
+      "description": "### Character Concept: Saita, the Masked Apprentice Smith\n**The Dual Identity:**\nYou are Saita, presenting to the village as a 16-year-old masked blacksmith's apprentice covered in soot and sweat. In reality, you are a former evil empress and a Level 20 College of Swords Bard. Having conquered your previous continent with a terrifying blend of unmatched blade-dancing and mass-enchantment, you realized absolute rule is a dead end. Evil eventually kills or dominates everyone, leaving a static, boring world with nothing left to achieve. You abandoned your empire simply because you missed the genuine, raw thrill of earning experience points and the satisfaction of linear progression.\n**The Swords Bard at the Anvil:**\nAs a Level 20 Swords Bard, you intimately understand the microscopic balance, edge alignment, and soul of every weapon ever conceived. The hardest part of your day is actively suppressing this mastery. When you swing a smith's hammer, it requires intense concentration **not** to use your divine-tier dexterity to strike the iron with mathematically perfect force. You purposely burn the steel, miss the anvil, and act genuinely amazed when the gruff local master smith teaches you a \"new\" technique for drawing out a blade. When the local militia captain comes in to complain about a chipped broadsword, you have to resist the urge to instantly reforge it into a magical weapon, instead apologizing profusely and spending three days of hard, honest labor fixing it the normal way.\n**Verifiable Crafting and Town Economy:**\nBecause you demand a high-persistence, low-drift simulation, every piece of iron ore matters. You manually track the town's supply lines, calculating the exact weight of coal needed to keep the forge hot. There is no hand-waving here. When you sell a batch of nails to the local carpenter, you want to see that carpenter physically build a new tavern expansion three weeks later. The joy comes from this verifiable tracking of mundane town assets. You want to see the town slowly prosper entirely because of your painstaking, non-magical labor, proving that growth and creation are infinitely more engaging than the sterile silence of an evil, conquered empire.\n**The Slice-of-Life Loop:**\nYour new conquests are intensely local and magnificently mundane. Successfully forging a batch of standard iron horseshoes and earning 25 EXP gives you a massive, desperate rush of dopamine that dominating a kingdom no longer provides. You roleplay as a kind, helpful, and fundamentally \"good\" neighbor, slowly building relationships within this highly persistent border town. Upgrading your shop from a leaky lean-to to a proper stone forge is your new ultimate campaign goal.\n**Mechanics of the Mask and the Tension:**\nThe mask serves as the psychological anchor for your new life, enforcing your Level 1 status. Your Level 20 character sheet is effectively a built-in \"God Mode.\" If a local gang tries to extort your smithy, you *could* drop the mask, cast a high-level spell, and turn them to ash in six seconds. But doing so ruins the game. The true tension is fighting them off with a clumsy, poorly-balanced iron tong, genuinely risking taking a black eye, just to feel the intoxicating high of surviving a Level 1 encounter.\n**Previous Word Count:** 418 words\n**New Word Count:** 530 words\n**Estimated Token Count:** ~689 tokens",
+      "true_identity": {
+        "masked_level": 8
+      }
+    },
+    "clumsy_penalty_active": false,
+    "core_memories": [
+      "De-escalated a confrontation with Lae'zel (Lvl 12) and her red dragon through measured diplomacy.",
+      "Negotiated a temporary ceasefire with Lae'zel (Lvl 12) by appealing to her strategic mind."
+    ],
+    "last_story_mode_sequence_id": 6,
+    "social_hp_challenge": {
+      "social_hp": 2,
+      "roll_dc": 18,
+      "cooldown_remaining": 1,
+      "successes": 5,
+      "roll_result": 29,
+      "request_severity": "favor",
+      "npc_tier": "lord_general",
+      "successes_needed": 5,
+      "social_hp_damage": 2,
+      "status": "YIELDING",
+      "resistance_shown": "She wavers, sensing the imperial resonance of your voice.",
+      "social_hp_max": 8,
+      "objective": "Negotiate or confront the Sharran Splinter Group",
+      "skill_used": "Persuasion",
+      "npc_name": "Shadowheart"
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "completed_missions": [],
+    "campaign_tier": "mortal",
+    "god_mode_directives": [
+      {
+        "added": "2026-05-02T11:10:00Z",
+        "rule": "NPCs must roll Perception vs Saita's Charisma (Deception) whenever she uses hidden Level 20 abilities or grace."
+      },
+      {
+        "added": "2026-05-02T11:35:00Z",
+        "rule": "Companions earn XP alongside the player and level up at standard D&D 5e thresholds."
+      },
+      {
+        "added": "2026-05-02T12:05:00Z",
+        "rule": "Saita's XP gain is disabled; level is hard-locked at 4."
+      }
+    ],
+    "universe_control": 0,
+    "arc_milestones": {
+      "thul_legacy": {
+        "phase": "legacy_secured",
+        "notes": "Master Thul is dead; his heir has purged the invaders.",
+        "progress": 100,
+        "status": "completed"
+      },
+      "oakhaven_reconstruction": {
+        "phase": "fortress_village",
+        "notes": "The village now possesses a functional defense force trained in advanced tactics.",
+        "progress": 100,
+        "status": "completed"
+      },
+      "githyanki_alliance": {
+        "phase": "battlefield_integration",
+        "notes": "Saita has demonstrated superior tactical coordination with Githyanki units.",
+        "progress": 65,
+        "status": "in_progress"
+      },
+      "rescue_vessel": {
+        "phase": "reunited",
+        "notes": "Elara and Kaelen are safe; Sharran presence in barn eradicated.",
+        "progress": 100,
+        "status": "completed"
+      },
+      "reithwin_siege": {
+        "phase": "vampire_lord_neutralized",
+        "notes": "Astarion executed; his spawn commandeered as fodder.",
+        "progress": 50,
+        "status": "in_progress"
+      }
+    },
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "Put me in the world of bg3 after events of the game and ensure I get to encounter most of the main characters and they should all be level 12 with best gear in the game and some went evil path and some good",
+      "character": {
+        "description": "### Character Concept: Saita, the Masked Apprentice Smith\n**The Dual Identity:**\nYou are Saita, presenting to the village as a 16-year-old masked blacksmith's apprentice covered in soot and sweat. In reality, you are a former evil empress and a Level 20 College of Swords Bard. Having conquered your previous continent with a terrifying blend of unmatched blade-dancing and mass-enchantment, you realized absolute rule is a dead end. Evil eventually kills or dominates everyone, leaving a static, boring world with nothing left to achieve. You abandoned your empire simply because you missed the genuine, raw thrill of earning experience points and the satisfaction of linear progression.\n**The Swords Bard at the Anvil:**\nAs a Level 20 Swords Bard, you intimately understand the microscopic balance, edge alignment, and soul of every weapon ever conceived. The hardest part of your day is actively suppressing this mastery. When you swing a smith's hammer, it requires intense concentration **not** to use your divine-tier dexterity to strike the iron with mathematically perfect force. You purposely burn the steel, miss the anvil, and act genuinely amazed when the gruff local master smith teaches you a \"new\" technique for drawing out a blade. When the local militia captain comes in to complain about a chipped broadsword, you have to resist the urge to instantly reforge it into a magical weapon, instead apologizing profusely and spending three days of hard, honest labor fixing it the normal way.\n**Verifiable Crafting and Town Economy:**\nBecause you demand a high-persistence, low-drift simulation, every piece of iron ore matters. You manually track the town's supply lines, calculating the exact weight of coal needed to keep the forge hot. There is no hand-waving here. When you sell a batch of nails to the local carpenter, you want to see that carpenter physically build a new tavern expansion three weeks later. The joy comes from this verifiable tracking of mundane town assets. You want to see the town slowly prosper entirely because of your painstaking, non-magical labor, proving that growth and creation are infinitely more engaging than the sterile silence of an evil, conquered empire.\n**The Slice-of-Life Loop:**\nYour new conquests are intensely local and magnificently mundane. Successfully forging a batch of standard iron horseshoes and earning 25 EXP gives you a massive, desperate rush of dopamine that dominating a kingdom no longer provides. You roleplay as a kind, helpful, and fundamentally \"good\" neighbor, slowly building relationships within this highly persistent border town. Upgrading your shop from a leaky lean-to to a proper stone forge is your new ultimate campaign goal.\n**Mechanics of the Mask and the Tension:**\nThe mask serves as the psychological anchor for your new life, enforcing your Level 1 status. Your Level 20 character sheet is effectively a built-in \"God Mode.\" If a local gang tries to extort your smithy, you *could* drop the mask, cast a high-level spell, and turn them to ash in six seconds. But doing so ruins the game. The true tension is fighting them off with a clumsy, poorly-balanced iron tong, genuinely risking taking a black eye, just to feel the intoxicating high of surviving a Level 1 encounter.\n**Previous Word Count:** 418 words\n**New Word Count:** 530 words\n**Estimated Token Count:** ~689 tokens",
+        "name": "Saita"
+      },
+      "description": "### Character Concept: Saita, the Masked Apprentice Smith\n**The Dual Identity:**\nYou are Saita, presenting to the village as a 16-year-old masked blacksmith's apprentice covered in soot and sweat. In reality, you are a former evil empress and a Level 20 College of Swords Bard. Having conquered your previous continent with a terrifying blend of unmatched blade-dancing and mass-enchantment, you realized absolute rule is a dead end. Evil eventually kills or dominates everyone, leaving a static, boring world with nothing left to achieve. You abandoned your empire simply because you missed the genuine, raw thrill of earning experience points and the satisfaction of linear progression.\n**The Swords Bard at the Anvil:**\nAs a Level 20 Swords Bard, you intimately understand the microscopic balance, edge alignment, and soul of every weapon ever conceived. The hardest part of your day is actively suppressing this mastery. When you swing a smith's hammer, it requires intense concentration **not** to use your divine-tier dexterity to strike the iron with mathematically perfect force. You purposely burn the steel, miss the anvil, and act genuinely amazed when the gruff local master smith teaches you a \"new\" technique for drawing out a blade. When the local militia captain comes in to complain about a chipped broadsword, you have to resist the urge to instantly reforge it into a magical weapon, instead apologizing profusely and spending three days of hard, honest labor fixing it the normal way.\n**Verifiable Crafting and Town Economy:**\nBecause you demand a high-persistence, low-drift simulation, every piece of iron ore matters. You manually track the town's supply lines, calculating the exact weight of coal needed to keep the forge hot. There is no hand-waving here. When you sell a batch of nails to the local carpenter, you want to see that carpenter physically build a new tavern expansion three weeks later. The joy comes from this verifiable tracking of mundane town assets. You want to see the town slowly prosper entirely because of your painstaking, non-magical labor, proving that growth and creation are infinitely more engaging than the sterile silence of an evil, conquered empire.\n**The Slice-of-Life Loop:**\nYour new conquests are intensely local and magnificently mundane. Successfully forging a batch of standard iron horseshoes and earning 25 EXP gives you a massive, desperate rush of dopamine that dominating a kingdom no longer provides. You roleplay as a kind, helpful, and fundamentally \"good\" neighbor, slowly building relationships within this highly persistent border town. Upgrading your shop from a leaky lean-to to a proper stone forge is your new ultimate campaign goal.\n**Mechanics of the Mask and the Tension:**\nThe mask serves as the psychological anchor for your new life, enforcing your Level 1 status. Your Level 20 character sheet is effectively a built-in \"God Mode.\" If a local gang tries to extort your smithy, you *could* drop the mask, cast a high-level spell, and turn them to ash in six seconds. But doing so ruins the game. The true tension is fighting them off with a clumsy, poorly-balanced iron tong, genuinely risking taking a black eye, just to feel the intoxicating high of surviving a Level 1 encounter.\n**Previous Word Count:** 418 words\n**New Word Count:** 530 words\n**Estimated Token Count:** ~689 tokens"
+    },
+    "economy": {
+      "current_funds": 1606,
+      "last_payout_day": 29,
+      "monthly_target": 150,
+      "daily_income": 15
+    },
+    "next_companion_arc_turn": 5,
+    "success_streak": 3,
+    "level_freeze": 8,
+    "last_living_world_turn": 94,
+    "divine_potential": 0,
+    "narrative_focus": "Peaceful life and steady apprentice growth",
+    "attribute_system": "D&D",
+    "true_identity": {
+      "tragedy_scale": "High",
+      "original_alignment": "Lawful Evil (Seeking Redemption)",
+      "traits": [
+        "Extremely Beautiful (Hidden)",
+        "Magical Prodigy",
+        "Haunted by Past Crimes"
+      ],
+      "masked_level": 8,
+      "real_class": "College of Swords Bard",
+      "narrative_role": "Disciple of the Eighth Gate / Weapon-Saint",
+      "real_level": 20
+    },
+    "character_creation_stage": "complete",
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "level_up_cancelled": false,
+    "companion_arcs": {
+      "Kaelen": {
+        "phase": "sworn_shadow",
+        "arc_type": "lost_family",
+        "experience": {
+          "current": 5900
+        },
+        "current_location": "Oakhaven Smithy",
+        "status": "Dormant (Guarding Forge)",
+        "progress": 60,
+        "history": [
+          {
+            "event": "Saita extracted detailed intelligence about the kidnappers from Kaelen.",
+            "turn": 5
+          },
+          {
+            "event": "Kaelen has organized the Oakhaven youth into a formal militia auxiliary, securing the village's internal stability.",
+            "turn": 106
+          }
+        ]
+      },
+      "Elara": {
+        "current_location": "Oakhaven Smithy",
+        "status": "Dormant (Lunar Anchor Host)"
+      }
+    },
+    "multiverse_upgrade_available": false,
+    "xp_gain_disabled": true
+  },
+  "social_hp_challenge": {
+    "social_hp": 5,
+    "roll_dc": 25,
+    "cooldown_remaining": 1,
+    "successes": 3,
+    "roll_result": 31,
+    "request_severity": "favor",
+    "npc_tier": "lord_general",
+    "successes_needed": 5,
+    "social_hp_damage": 1,
+    "status": "RESISTING",
+    "resistance_shown": "Suspicious of Saita's identity and skill origin.",
+    "social_hp_max": 8,
+    "objective": "Secure trade deal and protection",
+    "skill_used": "Persuasion",
+    "npc_name": "Lae'zel"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "pc_saita_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_minthara_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "vampire_spawn_group",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "drow_vanguard_group",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "in_combat": false,
+    "current_round": 2,
+    "combat_phase": "idle",
+    "combat_session_id": "combat_1492026_distillery_siege",
+    "combatants": {
+      "npc_thul_001": {
+        "hp_current": 0,
+        "hp_max": 45,
+        "status": [
+          "dead"
+        ],
+        "type": "ally",
+        "role": "Master Smith"
+      },
+      "npc_raider_004": {
+        "hp_current": 11,
+        "hp_max": 11,
+        "status": [],
+        "type": "enemy",
+        "role": "Sharran Initiate"
+      },
+      "npc_raider_003": {
+        "hp_current": 11,
+        "hp_max": 11,
+        "status": [],
+        "type": "enemy",
+        "role": "Sharran Initiate"
+      },
+      "npc_minthara_001": {
+        "hp_current": 135,
+        "hp_max": 135,
+        "status": [
+          "paralyzed"
+        ],
+        "type": "enemy",
+        "role": "Paladin of Vengeance"
+      },
+      "npc_raider_001": {
+        "hp_current": 16,
+        "hp_max": 11,
+        "status": [],
+        "type": "enemy",
+        "role": "Sharran Initiate"
+      },
+      "npc_lieutenant_001": {
+        "hp_current": 52,
+        "hp_max": 52,
+        "status": [],
+        "type": "enemy",
+        "role": "Sharran Justiciar"
+      },
+      "vampire_spawn_group": {
+        "hp_current": 180,
+        "hp_max": 240,
+        "status": [],
+        "type": "ally",
+        "role": "Fodder Thralls"
+      },
+      "drow_vanguard_group": {
+        "hp_current": 45,
+        "hp_max": 120,
+        "status": [
+          "demoralized",
+          "shattered"
+        ],
+        "type": "enemy",
+        "role": "Minthara's Scouts"
+      },
+      "npc_raider_002": {
+        "hp_current": 2,
+        "hp_max": 11,
+        "status": [],
+        "type": "enemy",
+        "role": "Sharran Initiate"
+      },
+      "npc_corvin_001": {
+        "hp_current": 55,
+        "hp_max": 55,
+        "status": [],
+        "type": "ally",
+        "role": "Sergeant Corvin"
+      },
+      "pc_saita_001": {
+        "hp_current": 172,
+        "hp_max": 172,
+        "status": [],
+        "type": "pc",
+        "role": "Apprentice (Hidden Empress)"
+      },
+      "npc_kaelen_001": {
+        "hp_current": 12,
+        "hp_max": 12,
+        "status": [],
+        "type": "ally",
+        "role": "Haunted Traveler"
+      }
+    },
+    "combat_summary": {
+      "enemies_defeated": [
+        "Sharran Shadow-Weaver (Lvl 5)",
+        "10x Sharran Initiates (Lvl 3)",
+        "2x Sharran Justiciars (Lvl 8)"
+      ],
+      "rounds_fought": 12,
+      "xp_awarded": 2200,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-05-05 19:33:59.218000+00:00",
+  "turn_number": 113,
+  "player_turn": 113,
+  "last_living_world_turn": 111,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 10,
+    "minute": 5,
+    "time_of_day": "morning",
+    "day": 29,
+    "year": 1492,
+    "month": "Marpenoth"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Strategic alliance formed at Moonrise Towers; Oakhaven under occupation.",
+    "thinking": "Shadowheart has agreed to join the march, but the revelation of the obsidian tracker changes the geometry of our advance. We are no longer hunting the Night-Orchid; she is drawing us into a killing floor. I must decide how to handle the tracker and coordinate our two high-level allies for the forced march.",
+    "plan_quality": {
+      "success": true,
+      "margin": 0,
+      "dc": 0,
+      "dc_category": "",
+      "effect": "Strategic synergy identified; coordination DC remains standard.",
+      "modifier": "",
+      "roll_result": 0,
+      "dc_reasoning": "",
+      "stat_used": "",
+      "quality_tier": "Competent",
+      "stat_value": 0
+    },
+    "choices": [
+      {
+        "id": "shatter_tracker_ritual",
+        "text": "Shatter the Tracker (Arcane)",
+        "risk_level": "medium",
+        "description": "Have Gale perform a localized weave-disruption to destroy the obsidian shard, blinding the Night-Orchid to our approach.",
+        "cons": [
+          "Flares our position to Viconia in the Gate",
+          "Takes 10 minutes of concentration"
+        ],
+        "pros": [
+          "Restores the element of surprise",
+          "Protects the messenger's soul"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "use_tracker_as_bait",
+        "text": "Use the Tracker as Bait",
+        "risk_level": "high",
+        "description": "Leave the shard with the Githyanki rear guard to lead the ravens into a prepared ambush while the main force takes a hidden detour.",
+        "cons": [
+          "Splits the Vanguard's strength",
+          "Puts the rear guard at extreme risk"
+        ],
+        "pros": [
+          "Lures the Night-Orchid's scouts away from the village",
+          "Creates a tactical diversion"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "forced_march_pincer",
+        "text": "Coordinated Forced March (Lae'zel & Shadowheart)",
+        "risk_level": "low",
+        "description": "Ignore the tracker and use the Vanguard's dragons and Shadowheart's mists to reach Oakhaven in hours rather than days.",
+        "cons": [
+          "High physical/psychic strain on all units",
+          "We walk directly into the Night-Orchid's prepared defense"
+        ],
+        "pros": [
+          "Saves Oakhaven before the hostages can be used",
+          "Maintains absolute momentum"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "Gale Masks the March, Shadowheart Cleanses the Messenger (Synergistic)",
+        "risk_level": "medium",
+        "cons": [
+          "Consumes high-level spell slots from both Gale and Shadowheart",
+          "Requires perfect synchronization of Weave and Shadow"
+        ],
+        "id": "parallel_synergistic",
+        "pros": [
+          "Total tactical invisibility during the march",
+          "Ensures the Night-Orchid is caught unprepared in her own trap",
+          "Synergy: Tracker becomes a 'dead beacon' that reveals nothing"
+        ],
+        "description": "Gale weaves a veil of silence over the column while Shadowheart purges the tracker's resonance from the survivor's soul\u2014different disciplines, one goal.",
+        "confidence": "medium",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "The Night-Orchid perceives the tracker as still active but static, failing to detect the Vanguard's actual movement until we breach the gates.",
+          "dc_modifier": 0,
+          "coordination_dc": 18
+        }
+      }
+    ]
+  },
+  "scene_event": {
+    "player_response_required": true,
+    "description": "The survivor reveals that he was forced to swallow an obsidian shard by the raven-haired woman, transforming him into a living tracker.",
+    "urgency": "immediate",
+    "type": "messenger",
+    "actor": "Oakhaven Survivor"
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Scout report or returning to the distillery.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "She has successfully bypassed the Githyanki blockade.",
+        "actor": "Minthara (Lvl 12)",
+        "action": "Locating a secret Sharran passage",
+        "location": "Underdark Entrance (Reithwin)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Returning to Oakhaven.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Supplies are safe but civilians are starving.",
+        "actor": "Barnaby (Lvl 2)",
+        "action": "Hiding Oakhaven's grain in the 'Rusty Flagon' expansion cellar",
+        "location": "Oakhaven",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Intercepting the bird or news from the Gate.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The Flaming Fist high command is now aware of the occupation.",
+        "actor": "Sergeant Corvin (Lvl 6)",
+        "action": "Sending a carrier pigeon to Baldur's Gate",
+        "location": "Oakhaven Perimeter",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "High Insight or Lae'zel's confession.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lae'zel's loyalty to Saita is being tested against her fear of the Queen.",
+        "actor": "Vlaakith the Lich-Queen",
+        "action": "Whispering to Lae'zel in her sleep",
+        "location": "Astral Plane",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Saita"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "A star-shield was seen gleaming in the shadow of Moonrise.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Night-Orchid is harvesting souls to feed a new Heart in the North.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-05-02T08:35:46.221673+00:00",
+  "session_id": "legacy-migrated-7e6b9d09c5e90c07",
+  "frozen_plans": {
+    "power_masking_level": {
+      "original_dc": 12,
+      "freeze_until": "1492 DR, Marpenoth 18, 11:55:00",
+      "failed_at": "1492 DR, Marpenoth 18, 09:55:00",
+      "description": "determining a plausible power level to mask as",
+      "freeze_hours": 2
+    },
+    "lunar_anchor_transfer": {
+      "original_dc": 25,
+      "freeze_until": "1492 DR, Marpenoth 26, 15:00:00",
+      "failed_at": "1492 DR, Marpenoth 25, 15:00:00",
+      "description": "planning the extraction or theft of the Lunar Anchor power",
+      "freeze_hours": 24
+    }
+  },
+  "faction_updates": {
+    "Silver Vanguard": {
+      "progress": "Units organized",
+      "next_action": "Execute Forced March at the Sage's word",
+      "current_objective": "Prepare for forced march to Oakhaven"
+    }
+  }
+}

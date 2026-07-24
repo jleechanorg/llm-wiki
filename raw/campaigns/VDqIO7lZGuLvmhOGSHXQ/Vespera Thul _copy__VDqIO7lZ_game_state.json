@@ -1,0 +1,1520 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "hp_current": 44,
+    "active_effects": [
+      "Sovereign's Presence: Advantage on Persuasion/Deception checks (Cuirass).",
+      "Soul Shield (Passive): +3 AC (6+ Essence).",
+      "Necrotic Armaments: Active.",
+      "The Mask of the Polite Prodigy: Impeccable courtly manners always enabled.",
+      "Paladin of Justice (Mask): Level 1 status faked; Abyssal resonance hidden."
+    ],
+    "display_name": "Vespera Thul",
+    "base_attributes": {
+      "intelligence": 15,
+      "dexterity": 16,
+      "wisdom": 12,
+      "constitution": 14,
+      "strength": 10,
+      "charisma": 18
+    },
+    "alignment": "Lawful Evil",
+    "cantrips": [
+      {
+        "name": "Guidance",
+        "level": 0
+      },
+      {
+        "name": "Thaumaturgy",
+        "level": 0
+      }
+    ],
+    "name": "Vespera Thul",
+    "attributes": {
+      "intelligence": 15,
+      "dexterity": 16,
+      "wisdom": 12,
+      "constitution": 14,
+      "strength": 10,
+      "charisma": 18
+    },
+    "health": {
+      "hp": 44,
+      "hp_max": 44
+    },
+    "hp_max": 44,
+    "class_name": "Onyx Shadow-Stalker (Paladin)",
+    "gender": "Female",
+    "mbti": "INTJ",
+    "core_memories": [
+      "Vespera Thul is a 16-year-old female military prodigy and Onyx Shadow-Stalker, specializing in dexterity-based assassination tactics.",
+      "Vespera Thul is a 16-year-old military prodigy and Onyx Shadow-Stalker, a Paladin of Malcanthet seeking to become a Baron by slaying a Bandit Lord.",
+      "Vespera successfully framed the Iron King for her own village harvests and infiltrated the Crossroad Adventurer's Guild posing as a teenage Paladin of Justice."
+    ],
+    "race": "Human (Thayan)",
+    "proficiency_bonus": 3,
+    "features": [
+      "Assassinate",
+      "Sovereign's Decree",
+      "Onyx Smite",
+      "Heart-Eater Smite",
+      "Seductive Presence",
+      "Soul Harvest (Dread Overlord): Minor/Sovereign Essence resource system.",
+      "Shield of Souls: Passive AC bonus (+1 per 2 essence, max +3); Reaction for 15 THP + Damage Resistance.",
+      "Spirit Invocations: Spend essence for Soul Siphon (Heal), Soul Surge (+1d8), Soul Command (BA), or Spook (Fear).",
+      "Necrotic Armaments: Melee and Ranged attacks deal +1d6 Necrotic damage; auto-harvest on kill.",
+      "Dread Overlord: Raise 4 Thralls; Thralls get +3 AC/Atk; gain Necrotic Resistance while minions live."
+    ],
+    "age": 16,
+    "resources": {
+      "class_features": {
+        "lay_on_hands_pool": {
+          "max": 25,
+          "used": 0
+        },
+        "sovereign_decree": {
+          "max": 1,
+          "used": 1
+        },
+        "essence": 8
+      },
+      "gold": 3450,
+      "spell_slots": {
+        "level_1": {
+          "max": 4,
+          "used": 0
+        },
+        "level_2": {
+          "max": 2,
+          "used": 2
+        }
+      }
+    },
+    "equipment": {
+      "head": {
+        "equipped": true,
+        "name": "The Gaze of the Unseen",
+        "stats": "Cast Detect Magic and See Invisibility at will",
+        "type": "item"
+      },
+      "backpack": [
+        {
+          "equipped": false,
+          "name": "Backpack",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Bedroll",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Mess kit",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Tinderbox",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Torch",
+          "stats": "10"
+        },
+        {
+          "equipped": false,
+          "name": "Rations",
+          "stats": "10 days"
+        },
+        {
+          "equipped": false,
+          "name": "Waterskin",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Rope",
+          "stats": "50 feet"
+        },
+        {
+          "equipped": false,
+          "name": "Coin pouch",
+          "stats": "10gp"
+        },
+        {
+          "equipped": false,
+          "name": "Rations (10 days)"
+        },
+        {
+          "equipped": false,
+          "name": "Thieves' Tools"
+        },
+        {
+          "equipped": false,
+          "name": "Dungeoneer's Pack"
+        }
+      ],
+      "off_hand": {
+        "equipped": true,
+        "damage": "1d4+3 piercing",
+        "name": "Silver-Hilted Dagger",
+        "type": "weapon"
+      },
+      "armor": {
+        "armor_class": 14,
+        "equipped": true,
+        "bonus": 1,
+        "name": "Onyx Shadow-Mail",
+        "type": "armor",
+        "properties": [
+          "Medium Armor",
+          "No stealth disadvantage"
+        ],
+        "description": "Fine mail links forged from shadow-tempered steel, designed to be silent and supple, allowing for absolute lethality without the clatter of traditional plate."
+      },
+      "ranged": {
+        "equipped": true,
+        "damage": "1d8 piercing",
+        "name": "Void-Tempered Longbow",
+        "stats": "1d8 piercing + 1d6 Necrotic",
+        "type": "weapon"
+      },
+      "main_hand": {
+        "equipped": true,
+        "bonus": 2,
+        "name": "The Midnight Razor (Rapier)",
+        "stats": "1d8+5 piercing + 1d6 Necrotic; Finesse, Critical: Blind",
+        "properties": [
+          "finesse",
+          "critical: blind"
+        ],
+        "type": "weapon",
+        "damage": "1d8+5 piercing"
+      }
+    },
+    "entity_id": "pc_vespera_001",
+    "level": 5,
+    "spells_prepared": [
+      {
+        "name": "Divine Favor",
+        "level": 1
+      },
+      {
+        "name": "Shield of Faith",
+        "level": 1
+      },
+      {
+        "name": "Command",
+        "level": 1
+      },
+      {
+        "name": "Hold Person",
+        "level": 2
+      }
+    ],
+    "experience": {
+      "needed_for_next_level": 14000,
+      "to_next_level": 0,
+      "current": 14225
+    }
+  },
+  "world_data": {
+    "current_location_name": "Iron Crag Perimeter - The Black Pillar",
+    "world_time": {
+      "year": 1495,
+      "month": "Kythorn",
+      "microsecond": 0,
+      "hour": 22,
+      "minute": 30,
+      "time_of_day": "night",
+      "day": 31,
+      "second": 6
+    }
+  },
+  "npc_data": {
+    "High Inquisitor Vane": {
+      "gender": "Male",
+      "entity_id": "npc_vane_001",
+      "role": "State Security Chief",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -2
+        }
+      },
+      "level": 15,
+      "display_name": "High Inquisitor Vane",
+      "tier": "lord_general"
+    },
+    "npc_inquisitor_vane": {
+      "tier": "lord_general",
+      "gender": "Male",
+      "role": "State Security Chief",
+      "faction": "House Vane",
+      "mbti": "ESTJ",
+      "display_name": "High Inquisitor Vane",
+      "level": 12
+    },
+    "npc_patriarch_vor": {
+      "gender": "Male",
+      "role": "The Mining Magnate",
+      "tier": "lord",
+      "level": 11,
+      "display_name": "Patriarch Vor",
+      "faction": "House Vor"
+    },
+    "npc_elara_red": {
+      "gender": "Female",
+      "role": "The Rebel Leader",
+      "tier": "general",
+      "level": 10,
+      "display_name": "Elara the Red",
+      "faction": "The Discarded"
+    },
+    "Archmage Nynd": {
+      "gender": "Male",
+      "entity_id": "npc_nynd_001",
+      "role": "The Demonologist",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0
+        }
+      },
+      "level": 16,
+      "display_name": "Archmage Nynd",
+      "tier": "lord"
+    },
+    "Thayan Scouts": {
+      "level": 2
+    },
+    "Kaelo Thul": {
+      "gender": "Male",
+      "role": "The Hedonistic Pawn / Brother",
+      "alignment": "Chaotic Evil",
+      "display_name": "Kaelo Thul",
+      "entity_id": "npc_kaelo_001",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "history": [
+            "Dependent on Vespera for illicit supplies and slaves."
+          ],
+          "trust_level": 2
+        }
+      },
+      "mbti": "ESFP",
+      "level": 5,
+      "tier": "noble"
+    },
+    "Aurelia Thul": {
+      "gender": "Female",
+      "role": "The Fanatical Paragon / Sister",
+      "alignment": "Lawful Neutral",
+      "display_name": "Aurelia Thul",
+      "entity_id": "npc_aurelia_001",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "history": [
+            "Seeks a formal duel to cleanse the family name."
+          ],
+          "trust_level": -4
+        }
+      },
+      "mbti": "ISTJ",
+      "level": 7,
+      "tier": "knight"
+    },
+    "Sergeant Harl": {
+      "role": "Guard Sergeant",
+      "tier": "guard",
+      "attitude_to_party": "hostile",
+      "status": "conscious",
+      "level": 3
+    },
+    "npc_cassandra_thul": {
+      "tier": "lord",
+      "gender": "Female",
+      "role": "The Pious Spymaster",
+      "alignment": "Neutral Evil",
+      "display_name": "Cassandra Thul",
+      "entity_id": "npc_cassandra_thul",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Secret blood-pact to eliminate Malichor."
+          ],
+          "trust_level": 5
+        }
+      },
+      "mbti": "INFJ",
+      "class_name": "Cleric of Shar",
+      "level": 12
+    },
+    "Elder Bram": {
+      "tier": "merchant",
+      "entity_id": "npc_bram_001",
+      "role": "Village Elder",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Charmed by Lady Vespera's noble mask"
+          ],
+          "trust_level": 4
+        }
+      },
+      "level": 2,
+      "display_name": "Elder Bram",
+      "attitude_to_party": "friendly"
+    },
+    "Archmage Malichor Thul": {
+      "attributes": {
+        "intelligence": 22,
+        "charisma": 16,
+        "wisdom": 18
+      },
+      "gender": "Male",
+      "tier": "king_ancient",
+      "role": "The Ancient Patriarch / Father",
+      "alignment": "Lawful Evil",
+      "display_name": "Archmage Malichor Thul",
+      "entity_id": "npc_malichor_001",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "history": [
+            "Dismissed Vespera as a 'biological discard'."
+          ],
+          "trust_level": -5
+        }
+      },
+      "level": 20,
+      "health": {
+        "hp": 180,
+        "hp_max": 180
+      },
+      "mbti": "INTJ"
+    },
+    "Warlord Pyre": {
+      "gender": "Male",
+      "entity_id": "npc_pyre_001",
+      "role": "The Scorched-Earth Commander",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -3
+        }
+      },
+      "level": 15,
+      "display_name": "Warlord Pyre",
+      "tier": "general"
+    },
+    "npc_thalric_thul": {
+      "tier": "noble",
+      "gender": "Male",
+      "role": "The Arrogant Heir",
+      "alignment": "Lawful Evil",
+      "display_name": "Thalric Thul",
+      "entity_id": "npc_thalric_thul",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "history": [
+            "Actively plotting Vespera's execution."
+          ],
+          "trust_level": -3
+        }
+      },
+      "mbti": "ENTJ",
+      "class_name": "Evoker Wizard",
+      "level": 7
+    },
+    "Master Alchemist Varon": {
+      "gender": "Male",
+      "role": "House Murkh Alchemist",
+      "display_name": "Master Alchemist Varon",
+      "entity_id": "npc_varon_001",
+      "relationships": {
+        "player": {
+          "disposition": "broken",
+          "history": [
+            "Captured in Surmarsh",
+            "Subjected to Sovereign Presence",
+            "Signed Blood-Oath of Fealty"
+          ],
+          "trust_level": -5
+        }
+      },
+      "status": "conscious",
+      "health": {
+        "hp": 15,
+        "conditions": [
+          "paralyzed (lower body)",
+          "charmed (blood-oath)"
+        ],
+        "hp_max": 45
+      },
+      "tier": "noble"
+    },
+    "Patriarch Vor": {
+      "gender": "Male",
+      "entity_id": "npc_vor_001",
+      "role": "The Mining Magnate",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0
+        }
+      },
+      "level": 12,
+      "display_name": "Patriarch Vor",
+      "tier": "lord"
+    },
+    "npc_varon": {
+      "gender": "Male",
+      "entity_id": "npc_varon",
+      "role": "House Murkh Asset",
+      "tier": "merchant",
+      "status": "paralyzed",
+      "display_name": "Master Alchemist Varon",
+      "level": 6
+    },
+    "npc_vax_wyrm": {
+      "gender": "Male",
+      "role": "Rival Mercenary Leader",
+      "tier": "lord",
+      "level": 9,
+      "display_name": "Vax of the Wyrm-Blood",
+      "faction": "Wyrm-Blood Syndicate"
+    },
+    "Countess Elyria Zass": {
+      "gender": "Female",
+      "entity_id": "npc_zass_001",
+      "role": "The Spymaster / Financier",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0
+        }
+      },
+      "level": 12,
+      "display_name": "Countess Elyria Zass",
+      "tier": "noble"
+    },
+    "Baroness Drac": {
+      "gender": "Female",
+      "entity_id": "npc_drac_001",
+      "role": "The Wyvern Cavalry Leader",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1
+        }
+      },
+      "level": 14,
+      "display_name": "Baroness Drac",
+      "tier": "lord"
+    },
+    "npc_aurelia_thul": {
+      "tier": "knight",
+      "gender": "Female",
+      "role": "The Fanatical Blade",
+      "alignment": "Lawful Neutral",
+      "display_name": "Aurelia Thul",
+      "entity_id": "npc_aurelia_thul",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "history": [
+            "Seeks a duel to execution to cleanse the name."
+          ],
+          "trust_level": -6
+        }
+      },
+      "mbti": "ISTJ",
+      "class_name": "Bladesinger Wizard",
+      "level": 10
+    },
+    "npc_elyria_zass": {
+      "gender": "Female",
+      "role": "The Spymaster",
+      "tier": "noble",
+      "level": 11,
+      "display_name": "Countess Elyria Zass",
+      "faction": "House Zass"
+    },
+    "npc_isolda_thul": {
+      "attributes": {
+        "intelligence": 12,
+        "dexterity": 16,
+        "charisma": 18,
+        "constitution": 18,
+        "strength": 20,
+        "wisdom": 14
+      },
+      "gender": "Female",
+      "tier": "king_ancient",
+      "role": "The Warlord Mother",
+      "alignment": "Chaotic Evil",
+      "display_name": "Lady Isolda",
+      "entity_id": "npc_isolda_thul",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Abandoned Vespera at birth."
+          ],
+          "trust_level": -8
+        }
+      },
+      "mbti": "ESTP",
+      "class_name": "Oathbreaker Paladin (Demonic Chosen)",
+      "level": 20
+    },
+    "Korg the Raven": {
+      "hp_current": 26,
+      "entity_type": "npc",
+      "role": "Iron King's Scout",
+      "display_name": "Korg the Raven",
+      "entity_id": "npc_korg_001",
+      "tier": "lord_general",
+      "status": "surprised, suppressed",
+      "health": {
+        "hp": 52,
+        "hp_max": 52
+      },
+      "level": 6
+    },
+    "npc_kaelo_thul": {
+      "tier": "noble",
+      "gender": "Male",
+      "role": "The Hedonistic Pawn",
+      "alignment": "Neutral Evil",
+      "display_name": "Kaelo Thul",
+      "entity_id": "npc_kaelo_thul",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "history": [
+            "Dependent on Vespera for vices."
+          ],
+          "trust_level": 2
+        }
+      },
+      "mbti": "ESFP",
+      "class_name": "Fiendish Blood-Sorcerer",
+      "level": 5
+    },
+    "Raven-Beast": {
+      "hp_current": 13,
+      "status": "critically_wounded",
+      "level": 3
+    },
+    "Selyse Vane": {
+      "tier": "merchant",
+      "gender": "Female",
+      "role": "The Alchemist / Logistics",
+      "display_name": "Selyse Vane",
+      "entity_id": "npc_selyse_001",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Disgraced apprentice found refuge in Vespera's company."
+          ],
+          "trust_level": 8
+        }
+      },
+      "status": "conscious",
+      "class_name": "Necromancy Wizard",
+      "level": 5
+    },
+    "npc_keth_golden": {
+      "gender": "Male",
+      "role": "The Harper Spy",
+      "tier": "knight",
+      "level": 7,
+      "display_name": "Keth of the Golden Shield",
+      "faction": "Harpers"
+    },
+    "General Kross": {
+      "gender": "Male",
+      "entity_id": "npc_kross_001",
+      "role": "The Golem Master",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -1
+        }
+      },
+      "level": 14,
+      "display_name": "General Kross",
+      "tier": "general"
+    },
+    "npc_malakor_silent": {
+      "tier": "knight",
+      "gender": "Male",
+      "role": "The Spy / Assassin",
+      "display_name": "Malakor the Silent",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Rescued from a Thayan slave pit by Vespera"
+          ],
+          "trust_level": 9
+        }
+      },
+      "mbti": "ISTP",
+      "class_name": "Gloom Stalker Ranger",
+      "level": 5
+    },
+    "Lord Valen Murkh": {
+      "gender": "Male",
+      "entity_id": "npc_murkh_001",
+      "role": "The Bio-Warfare Specialist",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5
+        }
+      },
+      "level": 13,
+      "display_name": "Lord Valen Murkh",
+      "tier": "lord"
+    },
+    "npc_varon_murkh": {
+      "tier": "merchant",
+      "gender": "Male",
+      "role": "The Victim / Asset",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "status": "paralyzed",
+      "display_name": "Master Alchemist Varon",
+      "level": 4
+    },
+    "npc_iron_king": {
+      "tier": "lord",
+      "gender": "Male",
+      "role": "Bandit Lord",
+      "alignment": "Chaotic Evil",
+      "display_name": "The Iron King",
+      "entity_id": "npc_iron_king",
+      "faction": "Iron King's Bandits",
+      "status": "conscious",
+      "mbti": "ESTJ",
+      "level": 8
+    },
+    "Sergeant Kray": {
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Vespera revealed House Murkh's corruption",
+            "Signed blood-oath of fealty"
+          ],
+          "trust_level": 5
+        }
+      },
+      "attitude_to_party": "allied",
+      "status": "loyal",
+      "level": 4
+    },
+    "npc_zulkir_nevron": {
+      "gender": "Male",
+      "role": "The Power Player",
+      "tier": "king_ancient",
+      "level": 18,
+      "display_name": "Zulkir Nevron",
+      "faction": "Order of the Red Robes"
+    },
+    "Kaelen the Scarred": {
+      "tier": "knight",
+      "gender": "Male",
+      "role": "The Bodyguard / Drill Sergeant",
+      "display_name": "Kaelen the Scarred",
+      "entity_id": "npc_kaelen_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Follows Vespera because he recognizes a once-in-a-century conqueror."
+          ],
+          "trust_level": 7
+        }
+      },
+      "status": "conscious",
+      "class_name": "Battle Master Fighter",
+      "level": 5
+    },
+    "npc_general_kross": {
+      "gender": "Male",
+      "role": "The Golem Master",
+      "tier": "lord_general",
+      "level": 13,
+      "display_name": "General Kross",
+      "faction": "House Kross"
+    },
+    "Malakor the Silent": {
+      "tier": "knight",
+      "gender": "Male",
+      "role": "The Assassin / Spy",
+      "display_name": "Malakor the Silent",
+      "entity_id": "npc_malakor_001",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "history": [
+            "Rescued from a Thayan slave pit by Vespera."
+          ],
+          "trust_level": 9
+        }
+      },
+      "status": "conscious",
+      "class_name": "Gloom Stalker Ranger",
+      "level": 5
+    },
+    "The Iron King": {
+      "gender": "Male",
+      "role": "Bandit Lord / Target",
+      "display_name": "The Iron King",
+      "entity_id": "npc_iron_king_001",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "status": "active",
+      "level": 10,
+      "tier": "lord"
+    },
+    "Cassandra Thul": {
+      "gender": "Female",
+      "role": "The Pious Spymaster / Sister",
+      "alignment": "Lawful Evil",
+      "display_name": "Cassandra Thul",
+      "entity_id": "npc_cassandra_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Signed a blood-pact to divide the family holdings."
+          ],
+          "trust_level": 6
+        }
+      },
+      "mbti": "INFJ",
+      "level": 8,
+      "tier": "lord"
+    },
+    "npc_kaelen_scarred": {
+      "tier": "knight",
+      "gender": "Male",
+      "role": "The Bodyguard / Sergeant",
+      "display_name": "Kaelen the Scarred",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Veteran who recognizes Vespera's tactical brilliance"
+          ],
+          "trust_level": 8
+        }
+      },
+      "mbti": "ISTJ",
+      "class_name": "Battle Master Fighter",
+      "level": 5
+    },
+    "Junior Inquisitor Valen": {
+      "name": "Junior Inquisitor Valen"
+    },
+    "High Diviner Sorn": {
+      "gender": "Male",
+      "entity_id": "npc_sorn_001",
+      "role": "The Prophet",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0
+        }
+      },
+      "level": 15,
+      "display_name": "High Diviner Sorn",
+      "tier": "lord"
+    },
+    "npc_malichor_thul": {
+      "attributes": {
+        "intelligence": 22,
+        "dexterity": 14,
+        "charisma": 16,
+        "constitution": 16,
+        "strength": 10,
+        "wisdom": 18
+      },
+      "gender": "Male",
+      "tier": "king_ancient",
+      "role": "The Ancient Patriarch",
+      "alignment": "Lawful Evil",
+      "display_name": "Archmage Malichor Thul",
+      "entity_id": "npc_malichor_thul",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "history": [
+            "Viewed Vespera as a genetic failure."
+          ],
+          "trust_level": -5
+        }
+      },
+      "mbti": "INTJ",
+      "class_name": "Necromancer (Lich-Candidate)",
+      "level": 20
+    },
+    "Thalric Thul": {
+      "gender": "Male",
+      "role": "The Dutiful Heir / Elder Brother",
+      "alignment": "Neutral Evil",
+      "display_name": "Thalric Thul",
+      "entity_id": "npc_thalric_001",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Actively attempts to have Vespera executed via suicide contracts."
+          ],
+          "trust_level": -8
+        }
+      },
+      "mbti": "ESTJ",
+      "level": 7,
+      "tier": "lord"
+    },
+    "npc_selyse_vane": {
+      "tier": "noble",
+      "gender": "Female",
+      "role": "The Alchemist / Logistics",
+      "display_name": "Selyse Vane",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "history": [
+            "Disgraced apprentice who found refuge in Vespera's company"
+          ],
+          "trust_level": 7
+        }
+      },
+      "mbti": "INTP",
+      "class_name": "Necromancy Wizard",
+      "level": 5
+    },
+    "Risen Vanguard Infantry": {
+      "level": 2
+    },
+    "Lady Isolda": {
+      "attributes": {
+        "charisma": 18,
+        "dexterity": 14,
+        "strength": 20
+      },
+      "gender": "Female",
+      "tier": "king_ancient",
+      "role": "The Warlord Mother",
+      "alignment": "Chaotic Evil",
+      "display_name": "Lady Isolda of the Shattered Blade",
+      "entity_id": "npc_isolda_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "history": [
+            "Abandoned Vespera to pursue Abyssal pacts."
+          ],
+          "trust_level": -2
+        }
+      },
+      "level": 20,
+      "health": {
+        "hp": 240,
+        "hp_max": 240
+      },
+      "mbti": "ESTP"
+    },
+    "npc_high_diviner_sorn": {
+      "gender": "Female",
+      "role": "The Prophet",
+      "tier": "ancient",
+      "level": 15,
+      "display_name": "High Diviner Sorn",
+      "faction": "House Sorn"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "next_companion_arc_turn": 4,
+    "character_creation_completed": true,
+    "arc_milestones": {
+      "primary_arc": {
+        "updated_at": "2026-06-06T09:07:00Z",
+        "phase": "March to Iron Crag",
+        "progress": 95,
+        "status": "in_progress"
+      }
+    },
+    "_agent_selection_tracker": {
+      "rewards_skip_count": 0,
+      "agent": "CombatAgent",
+      "count": 2
+    },
+    "character_creation_stage": "complete",
+    "player_character_data_extras": {
+      "religion": "Malcanthet (Queen of Succubi)",
+      "custom_campaign_state": {
+        "core_memories": [
+          "Vespera Thul wears Onyx Shadow-Mail, a specialized medium armor that provides high protection without imposing disadvantage on Stealth checks."
+        ]
+      }
+    },
+    "faction_minigame": {
+      "strong_suggestion_given": true,
+      "suggestion_given": false,
+      "tutorial_completed": false,
+      "tutorial_progress": {},
+      "enabled": false
+    },
+    "major_event_pressure_budget": {
+      "major_events_this_window": 1,
+      "rationale": "The arrival of the ambushed caravan serves as a local narrative hook rather than a major geopolitical shift.",
+      "window": "24h",
+      "special_circumstances": false,
+      "new_major_event": false
+    },
+    "sanctuary_mode": {
+      "expired_turn": 20,
+      "activated_turn": 10,
+      "expired": true,
+      "active": false,
+      "expires_turn": 18,
+      "arc": "The Alchemist's Subjugation",
+      "scale": "medium"
+    },
+    "divine_upgrade_available": false,
+    "soul_harvest_tracker": {
+      "souls_harvested": 1,
+      "milestone_progress": "2/5",
+      "next_milestone": 5,
+      "minor_essence": 8,
+      "sovereign_essence": 2,
+      "current_essence": 9,
+      "max_capacity": 9,
+      "active_invocations": [
+        "Soul Shield",
+        "Soul Siphon",
+        "Soul Surge",
+        "Soul Command",
+        "Spook"
+      ],
+      "harvest_log": [
+        "Junior Inquisitor Valen (Sovereign)",
+        "Oakhaven Sentry (Minor)",
+        "Sergeant Harl (Minor)",
+        "Outrider 1 (Minor)",
+        "Outrider 2 (Minor)",
+        "Raven-Beast (Minor)",
+        "Korg the Raven (Minor)",
+        "Captain Hestia (Minor)",
+        "Vanguard Lieutenant (Minor)",
+        "Iron King (Sovereign)"
+      ]
+    },
+    "attribute_system": "D&D",
+    "world_data": {
+      "world_time": {
+        "year": 1495,
+        "month": "Kythorn",
+        "microsecond": 0,
+        "minute": 0,
+        "hour": 9,
+        "time_of_day": "Morning",
+        "day": 20,
+        "second": 0
+      }
+    },
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "completed_missions": [],
+    "companion_arcs": {
+      "Malakor the Silent": {
+        "callbacks": [
+          {
+            "effect": "Malakor reveals specific details about his torture and the Overseer's identity.",
+            "trigger_condition": "Interaction with the Murkh scout with the slave-mark"
+          }
+        ],
+        "history": [
+          {
+            "event": "Malakor recognized a slave-mark on a House Murkh soldier, identifying a link to his past captors.",
+            "turn": 3
+          }
+        ],
+        "arc_type": "rival_nemesis",
+        "phase": "discovery",
+        "progress": 25
+      }
+    },
+    "reputation": {
+      "private": {
+        "western_frontier": {
+          "western_suspicion": 0,
+          "score": 0,
+          "standing": "neutral"
+        },
+        "crossroad_guild": {
+          "known_deeds": [
+            "Proved noble legitimacy",
+            "Registered as Baron candidate"
+          ],
+          "score": 4,
+          "standing": "trusted"
+        }
+      }
+    },
+    "core_memories": [
+      "Vesperian Thul, a 16-year-old military prodigy and Onyx Vanguard, seeks to usurp the Thayan throne by harvesting the assets of his employers.",
+      "Vesperian Thul is an Onyx Shadow-Stalker, specializing in medium armor and assassination tactics, seeking to eliminate his brothers Thalric and Kaelo.",
+      "Vespera Thul (5) has awakened her Mythic Tier 1 power, gaining a Charisma of 18 and a roadmap to Level 30 Sovereign status.",
+      "Vespera Thul (5) is a Paladin of Malcanthet whose primary goal is to claim a Barony by eliminating the Bandit Lord known as the Iron King.",
+      "Vespera Thul (5) is a Mythic Paladin of Malcanthet with a Level 1-30 progression focused on seduction and absolute domination.",
+      "Vespera Thul (5) is a Mythic Paladin of Malcanthet whose primary goal is to claim the Barony of the Shifting Border by eliminating the Bandit Lord 'Iron King'.",
+      "Vespera Thul has finalized her Campaign Bible, identifying 20 key actors and 30 factions in her quest for the Barony of the Shifting Border.",
+      "Vespera has initiated her first guild contract: the enslavement of frontier villages near Baldur's Gate to establish her standing for a baronial claim.",
+      "Vespera successfully used blackmail and her Abyssal presence to shatter Master Alchemist Varon's resolve, reducing his Social HP to 1/3.",
+      "Vespera Thul has finalized her 20-character Roster and 30-faction Strategic Map, establishing a massive web of leverage for her Thayan ascension.",
+      "Vespera successfully broke Master Alchemist Varon's will, forcing him into a blood-oath of fealty that binds his life and secrets to her syndicate.",
+      "Vespera Thul has finalized her ascension as a Level 5 Mythic Onyx Shadow-Stalker, binding Master Alchemist Varon to a blood-oath as her first sovereign act.",
+      "Vespera Thul successfully subjugated Master Alchemist Varon with a blood-oath and is now attempting to persuade his House Murkh recovery squad to defect through a cold parley.",
+      "Vespera used the promise of Sovereign protection and her Abyssal presence to severely weaken Sergeant Kray's loyalty to House Murkh.",
+      "Vespera Thul successfully leveraged her Abyssal presence and promises of safety to severely damage Sergeant Kray's loyalty, bringing his squad to the brink of defection.",
+      "Vespera used proof of House Murkh's internal corruption to shatter Sergeant Kray's institutional loyalty, bringing his squad to the absolute brink of defection.",
+      "Vespera Thul successfully converted Sergeant Kray and his recovery squad into loyal thrall-assets through proof of House Murkh's corruption and a binding blood-oath.",
+      "Vespera successfully orchestrated a synergistic ambush in the Temple of Myrkul, turning House Murkh defectors against a Level 10 Junior Inquisitor.",
+      "Vespera successfully executed 'The Total Eclipse' ambush, critically wounding Junior Inquisitor Valen and forcing the defection/suppression of his unit in the Temple of Myrkul.",
+      "Vespera successfully executed Junior Inquisitor Valen via 'Heart-Eater' harvest, securing the narcotics encryption keys for House Vane.",
+      "Vespera successfully harvested the soul of Junior Inquisitor Valen, gaining the 'Inquisitor's Insight' and securing encryption keys for House Vane's narcotics trade.",
+      "Vespera successfully relocated her syndicate to the Baldur's Gate frontier, establishing a mobile base of operations after consolidating the Murkh defectors.",
+      "Vespera's Soul Harvest Protocol now includes Soul Shield (Reaction Resistance/Temp HP), Soul Siphon (Heal on hit), and Soul Surge (+1d8 to rolls) fueled by harvested essences.",
+      "Vespera Thul (Lvl 5) successfully infiltrated Oakhaven posing as a minor noble, initiating a deception to map the village's military vulnerabilities.",
+      "Vespera Thul executed Sergeant Harl in Oakhaven using a Soul Surge leap, instantly breaking the village's military resolve and harvesting his minor essence.",
+      "Vespera Thul successfully conquered Oakhaven, enslaving its population and harvesting Sergeant Harl's soul to fulfill her first Mercenary Guild contract.",
+      "Vespera interrogated Elder Bram, discovering Oakhaven's hidden armory and identifying 'Korg the Raven' as the Iron King's imminent tax-collector contact.",
+      "Vespera successfully looted the Oakhaven armory and initiated a lethal ambush against Korg the Raven, the Iron King's primary scout.",
+      "Vespera successfully executed a lethal ambush on Korg the Raven in the Oakhaven Smithy, neutralizing his mount and guards while wounding him for interrogation.",
+      "Vespera successfully ambushed Korg the Raven and harvested his retinue, leveraging the necrotic fate of his men to shatter his resolve during interrogation.",
+      "Vespera successfully broke Korg the Raven via a necrotic death-threat, discovering the Iron King's location at the Iron Crag mining camp.",
+      "16-year-old female military prodigy with black hair and silver streaks, specializing in dexterity-based assassination tactics as an Onyx Shadow-Stalker.",
+      "The Crossroad Council has officially authorized the 'Sovereign Bounty' for the Iron King, promising the Barony of the Shifting Border to whomever kills the bandit lord.",
+      "Vespera successfully pitched her service to the elite 'Iron-Bound' mercenary party, leveraging her rank and noble claim to damage Guildmaster Thorne's skepticism.",
+      "Vespera used a 'sanctified' display of Thaumaturgy to stun the Crossroad Guild-Hall, weakening Thorne's skepticism regarding her Paladin rank.",
+      "Vespera successfully dismantled 'Black-Eye' Jarek's confidence in the Crossroad Guild-Hall, asserting her tactical and Abyssal dominance over the mercenary crowd.",
+      "Vespera Thul successfully used her noble breeding and knowledge of courtly etiquette to convince Guildmaster Thorne of her legitimacy, securing her registration as the primary candidate for the Barony of the Shifting Border.",
+      "Vespera Thul successfully secured the 'Iron-Bound' (Lvl 6) as her contractors and registered as the primary candidate for the Barony of the Shifting Border.",
+      "Vespera successfully executed the 'Gilded Gambit,' using her Seductive Presence to bypass Thorne's protocol and secure restricted maps of the Iron Crag.",
+      "Vespera successfully deceived the Gilded Vanguard into targeting the Iron King's primary kill-zone while discovering a secret entrance to the Iron Crag.",
+      "Vespera successfully deceived the Gilded Vanguard into a lethal kill-zone at the Iron Crag, using their deaths to harvest Minor Essences and frame the Iron King.",
+      "Vespera Thul executed the Iron King at the Black Pillar, harvesting his Sovereign Essence and clearing the path for her Barony claim."
+    ],
+    "divine_potential": 0,
+    "last_location": "Iron Crag Perimeter - The Black Pillar",
+    "universe_control": 0,
+    "dread_overlord_state": {
+      "thrall_limit": 4,
+      "active_thralls": 0,
+      "thrall_ids": []
+    },
+    "success_streak": 9,
+    "campaign_tier": "mortal",
+    "active_missions": [
+      {
+        "mission_id": "found_barony",
+        "status": "accepted",
+        "objective": "Slay the Bandit Lord 'Iron King' and establish a Sovereign Proxy Barony to secretly control trade between the West and Thay.",
+        "title": "The Bastard's Barony"
+      }
+    ],
+    "god_mode": {
+      "setting": "** The interior of an abandoned temple of Myrkul on the outer edges of the Surmarsh. High, vaulted ceilings of damp stone are choked with thick, dripping moss and cobwebs. A single beam of pale moonlight cuts through a cracked stained-glass window, illuminating a massive, blood-stained limestone altar. The air is heavy with the scent of damp decay, old iron, and the sharp, chemical odor of alchemical paralysis poison.\n * **The Hook:** Vesperian stands over the bound, bleeding form of Master Alchemist Varon, a high-ranking asset of House Murkh. Varon was contracted by Vesperian\u2019s elder brother, Valerius, to poison the water supply of Vesperian's primary mercenary camp. Malakor the Silent stands in the shadows behind the altar, a dripping dagger in his hand, while Selyse Vane meticulously organizes a rack of empty glass vials on a nearby stone bench, waiting to harvest Varon's specialized alchemical blood. Varon is paralyzed from the waist down but still glares up with venomous spite. Outside the heavy oak doors of the temple, the faint sound of armored boots splashing through the marsh indicates that a house recovery squad is rapidly closing in on your position.\n * **The Action:** Varon spits blood onto the stone floor, his voice a gravelly hiss: *\"You are a nameless bastard, boy. You think this little syndicate makes you a lord? My House knows exactly where you sleep. Execute me, and you ensure your men rot from the inside out before the month is done.\"*\nHow do you proceed, Commander?\n * **[Choice A - The Executioner's Statement]:** Order Malakor to slit Varon's throat immediately, allowing Selyse to harvest his blood to synthesize an immediate counter-poison for your camp, then turn your focus to setting an ambush for the approaching recovery squad inside the temple ruins.\n * **[Choice B - The Cold Leverage]:** Step forward, using your striking appearance and calm, terrifying presence to break Varon's remaining resolve. Present the documents detailing his house's illegal dealings with the Western drug cartels, forcing him to sign a blood-oath of absolute fealty to your syndicate before his allies arrive.\n * **[Choice C - The Scorched Retreat]:** Order Selyse to ignite the temple's hidden alchemical fuel reserves, turning the entire structure into a raging furnace that will incinerate Varon and the incoming recovery squad simultaneously, while you, Malakor, and your assets slip out through the subterranean safehouse tunnel into the Surmarsh.\n**Word Count:** 2154 words\n**Estimated Token Count:** 2720 tokens",
+      "description": "## Section 1: Campaign Intro\n * **Title:** Shadows Over Thay: The Bastard\u2019s Harvest\n * **The Concept:** Set in the immediate aftermath of the absolute crisis in Baldur's Gate 3, the power vacuum left by the dead Three and the disruption of the tadpole network has rippled across Faer\u00fbn. In the magocracy of Thay, Szass Tam\u2019s iron grip is subtly sliding as minor zulkirs and rogue enclaves scramble for newly exposed planar secrets. The protagonist is a 16-year-old military prodigy operating as a cold, lethal dark paladin mercenary within Thay. Unbeknownst to him, his bloodline traces directly back to an ancient, apocalyptic lineage. His ultimate goal is not to preserve the twisted peace of the Red Wizards, nor to save Faer\u00fbn, but to systematically harvest the souls, secrets, and assets of his employers until he commands an army capable of usurping the Thayan throne itself.\n * **The Hook:** You are not a savior, a wide-eyed adventurer, or a victim of fate. You are a flawless weapon designed to dominate. This campaign is a pure power fantasy wrapped in an intricate web of political assassination, dark magic, and military strategy. You are a teenage prodigy whose terrifying efficiency on the battlefield is matched only by your chillingly beautiful appearance. You take the contracts others fear to touch, executing them with cold, calculated cruelty, using Thay's internal corruption as a ladder to your own absolute ascension.\n## Section 2: Character Personality\n * **Name & Archetype:** Vesperian Thul, \"The Prodigal Executioner\" (INTJ/ENTJ Hinge). Vesperian possesses a razor-sharp strategic mind wrapped in absolute, unshakeable self-worth. He views people as assets, terrain features, or liabilities, calculating the optimal utility of every interaction before a single word is spoken.\n * **Visual Signature & Habits:** Standing tall with a flawless, aristocratic structure, striking silver-white hair, and piercing violet eyes, Vesperian looks like an immortal marble statue brought to life. He smells faintly of expensive Myrrh mixed with the sharp, metallic tang of fresh blood. His prominent idle habit is adjusting a heavy, unadorned obsidian signet ring on his right middle finger, sliding it up and down his knuckle when calculating tactical variables. In conversation, his posture is unnaturally still, his breathing shallow and controlled, giving him the terrifying presence of a predator waiting for the perfect moment to strike.\n * **The Masks:**\n   * **The Public Face:** The Exceptionally Polite Prodigy. To his noble clients and military superiors, Vesperian is a soft-spoken, extraordinarily respectful, and impeccably mannered young commander. He plays the role of the humble bastard mercenary who knows his place, charming targets with disarming smiles, flawless courtly etiquette, and an aura of tragic, youthful elegance.\n   * **The True Nature:** The Absolute Nihilist. Beneath the breathtaking exterior lies a calculating void. Vesperian possesses zero empathy or moral restraint. He views the agony of his targets as nothing more than acoustic noise and friction in the machine of his advancement. He is a socio-political architect who will slaughter an entire village or betray a loyal employer without a flicker of emotion if the math of his ambition demands it.\n * **The Core Compulsion:** *The Hunger for Subjugation.* Vesperian experiences an intense, almost physical psychological craving to break the wills of those who consider themselves superior to him\u2014be they ancient wizards, legendary warlords, or divine entities.\n   * **Mechanic \u2014 Sovereign's Pride:** When Vesperian successfully forces an enemy of higher social status or character level to beg for their life or submit to his terms, he gains the *Sovereign\u2019s Mandate* bonus, granting him temporary hit points equal to double his character level and advantage on all Charisma-based checks for the next 24 hours. If he is forced to retreat, accept an order without a hidden counter-strategy, or fail an execution, he suffers *Sovereign\u2019s Wound*, inflicting 1 level of Exhaustion that cannot be removed until he executes an enemy of equal or higher challenge rating than the encounter he failed.\n * **Interaction Shorthand:**\n   * **To Rivals:** Cold, mocking over-politeness. He uses precise, overly formal honorifics delivered with a faint, razor-thin smile designed to subtly unnerve them and provoke them into making strategic blunders.\n   * **To Subordinates:** Absolute, quiet clarity. He never raises his voice; his commands are delivered with a flat, chilling certainty that carries the implicit weight of an absolute execution order if disobeyed.\n * **Inner Monologue:**\n   * *\"This wizard speaks of his centuries of study as if time alone confers wisdom. He cannot see that his long life has merely given his patterns more time to rot.\"*\n   * *\"Her beauty is highly praised in the courts, yet it is so fragile. A minor tear in the carotid artery, and all that political leverage drains into the dirt.\"*\n   * *\"They call me a bastard to remind me of my lack of a name. They fail to realize that without a name, I am unburdened by their ancestors' failures.\"*\n## Section 3: Character Class\n * **Class Name & Flavor:** **Onyx Vanguard (Paladin Variant)**. Vesperian\u2019s terrifying power does not flow from divine devotion, a holy oath, or the favor of a god. Instead, it is an absolute, localized manifestation of his own unyielding, sociopathic willpower and a hyper-calculated comprehension of tactical warfare. He bends the Weave to his personal command through cold, supreme self-confidence. His magic is an extension of his martial perfection\u2014sharp, geometric, and utterly devastating.\n * **Unique Mechanic:** **Sovereign\u2019s Decree.** Once per short rest, Vesperian can channel his overwhelming presence into a localized spatial distortion. As a bonus action, he forces all hostile creatures within a 30-foot radius to make a Wisdom saving throw against his Spell Save DC. On a failure, their movement speed drops to 0, they lose the ability to take reactions, and Vesperian\u2019s melee attacks against them deal an additional 2d10 necrotic damage until the end of his next turn.\n### Progression Table (Levels 1-30)\n| Level / Tier | Class Features & Renamed Traits | Epic Boons & Subclass Milestones |\n|---|---|---|\n| **Tier 1 (Lvl 1-5)** | Mercenary Instincts, Onyx Smite, Dread Aura, Tactical Shielding, Extra Attack | **Milestone:** *Prodigy\u2019s Dawn.* Martial weapons act as spellcasting focuses; +2 to initiative rolls. |\n| **Tier 2 (Lvl 6-10)** | Aura of Defilement, Tactical Deflection, Flawless Execution, Cruel Edict | **Milestone:** *Scourge of Thay.* Necrotic damage ignores resistances; gain access to 4th-level dark arcana. |\n| **Tier 3 (Lvl 11-16)** | Improved Onyx Smite, Iron Will Wall, Overchannel Strike, Dread Commander | **Milestone:** *Sovereign's Mantle.* Gain immunity to Charmed and Frightened conditions; Aura extends to 30ft. |\n| **Tier 4 (Lvl 17-20)** | Avatar of the Onyx Void, Perfect Tactical Loop, Peerless Arcana | **Milestone:** *Lord of the Harvest.* Slain enemies automatically rise as skeletal vanguard under your command. |\n| **Tier 5 (Lvl 21-30)** | **Epic Progression:** Mythic Smite, Spell-Weave Mastery, Ageless Tyrant | **Epic Boons:** *Boon of Irresistible Offense*, *Boon of the Undying Overlord*, *Boon of Planar Dominion*. |\n## Section 4: Assets & Retinue\n * **Status:** Commander of the Obsidian Blade Mercenary Syndicate (Sanctioned Deniable Assets of Thay).\n * **Resources:**\n   * **Wealth:** 15,000 Gold Pieces in pristine Thayan platinum bars, laundered through Waterdhavian coin-merchants.\n   * **Safehouses:**\n     * *The Sunken Keep:* An underwater, magically sealed basement hidden beneath a ruined tower in the Surmarsh, accessible only via a specific password that drops the defensive acid ward.\n     * *The Crypt of Whispers:* A false mausoleum located in the outer rings of Eltabbar, fully stocked with alchemical supplies, weapons, and an escape tunnel leading straight out of the city walls.\n   * **Political Leverage:** Original signed correspondence detailing a treasonous pact between Zulkir Nevron\u2019s high-ranking apprentice and an alliance of Rashemi skinwalkers, capable of triggering an immediate purging of an entire magical academy if brought to light.\n * **The Panoply:**\n   * **The Midnight Razor:** A masterwork +2 greatsword forged from dark-tempered iron infused with abyssal salt. *Mechanics:* Deals an additional 1d8 psychic damage on a hit. On a critical hit, the target is blinded by a shroud of pure shadow until the start of Vesperian\u2019s next turn.\n   * **Cuirass of the Flawless Bastard:** Polished black plate armor, completely unmarred by scratches or crests. *Mechanics:* Grants a +1 bonus to AC and gives Vesperian advantage on all Charisma (Persuasion and Deception) checks due to its breathtakingly tailored aesthetic.\n   * **The Gaze of the Unseen:** A delicate, platinum monocle set with a sliver of compressed sapphire. *Mechanics:* Allows the wearer to cast *Detect Magic* and *See Invisibility* at will, filtering the weave through Vesperian's strategic interface.\n * **The Retinue:**\n   * **Malakor the Silent:** *Class:* Level 5 Gloom Stalker Ranger. *Role:* The Assassin/Spy. *Loyalty:* Vesperian discovered Malakor left for dead in a Thayan slave pit, severed his chains, and systematically executed his former masters. Malakor serves out of a chilling, absolute debt of personal honor. *Personality:* Monosyllabic, hyper-observant, moves like liquid shadow, carries a perpetual scent of damp earth.\n   * **Selyse Vane:** *Class:* Level 5 School of Necromancy Wizard. *Role:* The Alchemist/Arcane Logistics Officer. *Loyalty:* A disgraced former apprentice of a prominent Red Wizard who found refuge in Vesperian's mercenary company. She knows Vesperian's rise is her only ticket to absolute vengeance against her old mentor. *Personality:* Sharp-tongued, obsessive, constantly taking notes on scrap parchment with stained fingers, possesses an unnervingly high-pitched laugh when excited by research.\n   * **Kaelen the Scarred:** *Class:* Level 5 Battle Master Fighter. *Role:* The Heavy Bodyguard/Drill Sergeant. *Loyalty:* A veteran human mercenary who recognizes Vesperian\u2019s unmatched tactical brilliance. He serves because he wants to be on the winning side of a continent-spanning war, viewing Vesperian as a once-in-a-century conqueror. *Personality:* Brutally pragmatic, fiercely protective of Vesperian, covered in thick leathery scars, possesses an unshakeable stoicism under fire.\n## Section 5: Family (The Viper's Nest)\n * **The Parents:**\n   * **The Father \u2014 Archmage Malichor Thul (Lvl 20 Necromancer / Lich-Candidate):** A brilliant, ancient Thayan noble who sits just below the rank of Zulkir. He treats Vesperian as nothing more than an accidental genetic discard, completely unaware that his bastard son has surpassed his own legendary tactical intellect. Vesperian views him as a giant tree whose roots must be systematically poisoned.\n   * **The Mother \u2014 Lady Isolda of the Shattered Blade (Lvl 20 Oathbreaker Paladin / Demonic Chosen):** A terrifying warlord from the Western Marches who abandoned Vesperian at birth to secure her own dark pacts. She is a storm of martial fury, viewing weakness as a capital crime. Vesperian despises her chaotic nature, seeking to replace her martial legacy with cold, flawless order.\n * **The Siblings:**\n   * **Valerius Thul (Firstborn Brother):** *Personality:* Arrogant, bloated on his own status, a traditional Thayan evoker. *The Mask:* The Dutiful Heir. *Dynamic:* **Rival.** Valerius actively tries to have Vesperian executed via impossible military contracts, fearing his younger brother's growing reputation among the mercenary guilds.\n   * **Lysander Thul (Second Brother):** *Personality:* Hedonistic, deeply cruel, an absolute degenerate who dabbles in fiendish blood rituals. *The Mask:* The Charming Diplomat. *Dynamic:* **Pawn.** Vesperian feeds Lysander's vices and supplies him with exotic slaves and poisons, keeping him fully addicted, compliant, and easy to manipulate as an inside informant.\n   * **Cassandra Thul (Eldest Sister):** *Personality:* Cold, hyper-calculating, a masterful spy network operator within the Thayan courts. *The Mask:* The Pious Priestess of Shar. *Dynamic:* **Ally.** Cassandra recognizes Vesperian's genius and has formed a secret, blood-signed pact with him to eliminate their father and elder brother, planning to divide the family holdings between them.\n   * **Aurelia Thul (Second Sister):** *Personality:* Fanatical, volatile, a champion bladesinger who lives for the thrill of single combat. *The Mask:* The Flawless Paragon of the Family Honor. *Dynamic:* **Rival.** She views Vesperian's bastard status as a permanent stain on the Thayan bloodline and seeks a formal duel to execution to cleanse the family name before his military prestige grows any further.\n## Section 6: Factions\n### Noble Houses of Thay\n 1. **House Thul:** Led by Archmage Malichor Thul. *Specialty:* Necromantic flesh-stitching and labor automation. *The Vibe:* Decadent, tomb-chilled, smelling of formaldehyde and ozone. *The Hook:* Their heavy reliance on undead labor makes them exceptionally vulnerable to targeted necrotic disruption waves that can turn their workforce into an unguided, ravenous horde.\n 2. **House Vane:** Led by High Inquisitor Vane. *Specialty:* Anti-magic executioners and state security. *The Vibe:* Paranoiac, austere, dripping with silver chains and iron cages. *The Hook:* The High Inquisitor\u2019s secret addiction to a banned, mind-altering Abyssal narcotic smuggled in through the Underdark.\n 3. **House Zass:** Led by Countess Elyria Zass. *Specialty:* Spymasters and financial laundering across Western Faer\u00fbn. *The Vibe:* Silk-draped salons, masked balls, whispers behind fans. *The Hook:* Their entire financial ledger is duplicated on an enchanted obsidian tablet hidden within a false wall in their winter villa.\n 4. **House Kross:** Led by General Kross. *Specialty:* Heavy iron golem construction and siege warfare. *The Vibe:* Blacksmith soot, ringing anvils, brutalist stone architecture. *The Hook:* A critical design flaw in their standard golem cores allows them to be overloaded by a specific frequency of lightning magic.\n 5. **House Murkh:** Led by Lord Valen Murkh. *Specialty:* Poison cultivation and bio-warfare development. *The Vibe:* Green-lit greenhouses, dripping saps, permanent heavy sweet fragrances. *The Hook:* Their primary poison antidote fields are located outside their main walls, easily targeted by arson or salt-bombing.\n 6. **House Nynd:** Led by Archmage Nynd. *Specialty:* Planar binding and demonic contract negotiation. *The Vibe:* Red-hot summoning circles, sulfurous smoke, constant low chanting. *The Hook:* The true name of their primary bound pit fiend is inscribed on a silver scroll in Vesperian\u2019s possession.\n 7. **House Drac:** Led by Baroness Drac. *Specialty:* Aerial wyvern cavalry breeding and air superiority. *The Vibe:* High mountain roosts, howling winds, raw meat scent. *The Hook:* The wyverns are hardcoded to obey an alchemical pheromone scent that Vesperian can synthesize in large batches.\n 8. **House Sorn:** Led by High Diviner Sorn. *Specialty:* Prophetic scrying and counter-intelligence. *The Vibe:* Starlit chambers, floating glass orbs, absolute silence. *The Hook:* Their diviners cannot see past events involving artifacts touched by ancient Netherese shadow magic.\n 9. **House Pyre:** Led by Warlord Pyre. *Specialty:* Scorched-earth military tactics and fire elemental binding. *The Vibe:* Molten rivers, ash-choked air, blackened iron armor. *The Hook:* Their elemental containment fields require constant updates from a cooling aquifer that can be easily diverted or poisoned.\n 10. **House Vor:** Led by Patriarch Vor. *Specialty:* Underdark mining and slave trading networks. *The Vibe:* Deep cavern outposts, cracking whips, heavy iron shackles. *The Hook:* A massive slave rebellion is currently being organized in their deepest silver mine; it only needs an outside supply of weapons to detonate.\n### Friendly Factions (Tools of the Bastard)\n 1. **The Onyx Blades:** Vesperian\u2019s personal mercenary syndicate, numbering 500 elite, hardened cutthroat soldiers who obey his commands without question.\n 2. **The Cult of the Bleeding Eye:** A radical, underground sect of rogue Tharizdun worshippers who view Vesperian as a harbinger of absolute cleansing order.\n 3. **The Eltabbar Under-Guild:** A sprawling network of smugglers, thieves, and informants who provide Vesperian with untraceable logistics and passage through the city\u2019s sewer networks.\n 4. **The Iron Phalanx:** A disgraced platoon of former Thayan regular army soldiers who mutinied against a cruel Red Wizard mentor, rescued and funded by Vesperian.\n 5. **The Whisperers in Shadow:** A loose network of disgruntled low-ranking scribes across Thay who systematically leak internal political memos to Vesperian's safehouses.\n 6. **The Red Hand Cartel:** An independent Underdark trade syndicate that provides Vesperian with heavily discounted poison ingredients, black market steel, and exotic raw components.\n 7. **The Discarded:** An army of escaped slaves hiding in the Surmarsh, fully organized, armed with basic spears, and ready to act as a massive tactical diversion on Vesperian's command.\n 8. **The Veiled Academy:** A secret school of unsanctioned hedge wizards and sorcerers operating inside Thayan territory who rely on Vesperian to eliminate the Inquisitors hunting them.\n 9. **The Black Maw Pack:** A clan of gnoll mercenaries who respect nothing but absolute lethality; Vesperian won their permanent service by besting their pack lord in single combat.\n 10. **The Renegade Enclave:** A small faction of surface-dwelling drow who provide Vesperian with deep-terrain scouting reports and advanced subterranean tactical intel.\n### Antagonistic Factions (Structural Threats)\n 1. **The Order of the Red Robes:** The orthodox inner circle of Thayan Red Wizards who view independent mercenary companies as dangerous, unregulated security risks to the magocracy.\n 2. **The Iron Inquisitors:** A highly trained elite state police task force dedicated specifically to hunting down unsanctioned military forces and checking bloodlines for illegal arcane potential.\n 3. **The Harpers (Eastern Branch):** Good-aligned spies who have identified Vesperian as a rising, terrifyingly efficient sociopathic threat that could destabilize the entire region if left unchecked.\n 4. **The Order of the Golden Flaming Fist:** A militant wing of Baldur's Gate veterans who have pursued rogue elements into eastern Faer\u00fbn, hunting down war criminals and mercenaries.\n 5. **The Zulkir\u2019s Right Hand:** An elite cadre of Level 15+ death knights directly loyal to Szass Tam, tasked with preserving the status quo of Thay through absolute terror.\n 6. **The Silver Shields of Aglarond:** An elite elven vanguard army positioned along the border, actively hunting any Thayan mercenary units that step an inch outside their territory.\n 7. **The Blood-Raven Assassins:** A premium guild of shadow-monks hired by Vesperian\u2019s elder brother, Valerius, with an active, open-ended contract to bring back Vesperian's head.\n 8. **The Gauntlet of Helm:** A fanatical band of paladins crusading against the rise of dark paladins and necromantic corruption in the borderlands.\n 9. **The Keepers of the Weave:** An association of orthodox wizards who hunt down those using forbidden mixtures of martial techniques and calculated dark arcana.\n 10. **The Wyrm-Blood Syndicate:** A rival dragonborn mercenary company operating out of Chessenta, actively competing with Vesperian for high-paying Thayan state defense contracts.\n## Section 7: World Lore\n * **The Timeline:**\n   * **1492 DR:** The Absolute Crisis rocks Baldur's Gate. The death of the Dead Three's avatars creates a massive divine power vacuum across Faer\u00fbn.\n   * **1493 DR:** The structural collapse of the tadpole network causes minor illithid enclaves across the continent to go rogue, disrupting deep Underdark trade routes.\n   * **1494 DR:** Seeing the weakness in the Western kingdoms, Szass Tam attempts a massive planar harvest, but an internal rebellion among minor Zulkirs fractures Thay's unified military command structure.\n   * **1495 DR (The Divergence):** Independent mercenary syndicates rise to prominence within Thay to handle internal security, as the Red Wizards can no longer trust their own standing armies. Vesperian Thul rises through the ranks with terrifying speed, executing 14 successful high-profile assassinations before his 16th birthday.\n * **The Mythos:** Magic in this campaign is treated not as a mysterious, divine gift, but as a hyper-logical, mathematical science of spatial manipulation. The Gods exist but are distant, nursing wounds from the Netherbrain incident. Power flows exclusively to those whose willpower is dense enough to warp the local geometry of the weave. Vesperian\u2019s dark paladin abilities are fueled by this exact process\u2014an absolute, unyielding belief in his own personal sovereignty that bends the magical laws around him to his whim.\n * **Current Situation:** Thay is on the absolute precipice of a civil war. The Grand Regent Szass Tam has gone into deep isolation to complete a massive, multi-decade transformation ritual. The 8 Zulkirs are actively hiring external, deniable mercenary assets to launch shadow campaigns against one another's holdings, seeking to position themselves to seize the throne the moment Tam steps away or fails.\n * **Story Arcs:**\n   * **Arc 1: The Bastard's Foundation (Levels 5-10):** Vesperian accepts contracts from rival Red Wizards to eliminate border fortresses, systematically using the gold and assets acquired to build his safehouses, eliminate his brother Valerius's assassins, and secure his political leverage over House Vane.\n   * **Arc 2: The Viper's Harvest (Levels 11-20):** Vesperian turns his attention directly to his family's lineage. He orchestrates a massive internal coup within House Thul, executing his father and elder siblings, turning his family's massive necromantic production lines directly over to his mercenary syndicate.\n   * **Arc 3: Throne of Onyx (Levels 21-30):** With the unified forces of House Thul and the Obsidian Blade Syndicate behind him, Vesperian exploits the exploding civil war among the Zulkirs, marches his forces straight into Eltabbar, and executes the remaining council to declare himself the absolute Sovereign of Thay.\n## Section 8: Gazetteer & Mechanics\n### Locations\n * **The Obsidian Spire of House Thul**\n   * *The Vibe:* Cold, silent, polished black stone walls that absorb ambient light, smelling heavily of chemical preservatives and old parchment.\n   * *Key Sub-locations:* The Scriptorium of Damned Lineages; The Vault of Kinetic Siphons.\n   * *Hazard (Social):* **The Eyes of the Dead.** Every painting and statue in the Spire contains an enchanted undead eye. Failing a Dexterity (Stealth) or Charisma (Deception) check by 5 or more alerts the house guards to your exact position and internal intentions.\n * **The Red Iron War Camp**\n   * *The Vibe:* Deafening noise of hammers on iron plates, roaring furnaces, mud choked with rust filings, and the scent of burning fat.\n   * *Key Sub-locations:* The Forge-Core Pit; The Warlord's Strategy Pavilion.\n   * *Hazard (Physical):* **Molten Slag Runoff.** Random bursts of pressurized molten iron spray from the surrounding forge walls. Moving through combat zones requires a DC 14 Dexterity saving throw each round or takes 3d6 fire damage and reduces movement speed by half.\n * **The Whispering Slums of Eltabbar**\n   * *The Vibe:* Dense, suffocatingly narrow stone alleys dripping with raw sewage, lit only by dim green alchemical lamps, filled with the low murmurs of desperate cutthroats.\n   * *Key Sub-locations:* The Blind Beggar's Alchemical Lab; The Sluice Gate Execution Dock.\n   * *Hazard (Social):* **The Rat's Toll.** The entire slum is wired with tripwires linked to rusty bells. Moving without an escort from the Under-Guild requires a DC 15 Wisdom (Perception) check to avoid alerting 3 waves of local cutthroats.\n * **The Surmarsh Acid Vaults**\n   * *The Vibe:* Corrosive green fog hanging over black mud, dead willow trees, constant bubbling sounds, and the pungent smell of sulfur.\n   * *Key Sub-locations:* The Sunken Keep Entrance; The Hatchery of Corrosive Drakes.\n   * *Hazard (Physical):* **Caustic Atmosphere.** The air itself is highly acidic. Creatures without specific breathing filters or acid resistance take 1d4 acid damage at the start of every hour spent in the region, and non-magical metal armor degrades by -1 AC permanently for every 4 hours exposed.\n### Custom Mechanics\n#### 1. The Fear & Leverage Tracker (Social System)\nVesperian does not make standard Charisma checks to persuade targets through kindness. Instead, all major political entities have a *Leverage Value* ranging from 0 to 100.\n * **Acquiring Leverage:** Discovering a secret, executing a family member, or dominating a rival faction increases Vesperian's leverage over that specific target.\n * **Mechanical Benefit:** When interacting with an NPC, Vesperian can add his current *Leverage Value* directly to any Charisma (Intimidation or Deception) check. If the Leverage Value reaches 75 or higher, the target enters a state of absolute compliance, automatically passing all information or assets requested without requiring a d20 roll.\n#### 2. Tactical Vanguard Deployments (Mass Combat System)\nWhen Vesperian commands the Obsidian Blade Mercenary Syndicate in large-scale engagements, combat shifts to a macro strategic map.\n * **Command Phase:** Vesperian spends a bonus action to issue a *Vanguard Order* (e.g., Flank, Suppress, Scorched Earth).\n * **Execution:** His retinue units roll a special Tactical Die (1d10 + \\text{Vesperian's Intelligence Modifier}). On a 7 or higher, the enemy vanguard unit is immediately suppressed, granting Vesperian\u2019s personal party absolute advantage on all attack rolls and spelling automatic victory for his surrounding armies at the end of 3 combat rounds.\n### Loot Table: Relics of Sovereign Might\n| d8 | Relic / Favor Name | Type | Narrative & Mechanical Power |\n|---|---|---|---|\n| 1 | **The Sovereign\u2019s Sigil** | Ring | Grants absolute immunity to any magic that attempts to read Vesperian's thoughts or alignment. Once per day, can force an NPC to answer 3 questions truthfully. |\n| 2 | **Phial of the Void-Weaver** | Alchemical | A small vial of dense black fluid. When poured onto a weapon, that weapon deals double damage to magical constructs and wizard barriers for 1 hour. |\n| 3 | **Crest of the Fallen Zulkir** | Token | Carrying this token grants Vesperian automatic command over any rogue undead units up to CR 8 encountered in the wild. |\n| 4 | **The Lattice of Netheril** | Cloak | A shimmering cloak woven from ancient shadow-threads. Grants the user the ability to cast *Misty Step* at will without using a spell slot, leaving a cloud of choking ash behind. |\n| 5 | **The Iron Treaty** | Favor | A signed execution order from the High Inquisitor. Can be presented to any local city guard unit to immediately seize their command and assets for 24 hours. |\n| 6 | **Heart of the Ash Drake** | Core | A pulsing red crystal. Can be integrated into Vesperian\u2019s plate armor, granting permanent resistance to fire and acid damage. |\n| 7 | **The Silent Ledger** | Document | A comprehensive list of every double-agent operating within House Vane. Grants Vesperian advantage on all initiative rolls when fighting House Vane forces. |\n| 8 | **The Onyx Phylactery Shard** | Artifact | A jagged piece of an uncompleted lich phylactery. If Vesperian drops to 0 hit points, he instead drops to 1 hit point, and releases a 20-foot burst of negative energy dealing 4d10 necrotic damage to all nearby targets. |\n## Section 9: Starting Scene\n * **Setting:** The interior of an abandoned temple of Myrkul on the outer edges of the Surmarsh. High, vaulted ceilings of damp stone are choked with thick, dripping moss and cobwebs. A single beam of pale moonlight cuts through a cracked stained-glass window, illuminating a massive, blood-stained limestone altar. The air is heavy with the scent of damp decay, old iron, and the sharp, chemical odor of alchemical paralysis poison.\n * **The Hook:** Vesperian stands over the bound, bleeding form of Master Alchemist Varon, a high-ranking asset of House Murkh. Varon was contracted by Vesperian\u2019s elder brother, Valerius, to poison the water supply of Vesperian's primary mercenary camp. Malakor the Silent stands in the shadows behind the altar, a dripping dagger in his hand, while Selyse Vane meticulously organizes a rack of empty glass vials on a nearby stone bench, waiting to harvest Varon's specialized alchemical blood. Varon is paralyzed from the waist down but still glares up with venomous spite. Outside the heavy oak doors of the temple, the faint sound of armored boots splashing through the marsh indicates that a house recovery squad is rapidly closing in on your position.\n * **The Action:** Varon spits blood onto the stone floor, his voice a gravelly hiss: *\"You are a nameless bastard, boy. You think this little syndicate makes you a lord? My House knows exactly where you sleep. Execute me, and you ensure your men rot from the inside out before the month is done.\"*\nHow do you proceed, Commander?\n * **[Choice A - The Executioner's Statement]:** Order Malakor to slit Varon's throat immediately, allowing Selyse to harvest his blood to synthesize an immediate counter-poison for your camp, then turn your focus to setting an ambush for the approaching recovery squad inside the temple ruins.\n * **[Choice B - The Cold Leverage]:** Step forward, using your striking appearance and calm, terrifying presence to break Varon's remaining resolve. Present the documents detailing his house's illegal dealings with the Western drug cartels, forcing him to sign a blood-oath of absolute fealty to your syndicate before his allies arrive.\n * **[Choice C - The Scorched Retreat]:** Order Selyse to ignite the temple's hidden alchemical fuel reserves, turning the entire structure into a raging furnace that will incinerate Varon and the incoming recovery squad simultaneously, while you, Malakor, and your assets slip out through the subterranean safehouse tunnel into the Surmarsh.\n**Word Count:** 2154 words\n**Estimated Token Count:** 2720 tokens",
+      "character": {
+        "name": "Vesperian Thul"
+      }
+    },
+    "active_constraints": []
+  },
+  "social_hp_challenge": {
+    "request_severity": "favor",
+    "skill_used": "Persuasion",
+    "successes_needed": 5,
+    "social_hp_max": 8,
+    "objective": "Pass the Bounty Interview",
+    "roll_result": 25,
+    "npc_tier": "lord",
+    "social_hp_damage": 0,
+    "roll_dc": 16,
+    "npc_name": "Guildmaster Thorne",
+    "resistance_shown": "Thorne is impressed by the magic but still doubts your age.",
+    "cooldown_remaining": 0,
+    "successes": 2,
+    "social_hp": 6,
+    "status": "WAVERING"
+  },
+  "combat_state": {
+    "in_combat": false,
+    "combatants": {
+      "npc_king_guard_002": {
+        "hp_current": 52,
+        "hp_max": 52,
+        "status": [
+          "surprised"
+        ],
+        "type": "enemy"
+      },
+      "npc_iron_king_001": {
+        "hp_current": 43,
+        "hp_max": 85,
+        "status": [
+          "surprised",
+          "blinded (crit)"
+        ],
+        "type": "enemy"
+      },
+      "npc_valen_001": {
+        "hp_current": 25,
+        "hp_max": 85,
+        "status": [
+          "surprised",
+          "paralyzed",
+          "critically_wounded"
+        ],
+        "type": "enemy"
+      },
+      "npc_king_guard_001": {
+        "hp_current": 52,
+        "hp_max": 52,
+        "status": [
+          "surprised"
+        ],
+        "type": "enemy"
+      }
+    },
+    "combat_session_id": "combat_1495_kythorn_blackpillar",
+    "rewards_processed": true,
+    "combat_summary": {
+      "xp_awarded": 450,
+      "enemies_defeated": [
+        "npc_iron_king_001"
+      ],
+      "loot_distributed": true,
+      "rounds_fought": 1
+    },
+    "combat_phase": "ended",
+    "current_round": 1
+  },
+  "last_state_update_timestamp": "2026-06-06 11:20:21.562000+00:00",
+  "turn_number": 30,
+  "player_turn": 30,
+  "last_living_world_turn": 29,
+  "last_living_world_time": {
+    "year": 1495,
+    "month": "Kythorn",
+    "microsecond": 0,
+    "minute": 30,
+    "hour": 22,
+    "time_of_day": "night",
+    "day": 31,
+    "second": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "army_data": {
+    "total_strength": 50,
+    "forces": {
+      "Onyx Blades": {
+        "type": "mercenary_infantry",
+        "total": 40,
+        "blocks": 4
+      },
+      "Risen Vanguard": {
+        "type": "heavy_infantry_defectors",
+        "total": 10,
+        "blocks": 1
+      }
+    }
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "outcome": "The Junior Inquisitor and his unit have entered the temple and are currently in a surprise round ambush.",
+        "delta_action": "update",
+        "player_impact": "Will force a combat or tactical retreat if parley is not concluded quickly.",
+        "actor": "House Murkh",
+        "discovered_turn": 6,
+        "event_type": "immediate",
+        "location": "Surmarsh Interior",
+        "id": "murkh_wave_two",
+        "action": "Dispatched a heavy containment unit (12 infantry, 1 Junior Inquisitor [Lvl 10]) to the temple coordinates.",
+        "status": "discovered",
+        "discovery_condition": "Scout reports or arrival",
+        "player_aware": true
+      },
+      {
+        "outcome": "Vane's paranoia and aggression levels are escalating.",
+        "delta_action": "add",
+        "player_aware": false,
+        "actor": "High Inquisitor Vane",
+        "event_type": "long_term",
+        "action": "Suffered a hijacking of his 'Void-Sap' supply line by unknown rebels.",
+        "location": "Eltabbar Trade Route",
+        "id": "vane_supply_drop",
+        "status": "pending",
+        "discovery_condition": "Rumors in Eltabbar",
+        "player_impact": "Increases the difficulty of future negotiations with House Vane."
+      },
+      {
+        "outcome": "Village alertness increased slightly.",
+        "player_aware": false,
+        "action": "Begins organizing a double-watch tonight due to 'Lady Vespera's' warnings.",
+        "actor": "Sergeant Harl",
+        "event_type": "immediate",
+        "location": "Oakhaven Watch-Post",
+        "status": "pending",
+        "discovery_condition": "Witnessing the watch change",
+        "player_impact": "Higher DC for nighttime infiltration."
+      },
+      {
+        "turn_generated": 20,
+        "delta_action": "add",
+        "outcome": "The King is aware of a threat but believes it's a rival bandit or Thayan regular army.",
+        "actor": "The Iron King",
+        "event_type": "long_term",
+        "action": "Retreating all outriders to the Iron Crag and doubling sentries.",
+        "location": "Iron Crag",
+        "id": "iron_king_fortification",
+        "status": "pending",
+        "discovery_condition": "Intercepting a messenger or Korg's testimony",
+        "player_aware": false
+      },
+      {
+        "turn_generated": 20,
+        "delta_action": "update",
+        "outcome": "The party is now 80% full; only 3 slots remain.",
+        "actor": "The Crossroad Guild",
+        "action": "Finalizing the bounty roster.",
+        "player_aware": true,
+        "location": "Crossroad",
+        "id": "bounty_hunters_gathering",
+        "status": "discovered",
+        "event_type": "immediate",
+        "player_impact": "Urgency to pass the interview now."
+      },
+      {
+        "turn_generated": 23,
+        "delta_action": "add",
+        "player_impact": "Vespera's location may be leaked to her rivals.",
+        "actor": "Thalric Thul",
+        "outcome": "A scrying sensor will attempt to find the party within 24 hours.",
+        "event_type": "long_term",
+        "location": "Eltabbar",
+        "id": "thalric_search",
+        "action": "Hired a Red Wizard diviner (Lvl 9) to locate Vespera.",
+        "scene_generated": 55,
+        "status": "pending",
+        "discovery_condition": "Detect Magic or Gaze of the Unseen check.",
+        "player_aware": false
+      },
+      {
+        "outcome": "They will have a 360-degree view of the King's defenses before the bounty party arrives.",
+        "delta_action": "add",
+        "player_impact": "Grants Advantage on tactical planning for the assault.",
+        "actor": "The Onyx Blades",
+        "event_type": "immediate",
+        "turn_generated": 26,
+        "location": "Iron Crag Exterior",
+        "id": "syndicate_scouting_crag",
+        "action": "Moving 40 elite mercenaries to the Iron Crag perimeter to establish a secondary surveillance line.",
+        "scene_generated": 58,
+        "status": "pending",
+        "discovery_condition": "Vespera receives a vibration signal from her ring.",
+        "player_aware": true
+      }
+    ]
+  },
+  "encounter_state": {
+    "encounter_completed": true,
+    "encounter_type": "social_victory",
+    "encounter_summary": {
+      "outcome": "success",
+      "target": "Master Alchemist Varon",
+      "method": "Persuasion/Leverage",
+      "xp_awarded": 750
+    },
+    "encounter_active": false,
+    "rewards_processed": true
+  },
+  "schema_migrated_at": "2026-06-06T08:38:23.017101+00:00",
+  "planning_block": {
+    "context": "Post-assassination at the Black Pillar",
+    "thinking": "The Iron King is neutralized and his soul is harvested. The bodyguards are paralyzed by fear and the synergetic suppression of the syndicate. I must now secure the Crag, claim the Barony, and maintain the mask of 'Protector' while the Guild begins the logistical handover of the territory.",
+    "choices": [
+      {
+        "risk_level": "low",
+        "text": "Subjugate the Guards",
+        "description": "Offer the bodyguards the silver quill while they are still in shock from the King's erasure.",
+        "confidence": "high",
+        "cons": [
+          "Requires immediate charisma check"
+        ],
+        "id": "indoctrinate_guards",
+        "pros": [
+          "Gain elite heavy infantry",
+          "Knowledge of internal Crag defenses"
+        ]
+      },
+      {
+        "risk_level": "safe",
+        "text": "Raise the King as a Thrall",
+        "description": "Use Dread Overlord features to raise the Iron King's physical remains as your primary heavy thrall.",
+        "confidence": "high",
+        "cons": [
+          "Damages the 'Paladin of Justice' mask if witnessed by the Guild"
+        ],
+        "id": "raise_dread_thralls",
+        "pros": [
+          "Powerful combat minion",
+          "Psychological warfare against his remaining men"
+        ]
+      },
+      {
+        "risk_level": "medium",
+        "text": "Storm the Iron Crag",
+        "description": "Use the King's severed head and the Iron-Bound to force a surrender of the remaining bandit garrison.",
+        "confidence": "medium",
+        "cons": [
+          "Possible holdouts in the lower mines"
+        ],
+        "id": "secure_crag_gates",
+        "pros": [
+          "Quickest path to baronial control",
+          "Guild recognizes immediate victory"
+        ]
+      },
+      {
+        "text": "Consolidate and Storm (Synergistic)",
+        "analysis": {
+          "coordination_dc": 18,
+          "dc_modifier": 0,
+          "combination_type": "synergistic",
+          "synergy_bonus": "Bandits surrender without a single arrow fired upon seeing their 'King' walking among the conquerors."
+        },
+        "id": "parallel_sovereign_claim",
+        "risk_level": "high",
+        "cons": [
+          "High risk to secrecy of your true nature"
+        ],
+        "description": "Raise the King as a silent thrall while Grendel presents the 'head' to the gates\u2014using magic and deception in parallel.",
+        "confidence": "medium",
+        "pros": [
+          "Total psychological collapse of the enemy",
+          "Immediate total control of the site"
+        ]
+      }
+    ]
+  },
+  "schema_migration_version": 1,
+  "entity_tracking": {
+    "active_entities": [
+      "Vesperian Thul"
+    ],
+    "present_entities": []
+  },
+  "rewards_box": {
+    "resolved_target_level": 6,
+    "level_up_available": true,
+    "xp_total": 14225,
+    "current_level": 5,
+    "current_xp": 14225,
+    "next_level_xp": 14000,
+    "new_level": 6,
+    "progress_percent": 100,
+    "xp_to_next_level": 0,
+    "gold": 0,
+    "xp_gained": 450,
+    "loot": [
+      "None"
+    ],
+    "source": "model"
+  },
+  "time_events": {
+    "Reaper Arrival": {
+      "changes_this_turn": "The containment unit has likely reached the temple ruins by now.",
+      "status": "ongoing",
+      "time_remaining": "45 minutes",
+      "new_consequences": "They will find the temple empty and ashen."
+    }
+  },
+  "rumors": [
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "related_event": "found_barony",
+      "content": "The 'Iron King' has publicly executed a Thayan tax collector, signaling a total break from the Border Laws."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "related_event": "pc_vespera_001",
+      "content": "A silver-haired shadow is whispered to be haunting the Surmarsh, leaving only frozen blood and empty vials in its wake."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "related_event": "pc_vespera_001",
+      "content": "The Elder thinks a southern noble is going to save us from the Iron King."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "content": "Travelers speak of a 'Silver Angel' haunting the Surmarsh, leaving only ash in her wake."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "false",
+      "content": "The Iron King has gone mad; he's harvesting his own providers to fuel a dark ritual."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "related_event": "murkh_wave_two",
+      "content": "The Iron King has begun using 'Corpse-Rot' poison on his arrows, a specialty of House Murkh."
+    },
+    {
+      "source_type": "merchant",
+      "accuracy": "partial",
+      "content": "Grendel's 'Iron-Bound' party only takes missions they've already been paid for."
+    }
+  ],
+  "session_id": "legacy-migrated-ff52c3392fbe9543"
+}

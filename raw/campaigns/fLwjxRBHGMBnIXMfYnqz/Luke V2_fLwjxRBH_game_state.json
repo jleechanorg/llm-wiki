@@ -1,0 +1,617 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "proficiency_bonus": 3,
+    "background": "Farmboy (with secret dark tendencies)",
+    "mbti": "INFP",
+    "class": "Force-User",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 14,
+      "intelligence": 12,
+      "wisdom": 15,
+      "charisma": 10,
+      "constitution": 13
+    },
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 17,
+      "initiative": 2
+    },
+    "status_conditions": [],
+    "string_id": "pc_luke_skywalker_001",
+    "temp_hp": 0,
+    "saving_throw_proficiencies": [
+      "Wisdom",
+      "Charisma"
+    ],
+    "name": "Luke Skywalker",
+    "experience": {
+      "needed_for_next_level": 14000,
+      "total_earned": 7400,
+      "current": 7400,
+      "to_next_level": 15600
+    },
+    "spells_known": [],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 6
+      },
+      "consumables": {
+        "arrows": 0,
+        "antidote": 0,
+        "antitoxin": 0,
+        "healing_potions": 0,
+        "crossbow_bolts": 0,
+        "other_notable": [],
+        "torches": 0,
+        "greater_healing_potions": 0,
+        "rations_days": 0,
+        "superior_healing_potions": 0,
+        "oil_flasks": 0,
+        "sling_bullets": 0,
+        "water_days": 0
+      },
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "total": 0
+        },
+        "level_1": {
+          "used": 0,
+          "total": 0
+        },
+        "level_3": {
+          "used": 0,
+          "total": 0
+        }
+      },
+      "light_sources": {
+        "current": "None",
+        "backup": [],
+        "duration_remaining": "N/A"
+      },
+      "gold": 50,
+      "exhaustion_level": 0,
+      "inspiration": false,
+      "class_features": {
+        "force_healing_pool": {
+          "used": 0,
+          "total": 25
+        }
+      },
+      "force_points": {
+        "current": 5,
+        "max": 5
+      },
+      "short_rests": {
+        "used": 0,
+        "total": 1
+      },
+      "long_rests_since_last": 0,
+      "force_slots": {
+        "level_2": {
+          "used": 0,
+          "total": 3
+        },
+        "level_1": {
+          "used": 0,
+          "total": 4
+        },
+        "level_3": {
+          "used": 0,
+          "total": 3
+        }
+      }
+    },
+    "status": "Infiltrating Rebel Base (Trojan Horse)",
+    "features": [
+      "Force-Sensitive",
+      "Lightsaber Mastery",
+      "Unarmored Defense",
+      "Extra Attack",
+      "Force Healing",
+      "Dark Side (Corrupted)",
+      "Purity of Hatred"
+    ],
+    "hp_max": 37,
+    "alignment": "Chaotic Evil",
+    "level": 6,
+    "skills": [
+      "Acrobatics",
+      "Athletics",
+      "Perception",
+      "Survival"
+    ],
+    "hp_current": 37,
+    "force_abilities_known": [
+      "Force Push/Pull",
+      "Force Sense",
+      "Force Jump",
+      "Mind Trick",
+      "Deflect Blasters",
+      "Force Healing",
+      "Force Speed",
+      "Force Lightning",
+      "Corrupted Force Empathy/Psychic Torment"
+    ],
+    "armor_class": 14,
+    "active_effects": [],
+    "equipment": {
+      "backpack": [
+        "Shield Bypass Device (modified)",
+        "Survival rations (2 days)",
+        "Datapad (Imperial encrypted)"
+      ],
+      "money": "50 credits",
+      "armor": "Rebel Flight Suit (damaged)",
+      "weapons": [
+        "Green Lightsaber",
+        "Blaster Pistol",
+        "Vibro-knife"
+      ]
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "minute": 48,
+      "time_of_day": "Midday",
+      "day": 25,
+      "second": 0,
+      "year": 3,
+      "hour": 12,
+      "month": "Standard Galactic Calendar",
+      "microsecond": 0
+    }
+  },
+  "npc_data": {
+    "Flight Commander": {
+      "class": "Officer",
+      "mbti": "ESTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 11,
+        "dexterity": 13,
+        "intelligence": 14,
+        "wisdom": 15,
+        "charisma": 10,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 1,
+        "passive_perception": 14
+      },
+      "faction": "Rebel Alliance",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_flightcommander_001",
+      "recent_actions": [
+        "greeting Luke",
+        "providing defense updates",
+        "influenced by Luke's advice on ion cannon",
+        "leading Luke to medbay/debriefing"
+      ],
+      "attitude_to_party": "relieved, trusting",
+      "status": "Relieved by Luke's return, concerned about base defenses, swayed by Luke's advice on ion cannon",
+      "hp_max": 30,
+      "level": 4,
+      "hp_current": 30,
+      "age": 45,
+      "knowledge": [
+        "Rebel base defense status",
+        "recent Imperial pressure"
+      ],
+      "relationships": {
+        "pc_luke_skywalker_001": "trusting colleague"
+      },
+      "role": "Rebel Flight Commander",
+      "armor_class": 12
+    },
+    "\"Jedi Master\"": {
+      "class": "Jedi Master",
+      "age_descriptor": "seasoned",
+      "mbti": "INFJ",
+      "hidden": false,
+      "faction": "Luke Skywalker's Asset",
+      "combat_stats": {
+        "speed": "unknown",
+        "initiative": "unknown",
+        "passive_perception": "unknown"
+      },
+      "conscious": true,
+      "present": true,
+      "alignment": "Neutral Evil",
+      "gender": "female",
+      "string_id": "npc_jedi_master_001",
+      "attitude_to_party": "absolutely loyal (to Luke)",
+      "recent_actions": [
+        "struggling against forced mental reordering",
+        "mind being prepared for information extraction",
+        "actively providing information under duress",
+        "mind being assessed for betrayal potential and combat utility by Luke",
+        "mind probed for hidden resistance by Luke, found none",
+        "undergoing forced Dark Side conversion",
+        "assessed by Luke for combat slave potential and betrayal risk",
+        "Force alignment corrupted (Violet Glow)",
+        "physical containment broken",
+        "assessed by Luke for combat readiness",
+        "actively sensing for secrets/threats under Luke's command",
+        "undergoing physical recalibration for combat under Luke's command",
+        "undergoing assessment for healing needs and combat readiness",
+        "continuing physical recalibration for combat",
+        "assessed by Luke for intelligence and autonomy potential (deemed not feasible without risk of betrayal)",
+        "mind being considered for intelligent and loyal restoration by Luke",
+        "mind rebuilt for intelligence and bound loyalty by Luke",
+        "awaiting complex command from Luke",
+        "articulating detailed tactical analysis",
+        "actively reflecting on tactical success rates under Luke's command",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "preparing for tactical deployment under Luke's command",
+        "articulating precise tactical details for hybrid assault",
+        "secretly imparting Force techniques and knowledge to Luke (clandestine training)",
+        "actively teaching Force techniques and knowledge to Luke (clandestine training)",
+        "being assessed by Luke for specific Light Side technique for deeper corruption",
+        "actively reflecting on the most useful Light Side technique for corruption related to current operation",
+        "actively teaching Force Empathy/Sense Emotions for corruption",
+        "observing Luke's test of Corrupted Force Empathy",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "actively articulating precise tactical details for hybrid assault",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "confirming overall tactical synchronization"
+      ],
+      "status": "Mind under direct mental domination, Forcibly Reordered for Coherence, Will broken, Subservient, Eyes now unfocused but tracking, Actively providing information under duress, Assessed for combat utility, Force alignment corrupted (Violet Glow), Physical containment broken, Awaiting command, Now actively sensing for secrets/threats, Assessed for combat readiness, Combat-Ready (under command), Intelligent and Loyal (Warped), Awaiting command",
+      "hp_max": "unknown",
+      "level": 10,
+      "hp_current": "unknown",
+      "knowledge": [
+        "Force secrets",
+        "Jedi philosophy",
+        "Rebel cell locations",
+        "Rebel codenames",
+        "Supply routes",
+        "Jedi artifact vault locations"
+      ],
+      "armor_class": "unknown",
+      "relationships": {
+        "pc_luke_skywalker_001": "master"
+      }
+    },
+    "Lyra Shan": {
+      "class": "Jedi Master",
+      "mbti": "INFJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 14,
+        "intelligence": 16,
+        "wisdom": 18,
+        "charisma": 15,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 4,
+        "passive_perception": 18
+      },
+      "faction": "Rebel Alliance",
+      "conscious": true,
+      "present": true,
+      "gender": "female",
+      "string_id": "npc_lyra_shan_001",
+      "attitude_to_party": "hostile",
+      "status": "Meditating on command vessel, unaware of betrayal",
+      "hp_max": 70,
+      "level": 10,
+      "hp_current": 70,
+      "age": 55,
+      "knowledge": [
+        "Force secrets",
+        "Jedi philosophy",
+        "Rebel strategy"
+      ],
+      "relationships": {},
+      "role": "Jedi Master",
+      "armor_class": 16
+    },
+    "\"Roric Vane\"": {
+      "class": "Scout",
+      "mbti": "ISTP",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 14,
+        "intelligence": 13,
+        "wisdom": 11,
+        "charisma": 9,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 13
+      },
+      "faction": "Rebel Alliance",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_roric_vane_001",
+      "recent_actions": [
+        "captured by Imperial forces",
+        "undergoing psychic interrogation",
+        "experiencing psychic torment from Luke",
+        "loyalty being corrupted by Luke",
+        "undergoing mental conditioning for absolute loyalty",
+        "mind assessed by Luke for loyalty and capabilities",
+        "actively providing information under duress"
+      ],
+      "attitude_to_party": "absolutely loyal (to Luke)",
+      "status": "Restrained, mind under absolute mental domination, Will broken, Absolutely loyal to Luke Skywalker, Actively providing information under duress",
+      "hp_max": 25,
+      "level": 3,
+      "hp_current": 25,
+      "age": 34,
+      "knowledge": [
+        "Rebel base layout (limited)",
+        "Local supply routes",
+        "Squad members",
+        "Rebel base 'Echo-One' defenses (primary shield generator access via maintenance tunnel Beta-7, hangar bay 3 blind spot)",
+        "Rebel command structure (General Dodonna, Commander Antilles)",
+        "Rebel assets (three X-wing squadrons, two Y-wing, limited proton torpedo reserves, two heavy ion cannons, exposed power conduits)",
+        "Force-sensitive Rebel personnel (pilot Jaina, potential)"
+      ],
+      "relationships": {
+        "pc_luke_skywalker_001": "master"
+      },
+      "role": "Captured Rebel Operative",
+      "armor_class": 12
+    },
+    "Jedi Master": {
+      "class": "Jedi Master",
+      "age_descriptor": "seasoned",
+      "mbti": "INFJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 12,
+        "intelligence": 16,
+        "wisdom": 18,
+        "charisma": 15,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": "unknown",
+        "initiative": "unknown",
+        "passive_perception": "unknown"
+      },
+      "faction": "Jedi Remnants",
+      "conscious": true,
+      "present": true,
+      "gender": "female",
+      "alignment": "Neutral Evil",
+      "name": "Anya Secura",
+      "attitude_to_party": "hostile (to Vader), neutral (to Luke, for now)",
+      "string_id": "npc_jedi_master_001",
+      "recent_actions": [
+        "struggling against forced mental reordering",
+        "mind being prepared for information extraction",
+        "actively providing information under duress",
+        "mind being assessed for betrayal potential and combat utility by Luke",
+        "mind probed for hidden resistance by Luke, found none",
+        "undergoing forced Dark Side conversion",
+        "assessed by Luke for combat slave potential and betrayal risk",
+        "Force alignment corrupted (Violet Glow)",
+        "physical containment broken",
+        "assessed by Luke for combat readiness",
+        "actively sensing for secrets/threats under Luke's command",
+        "undergoing physical recalibration for combat under Luke's command",
+        "undergoing assessment for healing needs and combat readiness",
+        "continuing physical recalibration for combat",
+        "assessed by Luke for intelligence and autonomy potential (deemed not feasible without risk of betrayal)",
+        "mind being considered for intelligent and loyal restoration by Luke",
+        "mind rebuilt for intelligence and bound loyalty by Luke",
+        "awaiting complex command from Luke",
+        "articulating detailed tactical analysis",
+        "actively reflecting on tactical success rates under Luke's command",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "preparing for tactical deployment under Luke's command",
+        "articulating precise tactical details for hybrid assault",
+        "secretly imparting Force techniques and knowledge to Luke (clandestine training)",
+        "actively teaching Force techniques and knowledge to Luke (clandestine training)",
+        "being assessed by Luke for specific Light Side technique for deeper corruption",
+        "actively reflecting on the most useful Light Side technique for corruption related to current operation",
+        "actively teaching Force Empathy/Sense Emotions for corruption",
+        "observing Luke's test of Corrupted Force Empathy",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "actively articulating precise tactical details for hybrid assault",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "confirming overall tactical synchronization"
+      ],
+      "status": "Mind under direct mental domination, Forcibly Reordered for Coherence, Will broken, Subservient, Eyes now unfocused but tracking, Actively providing information under duress, Assessed for combat utility, Force alignment corrupted (Violet Glow), Physical containment broken, Awaiting command, Now actively sensing for secrets/threats, Assessed for combat readiness, Combat-Ready (under command), Intelligent and Loyal (Warped), Awaiting command",
+      "hp_max": "unknown",
+      "level": 10,
+      "hp_current": "unknown",
+      "knowledge": [
+        "Force secrets",
+        "Jedi philosophy",
+        "Rebel cell locations",
+        "Rebel codenames",
+        "Supply routes",
+        "Jedi artifact vault locations"
+      ],
+      "armor_class": "unknown",
+      "role": "Captured Jedi Master",
+      "relationships": {}
+    },
+    "Roric Vane": {
+      "class": "Scout",
+      "mbti": "ISTP",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 14,
+        "intelligence": 13,
+        "wisdom": 11,
+        "charisma": 9,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 13
+      },
+      "faction": "Rebel Alliance",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_roric_vane_001",
+      "recent_actions": [
+        "captured by Imperial forces",
+        "undergoing psychic interrogation",
+        "experiencing psychic torment from Luke",
+        "loyalty being corrupted by Luke",
+        "undergoing mental conditioning for absolute loyalty",
+        "mind assessed by Luke for loyalty and capabilities",
+        "actively providing information under duress",
+        "assigned preliminary mission (retrieve cargo manifest from Hangar Bay Gamma-7)",
+        "completed preliminary mission (retrieved data-pad)",
+        "piloting transport",
+        "focused on mission",
+        "beginning methodical transport shutdown"
+      ],
+      "attitude_to_party": "hostile",
+      "status": "Under absolute mental domination, Will broken, Absolutely loyal to Luke Skywalker, Piloting transport, focused on mission",
+      "hp_max": 25,
+      "level": 3,
+      "hp_current": 25,
+      "age": 34,
+      "knowledge": [
+        "Rebel base layout (limited)",
+        "Local supply routes",
+        "Squad members",
+        "Rebel base 'Echo-One' defenses (primary shield generator access via maintenance tunnel Beta-7, hangar bay 3 blind spot)",
+        "Rebel command structure (General Dodonna, Commander Antilles)",
+        "Rebel assets (three X-wing squadrons, two Y-wing, limited proton torpedo reserves, two heavy ion cannons, exposed power conduits)",
+        "Force-sensitive Rebel personnel (pilot Jaina, potential)"
+      ],
+      "relationships": {},
+      "role": "Captured Rebel Operative",
+      "armor_class": 12
+    },
+    "Anya Secura": {
+      "recent_actions": [
+        "struggling against forced mental reordering",
+        "mind being prepared for information extraction",
+        "actively providing information under duress",
+        "mind being assessed for betrayal potential and combat utility by Luke",
+        "mind probed for hidden resistance by Luke, found none",
+        "undergoing forced Dark Side conversion",
+        "assessed by Luke for combat slave potential and betrayal risk",
+        "Force alignment corrupted (Violet Glow)",
+        "physical containment broken",
+        "assessed by Luke for combat readiness",
+        "actively sensing for secrets/threats under Luke's command",
+        "undergoing physical recalibration for combat under Luke's command",
+        "undergoing assessment for healing needs and combat readiness",
+        "continuing physical recalibration for combat",
+        "assessed by Luke for intelligence and autonomy potential (deemed not feasible without risk of betrayal)",
+        "mind being considered for intelligent and loyal restoration by Luke",
+        "mind rebuilt for intelligence and bound loyalty by Luke",
+        "awaiting complex command from Luke",
+        "articulating detailed tactical analysis",
+        "actively reflecting on tactical success rates under Luke's command",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "preparing for tactical deployment under Luke's command",
+        "articulating precise tactical details for hybrid assault",
+        "secretly imparting Force techniques and knowledge to Luke (clandestine training)",
+        "actively teaching Force techniques and knowledge to Luke (clandestine training)",
+        "being assessed by Luke for specific Light Side technique for deeper corruption",
+        "actively reflecting on the most useful Light Side technique for corruption related to current operation",
+        "actively teaching Force Empathy/Sense Emotions for corruption",
+        "observing Luke's test of Corrupted Force Empathy",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "actively articulating precise tactical details for hybrid assault",
+        "awaiting complex command from Luke",
+        "actively reflecting on tactical success rates under Luke's command",
+        "confirming overall tactical synchronization"
+      ]
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "character_creation": {
+      "in_progress": false,
+      "luke_background_twist": "secret sadistic side/dark tendencies",
+      "method_chosen": "custom_character",
+      "current_step": 7,
+      "luke_affinity": "Light Side"
+    },
+    "attribute_system": "D&D",
+    "last_story_mode_sequence_id": 278,
+    "timeline_era": "ABY",
+    "core_memories": [
+      "Luke accepts Darth Vader's offer to join the Dark Side, beginning his descent.",
+      "Luke openly embraces his inner darkness, declaring a desire to betray and kill his former companions to Darth Vader.",
+      "Luke utterly destroys illusions of his former companions and mentor, embracing his sadistic side and solidifying his Dark Side corruption.",
+      "Luke dominates the mind of a captured Jedi Master, rendering her subservient.",
+      "Luke successfully corrupts the Jedi Master's Force alignment, twisting her to the Dark Side.",
+      "Luke successfully restores the Jedi Master's intelligence while irrevocably binding her will to his, creating an intelligent, loyal Dark Side asset.",
+      "Luke accepts a hybrid strategy: personal infiltration of the Rebel base (Trojan Horse) while the dominated Jedi Master and Vader lead a surgical Imperial assault.",
+      "Luke extracted critical tactical intelligence from the dominated Rebel operative, Roric Vane, including base weaknesses, command structure, and key assets.",
+      "Luke and the Jedi Master refine the hybrid assault plan based on intelligence extracted from Roric Vane.",
+      "Luke initiates infiltration of the Rebel base, disguised as a returning hero, as part of the hybrid assault plan."
+    ],
+    "force_alignment_tracker": {
+      "current_alignment_score": 15,
+      "alignment_status": "Dark Side (Corrupted)"
+    },
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-07-12 08:09:11.205000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 48,
+    "time_of_day": "Midday",
+    "day": 25,
+    "second": 0,
+    "year": 3,
+    "hour": 12,
+    "month": "Standard Galactic Calendar"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "NO_LEGACY_DATA"
+}
