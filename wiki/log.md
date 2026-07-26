@@ -6659,3 +6659,22 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 - Final state: v9 module is live on `jleechanorg/worldarchitect.ai` `main` branch
 
 ## [2026-07-21] ingest | Cloud Build (/super) enrollment verification — the cloud-bastion@ trap
+## [2026-07-24] ingest | Electron app auto-installs via `ao start` invoked by Hermes launchd jobs
+
+- Source: `raw/feedback-2026-07-24-electron-app-auto-install-trigger.md`
+- Page: `sources/feedback-2026-07-24-electron-app-auto-install-trigger.md`
+- Trigger: `~/.hermes/scripts/beads-conflict-resolver.launchd.sh:38-45` ran `ao start worldarchitect` whenever `ao session ls -p worldarchitect` was empty; legacy `ao start` fetched and unpacked the macOS app from GitHub releases via `ditto -x -k` (preserves original bundle timestamps). `rm -rf` is NOT durable.
+- Fix: `launchctl bootout` + plist moved to `~/.ao/.disabled-launchagents/ai.hermes.schedule.beads-conflict-resolver.plist` and same for `daily-repo-export`.
+- Lesson: search `~/.hermes/scripts/` for any `ao start` invocation, not just `ai.agento.*` plists. Reusable debugging checklist in the source page.
+- Connected: [[jleechanorg-agent-orchestrator]] (Go CLI source), [[Ao]] (legacy TS CLI), [[ao-worker-liveness]] (recovery action, not the same as `start`).
+
+## [2026-07-25] ingest | BLOCKED requires a failed probe, not an inferred constraint
+
+Agent marked P0 bead rev-2gxkp BLOCKED-ON-HUMAN for compute; the acceptance criterion was a single
+BigQuery read of rows production had already written. Blocker was real for the sibling replay path
+(rev-0d8mh) and inherited without being probed for the measurement path. Running it inverted the
+bead: GodModeAgent cached_tokens>0 on 50/78 turns (avg 105,929), refuting the "ZERO cache hits"
+premise and the justification for PR #8580's cache commits (follow-up rev-e060i).
+Rule: BLOCKED requires a failed probe. Distinguish needs-AUTHORITY from needs-EFFORT.
+
+## [2026-07-25] ingest | macOS Keychain ACL and Partition List Perms Fix
