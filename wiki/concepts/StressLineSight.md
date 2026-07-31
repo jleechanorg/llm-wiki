@@ -38,4 +38,4 @@ The v6 *Apex Weaver* used Information Geometry socially — perceiving stress li
 - [VisenyaV9BloodDragonApexStalker](../sources/visenya-v9-blood-dragon-apex-stalker.md) — Source campaign
 - [ApexWeaver](../concepts/ApexWeaver.md) — v5/v6 predecessor; v6 was "Information Geometry" socially
 - [BloodDragonReputationDie](../concepts/BloodDragonReputationDie.md) — Stress-Line Sight produces outcomes that drive Reputation Die events
-- [WoundLedger](../concepts/WoundLedger.md) — Stress-Line Sight is **suppressed** while the Wound Ledger is destroyed/stolen
+- [Sanguine Thread](SanguineThread.md) — Stress-Line Sight is **suppressed** while the lineage book is destroyed/stolen
