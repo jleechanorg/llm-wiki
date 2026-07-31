@@ -1,3 +1,8 @@
+---
+name: swebench-harness
+description: Use when invoking SWE-bench harness evaluation directly or through scripts and producing or parsing run reports
+---
+
 # SWE-bench Harness Skill
 
 **Skill**: `~/.claude/skills/swebench-harness/SKILL.md`
