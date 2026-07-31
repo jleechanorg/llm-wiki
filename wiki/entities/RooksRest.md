@@ -29,4 +29,4 @@ The Black Sept are *not* trustworthy to strangers. Anyone who enters Rook's Rest
 
 - [VisenyaV9BloodDragonApexStalker](../sources/visenya-v9-blood-dragon-apex-stalker.md) — Visenya's seat
 - [BloodDragonReputationDie](../concepts/BloodDragonReputationDie.md) — Rook's Rest is *always* at d10+ (the Sept is known by reputation)
-- [WoundLedger](../concepts/WoundLedger.md) — Hall of Names is the canonical storage location
+- [Sanguine Thread](../concepts/SanguineThread.md) — Hall of Names is the canonical storage location
