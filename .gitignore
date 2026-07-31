@@ -2,6 +2,7 @@
 *.md
 !README.md
 !CLAUDE.md
+!AGENTS.md
 !wiki/*.md
 !wiki/jeffrey/*.md
 !wiki/product-taste/*.md

@@ -1,3 +1,8 @@
+---
+name: wiki-search
+description: Use when searching the local LLM Wiki for pages that match a title, tag, concept, entity, or content query
+---
+
 # /wiki-search — Search the LLM Wiki
 
 ## Usage

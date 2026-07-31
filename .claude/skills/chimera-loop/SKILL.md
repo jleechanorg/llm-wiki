@@ -1,3 +1,8 @@
+---
+name: chimera-loop
+description: Use when running or recovering the Project Chimera P4 hard benchmark loop, especially when monitoring error rates, checkpoints, or evidence
+---
+
 # chimera-loop — Autonomous Chimera Benchmark Loop
 
 **Loop interval**: self-paced | **Max duration**: 12h (72 iterations)
