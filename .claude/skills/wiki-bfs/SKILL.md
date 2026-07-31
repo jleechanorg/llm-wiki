@@ -1,3 +1,8 @@
+---
+name: wiki-bfs
+description: Use when researching a topic breadth-first to create or update LLM Wiki entities, concepts, sources, and assessment
+---
+
 # /wiki-bfs — Breadth-First Research + Wiki Ingest
 
 ## Usage
