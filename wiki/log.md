@@ -6678,3 +6678,171 @@ premise and the justification for PR #8580's cache commits (follow-up rev-e060i)
 Rule: BLOCKED requires a failed probe. Distinguish needs-AUTHORITY from needs-EFFORT.
 
 ## [2026-07-25] ingest | macOS Keychain ACL and Partition List Perms Fix
+
+## [2026-07-25] ingest | Evidence Class Must Match Claim Class
+Source: feedback-2026-07-25-evidence-class-must-match-claim-class.md (worldai_claw session /learn capture).
+Four adversarial document-review rounds of a worldarchitect.ai user-story spec all
+scored WITH-GAPS while missing four FALSE documented claims, caught only by checking
+2,141 scenes of real campaign transcripts instead of re-reading the docset. 73/109
+stories had BEHAVIORAL acceptance criteria (streaming, transitions, cross-scene state)
+that no document review or single-frame check can settle. Generalizes the existing
+"unit-only proof is NOT sufficient" rule to the evidence-docset-review layer itself.
+New concept page: [[behavioral-vs-static-evidence-criteria]].
+
+## [2026-07-25] ingest | Waitlist Fabricated Deny + Shared-IP Rate-Limit Lockout
+Source: feedback-2026-07-25-waitlist-fabricated-deny-ip-ratelimit-lockout.md (worldai_claw
+session /learn capture). worldarchitect.ai's auth.js fabricated+cached a waitlist deny on
+ANY fetch failure to a per-IP-rate-limited endpoint; automation traffic against a shared
+dev deployment drained the bucket and locked out the real account owner. Fixed PR #8602 +
+rate-limit override PR #8599. New concept/source cross-links added for the generalized
+IP-sharing lesson.
+## [2026-07-25] ingest | PR #8602 evidence round 2: worktree identity, field-attribution, producer/verifier split
+
+## [2026-07-27] ingest | Worktree recency proxies were unsafe; fail-closed helper shipped
+
+Source: `feedback_2026-07-27_worktree_recency_proxies_wrong.md` (disk_magician session /learn
+capture). Two `stat`-based proxies (`stat <wt>/.git`, `stat <wt>`) measured CREATION age, not
+use; verified against the live 340-worktree worldarchitect.ai registry (2/30 sampled: 20.4d
+from proxies vs 12.8d from real content mtime). Fix shipped via disk_magician PR #50
+(commit `9d702c6`, merged `01e25fe`). Three defects fixed in one PR: (a) the `.git`-proxy,
+(b) the empty-find fallback that was the most stale-biased fallback available (fail-OPEN),
+(c) SIGPIPE under `pipefail` from `sort | head`. All three scripts (`cleanup_worktrees.sh`,
+`cleanup_worktree_venvs.sh`, `worktree_hygiene.sh`) now source `scripts/lib/worktree_recency.sh`,
+which fails closed to age 0 = protected. 173 tests pass; 11 in the new `test_worktree_recency.sh`
+including explicit failure-of-the-old-proxies and a fail-closed assertion. New concept page
+`[[WorktreeFourteenDayRule]]` and `[[FailClosedSafety]]`; new entity pages
+`[[WorktreeHygieneScript]]`, `[[HostDiskGuardianScript]]`, `[[DiskMagicianRepo]]`.
+
+## [2026-07-27] ingest | Mem0/Qdrant broken ≠ API key — diagnosis recipe
+
+Source: `feedback_2026-07-27_mem0_qdrant_diagnosis_recipe.md` (disk_magician session /learn
+capture). The user's "mem0 is always breaking" pattern is the second identical-shape outage
+in two months (2026-06-24 was the first; feedback_2026-06-24-verify-harness-status-before-reporting.md
+recorded the earlier case). Three failures stacked on top of each other: (1) launchd
+launcher `start-qdrant-container.sh` waited 60s for a Docker context that never existed
+on this machine, 18 documented `exit 1` between 2026-06-28 and 2026-07-26; (2) qdrant
+panicked on `WorkingDirectory=read-only-file` (`os error 30`) because launchd Background
+jobs default cwd to /var/empty; (3) mem0 2.0 silently broke `m.search()` and `m.get_all()`
+call sites that used `user_id=` instead of `filters={'user_id': ...}`. ALL FIXED IN PLACE
+2026-07-27: native qdrant binary + `WorkingDirectory` + absolute `storage_path`/
+`snapshots_path` in `~/Library/LaunchAgents/ai.hermes.qdrant.plist`; `filters=` migration
+in `~/.hermes/scripts/mem0_shared_client.py:346`,
+`~/.hermes/.claude/hooks/mem0_recall.py:93`,
+`~/.hermes/scripts/mem0_dedup.py:88`. Live verification: `curl /healthz` returns
+"healthz check passed"; `Memory.add()` returned `event: ADD`; `m.search(...,filters={...})`
+returned 5 hits on 2026-07-27 including the test fact just written. New concept pages
+`[[Mem0QdrantDeployment]]`, `[[QdrantLaunchdPlist]]`, `[[Mem0HelperFiles]]`. Anti-pattern
+explicit: collapsing "service can't start" into "API key missing."
+
+## [2026-07-27] ingest | Waitlist fail-closed gate fabrication: bug fixed in main, beads need closing
+
+Source: `~/llm_wiki/raw/feedback_2026-07-27_waitlist_failclosed_fix_verified.md` (mirror: `~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-07-27_waitlist_failclosed_fix_verified.md`).
+
+Ingested into `~/llm_wiki/wiki/sources/feedback-2026-07-27-waitlist-failclosed-fix-verified.md`; index updated under Overview (most-recent-first).
+
+**Headline**: User-visible bug where transient `/api/waitlist/status` failure (network error or HTTP 429 from per-IP rate limiter) caused `mvp_site/frontend_v1/auth.js:331-339` to fabricate a deny verdict and render the misleading "Request waitlist access" screen to an authorized account. Fixed by PRs #8602 (`94d116f17f4`, client-side correctness) + #8599 (`6a2796e8d74`, server-side operability), both merged 2026-07-26. Verified at HEAD `b6c74b945f91` post-`/integrate` (branch `dev1785198509`): 22 regression tests including explicit HTTP 429 transient-failure test at lines 502-511.
+
+**Open beads requiring closure**: `rev-0askj`, `rev-6lq27`, `rev-xs1g9`. The fix landed 2026-07-26; bead closure prevents future agents from re-investigating.
+
+**Reusable pattern**: "A failed question is not an answer" — UI fail-closed on transient errors is defensible; UI lying about *why* it failed is not. Cache must never persist a fabricated deny; cache must be identity-scoped.
+
+## [2026-07-28] ingest | MBTI personality type pages (16 types) + personal-growth dimensions
+
+Source: 16 personalitypage.com personal-growth pages, one per Myers-Briggs personality type. URL pattern `https://personalitypage.com/html/<TYPE>-per.html`. Author attribution (per personalitypage.com): contributing author Robert G. Heyward.
+
+**Ingested**: 16 raw HTML files (`sources/articles/mbti/<TYPE>-per.html`) and 16 concept pages (`concepts/mbti/<TYPE>.md`) plus an MBTI index (`concepts/mbti/index.md`).
+
+**Top-level index**: New `## MBTI Personal Types` section in `index.md` (before `## Concepts`) linking to the index page, the central [[MBTI]] concept, and each of the 16 type pages.
+
+**Wiki entries created**:
+- `concepts/mbti/index.md` — MBTI Personal Growth Index: 4×4 type table grouped by Keirsey temperament (NT, NF, SJ, SP), per-type descriptions, and per-type growth-direction table.
+- `concepts/mbti/<TYPE>.md` — one concept page per type (16 total). Each page includes: YAML frontmatter, summary, cognitive function stack table, "What Success Means" section, strengths-to-nurture, potential problem areas, explanation, solutions, "Living Happily" section, the **Personal Growth Ten Rules** (the canonical distillation from personalitypage.com), growth-direction summary, cross-references to same-temperament peers + [[MBTI]] + [[BigFive]] + [[Alignment]], and source provenance.
+- `sources/articles/mbti/<TYPE>-per.html` — 16 raw HTML files with frontmatter (`source_url`, `ingested`, `sha256`).
+
+**Sha256 of each raw HTML file** (truncated to 16 hex):
+
+- `sources/articles/mbti/ISTJ-per.html` — sha256 `30f0dee288174c7e…`
+- `sources/articles/mbti/ISFJ-per.html` — sha256 `95a1dce7a59fd301…`
+- `sources/articles/mbti/INFJ-per.html` — sha256 `a5ac8edd63943d09…`
+- `sources/articles/mbti/INTJ-per.html` — sha256 `d523181b185c0071…`
+- `sources/articles/mbti/ISTP-per.html` — sha256 `2abf890f8d408c70…`
+- `sources/articles/mbti/ISFP-per.html` — sha256 `3e2219624d7ea4f7…`
+- `sources/articles/mbti/INFP-per.html` — sha256 `2b07eb1251f89844…`
+- `sources/articles/mbti/INTP-per.html` — sha256 `03b5c0db9c65f2b3…`
+- `sources/articles/mbti/ESTP-per.html` — sha256 `0d675405e73527ec…`
+- `sources/articles/mbti/ESFP-per.html` — sha256 `832e5a8da84402fc…`
+- `sources/articles/mbti/ENFP-per.html` — sha256 `f44163654227a743…`
+- `sources/articles/mbti/ENTP-per.html` — sha256 `5da0a7a75ea211fb…`
+- `sources/articles/mbti/ESTJ-per.html` — sha256 `fad160b83d48c25a…`
+- `sources/articles/mbti/ESFJ-per.html` — sha256 `9e7a592320a3cf65…`
+- `sources/articles/mbti/ENFJ-per.html` — sha256 `9eeb2feeacb405e8…`
+- `sources/articles/mbti/ENTJ-per.html` — sha256 `938a16fb7dddc76d…`
+
+**Why this ingest**: Per the user's task — populate the wiki with the 16 MBTI personality pages plus their personal-growth sections. The wiki's [[MBTI]] concept (existing at `concepts/MBTI.md`) had no per-type pages; character development for worldai campaigns needed the personal-growth dimension per type. LLM-input only — these pages are explicitly marked `internal-only` in frontmatter (consistent with the existing [[MBTI]] rule that codes must never appear in player-facing narrative).
+
+**Conventions followed**: each concept page ≥2 wikilinks (to 3 same-temperament peers + central [[MBTI]] + [[BigFive]] + [[Alignment]]); `confidence` not set (single-source per type, but the personalitypage.com material is the canonical source for these summaries); no contradictions with existing [[MBTI]] page; no raw HTML embedded in concept pages (only summarized).
+
+**Lint status**: see "lint | MBTI ingest" entry below — orphans, broken wikilinks, frontmatter completeness, page size (≤200 lines per page), tag taxonomy, source drift, sha256 verification.
+
+
+## [2026-07-28] ingest | Bounded PR convergence requires passing acceptance evidence
+
+Source: `/Users/jleechan/.claude/projects/-Users-jleechan-projects-worktree_fable_bulk_restored/memory/feedback_2026-07-28_bounded_pr_convergence_requires_passing_acceptance.md` (Claude auto-memory, type=feedback, bead rev-7xdvm). Copied to `raw/feedback_2026-07-28_bounded_pr_convergence_requires_passing_acceptance.md`.
+
+Created `sources/bounded-pr-convergence-requires-passing-acceptance-evidence.md` plus three new concept pages: `concepts/BoundedStateMachinePRRecovery.md` (the `IDENTIFY→ADMIT→FIX→LOCAL_PASS→FREEZE_HEAD→REAL_ACCEPTANCE_PASS→REVIEW_PASS→READY` state machine and its 6 invariants), `concepts/RealAcceptanceVerdict.md` (structured pass/fail signal that artifact presence/provenance can't substitute for), `concepts/GoalHarnessTerminalStates.md` (SELF_CONTROLLABLE/EXTERNAL/HUMAN_DECISION classification + `BLOCKED_WITH_PROOF` requirement). Linked existing `concepts/EvidenceTheater.md` back to the new pages — same failure family (gate checks evidence presence, not whether the evidence proves the claim), but this incident is the variant where the artifact itself is authentic and current and still fails its own assertions.
+
+No jeffrey-oracle impact (operational/harness-engineering learning, not personal/biographical).
+
+## [2026-07-29] ingest | Disk-full — 5 structural root causes ranked
+
+Source: `feedback_2026-07-29_root_cause_disk_full.md` (disk_magician session). 50 hours
+after the 2026-07-26 mass reclaim (60 GiB recovered via `pressure_sweep.sh` 16:49-17:36),
+free disk fell back to 29 GiB — same input creates the same output. The earlier
+/learning capture identified a one-shot emergency but not the producers. This ingest
+captures the 5-producer taxonomy (agent-venv scope gap, abandoned `~/.worktrees`
+siblings, unowned `/private/tmp` cruft, Antigravity brain, `.git` history) so the next
+session starts from the table instead of re-doing `du`. `du_hot.txt` / `du_deep.txt`
+saved at /tmp in this session for reproducibility. New concept page
+`[[DiskFullRecurrenceTaxonomy]]`. Reclaimable headroom with #1+#2+#3+#5: ~69 GiB
+without touching cache or .gemini.
+
+## [2026-07-29] ingest | launchd user-scope daemons need ProcessType: Interactive
+
+Source: `feedback_2026-07-29_launchd_processtype_interactive_for_daemons.md` (disk_magician session /learn). Recovered a wedged `ai.hermes.qdrant` plist via `/sidekick` mission `disk_magician-o5v`. The intuitive fix (KeepAlive{SuccessfulExit:false}+ThrottleInterval) did not work — qdrant was SIGTERM'd 36 s after first bind because `ProcessType: Background` reaps the child on shell-exit regardless of KeepAlive. The actual fix was `ProcessType: Interactive`. After that, qdrant pid 30212 was alive continuously through the rest of the session. Live end-to-end mem0 verified: 20-hit search including the 2026-07-29 /learn payloads (they had made it into qdrant before the wedge hit). New concept page `[[LaunchdDaemonSessionAnchoring]]`. The 2026-07-29 disk-full diagnosis (sister page) provides the 5-producer taxonomy for the disk pressure that drove the underlying disk_magician branch in the first place. Backup-cron path mismatch is the remaining follow-up under bead `disk_magician-37u`.
+
+## [2026-07-29] ingest | Don't invent prompt rules or numeric defaults when driving PRs to green
+
+
+## [2026-07-31] ingest | Exhaustive CI audit category & causal honesty
+
+- Source: feedback_2026-07-30_ci_audit_category_and_causal_honesty.md
+- Bead: rev-ip5un.1
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-07-30_ci_audit_category_and_causal_honesty.md
+- PR: https://github.com/jleechanorg/worldarchitect.ai/pull/8675
+
+## [2026-07-29] ingest | Don't invent prompt rules or numeric defaults when driving PRs to green
+
+- Source: feedback_2026-07-29_no-invented-prompt-features.md (3187 bytes)
+- Bead: rev-i283u
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worktree-synergy/memory/feedback_2026-07-29_no-invented-prompt-features.md
+- PR: https://github.com/jleechanorg/worldarchitect.ai/pull/8628 [closed as not-planned]
+- Roadblock fix: PR #8628 closed; no merge had occurred so no revert needed.
+
+## [2026-07-31] ingest | AI Universe MCP migrated Render → Cloud Run (consensus-ml.ai)
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-07-31_ai_universe_mcp_render_to_cloudrun_migration.md
+- Source: feedback_2026-07-31_ai_universe_mcp_render_to_cloudrun_migration.md
+- Roadmap: ~/roadmap/learnings-2026-07.md (entry appended)
+- Bead: rev-eboni (WorldAI MCP migration follow-up)
+- Fix: ~/.claude/scripts/auth-cli.mjs, jeff-ubuntu, claude-commands repo
+- Test: `node ~/.claude/scripts/auth-cli.mjs test` → ✅ Authentication successful! (stubbed agent.second_opinion response)
+
+## [2026-07-31] ingest | AI Universe token refresh daemon (launchd)
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-07-31_ai_universe_token_refresh_daemon.md
+- Source: project_2026-07-31_ai_universe_token_refresh_daemon.md
+- Roadmap: ~/roadmap/learnings-2026-07.md (entry appended)
+- Bead: rev-eboni (closed as completed; WorldAI follow-up remains)
+- Daemon: `org.jleechanorg.auth-aiuniverse-token-refresh` StartInterval=1800, RunAtLoad=true
+- Wrapper: /Users/jleechan/.local/libexec/auth-aiuniverse/refresh_token.sh (sources ~/.bashrc with `set +u`, fails loud if env var missing)
+- Plist template (owning repo): /Users/jleechan/.hermes/launchd/org.jleechanorg.auth-aiuniverse-token-refresh.plist.template
+- Verification: daemon log shows "Token refreshed successfully", expiresAt moved to 7/31/2026 5:19:18 AM, status returns VALID
+## [2026-08-02] ingest | /web-advice Working Recipe — real-website multi-model review

@@ -28,3 +28,5 @@ In 40 merged PRs, no real tmux video, UI GIF, or local server evidence was ever 
 - [[EvidenceGate]] — CI gate that checks for ## Evidence section
 - [SkepticGate](SkepticGate.md) — skeptic-gate workflow
 - [VideoEvidenceFailure](VideoEvidenceFailure.md) — specific video evidence failure patterns
+- [[RealAcceptanceVerdict]] — a variant where the artifact itself is authentic/current but its own assertions fail, and the gate never checks assertion results, only presence/provenance (PR 8489, 2026-07-28)
+- [[BoundedStateMachinePRRecovery]] — the bounded-recovery pattern proposed to close this gap
