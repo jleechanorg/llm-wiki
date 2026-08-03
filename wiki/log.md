@@ -6846,3 +6846,5 @@ Source: `feedback_2026-07-29_launchd_processtype_interactive_for_daemons.md` (di
 - Plist template (owning repo): /Users/jleechan/.hermes/launchd/org.jleechanorg.auth-aiuniverse-token-refresh.plist.template
 - Verification: daemon log shows "Token refreshed successfully", expiresAt moved to 7/31/2026 5:19:18 AM, status returns VALID
 ## [2026-08-02] ingest | /web-advice Working Recipe — real-website multi-model review
+## [2026-08-02] ingest | dirs_cleaner 225GiB root cause + fix
+## [2026-08-02] ingest | EINTR diagnostic: path-string vs fd-relative tools
