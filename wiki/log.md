@@ -6848,3 +6848,4 @@ Source: `feedback_2026-07-29_launchd_processtype_interactive_for_daemons.md` (di
 ## [2026-08-02] ingest | /web-advice Working Recipe — real-website multi-model review
 ## [2026-08-02] ingest | dirs_cleaner 225GiB root cause + fix
 ## [2026-08-02] ingest | EINTR diagnostic: path-string vs fd-relative tools
+## [2026-08-03] ingest | "Committed/pushed/portable" are 3 separate claims
