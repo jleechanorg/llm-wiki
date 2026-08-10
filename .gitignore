@@ -8,8 +8,8 @@
 !wiki/entities/*.md
 !wiki/concepts/*.md
 !wiki/syntheses/*.md
-!research-wiki/syntheses/*.md
 !wiki/sources/*.md
+!wiki/campaigns/*.md
 !wiki/campaigns/**/*.md
 !skills/*.md
 !test-prs/*.md
@@ -26,10 +26,3 @@
 
 # Ignore logs
 logs/
-
-# Runtime disk cache (memory-search CLI)
-.cache/
-
-# Python
-__pycache__/
-*.py[cod]

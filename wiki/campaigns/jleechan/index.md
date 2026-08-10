@@ -35,6 +35,9 @@ A deep psychological profile of a 67+ campaign, 1,000+-scene TTRPG player. Built
 - [[bead-ingestion-results]] — 12 concept pages from 18 beads: AgentStallRecovery, AsyncioOrchestrationMigration, SkepticGateRetry, etc.
 - [[batch-campaign-ingest-pipeline]] — Download + ingest methodology: Firebase Auth → UID → Firestore subcollection → wiki conversion
 
+## Supergirl: The Weight of Solitude
+- [Supergirl: The Weight of Solitude](campaigns/jleechan/supergirl-weight-of-solitude.md) — Level 20 Gestalt (Fighter/Monk) post-2026 cosmic film universe campaign; public identity, ICC trial for Malakor execution, Apex Five & Project Red Dust.
+
 ## Stellaris Nocturne V1 (Shroud-AI Backstory)
 - [Stellaris Nocturne V1 — Shroud-AI Backstory](campaigns/jleechan/stellaris-nocturne-v1-shroud-ai-backstory.md) — 3-generation lineage: Primordial → Xylia → Nocturne; Shroud missions; Hespera as internal voice
 
@@ -42,6 +45,7 @@ A deep psychological profile of a 67+ campaign, 1,000+-scene TTRPG player. Built
 
 | Campaign | Entries | Character | Core Arc |
 |----------|---------|-----------|----------|
+| [[Supergirl Weight of Solitude]] | 6 | Supergirl / Kara Zor-El | Level 20 Gestalt, public identity, legal & political godhood crisis |
 | [[Faction Nocturne Bg3 V3]] | 606 | Nocturne Sosuke | Soul-industrialist, overgod |
 | [[Dragon Knight Evil]] | 500 | Ser Arion Valerion | Paladin → emperor optimizer |
 | [[Sariel Killer]] | 685 | Sariel | Manufactured serial killer → sovereign architect |
