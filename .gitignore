@@ -9,6 +9,8 @@
 !wiki/concepts/*.md
 !wiki/syntheses/*.md
 !wiki/sources/*.md
+!wiki/campaigns/*.md
+!wiki/campaigns/**/*.md
 !skills/*.md
 !test-prs/*.md
 !raw/*.md
