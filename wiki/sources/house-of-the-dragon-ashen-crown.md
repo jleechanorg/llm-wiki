@@ -23,9 +23,11 @@ This campaign is engineered for **unforgiving trade-offs, systemic consequences,
 2. **Consequences outlast intentions.** Sparing an enemy today creates a future traitor. Executing them creates a martyr and alienates their house. The DM tracks every NPC action and remembers.
 3. **Dragons are force multipliers with appetite.** They are not pets, not war-mounts, not stat sticks. They are living weapons with wild instincts who can betray you if you push them past their control threshold.
 
-**Show anchor:** You begin at the **immediate aftermath of House of the Dragon Season 3, Episode 8 ("The Treasons at Tumbleton") finale.** Jace is dead. Ulf and Hugh have turned. Helaena has jumped. Aegon lives, Sunfyre at his side, regrouping on Dragonstone. Aemond is recovering from poison at Harrenhal with Alys Rivers. Daeron and Ormund hold the Reach. Your treasury is nearly empty, your capital is on the brink of smallfolk revolt, and your own council questions your sanity.
+**Show anchor:** You begin at the **immediate aftermath of House of the Dragon Season 3, Episode 8 ("The Treasons at Tumbleton") finale.** Jace has been dead for **~2 months** (he died in S3 E1 "Salt and Sea, Fire and Blood" at the Battle of the Gullet, ~June 130 AC). Ulf and Hugh turned at Tumbleton (S3 E8). Helaena has jumped (S3 E8). Aegon lives, Sunfyre at his side, regrouping on Dragonstone. Aemond is recovering from poison at Harrenhal with Alys Rivers. Daeron and Ormund hold the Reach. Your treasury is nearly empty, your capital is on the brink of smallfolk revolt, and your own council questions your sanity. The grief over Jace is not fresh — it is **~60 days old and unresolved**, the wound that broke Rhaenyra before Tumbleton finished breaking the realm.
 
-**Book fallback:** Where Season 3 cut off or diverged from GRRM canon (e.g., Helaena's fate, Tumbleton mechanics, Aemond's poisoning), the bible defaults to *Fire & Blood* (2018) for world-state continuity. Where TV and book diverge on a plot point that affects a future decision, the bible notes `[Show / Book]` and provides both interpretations for the AI DM to use.
+**Canon-correction note:** Corlys Velaryon is Jace's **grandfather** (Jace was the son of Rhaenyra and Laenor Velaryon; Laenor was Corlys's son). When Corlys speaks of "my grandson Jacaerys" the bible preserves this; do not have NPCs call Jace "Corlys's son." Addam of Hull (Seasmoke's rider) is a **loyal dragonseed**, legitimized as a Velaryon in S3 E3, NOT a traitor — the bible has him at +60 loyalty and treats him as a trusted asset.
+
+**Book fallback:** Where Season 3 cut off or diverged from GRRM canon (e.g.g. Helaena's fate, Tumbleton mechanics, Aemond's poisoning), the bible defaults to *Fire & Blood* (2018) for world-state continuity. Where TV and book diverge on a plot point that affects a future decision, the bible notes `[Show / Book]` and provides both interpretations for the AI DM to use.
 
 ---
 
@@ -208,8 +210,8 @@ You are the daughter of Viserys I, the sister-wife of Daemon, the mother of six 
 ### The Black Queen's Living Relatives
 
 - **Prince Daemon Targaryen** (husband, estranged but loyal to a point) — At Harrenhal, obsessed with Aemond. Your one true military asset; if you lose him, you lose the war. He does not respect your caution. He may be planning a suicidal charge.
-- **Prince Jacaerys Velaryon** (son) — **DECEASED.** Killed by Triarchy bowmen at the Gullet. His body was returned by Baela. You wept for three days. His death is the inflection point of your descent.
-- **Prince Lucerys Velaryon** (son) — **DECEASED.** Killed by Aemond and Vhagar over Storm's End. You have not stopped grieving.
+- Prince Jacaerys Velaryon (son) — **DECEASED at the Battle of the Gullet, ~60 days ago (S3 E1).** Killed by Triarchy bowmen. His body was returned by Baela. You have not stopped grieving.
+- Prince Lucerys Velaryon (son) — **DECEASED, killed by Aemond and Vhagar over Storm's End years earlier (S1).** A wound that has scarred; not the most recent grief, but the one that taught you Aemond would kill your children without hesitation.
 - **Prince Aegon the Younger** (son, heir) — In your chambers, age 11. The boy is bright, gentle, and terrified of you. He is the heir to the Iron Throne if you die.
 - **Prince Viserys (son)** — Age 8, also in your chambers. Wets the bed since Jace's death. You have not visited him in six weeks.
 - **Princess Rhaena Targaryen** (daughter) — Rider of Sheepstealer. In the Vale. She tried to kill Vhagar and failed; Daemon brought her back in chains. She does not speak to you.
@@ -218,7 +220,19 @@ You are the daughter of Viserys I, the sister-wife of Daemon, the mother of six 
 
 - **Baela Targaryen** (granddaughter, Jace's betrothed) — **IMPRISONED.** Moondancer's rider. She has not been told why. She will not forgive you if you do not release her by Act III.
 - **Jaehaera Targaryen** (granddaughter, Helaena's daughter) — Six years old. She is the only living child of the Green line. Her marriage to your son Aegon III will be the peace-broker if you survive the war. She is in your care; she misses her mother.
-- **Queen Dowager Alicent Hightower** (former queen, mother of your rival) — Your childhood friend, your adult enemy, now your prisoner. She has nothing left. She has been your mirror for thirty years.
+- **Queen Dowager Alicent Hightower** (former queen, mother of your rival Aegon II) — Your childhood friend, your adult enemy, now your prisoner. She has nothing left. She has been your mirror for thirty years.
+
+**Show-anchor canon notes (AI DM must honor):**
+
+- Addam of Hull (Seasmoke's rider) was legitimized as a Velaryon in S3 E3 and has remained **loyal to you throughout Season 3**. If the AI DM narrates him as a traitor, it is contradicting canon — he is a trusted asset. The +60 starting loyalty is correct.
+
+- Corlys Velaryon is Jacaerys's **grandfather** (Jace was the son of Rhaenyra + Laenor Velaryon). Corlys's grief over Jace is real and profound (Jace was the heir to Driftmark), but he cannot claim Jace as "my son." The Starting Scene quotes Corlys correctly as saying "my grandson."
+
+- Lucerys died in Season 1, ~2 years earlier. The fresher grief is Jace (60 days). Aemond killed Lucerys. The bible preserves both wounds; Lucerys is the original sin that made the war personal for Rhaenyra, Jace is the wound that broke her.
+
+- Helaena is **dead by suicide, S3 E8** — she jumped from a Red Keep window. Smallfolk blame Rhaenyra for "pushing" her. The Shepherd's mob invokes her name. This is canon-accurate.
+
+- The campaign bible's "Queen Helaena has leaped to her death" was Gemini's v3 line (and my v1 bible), which is canonically accurate. Do not soften this.
 
 ### The Two Pretenders
 
@@ -534,7 +548,7 @@ The wind howling off Blackwater Bay carries the stench of burning tallow and rot
 
 Inside the throne room, the shadow of the Iron Throne stretches long across the floor. **Lord Corlys Velaryon** stands before you, his sea-cloak stained with brine and ashes from the Gullet.
 
-> **Lord Corlys Velaryon:** *"My son Jacaerys is food for the crabs. Addam of Hull is branded a traitor by your paranoia and has fled into the night. Baela sits in your dungeon, locked away like a common thief! Now Tumbleton is burned by the gutter-rats you gave dragons to! Give me my granddaughter, Rhaenyra, and legitimize Alyn as Lord of Driftmark, or I swear by the Drowned God, every Velaryon warship leaves the bay before midnight. Let the Greens have you."*
+> **Lord Corlys Velaryon:** *"My grandson Jacaerys is food for the crabs. Addam of Hull has fled into the night to prove his loyalty after the smallfolk whispered that your dragonseeds were traitors. Baela sits in your dungeon, locked away like a common thief! Now Tumbleton is burned by the gutter-rats you gave dragons to! Give me my granddaughter, Rhaenyra, and legitimize Alyn as Lord of Driftmark, or I swear by the Drowned God, every Velaryon warship leaves the bay before midnight. Let the Greens have you."*
 
 From the corridor, the Captain of the Iron Gate stumbles in, bleeding from an eye socket.
 
