@@ -7405,3 +7405,5 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - Source: [[wa-avatar-drive-dedupe-2026-08-14|Google Drive folder 1dM4qeRcKTJmRZVq1bB8wTgPhdZNgazc- — 141 → 132 unique avatars]]
 - 1 entity (Drive avatar used): [[ca197e7b-ains-shy-lich]] — Overlord PC; the only character with a Drive-side match. Other Overlord NPCs (Sebas, Demiurge, Albedo, Gazef, Ramposa, Raeven, Nigun, Kalle, Imperial Auditor, Chenier, Rianon, Grom, Elos, Silvershard) fall back to the campaign-level `avatar.png`.
 - Models: `grok-4.3` (xai) + `gemini-2.5-flash` (Vertex AI; `GEMINI_API_KEY` reported leaked — fell back to gcloud bearer auth on `worldarchitecture-ai` project)
+
+- [Aside browser subagents defaulted to the wrong account, blocking real logins (2026-08-16)](sources/feedback-2026-08-16-aside-wrong-default-account-blocked-logins.md) — `~/.aside/accounts.json` currentAccountId pointed at the work identity instead of jleechan@gmail.com, causing false "no credentials found" reports on Gemini/Morgan Stanley login checks. Fix: verify currentAccountId matches the expected identity before trusting a no-credentials blocker.

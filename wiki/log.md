@@ -7244,3 +7244,32 @@ mem0: FAILED — 401 Invalid API Key (Groq LLM extraction key), not resolved thi
 ## [2026-08-16] correction | "undocumented" claim in the LLM-ablation learning was overstated
 
 User challenged "web search are you sure its undocumented" on the same-day entry above. Verified via WebSearch + WebFetch: Google's own AI Developers Forum thread "Infinite looping Thinking steps for Gemini 3 APIs" (discuss.ai.google.dev/t/.../138686) describes the same failure class (Gemini 3 + JSON output stuck looping/validating) via a different mechanism (thinking block, not code_execution tool calls), without naming response_json_schema as the fix. Corrected: sources/feedback-2026-08-16-llm-bug-root-cause-needs-direct-ablation-not-research-fanout.md, Claude auto-memory file, roadmap 2026-08-16 entry, bead rev-xph5o. Exact code_execution+response_json_schema mechanism remains unconfirmed by any Google doc found; the broader failure class does not.
+
+
+## Aggregated from per-project wikis (2026-08-16 22:35)
+
+## [2026-04-21] [from worldarchitect.ai] ingest | ZFC level-up proof vs cleanup merge order
+
+Added `wiki/sources/zfc-level-up-proof-and-merge-order-2026-04-21.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect.ai] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect-ai-autor] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-13] [from worldarchitect-public-wiki] restructure | Karpathy Pattern Migration
+Migrated from flat structure to wiki/ subdirectory pattern:
+- Created wiki/ subdirectory with index.md as primary catalog
+- Created wiki/sources/ for source pages
+- Created wiki/concepts/ with D&D 5e mechanic pages (12 files)
+- Created wiki/entities/ with faction/world entity pages (6 files)
+- Created wiki/sources/ with player guide source pages (9 files)
+- Created wiki/overview.md (living synthesis)
+- Created wiki/log.md (this file)
+- Created wiki/syntheses/ for saved query answers
+- Updated root-level index.md to redirect to wiki/index.md
+
+## [2026-08-16] ingest | Aside browser subagents defaulted to the wrong account, blocking real logins
