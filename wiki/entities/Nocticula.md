@@ -1,32 +1,18 @@
 ---
 title: "Nocticula"
 type: entity
-tags: [character, player-character, half-demon, mana-veil, frieren, recurring]
-sources: [frieren-v1, nocticula-v2-frieren]
-last_updated: 2026-05-22
+tags: [character, protagonist, half-demon, sorcerer, shadow-weaver, fugitive, intj, true-neutral]
+sources: [2026-08-04-nocticula-general-hidden-power]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Nocticula
 
-Nocticula is a half-demon sorceress appearing in Frieren: Beyond Journey's End crossover campaigns. She is the 16-year-old granddaughter of a Demon King who fled the infernal hierarchy, viewing it as "inefficient." She lives among humans as a First-Class Mage, hiding her royal pedigree and massive mana reserves behind a Mana Veil. Her core tension: using her full power reveals her true nature to both demonic Retrieval Squads and human Purge Slayers.
+16-year-old half-demon (human/abyssal hybrid) protagonist of the "hidden power" campaign. Secretly the granddaughter of a reigning [[AbyssalDemonKing|Demon King]] — title *Scion of the Abyssal Throne (Hidden)* — living as a fugitive from demonic Retrieval Squads and human Purge Slayers.
 
-## Appears In
+- **Class archetype**: Sorcerous Prodigy / Shadow Weaver.
+- **Personality**: INTJ / True Neutral; [[OptimalOutcomeReasoning|Clinical Pragmatism]] — emotions as data points, allies as assets.
+- **Mechanics**: [[ManaVeilMastery]] (detection reads her as Level 1), [[DemonicOvercasting]] (+2 effective spell tiers), [[SubtleWeaving]] (component-less casting), all gated by [[TheRevealConstraint]].
+- **Goals**: integration among humans, efficiency in threat elimination, transcendence beyond the Demon/Human binary.
 
-- [frieren-v1](../sources/frieren-v1.md) — First iteration; 124 entries; saves Frieren's party from demon ambush
-- [nocticula-v2-frieren](../sources/nocticula-v2-frieren.md) — 225 entries; youngest First-Class Mage in history; Serie has accepted her
-
-## Key Traits
-
-- **Mana Veil Mastery:** Compresses mana into a near-total void; appears as Level 1 novice to all detection
-- **Demonic Overcasting (N+2 Rule):** At character level N, has spells/slots as level N+2; can mask as any level ≤ current
-- **Mana Reveal Mechanic:** Using masked slots or over-level spells shatters the veil temporarily
-- **INTJ / True Neutral:** Clinical pragmatism; views interactions as logistical exchanges
-- **Subtle Weaving:** Specializes in casting without components; ghost on the battlefield
-- **Low Empathy Framework:** Rare moments of unexpected compassion; saves allies as "tactical preservation of assets"
-- **Shadow Weaver (Custom Class):** CHA-based sorcerous prodigy with concealed demonic scaling
-
-## Relationships Across Campaigns
-
-- [SarielCrossCampaign](SarielCrossCampaign.md) — Parallel archetype (masked level, FBI/vigilante double life, prodigy beauty)
-- [VisenyaBelaerys](VisenyaBelaerys.md) — Parallel (Ascension Meter ≈ Mana Reveal; hiding true power)
-- [Alexiel](Alexiel.md) — Parallel (Null/secret prodigy; the mask that hides god-tier power)
+Another instance of the user's [[HiddenPowerArchetype]] protagonist line (cf. [[NocturneSosuke]], [[SosukeAizen]]). Name borrowed from Pathfinder's demon lord of assassins and outcasts.

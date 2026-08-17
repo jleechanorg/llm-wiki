@@ -1,0 +1,1 @@
+Created: L15 Fiend Warlock/Mastermind, economic strategist, personality hook (misinterprets Ains's anxiety as tactics)

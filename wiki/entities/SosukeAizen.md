@@ -1,32 +1,20 @@
 ---
-title: "Sosuke Aizen"
+title: "Sosuke Aizen (campaign protagonist)"
 type: entity
-tags: [character, player-character, aizen-bg3]
-last_updated: 2026-04-12
-sources: [aizen-bg3-campaign, aizen-bg3-v2-campaign, aizen-godhood-continued-campaign]
+tags: [character, campaign, protagonist, house-sosuke, abyss-knight]
+sources: [2026-08-04-aizen-thay-v1-nocturne-ancestor]
+last_updated: 2026-08-04
 ---
 
-## Overview
+# Sosuke Aizen — campaign protagonist
 
-Sosuke Aizen is the player character across multiple Aizen campaigns set in Baldur's Gate and beyond. He is a sixteen-year-old prodigy whose intellect far outstrips those around him. He operates from the shadows, running The White Garden as a front for harvesting secrets and controlling House Sosuke while his father Lord Kaito serves as the public figurehead.
+Recurring player-character identity across the Aizen campaign family (Bleach's Aizen adapted into D&D settings; see [[KyokaSuigetsu]], [[PowerlessMastermindBuild]]).
 
-## Key Details
+## Thay v1 incarnation ([[2026-08-04-aizen-thay-v1-nocturne-ancestor]])
 
-- **Age:** 16 (exiled at 13, officially dead)
-- **Campaigns:** Aizen Bg3, Aizen Bg3 V2, Aizen Godhood Continued
-- **Class:** Level 4 Wizard (Hogyoku subclass in V1, Bard in V2)
-- **Secret Identity:** The "Gardener" / "Cursed Scholar" of House Sosuke
-- **Abilities:** Complete hypnosis, strategic vice, secret ownership of The White Garden
-- **Goal:** Evolutionary transcendence via the Hogyoku; eventual world domination
+- **"The Spare" / Last Scion of [[house-sosuke|House Sosuke]]** — born in exile after the house was hunted to extinction following the Sovereign's Vanishing.
+- **Class**: custom **[[AbyssKnight]]**, explicitly *not* a traditional Warlock — no parchment-and-devil soul contract.
+- **Pact**: bound to his great-grandmother [[NocturneSosuke]] through the Obsidian Mirror ([[ObsidianMirrorPact]]); serves as her **Material Anchor**, the sole tether between the sealed [[ShatteredRose]] and the Material Plane.
+- **Arc thesis**: studies Nocturne's rule through the mirror "so that one day you might replicate it" — apprentice-mastermind framing consistent with the player's serpent-mastermind preference profile.
 
-## Key Relationships
-
-- [LordKaito](LordKaito.md) — father, figurehead of House Sosuke
-- [TheWhiteGarden](TheWhiteGarden.md) — his secret sanctuary
-- [HouseSosuke](HouseSosuke.md) — noble house he controls from shadows
-
-## Connections
-
-- [AizenBg3](AizenBg3.md) — first campaign
-- [[AizenBg3V2]] — second campaign with expanded network
-- [AizenGodhoodContinued](../concepts/AizenGodhoodContinued.md) — godlike status campaign
+Distinct from the teen prequel incarnation ([[2026-08-04-aizen-bg3-v2-exiled-viper-level4]]) where Aizen is a Level 4 academy student in post-BG3 [[BaldursGate]].

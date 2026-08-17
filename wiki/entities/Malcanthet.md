@@ -1,24 +1,17 @@
 ---
-title: "Malcanthet"
+title: "Malcanthet — Queen of Succubi, patron of Nocturne Sosuke"
 type: entity
-tags: [person, demon-lord, succubus, abyssal-siren]
-sources: [nocturne-bg3-v5-succubus, nocturne-bg3-v5-succubus-copy, nocturne-bg3-v5-fixed-v2]
-last_updated: 2026-04-12
+tags: [npc, patron, demon, abyss, succubus-queen, warlock-pact, bg3-campaign]
+sources: [2026-08-04-nocturne-bg3-v5-velvet-cage]
+last_updated: 2026-08-04
 ---
 
-## Overview
-Malcanthet is the Queen of Succubi and demoness of the Abyss. In the Nocturne V5-succubus campaigns, she replaced Zariel as Nocturne's patron after Nocturne inverted the Cassalanter pact. Her favor grants "Plot Armor" allowing Nocturne to become Incorporeal instead of falling unconscious at 0 HP.
+# Malcanthet
 
-## Key Details
-- **Category:** Person / Demon Lord
-- **Campaign(s):** [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v5-succubus-copy](../sources/nocturne-bg3-v5-succubus-copy.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
-- **Title:** Queen of Succubi
+Queen of Succubi and Abyssal patron of [[NocturneSosuke]]. In the v5 "Velvet Cage (Descent Edition)" campaign, Nocturne sealed a pact with Malcanthet by inverting the [[CassalanterFamily]] pact ritual, absorbing a surge of infernal power immediately before the Nautiloid abduction.
 
-## Connections
-- [NocturneSosuke](NocturneSosuke.md) — her patron (after Zariel)
-- [MalcanthetsCourt](MalcanthetsCourt.md) — her demonic court
-- [MalcanthetsDomain](MalcanthetsDomain.md) — her realm in the Abyss
-- [[Zariel]] — predecessor as patron
+## Role in v5
 
-## Appearances
-- [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md) — patron in succubus variant
+- Her chaotic magic residue manifests as pink/crimson sparks in Nocturne's violet eyes, visibly at war with the illithid tadpole.
+- Grants [[MalcanthetsFavor]] — the levels 1–3 plot-armor mechanic replacing death saves — because her vessel is "too entertaining to break this early." Limited to once per long rest; the patron's protection is explicitly conditional entertainment, not loyalty.
+- The suppressed pact energy is the campaign's power-recovery MacGuffin: removing/mastering the tadpole means "breaking the dam" ([[TadpoleSuppressionNerf]]).

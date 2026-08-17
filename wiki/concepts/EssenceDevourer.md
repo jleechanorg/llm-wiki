@@ -1,23 +1,18 @@
 ---
-title: "Essence Devourer"
+title: "Essence Devourer — forbidden Force-drain trait with a 24-hour feed clock"
 type: concept
-tags: [concept, trait, sith, life-force, consumption]
-sources: [nocturne-old-republic]
-last_updated: 2026-04-12
+tags: [game-mechanic, swtor, homebrew, resource-management, corruption]
+sources: [2026-08-04-alexiel-swtor-siren-master-bible]
+last_updated: 2026-08-04
 ---
 
-## Overview
-Essence Devourer is a Sith trait that allows the character to consume the life force or essence of other beings. This power is central to Project Apotheosis and the Vitiate dynasty's methods of strengthening their bloodline.
+# Essence Devourer
 
-## Mechanics
-- **Essence Consumption:** Drain life force from living beings
-- **Power Accumulation:** Gained essence enhances the user's capabilities
-- **Instability Risk:** Excessive consumption leads to instability
+Forbidden trait of the [[VoidExperimentClass]], held by [[Alexiel]]. The character craves Force energy itself — proximity to powerful Jedi triggers an urge to "sip" their auras.
 
-## Context
-Nocturne wields this trait as part of their role in Project Apotheosis, consuming essences to grow stronger while managing the instability such power brings.
+**Mechanics**
+- On lethal damage dealt with a Force power: gain temp HP = CHA modifier + level.
+- Can drain non-sentient sources (droids, small animals, Force nexus meditation).
+- **Feed clock**: must feed every 24 hours or suffer hunger pangs that reduce Max HP.
 
-## Connections
-- [NocturneOldRepublic](../entities/NocturneOldRepublic.md) — Wielder
-- [ProjectApotheosis](ProjectApotheosis.md) — Related project
-- [[InstabilityMeter]] — Risk mechanic
+**Design role**: a corruption loop disguised as upkeep — the safest feeds are morally trivial, but the mechanic constantly advertises that people are the richest source. Sibling pattern to [[DivineAscensionByConsumption]] and [[Divine-Portfolio-Consumption]] in the BG3/Aizen campaign line: power growth tied to consuming other beings' essence.

@@ -1,33 +1,20 @@
 ---
-title: "Destiny Ruleset"
+title: "Destiny ruleset — WorldAI's default rules layer with D&D 5e as explicit fallback"
 type: concept
-tags: [destiny, dnd-5e, ruleset, game-system]
-sources: [nocturne-apex-paladin-campaign, itachi-evil-campaign-2-campaign, merc-solo-brute-gladius-campaign, luke-v2-campaign]
-last_updated: 2026-04-12
+tags: [game-mechanics, ruleset, destiny, dnd-5e, fallback, worldai, energy-points]
+sources: [2026-08-04-worldai-campaign-prompts-index]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Destiny Ruleset (with 5e fallback)
 
-The Destiny ruleset is a D&D 5e-based game system used in multiple campaigns in this wiki. It serves as a custom framework that adapts the standard 5e rules for various campaign settings, with modifications for probability analysis and character calibration.
+Rules-precedence pattern declared in the [[Gladius]] campaign prompt: "We will use the default destiny ruleset and defer to D&D 5e when things aren't defined."
 
-## In These Campaigns
+## Structure
 
-Three campaigns use the Destiny ruleset:
+- **Primary layer**: the WorldAI "destiny" ruleset — evidenced in the same document by 5e-divergent vocabulary: **Defense score** (not AC), **Energy Points / EP** (not spell slots), **Aptitude scores**, **Fatigue levels** (not exhaustion), **Primary Action**, and checks phrased as "checks to resist" rather than saving throws.
+- **Fallback layer**: D&D 5e fills every gap the destiny ruleset leaves undefined.
 
-1. **Itachi Evil Campaign 2:** Uses the full Destiny system with Aptitude potentials, personality traits, and probability calibration
-2. **Merc Solo Brute Gladius:** Uses the ruleset for the Apex Paladin class and post-Baldur's Gate setting
-3. **Luke V2:** Uses the ruleset for the Force-User class in the Star Wars/Baldur's Gate crossover
+## Why it matters
 
-## Key Features
-
-- **Unlikelihood Ratio:** Calibration system that analyzes probability of narrative events against character capabilities
-- **Energy Points (EP):** Resource system for special abilities
-- **Aptitude System:** Character attributes with potential scores
-- **Fatigue Mechanic:** Consequence for powerful abilities
-
-## Connections
-
-- [[ItachiEvilCampaign2Campaign]] — Campaign using it
-- [[MercSoloBruteGladiusCampaign]] — Campaign using it
-- [[LukeV2Campaign]] — Campaign using it
-- [Dnd5eSRD](../entities/DnD5eSRD.md) — Base system
+The explicit precedence order is what lets homebrew like [[OathOfSelfPerfection]] be written in mixed vocabulary (5e chassis — paladin levels, Extra Attack, long rests — with destiny-native resource mechanics) without ambiguity about which system adjudicates a given situation. It is the system-agnostic-overlay idea from the [[SosukeAizen|God Mechanics V1/V2]] line applied at the ruleset level rather than the campaign level.

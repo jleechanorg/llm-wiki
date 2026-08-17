@@ -1,31 +1,11 @@
 ---
-title: "Eddard Stark"
+title: "Eddard Stark — isolationist King beyond the Neck (Visenya v5)"
 type: entity
-tags: [got, game-of-thrones, stark, warden-of-the-north, npc]
-last_updated: 2026-04-08
+tags: [character, stark, the-north, asoiaf, alternate-history, isolationism]
+sources: [2026-08-04-visenya-v5-bleeding-dragon]
+last_updated: 2026-08-04
 ---
 
-## Summary
-Eddard Stark (Level 12) is the Warden of the North. Known as "the Stone," his rigid honor and inflexible morality make him simultaneously the campaign's primary obstacle and its most fragile vulnerability. His greatest secret — Jon Snow's true heritage as Rhaegar's son — is a "mathematical vulnerability waiting to be exploited." He is killed by his own sons at Visenya's command in the campaign's climactic parricide.
+# Eddard Stark
 
-## Key Character Traits
-- **The Stone**: Rigid, unyielding morality; "a doll of duty so rigidly constructed that Visenya already knows exactly where to apply pressure"
-- **Veteran instincts**: First at Winterfell to recognize Visenya as a predator ("She carries herself like a queen... She moves with the economy of a predator")
-- **Father's love**: His protective instincts regarding Jon Snow are used against him throughout
-
-## Key Moments
-- **The Arrival**: Hand rests on Ice, welcoming Visenya while suspecting she is no simple guest
-- **The Forged Letter**: His fear of Crown aggression (rather than his honor) becomes the entry point for manipulation
-- **The Branding of Catelyn**: Forced to watch his heir brand his wife "like a common beast"
-- **The Parricide**: Killed by his own sons at Visenya's command
-
-## Stats
-- **Level**: 12
-- **Title**: Warden of the North, Lord of Winterfell
-- **Weapon**: Ice (Valyrian greatsword)
-
-## Connections
-- [VisenyaTargaryen](VisenyaTargaryen.md) — the architect of his destruction
-- [HouseStark](HouseStark.md) — the house he ruled and lost
-- [JonSnow](JonSnow.md) — his secret son, weaponized against him
-- [RobbStark](RobbStark.md) — his heir, corrupted into the instrument of his death
+In Visenya v5, Eddard's vanguard went berserk rather than routing when Robert fell at the Trident, then withdrew behind the Neck. Grieving and bitter after receiving Lyanna's bones, he **refused to bend the knee** but agreed to the [[CeasefireOfBones]] (284 AC), sealing the North into an isolationist kingdom that trades with Braavos and ignores the Iron Throne. His name shadows the "River Wolves" guerillas grinding the Riverlands ([[TheGrinding]]).

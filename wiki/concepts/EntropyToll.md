@@ -1,25 +1,16 @@
 ---
-title: "Entropy Toll"
+title: "Entropy Toll — boredom-as-resource compulsion mechanic"
 type: concept
-tags: [got, game-of-thrones, mechanic, visenya, apex-weaver]
-last_updated: 2026-04-08
+tags: [game-mechanics, compulsion, roleplay-incentive, campaign-visenya-v6, homebrew]
+sources: [2026-08-04-visenya-v6-winter-web]
+last_updated: 2026-08-04
 ---
 
-## Summary
-The Entropy Toll is the core class mechanic of the Apex Weaver (Bard/Mastermind Gestalt) in the Visenya V6 campaign. It creates a compulsion to manipulate: if Visenya witnesses a high-status NPC lie or assert false dominance and does not manipulate, humiliate, or correct them within the scene, she suffers 1 point of Exhaustion from sheer boredom.
+# Entropy Toll
 
-## Mechanical Effects
-- **Witnessing a lie + no response**: +1 Exhaustion
-- **Successfully shattering an ego**: Gain Temporary HP equal to Charisma modifier
-- **Silver Tongue**: Minimum roll of 10 on Deception/Persuasion checks (guarantees success in social manipulation)
-- **Psychic Vivisection**: Expend Sadism Dice to subtract from enemy saves — allows breaking NPCs who would otherwise resist
+Compulsion mechanic from campaign v6 that mechanizes [[VisenyaTargaryen]]'s "Solving the Equation" drive:
 
-## Campaign Examples
-- **The Great Hall Debut (Entry 002)**: Visenya watches Robb insult the Blood Dragon; she responds with Static flare — no Exhaustion gained
-- **The Forged Letter (Entry 005)**: She exploits Ned's rigidity; no triggering of Toll (she is the one generating the lie)
-- **The Branding (Entry 010)**: Robb fails to kill Catelyn — the Static does not purr; this represents a partial failure of the compulsion system
+- If she witnesses a high-status NPC **lie or assert false dominance** and chooses NOT to manipulate, humiliate, or correct them within the scene → **1 point of Exhaustion** from sheer boredom.
+- If she successfully **shatters their ego** → **Temporary HP equal to her Charisma modifier**.
 
-## Connections
-- [VisenyaTargaryen](../entities/VisenyaTargaryen.md) — the class that generates the Entropy Toll
-- [ApexWeaver](ApexWeaver.md) — the class with this mechanic
-- [ObsessionParadox](ObsessionParadox.md) — the result of successful Entropy Toll application
+Design note: this is an incentive engine that forces the sadistic-mastermind persona into play rather than leaving it as flavor text — the character is mechanically punished for restraint and healed by cruelty. Functionally kin to threat/strain meters in earlier versions (e.g. v3's threat gauge) but inverted: the pressure is internal boredom, not external suspicion.

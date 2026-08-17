@@ -1,18 +1,11 @@
 ---
-title: "The Guild"
+title: "The Guild — Baldur's Gate criminal syndicate and gateway to forbidden knowledge"
 type: entity
-tags: [entity, faction, criminal-organization, baldurs-gate]
-sources: [nocturne-post-bg3-zhent]
-last_updated: 2026-04-12
+tags: [faction, criminal-syndicate, baldurs-gate, underworld]
+sources: [2026-08-04-aizen-teen-campaign-export]
+last_updated: 2026-08-04
 ---
 
-## Overview
-The Guild is the primary criminal organization in Baldur's Gate, operating in the shadows of the city. While the Zhentarim operates more openly, The Guild controls the underground economy through blackmail, smuggling, and mercenary work.
+# The Guild
 
-## Significance
-In the post-war landscape, The Guild seeks to expand its influence. Nocturne navigates this space, potentially working with or against The Guild to build their criminal enterprise.
-
-## Connections
-- [NocturnePostBg3Zhent](NocturnePostBg3Zhent.md) — Potential operative
-- [Zhentarim](Zhentarim.md) — Rival organization
-- [BaldursGate](BaldursGate.md) — Territory
+The hidden criminal syndicate of [[BaldursGate]]'s underworld. In the Aizen teen campaign ([[2026-08-04-aizen-teen-campaign-export]]) it is framed less as a crime problem and more as a **temptation vector**: "a shadowy presence hinting at forbidden knowledge and illicit opportunities" — one of the corrupting influences the campaign's themes ('intellectual curiosity versus moral boundaries') are built to exploit against young [[SosukeAizen|Aizen]]. Opposed in principle by the [[FlamingFist]]; plausibly entangled in practice with [[house-sosuke|House Sosuke]]'s "morally ambiguous mercantile and esoteric interests."

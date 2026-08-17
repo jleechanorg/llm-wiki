@@ -1,40 +1,17 @@
 ---
-title: "Auctoritas"
+title: "Auctoritas — Roman authority mechanized as literal supernatural force and CHA spellcasting"
 type: concept
-tags: [game-mechanic, narrative-pattern, worldarchitect, recurring, charisma]
-sources: [gaia-julia-v3, aurelius-julius-caesar-v1, nocturne-bg3, visenya-v3]
-last_updated: 2026-05-22
+tags: [game-mechanic, magic-system, rome, pax-caesara, charisma, low-magic, dnd-5e]
+sources: [2026-08-04-gaia-julia-v3-pax-caesara, 2026-08-04-gaia-julia-v7-pax-caesara-golden-cage]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Auctoritas
 
-Auctoritas (Latin: "authority, command, prestige") is a recurring metaphysical concept in WorldArchitect campaigns where Charisma is not merely a social stat but a **physical force** that reshapes reality. Characters with Auctoritas do not persuade — they Command, and reality complies. This concept bridges D&D mechanics (CHA-based casting) with narrative weight (presence as gravitational pull).
+The Pax Caesara campaigns' core conceit: Roman *auctoritas* (personal authority/gravitas) is a **literal supernatural force**, not a metaphor. Three expressions across the line:
 
-## Core Expression
+1. **Narrative** (v3): [[JuliusCaesar]] survives the Ides by unleashing "a wave of Auctoritas that brought the Conspirators to their knees" — the timeline's point of divergence is an authority-as-power event.
+2. **Mechanical, v3**: the [[ImperatorClass]] spellcasting feature is named Auctoritas — CHA-based casting reskinned as imperial will ("Your will is a physical force"): Command becomes "Kneel," Shield becomes "a flicker of the [[Miasma]] deflects a blow," plus Guidance/Friends/Mind Sliver as courtly influence cantrips.
+3. **Mechanical, v7**: the [[SovereignVoiceClass]] renames it "Auctoritas (The Weight of the Divine)" — spells lose all visible verbal/somatic components, manifesting as pheromonal shifts, crushing atmospheric pressure, and pitched tones that bypass the conscious mind ([[2026-08-04-gaia-julia-v7-pax-caesara-golden-cage|Gaia Julia v7]]). Functionally an always-on Subtle Spell, sibling to v4's [[VelvetIron]].
 
-- **Charisma as Physics:** CHA modifier replaces STR for Intimidation and Strength saves; presence has mass
-- **Will as Magic:** Spellcasting is not learned but asserted — "You do not cast spells. You assert your reality over the world."
-- **The Miasma:** Physical manifestation of Auctoritas — air grows heavy, shadows lengthen, sound muffles. Feels like the pressure drop before a thunderstorm.
-- **Visual Signature:** Furnace eyes (pupils dilate to black/gold), glowing skin, animals growing uneasy
-
-## Examples Across Campaigns
-
-- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — "Auctoritas (Spellcasting)" — casts spells by asserting will; Command = triggering primal obedience reflex; Shield = bending Fate
-- [[AureliusJuliusCaesar]] — "Auctoritas (The Golden Gravity)" — CHA replaces STR; The Miasma = allies gain temp HP, enemies can't look directly; Aura of Gravity makes the area around him difficult terrain
-- [NocturneSosuke](../entities/NocturneSosuke.md) — "Her whispers rewrite the laws of physics"; presence alone shapes the battlefield
-- [VisenyaBelaerys](../entities/VisenyaBelaerys.md) — "The Noblest Dialect" — CHA checks on dragons/Valyrians have Advantage; a word in High Valyrian stops a dragon's rage
-
-## Variants
-
-| Variant | Campaign | Expression |
-|---------|----------|------------|
-| Miasma | Gaia Julia, Aurelius | Pressure + light; "thunderstorm" feeling |
-| Golden Gravity | Aurelius Caesar | Difficult terrain for enemies near PC |
-| Noblest Dialect | Visenya | Language-based dragon/Valyrian command |
-| Apex Aura | Nocturne | Psychic crushing of wills |
-
-## Related Concepts
-
-- [TheSingularity](TheSingularity.md) — Auctoritas is the mechanic through which Singularities dominate
-- [CustomCHABasedMartialClasses](CustomCHABasedMartialClasses.md) — The class structures that formalize Auctoritas
-- [[TieredCampaignProgression]] — Auctoritas scales through tiers, from social bonus to reality warping
+This keeps the setting **low-magic / Game-of-Thrones style** while giving the Julian bloodline an in-fiction justification for mechanical supremacy — the same power-flavored-as-lineage move seen in [[BhaalspawnEssence]] and the [[CrossPlatformAscensionPattern]].

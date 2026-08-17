@@ -1,0 +1,1 @@
+Created: Ains only L20 in Nazarick, guardians capped L12-16, crusade threat is always one bad lieutenant away

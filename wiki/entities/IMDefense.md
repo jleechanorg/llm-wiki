@@ -1,20 +1,11 @@
 ---
-title: "IM Defense"
+title: "IM Defense — chaebol defense contractor whose legal armor Sariel probes"
 type: entity
-tags: [faction, corporation, doberman]
-sources: [doberman-campaign]
-last_updated: 2026-04-12
+tags: [organization, military-prosecutor-doberman, chaebol, defense-contractor, k-drama]
+sources: [2026-08-04-sariel-military-prosecutor-doberman]
+last_updated: 2026-08-04
 ---
 
-## Description
-IM Defense is a powerful corporation/military entity in Seoul that serves as the "Nilfgaard" equivalent of the doberman campaign world. Led by Noh Hwa-young, it represents the dominant power structure that controls the city's corporate and military landscape.
+# IM Defense
 
-## Significance
-Sariel works for Noh Tae-nam at IM Defense as part of her fall from chaebol grace. The corporation serves as both employer and power structure, providing Sariel with resources and access while she pursues her ultimate goal of gaining ultimate control.
-
-## Connections
-- [doberman-campaign](../sources/doberman-campaign.md) — source campaign
-- [SarielDoberman](SarielDoberman.md) — employee
-- [NohTaenam](NohTaenam.md) — direct superior
-- [NohHwayoung](NohHwayoung.md) — supreme leader
-- [Seoul](Seoul.md) — base of operations
+Chaebol defense company from *[[MilitaryProsecutorDoberman]]* (canonically the Noh family's firm). In the [[Sariel]] campaign, testing IM Defense's legal defenses is one of the hidden private benefits Sariel banks while ostensibly solving [[NohTaeNam]]'s problems — target practice for her [[PortableAbsolutePower]] accumulation.

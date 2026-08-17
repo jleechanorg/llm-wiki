@@ -1,31 +1,23 @@
 ---
-title: "Visenya Belaerys"
+title: "Visenya \"Silver\" Belaerys"
 type: entity
-tags: [character, player-character, targaryen, dragon-lord, recurring]
-sources: [visenya-v2, visenya-v3, visenya-v4, visenya-v5, visenya-v6]
-last_updated: 2026-05-22
+tags: [character, player-character, visenya, belaerys, valyrian, sorcerer, dragonseed, hidden-royalty, asoiaf]
+sources: [2026-08-04-visenya-v3-apex-of-ash]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Visenya "Silver" Belaerys
 
-Visenya "Silver" Belaerys is a recurring character across 5+ campaign versions, set during the Dance of the Dragons. She is the sole survivor of the Valyrian "Apex" line — a secret heir who claims Vermithor, the Bronze Fury, during the Sowing at Dragonstone. Her character explores the tension between appearing as a lucky peasant bastard and secretly being an Apex Monarch whose blood commands dragons.
+Player character of the campaign visenya v3 bible *The Apex of Ash: The Sowing* ([[2026-08-04-visenya-v3-apex-of-ash]]). Sole survivor of the Valyrian "Apex" line, hiding as a peasant Dragonseed on [[Dragonstone]] in 129 AC to claim [[Vermithor]] during [[TheSowing]].
 
-## Appears In
+## Profile
 
-- [visenya-v2](../sources/visenya-v2.md) through [visenya-v6](../sources/visenya-v6.md) — Multiple iterations (346+ entries in v3 alone), each refining the concept
+- **Class**: Dragon Lord — Apex Bloodline sorcerer ([[DragonLordSubclass]]), Charisma 18 primary stat; magic is bloodright and force of personality, not book-learning.
+- **Visuals**: exceptional beauty hidden under soot and wool; voice resonates in listeners' bones when speaking the [[NoblestDialect]].
+- **Role**: Secret Apex Heir / Rhaenyra's hidden weapon — plans to be *used* by [[RhaenyraTargaryen]] until strong enough to lead.
+- **Anchor**: [[GerrickTheSmith]], who believes she is just a clever peasant girl.
+- **Constraint**: the [[AscensionMeter]] — overt power use attracts the [[ArchitectsOfSilence]] and royal paranoia.
 
-## Key Traits
+## Pattern Fit
 
-- **Apex Bloodline:** The Belaerys line predates Targaryens; her CHA 18 commands dragons and people alike
-- **The Noblest Dialect:** Advantage on CHA checks speaking High Valyrian to dragons/Valyrians
-- **Ascension Meter (0-100):** Using true power raises the meter; high meter attracts Mage Slayers and triggers Rhaenyra's paranoia
-- **The Silver Persona:** Maintains the "lucky peasant girl" mask while secretly being a queen
-- **Subtle Apotheosis:** Free Subtle Spell for mind-affecting and dragon spells; magic appears as "divine luck"
-- **Gerrick the Smith:** The loyal mortal anchor who believes she's just a clever peasant
-- **Dragon Lord (Custom Sorcerer):** CHA-based class with tiered progression from Dragonseed to Apex Monarch
-
-## Relationships Across Campaigns
-
-- [SarielCrossCampaign](SarielCrossCampaign.md) — Parallel (masked power, hiding true lineage)
-- [Nocticula](Nocticula.md) — Parallel (Ascension Meter ≈ Mana Reveal mechanic)
-- [NocturneSosuke](NocturneSosuke.md) — Parallel (Apex lineage concept; Singularity-tier potential)
+Another instance of the user's signature hidden-superior masked-power protagonist (compare [[SaitaAethelgard]] and the Sariel line of campaigns): overwhelming inherited power, deliberate concealment, social manipulation as the primary weapon, and a mortal anchor humanizing the mastermind.

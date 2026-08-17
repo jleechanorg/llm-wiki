@@ -1,41 +1,27 @@
 ---
-title: "Stress-Line Sight"
+title: "Stress-Line Sight — tiered predictive perception homebrew (campaign visenya v9)"
 type: concept
-tags: [got, game-of-thrones, mechanic, visenya-v9, apex, perception]
-sources: [visenya-v9-blood-dragon-apex-stalker]
-last_updated: 2026-07-20
+tags: [game-mechanics, homebrew, dnd-5e, perception, precognition, tier-progression, campaign-design, power-fantasy]
+sources: [2026-08-04-visenya-v9-apex-stalker]
+last_updated: 2026-08-04
 ---
 
-## Summary
+# Stress-Line Sight
 
-**Stress-Line Sight** is the v9 Apex Stalker signature perception. The Apex lineage's "Information Geometry" (v6) becomes **physical geometry**: Visenya perceives the structural weaknesses in a guard rotation, the exact moment a shadow falls, the precise angle at which light refracts off an arbalest bolt, the trajectory of the next 10 seconds of any creature within 100 feet that has not yet seen her. *She does not cast spells. She reads the physical world the way a hawk reads a field mouse.*
+The signature v9 homebrew ability ("Apex Stalker Exclusives — not in PHB 5e") of [[VisenyaTargaryen]]: always-active perception of the world as **stress lines** — the trajectory a guard's gaze will trace in the next 3 seconds, the moment a structural beam will crack, the angle light will refract off an arbalest bolt. Physics-precognition flavored as a dormant Valyrian lineage rather than magic.
 
-## Mechanics
+## Tier ladder
 
-**Passive (always active):**
-- Permanent Advantage on Perception checks involving sight in dim light/darkness.
+| Tier | Levels | Effect |
+|---|---|---|
+| Cub | 1-5 | 15 ft passive only (lineage dormant) |
+| Stalker | 6-10 | 60 ft passive + 1 declared Stress Line/round |
+| Apex Predator | 11-15 | 120 ft passive + 2/round |
+| Sovereign | 16-19 | 240 ft passive + 3/round + Sovereign Sight (sees "the shape of magic as well as physics") |
+| Demi-God | 20+ | 480 ft passive + unlimited — "The First Song's prison door opens" (hooks into the campaign's Magic Barrier System, Section 13) |
 
-**Active (bonus action, 1/round):**
-- Declare a *Stress Line*. Roll a DEX (Stealth) check against any creature within 60 ft that is not yet aware of you. On a success, that creature has Disadvantage on its next attack roll against you or any ally you designate. On a critical success (natural 20), the creature is also Blinded until the end of its next turn as the *suggestion of your silhouette* registers in its vision.
+Passive at all tiers: permanent Advantage on sight-based Perception in dim light/darkness. Active use is a bonus action: declare a Stress Line and roll DEX (Stealth) against an unaware creature in range (rule text truncates in the source excerpt).
 
-**At Level 11+ (epic tier):**
-- She may declare up to 3 Stress Lines per round.
+## Design lineage
 
-## What Stress-Line Sight Is Not (Guardrail G6)
-
-- **Not Precognition.** She cannot see *future* events; she reads *present trajectories* of physical objects and known creatures.
-- **Not Future-Sight.** She does not see events that have not yet been *initiated*.
-- **Not True Seeing.** She cannot see through solid walls, sealed letters, or magical illusions.
-- **Not mind-reading.** Stress Lines apply to physical objects and observable creature behavior. NPC *intentions* are inferred from micro-expressions, not directly perceived.
-- **Not detect-magic.** Stress-Line Sight does not register magical auras. (See the [v9 Guardrail G6](../sources/visenya-v9-blood-dragon-apex-stalker.md#guardrail-g6) for the capability lock.)
-
-## Why Physical Geometry Beats Social Geometry (for v9)
-
-The v6 *Apex Weaver* used Information Geometry socially — perceiving stress lines in human psyches, conversation dynamics, social structures. **Stress-Line Sight is the v9 evolution applied to the physical plane.** Same mathematical perception, different surface. Visenya's apex lineage is *modular* — the *Blood Dragon* is the apex applied to combat and shadow, while the v6 *Apex Weaver* was the apex applied to diplomacy and manipulation. They are the same *kind* of power, expressed differently.
-
-## Connections
-
-- [VisenyaV9BloodDragonApexStalker](../sources/visenya-v9-blood-dragon-apex-stalker.md) — Source campaign
-- [ApexWeaver](../concepts/ApexWeaver.md) — v5/v6 predecessor; v6 was "Information Geometry" socially
-- [BloodDragonReputationDie](../concepts/BloodDragonReputationDie.md) — Stress-Line Sight produces outcomes that drive Reputation Die events
-- [WoundLedger](../concepts/WoundLedger.md) — Stress-Line Sight is **suppressed** while the Wound Ledger is destroyed/stolen
+Same pattern as v8's Sovereign Shadow Tracker and the v5 line's [[AscensionMeter]]: a named per-campaign subsystem that ladders the protagonist from mortal prodigy to demi-god, with the top tier gated behind a metaphysical door (here "the First Song's prison") that doubles as the endgame plot device. See [[ApexStalker]] for the base chassis it augments.

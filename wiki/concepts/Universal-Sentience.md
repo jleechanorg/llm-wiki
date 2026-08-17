@@ -1,0 +1,1 @@
+Created: Custom mutation — all creatures sentient, combat always negotiable, no mindless monsters

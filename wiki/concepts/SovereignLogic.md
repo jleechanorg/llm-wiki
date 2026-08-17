@@ -1,35 +1,13 @@
 ---
-title: "Sovereign Logic"
+title: "Sovereign Logic — theme-derived metaphysical law"
 type: concept
-tags: [metaphysics, power-system, cosmic-law, thematic-identity]
-sources: [sovereign-ascension-ceremony-multiversal-upgrade]
-last_updated: 2026-04-08
+tags: [mechanic, sovereign-protocol, theme-conversion, identity-as-mechanics, multiverse]
+sources: [2026-08-04-multiverse-sovereign-protocol]
+last_updated: 2026-08-04
 ---
 
-## Definition
-The unique metaphysical law that a Sovereign imposes on reality. Derived from the player's campaign themes, Sovereign Logic defines how the player's power manifests in the Pan-Substrate.
+# Sovereign Logic
 
-## Examples
-- **Offensive Entropy**: Reality decays at the Sovereign's command; order dissolves to chaos
-- **Celestial Bureaucracy**: All systems bow to administrative will; paperwork controls existence
-- **Bioluminescent Assimilation**: Life absorbs, adapts, consumes, evolves under Sovereign's domain
-- **Temporal Recursion**: Time loops, repeats, and serves the Sovereign's purposes
-- **Necrotic Sovereignty**: Death is not an end but a beginning under the Sovereign's rule
+The core identity mechanic of the Sovereign Protocol: the GM analyzes the PC's established campaign themes (Hedonistic Saturation, Necrotic Conquest, Technological Singularity, Preservation, etc.) and generates a unique **Sovereign Logic** — the metaphysical law the PC imposes on reality. Every [[Sovereign]] in the [[PanSubstrate]] has one, and it is both weapon and identity: [[LogicSiege]] combat pits Logic against Logic, with victory "rotating" the loser's reality to match the winner's theme.
 
-## Generation Process
-The ceremony analyzes the PC's established campaign themes:
-1. Dominant playstyle (combat, social, stealth, magic)
-2. Key decisions and their patterns
-3. Allies and their roles
-4. Domain/portfolio (if in divine tier)
-5. Personality traits and motivations
-
-## Gameplay Implications
-- **Aggro Generation**: Certain Logics trigger hostile responses from existing Sovereigns
-- **Alliance Potential**: Some Logics create natural alliances with aligned Sovereigns
-- **Conflict Zones**: Opposing Logics create political friction in Pan-Substrate
-
-## Related Concepts
-- [SovereignProtocol](../entities/SovereignProtocol.md) — tier that grants Sovereign Logic
-- [PanSubstrate](../entities/PanSubstrate.md) — where Logic is enforced
-- [AggroMeter](AggroMeter.md) — threat level from other Sovereigns
+**Design significance**: narrative history is converted directly into mechanical identity — the campaign the player already played *becomes* their stat. This is the multiversal generalization of the wiki's documented pattern of theme-as-mechanics (cf. [[ApexWeaver]], [[ProjectApotheosis]]).

@@ -1,19 +1,22 @@
 ---
-title: "House Vitiate"
+title: "House Vitiate — the Golden Lineage ruling house of the Sith Empire"
 type: entity
-tags: [entity, faction, sith-noble-house, imperial]
-sources: [nocturne-old-republic]
-last_updated: 2026-04-12
+tags: [entity, faction, sith-noble-house, imperial, golden-lineage]
+sources: [nocturne-old-republic, 2026-08-04-nocturne-old-republic-house-of-the-dragon]
+last_updated: 2026-08-04
 ---
 
 ## Overview
-House Vitiate is the ruling noble house of the Sith Empire, led by Emperor Vitiate. The house represents the purest bloodline of Sith nobility and controls the Empire through the Emperor's will.
+House Vitiate is the ruling house of the Sith Empire, led by Emperor [[Vitiate]]. The House of the Dragon bible reframes it as the **House of Vitiate / [[GoldenLineage]]**: the Emperor's bred children, publicly "The Imperial Princes and Princesses" — demigod Enforcers — and privately an existential threat to the Dark Council's Old Guard, monsters bred to replace them via [[ProjectApotheosis]].
+
+## Members (House of the Dragon roster)
+- [[Vitiate]] — Patriarch, Absolute Monarch (Citadel of Storms)
+- [[Senya]] — Matriarch, High Justice (Sphere of Justice)
+- [[Arcann]] — Firstborn, High Marshal (Obsidian Armada)
+- [[Thexan]] — the Twin, Grand Vizier (Diplomatic Corps)
+- [[Valtoria]] — the Alchemist (Genetic Vaults, Korriban)
+- [[Draven]] — the Beastmaster (Beast Riders)
+- [[NocturneOldRepublic|Nocturne]] — the PC, "Siren" of the house in the played campaign
 
 ## Significance
-Nocturne serves as "Siren" of this house, a position of honor and danger within the dynasty. The house's goals center on Project Apotheosis and the Golden Lineage continuation.
-
-## Connections
-- [NocturneOldRepublic](NocturneOldRepublic.md) — Member
-- [[EmperorVitiate]] — House lord
-- [[SithEmpire]] — Ruling faction
-- [ProjectApotheosis](../concepts/ProjectApotheosis.md) — House project
+All children jockey for the Emperor's favor, knowing he plans to eventually consume all but the strongest ([[TheHarvest]]). The house is opposed in shadow by the [[CouncilOfTwelve]] and undermined by [[TheEclipsed]]; the [[ObsidianCircle]] is its militant loyalist wing.

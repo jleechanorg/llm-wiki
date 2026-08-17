@@ -1,3 +1,6 @@
 # SQLite runtime sidecars are recreated from the tracked database.
 beads.db-wal
 beads.db-shm
+.br-db-write-*.lock
+beads.db-fsqlite-ns-gate
+beads.db-fsqlite-ns-use

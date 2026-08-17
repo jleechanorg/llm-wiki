@@ -1,26 +1,11 @@
 ---
-title: "Spartacus"
+title: "Spartacus — rebel leader / 'messy stain' antagonist of Iron Eagle: Vengeance"
 type: entity
-tags: [character, npc, third-servile-war, rebel-leader, spartacus, gaia-julia-v4, gaia-julia-v5]
-sources: [aurelius-caesar-v2, gaia-julia-v4-campaign, gaia-julia-v5-campaign]
-last_updated: 2026-04-12
+tags: [character, npc, antagonist, third-servile-war, rebellion, rome]
+sources: [2026-08-04-gaia-julia-caesar-v6-iron-eagle, 2026-08-04-aurelius-caesar-v3-iron-eagle]
+last_updated: 2026-08-04
 ---
 
-Spartacus was a Thracian rebel leader who led a major slave uprising against the Roman Republic from 73-71 BCE. In the Gaia Julia V4 campaign, he appears as a key NPC in the rebel headquarters atrium, characterized as stoic and burdened by his own honor. He leads the Third Servile War against the God-Emperor Julius Caesar in an alternate history where Caesar already rules Rome.
+# Spartacus
 
-**Character in Gaia Julia V4:**
-- **Role:** Stoic, honorable rebel leader
-- **Demeanor:** Burdened by his own sense of honor
-- **Opposition:** God-Emperor Julius Caesar (and his daughter Gaia's manipulation)
-- **Setting:** Atrium of rebel headquarters during the Third Servile War
-
-**Historical Background:**
-Originally a slave and gladiator, he escaped from the ludus in Capua and sparked the Third Servile War. His army of escaped slaves threatened Roman society, defeating multiple consular legions before final defeat by Marcus Licinius Crassus.
-
-**Connections:**
-- [SpartacusRebels](SpartacusRebels.md) — army he led
-- [Crixus](Crixus.md) — fellow rebel leader (brutal counterpart)
-- [GaiaJuliaCaesar](GaiaJuliaCaesar.md) — imperial daughter manipulating the rebellion
-- [ThirdServileWar](../concepts/ThirdServileWar.md) — historical backdrop
-- [gaia-julia-v4-campaign](../sources/gaia-julia-v4-campaign.md) — campaign appearance
-- [gaia-julia-v5-campaign](../sources/gaia-julia-v5-campaign.md) — campaign appearance
+Leader of the slave revolt (the [[ThirdServileWar]], 71 BCE) that forms the backdrop of the Iron Eagle: Vengeance campaign (v3 and v6). The campaign deliberately inverts the usual heroic framing: to the player character [[AureliusJuliaCaesar]], Spartacus is "just a messy stain you need to scrub out" — an aesthetic offense to imperial Order rather than a liberation figure. The [[DecadentConqueror]] personality bible makes this explicit: rebellion is crushed "not because it is inefficient, but because it is an insult to your aesthetic."

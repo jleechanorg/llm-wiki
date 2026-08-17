@@ -1,28 +1,15 @@
 ---
 title: "Baldur's Gate"
 type: entity
-tags: [setting, city, sword-coast, aizen-bg3, bg1-nocturne]
-sources: [aizen-bg3-campaign, aizen-bg3-v2-campaign, bg1-nocturne-campaign, bg1-nocturne-continued-campaign]
+tags: [location, city, forgotten-realms, sword-coast, campaign-setting]
+sources: [2026-08-04-nocturne-silent-blade-zhentarim]
+last_updated: 2026-08-04
 ---
 
-## Overview
+# Baldur's Gate
 
-Baldur's Gate is the primary setting for the Aizen Bg3 campaigns. The city breathes a heavy, post-war sigh following the defeat of the Absolute. The established Houses scramble to fill a power vacuum with desperate, clumsy hands, while the Zhentarim and Thieves' Guild carve up the Upper and Lower cities.
+Sword Coast metropolis; recurring setting across the wiki's campaign corpus (cf. [[ElfsongTavern]], [[FlamingFist]], [[TheGuild]], [[CassalanterFamily]]).
 
-## Key Details
+## In the Silent Blade campaign (2026-08-04)
 
-- **State:** Post-Absolute defeat, power vacuum
-- **Factions:** House Sosuke, Zhentarim, Thieves' Guild, Flaming Fist (shattered)
-- **Districts:** Upper City, Lower City, The Hollows, Little Calimshan
-- **Bastions:** The Arcane Athenaeum (magical education)
-
-## Connections
-
-- [SosukeAizen](SosukeAizen.md) — player character operating here
-- [HouseSosuke](HouseSosuke.md) — local noble house
-- [AizenBg3](AizenBg3.md) — campaign setting
-- [Nocturne](Nocturne.md) — operates here during Iron Crisis
-- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
-- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md) — continued campaign
-- [FlamingFist](FlamingFist.md) — mercenary organization controlling the city
-- [IronCrisis](../concepts/IronCrisis.md) — economic collapse affecting the city
+The city is in a **chaotic rebuilding period** — treated by the protagonist as an opportunity ladder. [[NocturneSilentBlade|Nocturne]] operates here as a [[Zhentarim]] mercenary with the ambition of becoming an urban legend, "a name whispered with a mix of arousal and terror in the taverns and high halls alike." The city's post-crisis social fabric (priests, soldiers, merchants attempting to restore normalcy) supplies the target pool for the [[JohanExperiment]] corruption tests.

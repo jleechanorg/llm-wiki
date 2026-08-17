@@ -1,28 +1,11 @@
 ---
-title: "Pan-Substrate"
+title: "The Pan-Substrate"
 type: entity
-tags: [multiverse, geography, world-building]
-sources: [sovereign-protocol-system]
-last_updated: 2026-04-08
+tags: [setting, multiverse, sovereign-protocol, competitive-landscape]
+sources: [2026-08-04-multiverse-sovereign-protocol]
+last_updated: 2026-08-04
 ---
 
-## Description
-The full multiverse — an infinite competitive landscape containing 1,000 ranked Sovereigns, each possessing a unique Logic (metaphysical law). Conflict is resolved through Logic Sieges.
+# The Pan-Substrate
 
-## Geography Scale
-| Unit | SP | Equivalent |
-|------|----|----|
-| District | 1 SP | 1,000 Universes |
-| City | 100 SP | Galaxy |
-| Province | 1,000 SP | Galaxy Cluster |
-| Nation | 10,000 SP | Supercluster |
-| Continent | 100,000 SP | Universe-Bubble |
-
-## Sovereign Hierarchy
-- **Emperor (Rank 1-10):** 100,000+ SP — Multiversal Overlords
-- **Conductor (Rank 11-100):** 10,000-99,999 SP — Galactic Powers
-- **Administrator (Rank 101-1000):** 100-9,999 SP — PC starts here
-
-## Related
-- [SovereignProtocol](SovereignProtocol.md) — The system running on this substrate
-- [LogicSiege](LogicSiege.md) — Conflict resolution mechanism
+The full multiverse game world introduced by the [[2026-08-04-multiverse-sovereign-protocol|Sovereign Protocol]] campaign upgrade: a competitive infinite landscape containing 1,000 rival [[Sovereign]]s ranked into the [[SovereignHierarchy]] (Emperors, Conductors, Administrators). All territory within it is measured by the [[SubstratePointMetric]] (1 SP = 1,000 universes), scaling from 10-universe Neighborhoods up to 100-million-universe Continents. Conflict inside the Pan-Substrate is ideological rather than physical — resolved by [[LogicSiege]] between competing [[SovereignLogic]]s — and its ultimate prize is [[EntropyReversal]]: rewriting thermodynamics across all realities.

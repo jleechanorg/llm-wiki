@@ -1,12 +1,13 @@
 ---
-title: "Aeterna"
+title: "Aeterna — Imperial Capital of Assiah"
 type: entity
-tags: [worldarchitect, fictional-location, capital-city]
-sources: ["campaign-wizard-milestone-4-interactive-features"]
-last_updated: 2026-04-08
+tags: [location, assiah, capital, magical-ritual]
+sources: [2026-08-04-alexiel-assiah-century-of-schism-part1]
+last_updated: 2026-08-04
 ---
 
-First city constructed by The Creator and Seraphim. Not merely a capital but a continent-spanning magical ritual to enforce laws of physics and reality.
-## Related
-- The Creator — Founder
-- Seraphim — Co-founders
+# Aeterna
+
+Imperial Capital of the [[CelestialImperium]] in the [[WorldOfAssiah]]. Erected during the Age of Foundation by millions of enslaved mortals under the [[EdictOfChains]] — many perishing raising its "impossible geometry." Aeterna is not merely a city but a **continent-spanning magical ritual** that enforces divine order on reality.
+
+[[Lucifer]] held its gates against demons for centuries during the [[AbyssalWar]], then marched on it himself in Year 1409 to open the [[CenturyOfSchism]].

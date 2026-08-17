@@ -1,23 +1,18 @@
 ---
-title: "Fated Miasma"
+title: "Fated Miasma — hereditary prophecy-curse of the Julian line (Pax Julia)"
 type: concept
-tags: [concept, metaphysics, fate, roman]
-sources: [rome-pax-julia]
-last_updated: 2026-04-12
+tags: [mechanic, curse, prophecy, pax-julia, hereditary, timeline, narrative-engine]
+sources: [2026-08-04-pax-julia-eagles-brood-campaign-guide]
+last_updated: 2026-08-04
 ---
 
-## Overview
-Fated Miasma is a metaphysical concept in the Rome Pax Julia campaign. It represents the "foul air" of destiny — a force that ties characters to their fates and allows manipulation of predetermined outcomes.
+# Fated Miasma
 
-## Metaphysics
-- **Miasma:** The "foul air" or essence of fate
-- **Fated绑定:** Characters bound by miasma cannot easily escape their destinies
-- **Miasma Manipulation:** Those who understand miasma can alter fate's course
+The central narrative/mechanical engine of the [[2026-08-04-pax-julia-eagles-brood-campaign-guide|Pax Julia]] setting: a **hereditary connection to the chaos of destiny itself**, afflicting the Julian bloodline with maddening prophetic visions of what *could* be.
 
-## Significance
-In an alternate history where the Republic doesn't fall, Fated Miasma provides the mechanism by which Julia's rise changes the historical arc. Fate is not fixed — it can be worked.
+- **Drives the divergence**: a vision lets [[GaiusJuliusCaesar]] preempt the Ides of March conspiracy ([[DayOfAscension]]).
+- **Motivates the empire**: Caesar's goal is not power but a *stable reality* — one timeline, free of the whispers.
+- **Intensifies each generation**: [[Caesarion]] is more deeply afflicted than his father (visions more vivid and chaotic), and from ~10 AD the deepening curse makes him erratic — the dynasty is "forever trying to outrun the prophetic shadows."
+- **Inheritance is total**: primogeniture passes the throne AND the full burden of the Miasma together.
 
-## Connections
-- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Wielder of miasma
-- [ImperatorClass](ImperatorClass.md) — Class that channels miasma
-- [[RomePaxJulia]] — Source campaign
+Cf. the sibling concept [[Miasma]] from the divine-mechanics campaign line — same wiki family, different mechanic.

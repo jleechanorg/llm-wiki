@@ -1,25 +1,13 @@
 ---
-title: "Peer Handshake"
+title: "Peer Handshake — merging alternate-timeline Mirrors of the PC"
 type: concept
-tags: [mechanic, timeline-integration, mirror]
-sources: [sovereign-protocol-system]
-last_updated: 2026-04-08
+tags: [mechanic, sovereign-protocol, self-integration, diplomacy, multiverse]
+sources: [2026-08-04-multiverse-sovereign-protocol]
+last_updated: 2026-08-04
 ---
 
-## Definition
-Mechanic for integrating "Mirrors" — PC variants from other timelines — into the current Sovereign's domain.
+# Peer Handshake
 
-## Resolution
-**Check:** d20 + GP vs DC 15
+A non-combat Sovereign Protocol mechanic for integrating compatible alternate-timeline versions of the PC ("**Mirrors**") found across the [[PanSubstrate]]. **Success** merges the Mirror's universes into the PC's domain (+10% SP gain) and unlocks a new portfolio/skill; **failure** causes systemic friction and raises the [[AggroMeter]].
 
-## Outcomes
-- **Success:** +10% SP, unlock Mirror's Portfolio/Skill
-- **Failure:** +1 Aggro, Mirror becomes hostile
-
-## Risk
-Failed handshakes increase threat visibility and create adversarial timeline variants.
-
-## Related
-- [GodPower](GodPower.md) — Used in resolution check
-- [AggroMeter](AggroMeter.md) — Failure increases aggro
-- [SovereignProtocol](../entities/SovereignProtocol.md) — System using this mechanic
+**Design significance**: the first self-integration mechanic in the wiki's campaign corpus — diplomacy where the counterparty is *yourself*, making the PC's own identity-space a farmable resource and turning "who else could I have been" into a growth vector with a hostility cost on rejection.

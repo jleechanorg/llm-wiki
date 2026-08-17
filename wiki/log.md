@@ -1,3 +1,15 @@
+## [2026-08-14 17:30 PT] scope correction | Avatar Scene Gen → Overlord-only
+
+User clarified: strict last-20 + ≥50 entries → only 1 campaign qualifies (Overlord shy lich, JQeI1Aq5, 364 entries). All 5 scenes from that campaign.
+- DELETED: ~/llm_wiki/wiki/queries/avatar-scene-gen-2026-08-14/{overlord-carne-rescue,valeria-razors-edge,tenebria-sector2,visenya-red-keep,supergirl-icc-annexe}/
+- DELETED: ~/llm_wiki/wiki/entities/{c1338ce4-valeria-iseki,c1de807f-alexiel-v1,7b53027c-visenya-v2,c3aab246-visenya-v8-dragon-wings,f41dda79-visenya}.md
+- CREATED: ~/llm_wiki/wiki/queries/avatar-scene-gen-2026-08-14/{treasury_audit_opening,royal_audience_re_estize,world_item_raid_iron_mine,imperial_audit_e_rantel,three_finger_ridge_dragons}/{grok,gemini}.md
+- KEPT: ~/llm_wiki/wiki/entities/ca197e7b-ains-shy-lich.md (only entity now)
+- REWRITTEN: ~/llm_wiki/wiki/sources/wa-campaign-last-20-2026-08-14.md, README.md, index.md
+- UNCHANGED: ~/llm_wiki/raw/assets/avatars/ (132 files), WA-AVATAR-DRIVE-DEDUPE-2026-08-14.md
+- LLM work: Grok-4.3 via xai (5 outputs, 414-536 words) + Gemini-2.5-flash via Vertex AI (5 outputs, 446-576 words) = 10 total rewrites
+- 5 new scene slugs: treasury_audit_opening (entries 7-9), royal_audience_re_estize (79-93), world_item_raid_iron_mine (157-167), imperial_audit_e_rantel (317-327), three_finger_ridge_dragons (353-355)
+
 ## [2026-08-04] ingest | Ains — Sanctuary of Flesh and Shadow campaign module v2 (shy lich overlord)
 
 Key claims: Overlord × D&D 5e/Pathfinder isekai module; shy 16-year-old LIVING lich Ains (L20 Bladesinger/Monk gestalt) alone in Nazarick after 41 Supreme Beings logged off; guardians capped L12-16 (Lone Sovereign Constraint); three tension dials — Sanctuary Imperative (Psychic Strain/Divine Serenity morality), Mask of Fragility (deception DC scales with spell save DC, penalties for visible power), Whispers of the Realm (4-state narrative aggro: Quiet Ignorance → Restless Border Whispers → Gathering Storm → Eclipse); Universal Sentience rule; Session 1 = Treasury Audit. CAVEAT: raw source lost (file held only its own path); pages reconstructed from prior ingest artifacts; 5 placeholder stubs replaced with full pages.
@@ -7181,3 +7193,54 @@ Key claims: public-friendly standalone port of the Visenya v7 bastard framing, s
 Sources synthesized: [[2026-08-04-visenya-v7-daemons-bastard]] (bastard-of-Daemon framing), [[2026-08-04-campaign-template-prompt-v3]] (9-section structure + master generator), [[2026-08-04-visenya-v8-gazetteer-mechanics]] (gazetteer format), [[2026-08-04-visenya-v9-apex-stalker]] (L6 leverage), [[2026-08-04-nocturne-old-republic-house-of-the-dragon]] (naming convention).
 
 New concepts: [[BloodOfTheDragonCompulsion]], [[DragonsBond]], [[DragonRidersHoard]].
+
+## [2026-08-06] ingest | Stale bead premises + layered dispatch undo — worldai_claw PR #408
+## [2026-08-13] ingest | Google Drive Upload via rclone + User-Owned Desktop-app OAuth Client
+
+Headless Drive uploads from a Mac terminal: create your own Desktop-app OAuth client with drive.file scope; rclone config create gdrive drive client_id … client_secret … scope drive.file. Supersedes reference-gdrive-oauth-dance.md (negative findings only). Source: ~/.claude/projects/-Users-jleechan-project-worldaiclaw-worldai_claw/memory/reference_gdrive_upload_via_rclone_own_client.md
+
+## [2026-08-12] ingest | Token-Burn Investigation Anti-Patterns
+Source: `~/.claude/projects/-Users-jleechan/memory/feedback_2026-08-12_token_burn_investigation_learnings.md`
+Concepts: [[CcusageTheoreticalCost]], [[MaxOAuthSubscription]], [[MiniMaxMeteredNotFree]], [[AdviceGateAfterPushback]], [[AnthropicBug32286]]
+Entities: (none new)
+Side effects: raw copy at `raw/feedback_2026-08-12_token_burn_investigation_learnings.md`, source page at `wiki/sources/feedback-2026-08-12-token-burn-investigation-learnings.md`, index entry appended.
+
+## [2026-08-14] ingest re-run | Token-Burn Investigation Anti-Patterns (updated)
+Source: `~/.claude/projects/-Users-jleechan/memory/feedback_2026-08-12_token_burn_investigation_learnings.md` (updated)
+Update: Added cmux-resume-watchdog as the dominant token source + the LLM removal fix at `cmux_resume_watchdog.py:526`.
+Concepts: [[CmuxResumeWatchdogLlmRemoval]], [[WorkAttributionPattern]] (new)
+Side effects: raw copy refreshed, source page updated, log entry appended.
+
+## [2026-08-14] ingest | Avatar Scene Generation Batch
+- Source: WA Firestore (last 20 + 50+ pool, 262 campaigns total; only 1 of last-20 passes 50+ threshold)
+- Source: Google Drive folder 1dM4qeRcKTJmRZVq1bB8wTgPhdZNgazc- (141 files → 135 images → 132 unique after SHA-256 dedupe; 3 collisions)
+- Generated: 5 scenes × 2 LLMs (Grok-4.3 via xai, Gemini-2.5-flash via Vertex AI on worldarchitecture-ai project — GEMINI_API_KEY reported leaked, fell back to gcloud auth print-access-token bearer) = 10 verbatim outputs
+- Files written:
+  - ~/llm_wiki/wiki/queries/avatar-scene-gen-2026-08-14/README.md
+  - ~/llm_wiki/wiki/queries/avatar-scene-gen-2026-08-14/<scene-slug>/grok.md × 5
+  - ~/llm_wiki/wiki/queries/avatar-scene-gen-2026-08-14/<scene-slug>/gemini.md × 5
+  - ~/llm_wiki/wiki/sources/wa-campaign-last-20-2026-08-14.md
+  - ~/llm_wiki/wiki/sources/wa-avatar-drive-dedupe-2026-08-14.md
+  - ~/llm_wiki/wiki/entities/<sha8>-*.md × 6 (ains-shy-lich, valeria-iseki, alexiel-v1, visenya-v2, visenya-v8-dragon-wings, visenya)
+- Updated: index.md (new tail section), log.md (this entry)
+- Scenes: overlord-carne-rescue (JQeI1Aq5), valeria-razors-edge (1jO5rtBM), tenebria-sector2 (FsiyESY9), visenya-red-keep (qoQtHsU7), supergirl-icc-annexe (aKlgKJzE)
+- Supergirl scene used no Drive avatar (described visually only); Tenebria scene used Alexiel v1 as a stand-in
+
+## [2026-08-15] ingest | Firebase admin-app divergence needs real-Firestore tests (2026-08-15)
+
+Source: `feedback_2026-08-15_firebase_admin_app_divergence_real_firestore_tests.md` (Claude auto-memory)
+Linked from: AGENTS.md (line ~49), `.claude/skills/testing-layers/SKILL.md` (Service-Integration Glue Bugs section), roadmap `~/roadmap/learnings-2026-08.md` (2026-08-15 entry)
+Beads: rev-t6mtv (the bug), rev-5n114 (the learning, closed)
+Tests: 3 regression tests confirmed RED→GREEN cycle (revert fix → 3 fail; restore fix → 30 pass)
+
+## [2026-08-16] ingest | LLM-behavior bugs need direct ablation, not research fan-out
+
+Source: `feedback_2026-08-16_llm_bug_root_cause_needs_direct_ablation_not_research_fanout.md` (Claude auto-memory)
+New concepts: `concepts/RootCauseFirst.md` ("Root-Cause-First"), `concepts/SystematicDebugging.md` ("Systematic Debugging (Phase 1: Build a Feedback Loop)")
+Linked from: `roadmap/learnings-2026-08.md` (2026-08-16 entry), entities Gemini/GeminiAPI/GeminiProvider/WorldArchitectAI
+Beads: rev-xph5o (root cause + fix), rev-37zkv (implementation), rev-0y9cv (PR #8951 does not fix it), rev-vs4mk (this learning, closed)
+mem0: FAILED — 401 Invalid API Key (Groq LLM extraction key), not resolved this session
+
+## [2026-08-16] correction | "undocumented" claim in the LLM-ablation learning was overstated
+
+User challenged "web search are you sure its undocumented" on the same-day entry above. Verified via WebSearch + WebFetch: Google's own AI Developers Forum thread "Infinite looping Thinking steps for Gemini 3 APIs" (discuss.ai.google.dev/t/.../138686) describes the same failure class (Gemini 3 + JSON output stuck looping/validating) via a different mechanism (thinking block, not code_execution tool calls), without naming response_json_schema as the fix. Corrected: sources/feedback-2026-08-16-llm-bug-root-cause-needs-direct-ablation-not-research-fanout.md, Claude auto-memory file, roadmap 2026-08-16 entry, bead rev-xph5o. Exact code_execution+response_json_schema mechanism remains unconfirmed by any Google doc found; the broader failure class does not.

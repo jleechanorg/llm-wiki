@@ -1,29 +1,13 @@
 ---
 title: "Celestial Imperium"
 type: entity
-tags: [faction, nation, government, celestial-ruled]
-sources: [world-assiah-compressed-campaign-guide]
-last_updated: 2026-04-08
+tags: [faction, assiah, empire, celestial, slavery]
+sources: [2026-08-04-alexiel-assiah-century-of-schism-part1]
+last_updated: 2026-08-04
 ---
 
-## Overview
-The Celestial Imperium is the surviving remnant of the original divine order, controlling eastern regions from capital Aeterna. They struggle to maintain control over a fractured realm through rigid adherence to ancient laws.
+# Celestial Imperium
 
-## Leadership
-- Ruled by ancient Lord Regent [Raziel](Raziel.md)
-- Key military: [StarfallCommand](StarfallCommand.md) (around Alexiel's legacy)
-- Key political: [PrincipateSenate](PrincipateSenate.md)
+The governing order of the [[WorldOfAssiah]], founded in the Age of Foundation (Years 1–500) by the Creator and the Seraphim to anchor physical law. Its capital [[Aeterna]] is a continent-spanning magical ritual enforcing divine order, built by millions of enslaved mortals under the [[EdictOfChains]].
 
-## Sub-factions
-- **Principate Senate**: Traditionalist power base of oldest families
-- **Starfall Command**: Military faction led by twin princes Cassian and Valerius
-
-## Key Facts
-- Capital: Aeterna
-- Domain: Eastern regions
-- Ruler: Lord Regent Raziel
-- Values: Order, tradition, civilization preservation through divine bloodline hierarchy
-
-## Relationships
-- Opposes: [ShatteredHost](ShatteredHost.md)
-- Treaty: [TreatyOfNexus](TreatyOfNexus.md)
+Afflicted from Year 400 by the [[EmpyreanAffliction]] — hereditary madness in pure celestial bloodlines. Survived the 900-year [[AbyssalWar]] under [[Lucifer]] and [[Raziel]], only to fracture in Year 1409 when Lucifer's Revelation exposed the war as the Creator's engineered crucible ([[EngineeredCrucibleWar]]). By Year 1509 it is described as "mad and stagnant," locked in the [[CenturyOfSchism]] against Lucifer's revolutionary Host.

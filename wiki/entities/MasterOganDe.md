@@ -1,20 +1,11 @@
 ---
-title: "Master Ogan De"
+title: "Master Ogan-De — kind Jedi mentor whose kindness Alexiel reads as a transaction"
 type: entity
-tags: [star-wars, alexiel-swtor, jedi, master, force]
-sources: [alexiel-swtor-campaign]
-last_updated: 2026-04-13
+tags: [character, star-wars, jedi, mentor, npc]
+sources: [2026-08-04-alexiel-swtor-siren-master-bible]
+last_updated: 2026-08-04
 ---
 
-## Overview
-Master Ogan De is a Jedi Master appearing in the Alexiel SW:TOR campaign alongside Grand Master Satele Shan. He appears as part of the "gallery of ghosts" alongside Satele Shan and two versions of Atris in Alexiel's celestial setting.
+# Master Ogan-De
 
-## Key Details
-- **Category:** Person / NPC / Jedi Master
-- **Campaign(s):** [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
-- **Title:** Master
-- **Role:** Represents the Jedi Order alongside Satele Shan in the campaign's Force-ghost gallery
-
-## Connections
-- [SateleShan](SateleShan.md) — fellow Jedi Master appearing with him
-- [Alexiel](Alexiel.md) — campaign protagonist who interacts with him
+Jedi master appearing across the SWTOR campaign family (first ingested with the 2026-04-13 campaign batch). In the [[2026-08-04-alexiel-swtor-siren-master-bible|Alexiel bible]] he is the kind-mentor figure whose warmth is immediately re-parsed through [[TransactionalAffection]] — "if Master Ogan-De shows you kindness, you immediately wonder what he wants." Structurally the campaign's humanizing pressure on [[Alexiel]]'s conditioning.

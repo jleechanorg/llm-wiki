@@ -1,15 +1,18 @@
 ---
-title: "Astarion"
+title: "Astarion — The Ascended Lord"
 type: entity
-tags: [character, campaign]
-date: 2026-04-12
-sources: [astarion-ascended]
+tags: [bg3, vampire, npc, triumvirate, baldurs-gate]
+sources: [2026-08-04-bg3-empire-of-shadow]
+last_updated: 2026-08-04
 ---
 
-Astarion is an ascended vampire character at Level 12, continuing his story from Baldur's Gate 3 into a post-Absolute turmoil setting. Originally a spawn vampire, he underwent the ascension process to become a true vampire, gaining immense power but also facing new challenges as an immortal being in a changed world. His insatiable hunger for blood remains his greatest struggle, while his cunning and charisma serve him well in navigating the political landscape of post-war Baldur's Gate. The campaign follows his pursuit of ever-greater power alongside his companions.
+# Astarion (The Ascended Lord)
 
-**Connections:**
-- [BaldursGate](BaldursGate.md) — current location
-- [GaleOfToril](GaleOfToril.md) — companion
-- [Shadowheart](Shadowheart.md) — companion
-- [VampireAscension](../concepts/VampireAscension.md) — his transformed state
+Vampire ruler of night-side [[BaldursGate]] in the [[2026-08-04-bg3-empire-of-shadow|Empire of Shadow]] campaign. L12+ Rogue (Thief)/Ranger (Gloom Stalker) who completed the [[RiteOfProfaneAscension]].
+
+- Rules from the rebuilt Szarr Palace; controls the city's economy, politics, and underworld.
+- His vampiric spawn have replaced the Parliament of Peers in the Upper City.
+- Gear: Bhaalist Armour; dual blades Crimson Mischief and Bloodthirst.
+- Military enforcement delegated to [[Minthara]] and her Night Watch.
+- Responsible for [[Jaheira]]'s death and undead humiliation, and (via political maneuvering) the death of [[Wyll]]'s father.
+- One third of the [[TriumvirateOfTheAbsolutesBane]] alongside [[Shadowheart]] and [[Gale-of-Waterdeep]].

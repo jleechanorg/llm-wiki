@@ -1,27 +1,13 @@
 ---
-title: "Capua"
+title: "Capua — gladiator city where the incognito princess shops for a toy army"
 type: entity
-tags: [gaia-julia-v6, roman, location]
-sources: [gaia-julia-v6-campaign]
-last_updated: 2026-04-12
+tags: [location, rome, capua, gladiators, pax-caesara]
+sources: [2026-08-04-gaia-julia-v3-pax-caesara]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Capua
 
-Capua is an ancient Roman city in Campania, located in southern Italy. In this campaign set during 71 BCE, Capua serves as a key location during the Spartacus revolt. The city was historically known for its gladiatorial schools and was a major center of entertainment and commerce in the Roman Republic.
+Gladiator city of Campania and the opening stage of the Gaia v3 [[PaxCaesaraEmpire]] campaign (44 BCE). [[GaiaJuliaCaesar]] slips away from the Imperial retinue here under the alias "Gaia of the Gens Vibia," seeking "raw, unscripted violence" and recruits for a private gladiator "toy army."
 
-## In This Campaign
-
-The campaign begins in the Capuan Market Square, where Gaia Julia operates under her cover as a servant among mercenaries. The city serves as a hub of activity during the Spartacus revolt, with Roman forces and rebel elements both operating in the region.
-
-## Historical Context
-
-Capua was famously associated with the Spartacus revolt — the city was where Spartacus and his fellow gladiators escaped from the Ludus Magnus (the gladiatorial training school) in 73 BCE. The revolt eventually centered on the region around Capua before the Roman legions under Crassus suppressed it.
-
-## Connections
-
-- [GaiaJuliaCaesar](GaiaJuliaCaesar.md) — Player character
-- [[GaiaJuliaV6Campaign]] — Campaign
-- [[MarketSquareCapua]] — Specific location
-- [SpartacusRevolt](../concepts/SpartacusRevolt.md) — Historical context
-- [[RomanEmpire]] — Political context
+Capua is historically the seedbed of the [[Spartacus]] revolt — the sibling campaign [[AureliusCaesar]] v3 ("Iron Eagle: Vengeance") plays that same Third Servile War directly in 71 BCE, making Capua the shared geographic hinge between the two Roman campaign variants.

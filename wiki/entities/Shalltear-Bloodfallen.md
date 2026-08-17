@@ -1,0 +1,1 @@
+Created: L15 Eldritch Knight/Death Cleric, vampire, seeks Ains's validation, combat specialist

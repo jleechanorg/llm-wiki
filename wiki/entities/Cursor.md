@@ -1,12 +1,11 @@
 ---
 title: "Cursor"
 type: entity
-tags: [tool, ide, ai-assistant]
-sources: ["tdd-tests-dice-integrity-server-field-security"]
-last_updated: 2026-04-08
+tags: [ide, ai-coding-tool, gemini, prompt-review]
+sources: [2026-08-04-campaign-summary-prompt-design]
+last_updated: 2026-08-04
 ---
 
-Cursor is an AI-powered code editor. The security vulnerability addressed in the server field spoofing tests was reported via Cursor bot comment ID 2771047734.
+# Cursor
 
-## Related Work
-- Comment ID 2771047734 identified the _server_dice_fabrication_correction spoofing vulnerability
+AI-powered code editor; here used as a host surface for a [[Gemini]] model acting as the third reviewer of the [[CampaignSummaryPrompt]] (2026-08-04). Its verdict: the prompt is "ready to go as-is." Optional polish suggested: an err-toward-inclusion fallback for ambiguous significance ([[SignificanceThreshold]]), and the place-at-revelation rule for off-screen events ([[OffScreenEventRevelation]]) — summarize a late-revealed betrayal at the point of revelation, not its chronological occurrence.

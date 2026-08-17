@@ -1,39 +1,13 @@
 ---
-title: "Aggro Meter"
+title: "Aggro Meter & Velocity Coefficient — expansion-speed tension dial"
 type: concept
-tags: [threat-level, hostile-detection, political-climate, sovereign-relations]
-sources: [sovereign-ascension-ceremony-multiversal-upgrade]
-last_updated: 2026-04-08
+tags: [mechanic, sovereign-protocol, tension-meter, risk-reward, multiverse]
+sources: [2026-08-04-multiverse-sovereign-protocol]
+last_updated: 2026-08-04
 ---
 
-## Definition
-A threat assessment system in Sovereign Protocol that tracks how hostile other Sovereigns in the Pan-Substrate are toward the player. New Sovereigns start at high threat levels due to their sudden ascension.
+# Aggro Meter & Velocity Coefficient
 
-## Scale
-- **0/10**: Peaceful/neutral relations
-- **1-3/10**: Low suspicion, potential alliance possible
-- **4-6/10**: Wary, diplomatic efforts required
-- **7-9/10**: Aggressive posturing, military readiness advised
-- **10/10**: Active warfare/declaration of intent to destroy
+A visible 0–10 meter tracking the PC's **speed of multiversal expansion** in the [[PanSubstrate]]. **High velocity (7–10)** grants massive resource/level gains but triggers "Lethal" hostility from Emperor-rank [[Sovereign]]s; **low velocity (0–3)** enables stealth and diplomacy but throttles SP generation. Failed [[PeerHandshake]]s also raise it. Campaigns upgraded via the Sovereign Protocol open at **8/10 (Lethal)** — the PC's sudden ascension has already tripped the Pan-Substrate's defensive alert.
 
-## Starting Values
-New Sovereigns start at **8/10 (LETHAL VELOCITY)** because:
-- Sudden ascension triggers defensive alerts
-- Universe-spanning power makes them a threat
-- Existing Sovereigns view new Logic as existential risk
-
-## Reduction Methods
-- **Diplomacy**: Negotiate with nearby Conductors
-- **Destroy Threats**: Eliminate hostile Sovereigns
-- **Alliance**: Form treaties with aligned Emperors
-- **Logic Alignment**: Adjust Sovereign Logic to reduce threat perception
-
-## Gameplay Implications
-- High Aggro Meter affects available story options
-- Hostile Emperors may actively work against the player
-- Nearby Conductors may refuse engagement until Aggro is reduced
-
-## Related Concepts
-- [PanSubstrate](../entities/PanSubstrate.md) — where Aggro Meter is tracked
-- [SovereignLogic](SovereignLogic.md) — can trigger high Aggro based on nature
-- [Hegemony](../entities/Hegemony.md) — faction whose actions affect Aggro
+**Lineage**: this is the multiversal member of the wiki's family of visibility-tension dials — cf. [[AscensionMeter]] and the narrative-aggro mechanic [[WhispersOfTheRealm]] — all of which price power gain in enemy attention.

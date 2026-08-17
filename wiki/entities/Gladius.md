@@ -1,37 +1,29 @@
 ---
-title: "Gladius"
+title: "Gladius — 18-year-old brute mercenary, evil-ESFP hedonist of post-BG3 Baldur's Gate"
 type: entity
-tags: [merc-solo-brute-gladius, baldurs-gate, apex-paladin, mercenary]
-sources: [merc-solo-brute-gladius-campaign]
-last_updated: 2026-04-12
+tags: [character, player-character, mercenary, brute, paladin, apex-paladin, esfp, hedonist, baldurs-gate, bg3-postgame]
+sources: [2026-08-04-worldai-campaign-prompts-index]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Gladius
 
-Gladius is a Level 5 Apex Paladin operating in the chaotic post-Baldur's Gate 3 world. Known as "The Hammer" in mercenary circles, he presents himself as a low-class thug — brutish, hedonistic, and brutally efficient. In reality, he is a deeply complex individual hiding explosive power beneath a veneer of mediocrity.
+Player character of the "Merc solo campaign - brute" prompt in the WorldAI campaign-prompts index. An **18-year-old male mercenary** in [[BaldursGate]] after the events of BG3 — the same post-game setting slot used by [[NocturneSilentBlade]] and the [[SosukeAizen|Sanguine Architecture]] campaigns.
 
-His core motivation is **domination** — not merely physical superiority, but psychological control over those the world perceives as "powerful" (nobles, mages, influential merchants). Wealth, pleasure, and conquests are his tools of domination, not his end goals. He despises the weakness he perceives in the elite and proves his strength by subverting them.
+## Build
 
-## Hidden Secrets
+- **Level 5 paladin** using the [[OathOfSelfPerfection]] homebrew (Apex Paladin)
+- Exceptional physique, coordination, and health; **very low Intelligence and Wisdom**
+- Very physically attractive but hides it
+- Resolves everything through **combat or brute force**
+- Rules: [[DestinyRuleset]] default, D&D 5e fallback
 
-1. **Disowned Scion:** He is secretly Gladius of House Al'Veri, a minor noble house from Amn. His two elder brothers and one younger sister are still alive somewhere in poverty or servitude. He harbors cold, burning hatred for them and all nobility.
+## Personality directive
 
-2. **The Hidden Face:** His features are almostperfectly classical — a liability in the gladiatorial pits where he was "sold" at age 13. He deliberately maintains an unkempt, grimy appearance to hide this "weakness" and to encourage others to underestimate him.
+**Evil ESFP, ultimate hedonist** — wealth, women, food, alcohol, social domination; **secretly abusive**, enjoys dominating powerful people (engine instructed to work this into the narrative). Goals are the campaign line's constant: amass power and wealth.
 
-## Character Sheet
+Gladius is a deliberate inversion of the player's dominant archetype: where [[NocturneRavencrest|Nocturne]]-line characters are INTJ serpent-masterminds who win through manipulation, Gladius is the extraverted brute who wins through force — same accumulation goals, opposite instrument.
 
-- **Level:** 5 Apex Paladin
-- **HP:** 49 | **AC:** 18 (Splint Mail + Shield)
-- **STR:** 18 (+4) | **DEX:** 16 (+3) | **CON:** 16 (+3) | **INT:** 8 (-1) | **WIS:** 9 (-1) | **CHA:** 14 (+2)
-- **Abilities:** Perfected Strike, Aura of Unyielding Dominance, Willpower Infusion (25 EP), Channel Divinity
-- **Feat:** Savage Attacker
+## Known contradiction
 
-## Connections
-
-- [[MercSoloBruteGladiusCampaign]] — Campaign overview
-- [ApexPaladin](../concepts/ApexPaladin.md) — Character class
-- [ElfsongTavern](ElfsongTavern.md) — Starting location
-- [[HouseAlVeri]] — Hidden noble lineage
-- [[TheHammer]] — Mercenary reputation
-- [DestinyRuleset](../concepts/DestinyRuleset.md) — Game ruleset
-- [[LowerCityBaldursGate]] — Primary region
+His class ([[OathOfSelfPerfection]]) keys its Energy Point pool and Apex Senses uses to **Intelligence**, which the character sheet explicitly dumps — as written the build's signature resources barely function. The class header also reads "Nocturne's Class", suggesting copy-forward from a Nocturne document.

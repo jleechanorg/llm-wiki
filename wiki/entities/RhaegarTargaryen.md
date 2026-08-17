@@ -1,28 +1,11 @@
 ---
-title: "Rhaegar Targaryen"
+title: "Rhaegar Targaryen — Prince Regent of a broken Westeros (Visenya v5)"
 type: entity
-tags: [got, game-of-thrones, targaryen, king, npc]
-last_updated: 2026-04-08
+tags: [character, targaryen, asoiaf, alternate-history, prince-regent, prophecy]
+sources: [2026-08-04-visenya-v5-bleeding-dragon]
+last_updated: 2026-08-04
 ---
 
-## Summary
-King Rhaegar Targaryen (Level 20 Paladin, "The Melancholy Titan") is Visenya's father and the ruler of the Targaryen dynasty. He won the war against Robert Baratheon but lost his spirit. He is obsessed with prophecy and fears Visenya, recognizing her as the "Apex" who could burn his carefully managed peace. In the campaign, he grants only "provisional status" to her Shadow Knights, refusing permanent writ.
+# Rhaegar Targaryen
 
-## Key Character Traits
-- **The Melancholy Titan**: A ghost of a man wrapped in prophecy-heavy silks
-- **Father's fear**: "Recognizes the Apex he feared; for the first time, the King of the Dragon Throne looks truly cold"
-- **Weak ruler**: Leaves a power vacuum that Visenya is quietly filling
-
-## Key Moments
-- **Provisional Terms**: Grants weekly conduct reports for Shadow Knights; no permanent writ
-- **Visenya's return**: Watches her enter the throne room with silver-gold hair and two Stark knights; recognizes his daughter as the Apex
-
-## Stats
-- **Level**: 20 (Paladin)
-- **Title**: King of the Iron Throne
-- **Family**: Father of Visenya, Aegon, Jaehaerys/Jon, Rhaenys, Aenys
-
-## Connections
-- [VisenyaTargaryen](VisenyaTargaryen.md) — his daughter and greatest threat
-- [AegonTargaryen](AegonTargaryen.md) — his "Golden Boy" heir
-- [JonSnow](JonSnow.md) — his legitimized son with Lyanna Stark
+In the Visenya v5 alternate history, Rhaegar killed [[RobertBaratheon]] at the Ruby Ford (283 AC) — taking a chest-cracking hammer blow but landing the fatal counter-thrust — and now rules as **Prince Regent** over a bankrupt, war-locked realm ([[TheLongDiscord]]). Key acts: countermanded [[AerysIITargaryen]]'s wildfire order and imprisoned him in the Maidenvault rather than kill him; publicly claimed Jon as his bastard [[JaehaerysTargaryen]] to defuse Northern revanchism; executed the Mountain to appease Dorne after Elia's death; and, consumed by the Prince That Was Promised prophecy, summoned and married the Baelarys sorceress [[VaelaBaelarys]] to sire a third "head of the dragon" — [[VisenyaTargaryen]]. Father of the protagonist; his prophecy-obsession is the campaign's engine.

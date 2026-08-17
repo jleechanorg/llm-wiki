@@ -1,29 +1,19 @@
 ---
-title: "Lotus Ten"
+title: "The Lotus Ten"
 type: entity
-tags: [faction, gaia-julia-v3, gaia-julia-v4, cult, lotus]
-last_updated: 2026-04-12
+tags: [organization, spy-network, slaves, gaia-julia-campaigns, gilded-trap, social-engineering]
+sources: [2026-08-04-gaia-julia-v4-gilded-trap]
+last_updated: 2026-08-04
 ---
 
-## Description
+# The Lotus Ten
 
-The Lotus Ten is a fanatical cult devoted to Gaia Julia Caesar, serving as her personal cadre of loyal operatives in the Gaia Julia V3 and V4 campaigns. They form a "living wall of flesh" around Gaia, acting as both protection and intimidation.
+A covert network of slaves embedded around [[GaiaJuliaCaesar]] in [[2026-08-04-gaia-julia-v4-gilded-trap|The Gilded Trap]] (Gaia Julia v4, 73 BCE). They function as her hidden hands inside the rebel camp during the [[ThirdServileWar]].
 
-## Role in the Campaigns
+## Operation
 
-In Gaia Julia V3 ("Prodigy" profile), the Lotus Ten represents Gaia's fanatical cult following. They are elite operatives loyal to the "Singularity of the Julian Line."
+Gaia directs them without ever issuing an audible order — "a sharp intake of breath or a specific hum. They know exactly which slave needs to spill wine on which guard." This gesture-coded command channel lets her run sabotage and staged incidents while maintaining the sobbing-captive facade of her "Livia of Capua" alias, keeping her [[VelvetIron|zero-tell]] deception intact.
 
-In Gaia Julia V4 (Third Servile War setting), the Lotus Ten appears as a "living wall of flesh" surrounding Gaia at the rebel headquarters. They are fanatical devotees who will execute any order she gives, regardless of the moral cost.
+## Significance
 
-## Capabilities
-
-The Lotus Ten serves multiple functions:
-- **Personal protection:** Fanatical bodyguards willing to die for Gaia
-- **Social engineering:** Intimidation through sheer presence
-- **Elite operators:** Trained in covert and direct action
-
-## Connections
-
-- [[Gaia Julia V3 Campaign]] — source campaign (V3)
-- [[Gaia Julia V4 Campaign]] — source campaign (V4)
-- [[Gaia Julia Caesar]] — their leader
+The Lotus Ten make the reverse-horror premise operational: the "hostage" arrives with a pre-positioned intelligence and sabotage apparatus, so the rebels' command tent is compromised from the moment of her capture. They are the physical-world complement to her psionic/pheromonal [[CollegeOfTheSiren]] toolkit.

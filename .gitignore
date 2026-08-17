@@ -1,28 +1,35 @@
-# Ignore large media files
+# Ignore markdown files by default, allowlist repo docs and wiki/raw/skills
 *.md
 !README.md
 !CLAUDE.md
+!AGENTS.md
 !wiki/*.md
-!wiki/jeffrey/*.md
-!wiki/product-taste/*.md
-!wiki/entities/*.md
-!wiki/concepts/*.md
-!wiki/syntheses/*.md
-!wiki/sources/*.md
-!wiki/campaigns/*.md
-!wiki/campaigns/**/*.md
+!wiki/**/*.md
 !skills/*.md
+!skills/**/*.md
 !test-prs/*.md
+!test-prs/**/*.md
 !raw/*.md
 !raw/**/*.md
 !memory-search/
 !memory-search/*.md
+!memory-search/**/*.md
 !.claude/skills/*/SKILL.md
 !.claude/skills/*.md
+!.claude/skills/**/*.md
 !*.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache
+.cache/
 
 # Ignore OS files
 .DS_Store
 
 # Ignore logs
 logs/
+wiki/logs/

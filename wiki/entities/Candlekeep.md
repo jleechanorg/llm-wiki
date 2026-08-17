@@ -1,21 +1,17 @@
 ---
 title: "Candlekeep"
 type: entity
-tags: [location, bg1-nocturne]
-sources: [bg1-nocturne-campaign]
-last_updated: 2026-04-12
+tags: [location, baldurs-gate, sword-coast, library, bg1]
+sources: [2026-08-04-bg1-nocturne-serpent-queen]
+last_updated: 2026-08-04
 ---
 
-## Description
-Candlekeep is an ancient fortress-library located on the Sword Coast, renowned as one of the most secure repositories of knowledge in Faerûn. It serves as the starting location for Nocturne, who was raised within its walls by the sage Gorion.
+# Candlekeep
 
-## Significance
-For Nocturne, Candlekeep represents both home and formative influence. The fortress's emphasis on knowledge and scholarship shaped her observational, calculating nature. It's also where she first learned of the world's dangers — through the texts and histories contained within its walls.
+Fortress-library on the Sword Coast in the [[BaldursGate]] setting; canonical opening location of BG1. In the "campaign bg1 nocturne" setup it is home to [[SerpentQueen|the Serpent Queen]] and her foster father [[Gorion]].
 
-The Iron Crisis and the tensions between Baldur's Gate and Amn eventually draw Nocturne out of Candlekeep and onto the road toward Baldur's Gate.
+Campaign-specific significance:
 
-## Connections
-- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
-- [Nocturne](Nocturne.md) — raised here
-- [[Gorion]] — mentor figure
-- [BaldursGate](BaldursGate.md) — destination
+- Its **deeper catacombs** hold the forbidden knowledge that anchors the protagonist's [[PortableAbsolutePower]] drive.
+- Its social ecosystem (weary monks, gate Watchers, visiting scholars) serves as the protagonist's laboratory — every courteous gesture among the stacks is a data probe under the [[TwoMasksArchitecture]].
+- The dusty library-recluse aesthetic doubles as her mundane disguise, hiding a face "that could launch ships or topple kingdoms."

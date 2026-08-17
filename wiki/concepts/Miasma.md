@@ -1,27 +1,19 @@
 ---
-title: "Miasma"
+title: "Miasma (The Divine Blood)"
 type: concept
-tags: [gaia-julia-v6, roman, divine-blood, mechanic]
-sources: [gaia-julia-v6-campaign]
-last_updated: 2026-04-12
+tags: [game-mechanic, supernatural-power, bloodline, rome, julian-dynasty]
+sources: [2026-08-04-aurelius-caesar-v3-iron-eagle]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Miasma (The Divine Blood)
 
-Miasma is the divine blood of Venus that flows through Gaia Julia Caesar, marking her as a special inheritor of divine power within the Caesar line. This inherited divine power is central to her character concept and represents her unique abilities in the campaign.
+Supernatural power system in the "Iron Eagle: Vengeance" campaign, wielded by [[AureliusCaesar]] and tied to the [[JulianDynasty]] bloodline ("The Divine Blood", implicitly the Venus lineage of the gens Julia). The v3 document establishes it as the setting's supernatural layer over D&D 5e chassis (Level 6 [[CollegeOfSwordsShadowBuild|College of Swords Bard]]).
 
-## In This Campaign
+Observed manifestations in this source:
 
-Gaia's Miasma is mentioned as running "potent through her veins" at her young age. The full extent of its capabilities remains to be explored throughout the campaign, but it marks her as exceptional among the Caesar line and potentially grants her access to powers beyond normal bardic or magical abilities.
+- **Auctoritas as Heat**: the wielder's emotional state changes perceived room temperature — summer warmth when pleased, "door of a furnace" when angry.
+- **Bioluminous physical perfection**: skin that "hums with inner bioluminescence", framed as the blood expressing itself physically (see [[BeautyAsWeapon]]).
+- To the Miasma, the character has a separate true-name identity ("the Devouring Maw"), suggesting the power system perceives or names its bearers by their core Appetite.
 
-## Significance
-
-The Miasma represents the intersection of divine heritage and mortal capability. It positions Gaia not merely as a talented child but as someone with a supernatural legacy that may manifest in various ways throughout the campaign — from subtle blessings to explicit divine intervention.
-
-## Connections
-
-- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Wielder of Miasma
-- [[GaiaJuliaV6Campaign]] — Campaign
-- [[Venus]] — Divine source
-- [CollegeOfSwordsBard](CollegeOfSwordsBard.md) — Character class
-- [GlassCannon](GlassCannon.md) — Character archetype
+The full mechanical rules are not in this excerpt (document truncates mid-section IV).

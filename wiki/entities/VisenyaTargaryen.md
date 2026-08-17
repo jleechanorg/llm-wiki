@@ -1,34 +1,21 @@
 ---
-title: "Visenya Targaryen"
+title: "Visenya Targaryen (campaign protagonist, multi-version)"
 type: entity
-tags: [got, targaryen, character, apex-weaver, protagonist]
-sources: [visenya-v6-campaign]
-last_updated: 2026-04-08
+tags: [character, protagonist, targaryen, asoiaf, campaign, power-fantasy, blood-dragon]
+sources: [2026-08-04-visenya-v5-bleeding-dragon, 2026-08-04-visenya-v6-winter-web, 2026-08-04-visenya-v9-apex-stalker]
+last_updated: 2026-08-04
 ---
 
 # Visenya Targaryen
 
-Princess of the Blood, Level 6 Apex Weaver (Bard/Mastermind Gestalt), operating incognito as "Lady Elyse Celtigar." Known to the southern smallfolk as the "Blood Dragon" for clinically executing thousands of bandits and syndicates.
+Recurring protagonist of the Visenya campaign line — a young female Targaryen prodigy re-instantiated in a different alternate-history frame each version. Distinct from the Dance-era [[VisenyaBelaerys]] incarnation (v8).
 
-## Character Profile
-- **Class**: Apex Weaver — perceives reality as "Information Geometry," seeing "stress lines" in physical structures and human psyches
-- **Archetype**: The Bored Godling & The Vivisector (ENTJ)
-- **Level**: 6 (Tier 2: The Hunter)
-- **Age**: 14
-- **Titles**: Lord Commander of the Blackguard, Princess of the Blood
+## Incarnations
 
-## Abilities
-- **Static Field**: Drop room temperature by 20 degrees, permanent Advantage on Intimidation/Insight, Disadvantage on Stealth
-- **Silver Tongue**: Minimum roll of 10 on Deception/Persuasion
-- **Psychic Vivisection**: Expend Sadism Dice to subtract from enemy saves
-- **Summon the Alpha**: Manifest invisible spirit dragon "Entropy" into a physical Large Drake
-- **Aura of the Architect**: Add CHA mod to all saves
+- **v5 — The Bleeding Dragon (298 AC)**: Apex child of a junta-ruled Westeros after [[RhaegarTargaryen]] won the Trident but the war never resolved ("The Long Discord").
+- **v6 — The Winter Web (post-Trident, +17 years)**: 14-year-old Level 6 bard/mastermind gestalt vacationing incognito in a resentful North; ENTJ power-disparity fantasy.
+- **v9 — The Blood Dragon Apex Stalker (209 AC)**: Sixteen, youngest child of Lord [[MaekarTargaryen]] in the Dunk & Egg era under the ailing [[DaeronIITargaryen|Daeron II]]. Awarded the barony of [[RooksRest|Rook's Rest]] for clearing the Stokeworth–Duskendale corridor of bandits in one season. Called "the Blood Dragon" by smallfolk; rules through weaponized fear with a household guard of broken men. Built as a Level 6 [[ApexStalker]] (Gloom Stalker Ranger 6 / Assassin Rogue 6 gestalt) with the homebrew [[StressLineSight]] lineage ability.
 
-## Key Quote
-> "They think I am a guest. I am the architect of their winter."
+## Throughline
 
-## Connections
-- [RhaegarTargaryen](RhaegarTargaryen.md) — Father, fears her as "the Apex"
-- [[DaenerysTargaryen]] — Aunt, moral buffer, fanatically loyal
-- [JonSnow](JonSnow.md) — Sibling/rival, only one whose emotions are shielded from her
-- [ApexWeaver](../concepts/ApexWeaver.md) — Her class/concept
+Every version expresses the same player fantasy: a dangerously competent underage royal operating with terrifying asymmetry against an adult world — social manipulation in v6, predatory stealth and assassination in v9. See [[FourEmergentEndings]] for v9's resolution structure.

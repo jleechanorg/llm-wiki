@@ -1,23 +1,24 @@
 ---
-title: "Thexan"
+title: "Thexan — Grand Vizier and Head of Diplomacy (bible) / Eternal Spire administrator (played endgame)"
 type: entity
-tags: [star-wars, nocturne-old-republic, sith, diplomat, nocturne]
-sources: [nocturne-old-republic]
-last_updated: 2026-04-13
+tags: [star-wars, nocturne-old-republic, sith, diplomat, grand-vizier, nocturne]
+sources: [nocturne-old-republic, 2026-08-04-nocturne-old-republic-house-of-the-dragon]
+last_updated: 2026-08-04
 ---
 
 ## Overview
-Thexan is the diplomatic sibling of Nocturne in the Nocturne Old Republic campaign, managing the Great Reconciliation. He is characterized by his silver-silk robes and graceful, sated demeanor.
+Thexan is Nocturne's twin and the diplomatic sibling of the [[GoldenLineage]] in the Nocturne Old Republic campaign line.
 
-## Key Details
-- **Category:** Person / NPC / Sibling of Nocturne
-- **Campaign(s):** [nocturne-old-republic](../sources/nocturne-old-republic.md)
-- **Role:** Diplomatic administrator
-- **Physical Description:** Silver-silk robes
-- **Gift from Nocturne:** The **Eternal Spire** of Coruscant — the administrative heart of the New Core, linked directly to every Ark, allowing him to manage the Great Reconciliation from a throne of pure information
+## Campaign-start role (House of the Dragon bible)
+- **Title:** Grand Vizier / Head of Diplomacy — the face of the Empire to the galaxy
+- **Personality:** Calm, charming, manipulative; negotiates treaties only to break them
+- **Domain:** The Sith Diplomatic Corps, with spies in the Republic Senate
+- **Relationship to Nocturne:** The only sibling who is kind — but Nocturne suspects it is a ploy. He often cleans up [[Arcann]]'s messes.
+
+## Played-campaign endgame (1644-entry campaign)
+- **Role:** Manages the Great Reconciliation; silver-silk robes, graceful and sated
+- **Gift from God-Empress Nocturne:** The **Eternal Spire** of Coruscant — the administrative heart of the New Core, linked to every Ark, a throne of pure information
 
 ## Connections
-- [NocturneOldRepublic](NocturneOldRepublic.md) — Nocturne's sibling, the God-Empress who granted him the Eternal Spire
-- [HouseVitiate](HouseVitiate.md) — their house
-- [Arcann](Arcann.md) — sibling, military commander
-- [Senya](Senya.md) — mother
+- [[NocturneOldRepublic]] — twin sibling (the PC); [[Arcann]] — sibling, military commander
+- [[Senya]] — mother; [[Vitiate]] — father; [[HouseVitiate]] — their house

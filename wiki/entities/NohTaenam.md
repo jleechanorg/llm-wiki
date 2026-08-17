@@ -1,22 +1,11 @@
 ---
-title: "Noh Tae-nam"
+title: "Noh Tae-nam — chaebol heir and Sariel's charge/puppet"
 type: entity
-tags: [character, npc, doberman]
-sources: [doberman-campaign]
-last_updated: 2026-04-12
+tags: [npc, military-prosecutor-doberman, chaebol, puppet, k-drama]
+sources: [2026-08-04-sariel-military-prosecutor-doberman]
+last_updated: 2026-08-04
 ---
 
-## Description
-Noh Tae-nam is an NPC in the doberman campaign, serving as a direct subordinate to Sariel at IM Defense. He is described as a "drunk, petulant" character who is terrified of his mother, Noh Hwa-young.
+# Noh Tae-nam
 
-## Background
-Noh Tae-nam holds a position at IM Defense, reporting directly to his mother Noh Hwa-young, who controls the organization with an iron fist. Despite his official rank, he is widely seen as weak-willed and ineffective.
-
-## Personality
-Characterized as petulant and prone to excess, Noh Tae-nam lacks the steel spine required for leadership in the cutthroat world of IM Defense. His only redeeming quality appears to be his biological connection to the organization's true power.
-
-## Connections
-- [doberman-campaign](../sources/doberman-campaign.md) — source campaign
-- [NohHwayoung](NohHwayoung.md) — his mother and superior
-- [Sariel](Sariel.md) — his direct superior at IM Defense
-- [IMDefense](IMDefense.md) — the organization
+Chaebol heir from *[[MilitaryProsecutorDoberman]]* (canonically the spoiled IM Defense heir). In the [[Sariel]] campaign he is her official charge as bodyguard and her de facto puppet: she anticipates his cigarettes, drinks, and doors before he asks, solves his "problems" (his mother's wrath, his vices, his power) with win-win plans that bank her hidden benefits, and praises his courage after he executes her suggestions. Framed in the source as "scaffolding, essential for a time but destined to be dismantled the instant his utility expires." Connected to [[IMDefense]].

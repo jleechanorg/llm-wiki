@@ -1,39 +1,13 @@
 ---
-title: "Itachi Uchiha"
+title: "Itachi (Naruto-setting PC)"
 type: entity
-tags: [itachi-evil-campaign-2, naruto, uchiha, ninja]
-sources: [itachi-evil-campaign-2-campaign, itachi-evil-campaign-2]
-last_updated: 2026-04-12
+tags: [player-character, naruto, campaign, level-20, example]
+sources: [2026-08-04-campaign-summary-prompt-design]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Itachi (Naruto-setting PC)
 
-Itachi Uchiha is a 13-year-old shinobi of extraordinary power and malevolent intent in this dark campaign. Unlike the canonical Itachi who was secretly a tragic hero, this version is genuinely evil — a cold, calculating mastermind who views the world through the lens of absolute control and order.
+A player character from a Naruto-setting campaign, cited in the [[GoogleAIStudio]] Gemini review of the [[CampaignSummaryPrompt]] as the worked example for compressing monumental level-ups. The prompt's power-up references ("PC gains Senju cells", "PC awakens Rinnegan") point to the same campaign.
 
-In this campaign, Itachi is at the point of the Uchiha Clan massacre — the pivotal event where he slaughtered his entire family. But this Itachi has no hidden protective motive. He genuinely believes the Uchiha clan is "a cancer upon the Shinobi world" whose elimination is necessary for his grand vision of a unified, controlled world.
-
-## In This Campaign
-
-Itachi's campaign follows three intertwined goals:
-
-1. **Uchiha Excision:** Systematically eliminate the Uchiha clan to remove a volatile element threatening his grand design
-2. **Konoha's Hidden Hand:** Manipulate Konoha's power structures from the shadows — he seeks to be the unseen architect, the power behind the Hokage
-3. **Great Unifying Order:** Transcend village politics to forge a new unified world order under his single, hidden authority
-
-## Abilities
-
-Itachi possesses both the Sharingan and Mangekyō Sharingan from the start, along with a custom "Ninja" class combining Assassin Rogue features, Extra Attack at Level 5, and all Illusion spells a Wizard would have.
-
-- **Sharingan:** Enhanced perception, illusion mastery, ability copying
-- **Mangekyō Sharingan:** Choice of Amaterasu (black flames), Tsukuyomi (temporal nightmare), or Susano'o (ethereal colossus)
-- **Class:** Custom Ninja (Assassin Rogue + Illusion spells)
-
-## Connections
-
-- [[ItachiEvilCampaign2Campaign]] — Campaign overview
-- [UchihaClan](UchihaClan.md) — Target of genocide
-- [Konohagakure](Konohagakure.md) — Home village
-- [Sharingan](../concepts/Sharingan.md) — Active ability
-- [MangekyoSharingan](../concepts/MangekyoSharingan.md) — Active ability
-- [NinjaClass](../concepts/NinjaClass.md) — Custom character class
-- [DestinyRuleset](../concepts/DestinyRuleset.md) — Game ruleset
+**The example**: Itachi's Level 20 was "monumental" and should compress to a single bullet — "Gains Perfect Susano'o, Totsuka Blade, Yata Mirror, Senju Life Force Mastery, and refined ocular/chakra control." This illustrates the conciseness-vs-detail tension the [[SignificanceThreshold]] concept addresses: capture the essence of major gains without enumerating every mechanical change.

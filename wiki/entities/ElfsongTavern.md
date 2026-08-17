@@ -1,28 +1,11 @@
 ---
 title: "Elfsong Tavern"
 type: entity
-tags: [merc-solo-brute-gladius, baldurs-gate, location, tavern]
-sources: [merc-solo-brute-gladius-campaign, nocturne-post-bg3-zhent]
-last_updated: 2026-04-12
+tags: [location, baldurs-gate, campaign]
+sources: [2026-08-04-aizen-god-campaign-genesis]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Elfsong Tavern
 
-The Elfsong Tavern is a famous establishment in the Lower City of Baldur's Gate. It serves as the starting location for the Merc Solo Brute Gladius campaign, where the player first encounters a mysterious雇主 offering a dark contract.
-
-## In This Campaign
-
-The campaign opens at The Elfsong Tavern in the Lower City. Gladius sits in a corner table, hood pulled low, nursing a cheap ale. The atmosphere is thick with "the smell of stale ale, sweat, and the damp wool of refugees who still haven't found better lodging since the city's crisis." This establishes the post-Baldur's Gate 3 setting — a city in chaotic recovery.
-
-## Significance
-
-The Elfsong Tavern serves as a liminal space — a place where different social classes mix and where mercenaries, nobles, and criminals can conduct business away from official eyes. It is the perfect location for the initial contract offer that drives the campaign.
-
-## Connections
-
-- [Gladius](Gladius.md) — Player character
-- [[MercSoloBruteGladiusCampaign]] — Campaign
-- [[LowerCityBaldursGate]] — City district
-- [BaldursGate](BaldursGate.md) — City
-- [[LordSilvanus]] — Initial quest giver
-- [NocturnePostBg3Zhent](NocturnePostBg3Zhent.md) — Base location
+Lower City tavern in [[BaldursGate]], site of the first of the four [[ShadowOverTheGate]] opening hooks ([[NarrativeHookScenarios]]): a brutal brawl between a [[TheGuild]]-aligned gang and a rival gang displaying unusual discipline and ritualistic tattoos, staged as cover for the attempted theft of an arcane artifact pulsing with faint dark energy from a well-protected patron. The disciplined gang's "unusual efficiency" is one of the deliberate signatures of [[HouseAizen]]'s hidden hand ([[SubtleInfluenceCampaignHook]]).

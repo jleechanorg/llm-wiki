@@ -1,23 +1,15 @@
 ---
 title: "Mystra"
 type: entity
-tags: [deity, villain, faerun, aizen-godhood-continued]
-last_updated: 2026-04-12
-sources: [aizen-godhood-continued-campaign]
+tags: [deity, magic, forgotten-realms]
+sources: [2026-08-04-aizen-god-campaign-summary, 2026-08-04-god-campaign-prompt-v0-divine-deception]
+last_updated: 2026-08-04
 ---
 
-## Overview
+# Mystra
 
-Mystra is the goddess of magic in the Forgotten Realms campaign setting and the new villain in Aizen Godhood Continued. She has proven herself an apt student of Aizen's methods, deftly wielding the blade of division. Her first major gambit was creating a schism within the Church of Tyr, causing internal inquisitions that neutralize "good" opposition.
+Forgotten Realms goddess of Magic. In the Aizen god-campaign summary she appears only as the subject of a **manufactured narrative**: after his ascension, [[AizenSosuke]] installs [[GaleOfWaterdeep]] as the new God of Magic and orders him to publicly claim he defeated and consumed Mystra. The summary does not state what actually happened to Mystra — the claim is explicitly propaganda within [[The-Grand-Game]], an instance of [[ManufacturedTruthNarrative]].
 
-## Key Details
+## Role in the Divine Deception V0 prompt ([[2026-08-04-god-campaign-prompt-v0-divine-deception]])
 
-- **Title:** Goddess of Magic (Forgotten Realms)
-- **Role:** New villain in the campaign
-- **Current Action:** Schism within the Church of Tyr
-- **Method:** Subtle, insidious tyranny rather than brute force
-
-## Connections
-
-- [SosukeAizen](SosukeAizen.md) — observes her actions from his Cosmic Throne
-- [[TheChurchOfTyr]] — institution she is manipulating
+Named first among the Pantheon deities alerted "to an intruder in their midst" if [[DivineDissonance]] rises too high — as goddess of the Weave she is the natural detector of the **Metric Mismatch** trigger, where Rank A damage output from a mortal form makes "the Weave tremble" and nearby casters sense a glitch in reality.

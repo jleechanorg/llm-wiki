@@ -1,0 +1,1 @@
+Created: L16 Open Hand Monk, moral compass, only guardian who understands Ains's goodness, delivers key reveal line

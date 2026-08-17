@@ -1,26 +1,11 @@
 ---
-title: "Flaming Fist Mercenary Company"
+title: "Flaming Fist — Baldur's Gate's mercenary military and police force"
 type: entity
-tags: [merc-solo-brute-gladius, baldurs-gate, faction, mercenaries, bg1-nocturne]
-sources: [merc-solo-brute-gladius-campaign, bg1-nocturne-campaign, bg1-nocturne-continued-campaign]
-last_updated: 2026-04-12
+tags: [faction, military, baldurs-gate, law-enforcement]
+sources: [2026-08-04-aizen-teen-campaign-export]
+last_updated: 2026-08-04
 ---
 
-## Description
+# The Flaming Fist
 
-The Flaming Fist Mercenary Company is a major mercenary organization in Baldur's Gate, currently in a state of restructuring following the events of Baldur's Gate 3. They represent the organized military force that operates outside official governance but maintains a code of conduct.
-
-## In This Campaign
-
-The Flaming Fist is one of the major factions in the post-Absolute Baldur's Gate landscape. As a mercenary himself, Gladius operates in proximity to the Flaming Fist — either as a competitor, potential member, or someone who has worked with them in the past. Their restructuring creates opportunities for mercenary work.
-
-## Connections
-
-- [[MercSoloBruteGladiusCampaign]] — Campaign
-- [Gladius](Gladius.md) — Player character
-- [CouncilOfFour](CouncilOfFour.md) — Competing authority
-- [TheGuild](TheGuild.md) — Criminal competition
-- [BaldursGate](BaldursGate.md) — City
-- [Nocturne](Nocturne.md) — encountered in Iron Crisis era
-- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
-- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md) — purge list target
+[[BaldursGate]]'s primary military and police force. In the Aizen teen campaign ([[2026-08-04-aizen-teen-campaign-export]]) the Fist is a background faction — "a backdrop of authority and order" against which young [[SosukeAizen|Aizen]]'s subtler manipulations play out, rather than an active antagonist. Counterweight to [[TheGuild]] in the city's power structure; nominally answerable to the noble houses including [[house-sosuke|House Sosuke]].

@@ -1,34 +1,17 @@
 ---
-title: "Apex Weaver"
+title: "Apex Weaver — Bard/Mastermind Gestalt class powered by Information Geometry"
 type: concept
-tags: [got, class, apex-weaver, bard, mastermind]
-sources: [visenya-v6-campaign]
-last_updated: 2026-04-08
+tags: [game-mechanics, character-class, gestalt, campaign-visenya-v6, homebrew]
+sources: [2026-08-04-visenya-v6-winter-web]
+last_updated: 2026-08-04
 ---
 
 # Apex Weaver
 
-Level 6+ class for the Visenya Targaryen campaign. A Bard/Mastermind Gestalt class where power comes from "Information Geometry" — perceiving stress lines, pulse rates, and mathematical architecture of the physical and social world.
+Homebrew gestalt class (Bard/Mastermind) played by [[VisenyaTargaryen]] in campaign v6. Power source is [[InformationGeometry]] — perceiving the mathematical architecture of physical and social reality — not magical song. Carries the [[StaticField]] passive and a 30-level, tiered progression:
 
-## Core Mechanic: The Static Field
-When focused or amused, reality warps around the Apex Weaver:
-- Drop room temperature by 20 degrees
-- Permanent Advantage on Intimidation and Insight
-- Disadvantage on Stealth (unless magically muffled)
-- Lower-level enemies automatically fail insight checks against lies
+- **Tier 1 — The Cub (1-5)**: Silver Tongue (floor of 10 on Deception/Persuasion rolls), Psychic Vivisection (spend [[SadismDice]] to subtract from enemy saves), basic spellcasting.
+- **Tier 2 — The Hunter (6-10)**: Summon the Alpha (manifest [[EntropyDrake|Entropy]] as a Large Drake), Aura of the Architect (add CHA mod to all saves), Permanent Steed at 10.
+- **Tier 3+**: "The Devo..." — truncated in the source document.
 
-## Core Mechanic: Entropy Toll
-If the Apex Weaver witnesses a high-status NPC lie or assert false dominance and does NOT manipulate, humiliate, or correct them within the scene, she suffers 1 point of Exhaustion from sheer boredom. If she successfully shatters their ego, she gains Temporary HP equal to her Charisma modifier.
-
-## Level Progression
-| Tier | Levels | Name | Key Abilities |
-|------|--------|------|---------------|
-| 1 | 1-5 | The Cub | Silver Tongue, Psychic Vivisection, basic spellcasting |
-| 2 | 6-10 | The Hunter | Summon the Alpha, Aura of the Architect |
-| 3 | 11-16 | The Devourer | Reliable Talent, The Kill Box, Chronal Shift |
-| 4 | 17-20 | The Apex | True Polymorph, The Black Dread Reborn |
-| 5 | 21-30 | The World Eater | Double Concentration, Avatar of Sadism, Titan expansion |
-
-## Connections
-- [VisenyaTargaryen](../entities/VisenyaTargaryen.md) — Primary wielder of this class
-- [EntropyToll](EntropyToll.md) — Named mechanic, subset of class features
+Sibling of the v6-era hidden-power builds in the Visenya line ([[ApexBloodline]]); compare the v3 Charisma Sorcerer and v4 Swords Bard incarnations.

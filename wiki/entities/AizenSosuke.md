@@ -1,35 +1,23 @@
 ---
-title: "Aizen Sosuke"
+title: "Aizen Sosuke (campaign protagonist)"
 type: entity
-tags: [character, player-character, mastermind, house-sosuke, recurring]
-sources: [aizen-bg3, aizen-thay, aizen-godhood-continued]
-last_updated: 2026-05-22
+tags: [campaign-character, dnd-5e, manipulator, god-king, baldurs-gate]
+sources: [2026-08-04-aizen-god-campaign-chat-mortal, 2026-08-04-aizen-god-campaign-chat-1-901-1147, 2026-08-04-aizen-god-campaign-chat-2]
+last_updated: 2026-08-04
 ---
 
-## Description
+# Aizen Sosuke
 
-Aizen Sosuke is a recurring mastermind character appearing across three major campaign arcs. In BG3 he is a 16-year-old prodigy who has already marked the city's leadership with complete hypnosis (Kyoka Suigetsu). In Thay he is the "Spare" of House Vane (secretly House Sosuke), a descendant of Nocturne Sosuke serving as her Material Anchor while plotting to replace her. In Godhood he continues his ascent toward divinity. All iterations share the same core: a brilliant, beautiful predator who weaponizes perception itself.
+Player character of the multi-chat Aizen god campaign — a Bleach-inspired serpent-mastermind adapted into D&D 5e Forgotten Realms play, run first on [[ChatGPT]] (mortal era) and then on [[Gemini]] (god campaign chats 1-2).
 
-## Appears In
+## Arc across the chat lineage
 
-- [aizen-bg3](../sources/aizen-bg3.md) — 596 entries; strategic mastermind in post-Netherbrain Baldur's Gate
-- [[aizen-thay]] — 596 entries; Abyss Knight / Soul Thief in Thay, patron: Nocturne Sosuke
-- [aizen-godhood-continued](../sources/aizen-godhood-continued.md) — 700+ entries; godhood ascent continuation (entries 4-7 are multi-MB)
+- **Mortal era ([[ChatGPT]])**: the original campaign whose state was preserved via the [[MasterPromptCampaignHandoff]] when the player migrated DM substrates. The [[2026-08-04-aizen-god-campaign-chat-mortal|mortal-era chat opening]] is the meta-conversation that made this migration possible — it contains the methodology, not the play itself.
+- **Chat 1 ([[Gemini]])**: Level 12 CHA 23 manipulator operating in [[BaldursGate]], 1492 DR — faction confrontations (Knights of the Shield), ascension to godhood as "The God-King," avatar autonomy protocol, mass telepathic Banite conversion economics.
+- **Chat 2 ([[Gemini]])**: godhood continuation after a [[CampaignContextMigration]] when chat 1 hit its length limit.
 
-## Key Traits
+## Related
 
-- **Polarizing Beauty:** Unnatural attractiveness that elicits either helpless attraction or visceral revulsion
-- **The Two Masks:** Polite Prodigy (public) vs. Absolute Sovereign (true nature)
-- **Soul Thief Mechanic:** Rips animus from helpless targets; feeds patron through Obsidian Mirror
-- **Core Compulsion — "Breaking the Queen":** Obsessive need to dismantle high-status women (paladins, enchantresses, noble heiresses)
-- **The Golden Thread:** Possessive loyalty to his "Circle" — burns cities to protect one person
-- **INTJ-Architect / ENTP-Debater Hinge:** Cold calculation with predatory amusement
-- **Wine as Weapon:** Perpetual glass of expensive red wine as psychological prop
-- **House Sosuke / House Vane:** Dual identity; exiled noble carrying accursed bloodline
-
-## Relationships Across Campaigns
-
-- [NocturneSosuke](NocturneSosuke.md) — Patron in Aizen Thay; the "Queen" he ultimately wants to unmake
-- [HouseSosuke](HouseSosuke.md) — His destroyed noble house
-- [Alexiel](Alexiel.md) — Parallel archetype (the perfect deceiver with layered masks)
-- [[AureliusJuliusCaesar]] — Parallel archetype (the Decadent Conqueror / beauty as weapon)
+- [[MasterPromptCampaignHandoff]] — how his campaign state survived the ChatGPT→Gemini move
+- [[CleanSlateCampaignRestart]] — the contrasting restart pattern (characters reused, state reset)
+- [[BaldursGate]] — primary mortal-era and chat-1 theater of operations
