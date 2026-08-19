@@ -6,7 +6,10 @@ campaign_class: "Bard (College of Swords) L11 + Dragonrider subclass L1-20 (L25 
 anchored_to: "House of the Dragon Season 3 finale state (post-Helaena-suicide, post-Tumbleton-burned, Aegon-alive-on-Dragonstone)"
 book_fallback: "GRRM Fire & Blood (2018), chapters covering 129-131 AC; only invoked where Season 3 cut off or diverged"
 endings: none — open-ended campaign system; no canonical endings matrix
-tags: [house-of-the-dragon, hotd, rhaenyra, bard, dragonrider, ashen-crown, hardcore, political-realism, season-3, dance-of-the-dragons, worldarchitect-ai]
+version: "v3 HARD (2026-08-18) — slimmed 2,403 word paste-block, harder starting state (CS 18% / Treasury 280 gp / PTR 75, Day 1 cascade, 200+ smallfolk dead in Option 1)"
+google_doc: "https://docs.google.com/document/d/1vpTfAgIP9mf04MJ9X8t-Wjv5-MW3eVBGtxPyuMSebKg/edit"
+public_wiki: "https://github.com/jleechanorg/worldai_wiki/blob/feat/house-of-the-dragon-ashen-crown/queries/house-of-the-dragon-ashen-crown-rhaenyra.md"
+tags: [house-of-the-dragon, hotd, rhaenyra, bard, dragonrider, ashen-crown, hardcore, political-realism, season-3, dance-of-the-dragons, worldarchitect-ai, v3-hard]
 ---
 
 # House of the Dragon — The Ashen Crown
