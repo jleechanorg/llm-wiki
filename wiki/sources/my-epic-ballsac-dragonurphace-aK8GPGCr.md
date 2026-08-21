@@ -2,8 +2,8 @@
 title: "My Epic Ballsac Dragonurphace"
 type: source
 tags: [campaign, worldarchitect, my-epic-ballsac-dragonurphace]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/aK8GPGCrhcfw0tCyp7wX/My Epic Ballsac Dragonurphace_aK8GPGCr.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/aK8GPGCrhcfw0tCyp7wX/My Epic Ballsac Dragonurphace_aK8GPGCr.txt
 campaign_id: aK8GPGCrhcfw0tCyp7wX
 entry_count: 234
 user_email: "pickyourfavouritememory@gmail.com"

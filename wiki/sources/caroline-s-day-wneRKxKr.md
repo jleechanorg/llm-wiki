@@ -2,8 +2,8 @@
 title: "Caroline’s day"
 type: source
 tags: [campaign, worldarchitect, caroline-s-day]
-date: 2026-08-20
-source_file: /tmp/campaign_daily_ingest/wneRKxKr6VHvzPESaiG6/Caroline_s day_wneRKxKr.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/wneRKxKr6VHvzPESaiG6/Caroline_s day_wneRKxKr.txt
 campaign_id: wneRKxKr6VHvzPESaiG6
 entry_count: 56
 user_email: "2012percyc2001@gmail.com"

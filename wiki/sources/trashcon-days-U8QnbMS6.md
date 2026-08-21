@@ -2,8 +2,8 @@
 title: "Trashcon Days"
 type: source
 tags: [campaign, worldarchitect, trashcon-days]
-date: 2026-08-17
-source_file: /tmp/campaign_daily_ingest/U8QnbMS6unL5Q38rGVvF/Trashcon Days_U8QnbMS6.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/U8QnbMS6unL5Q38rGVvF/Trashcon Days_U8QnbMS6.txt
 campaign_id: U8QnbMS6unL5Q38rGVvF
 entry_count: 92
 user_email: "hanjistevens@gmail.com"
@@ -1308,7 +1308,7 @@ Location: New Halcyon Academy Main Corridor
 Status: Lvl 1 Student | HP: 20/20 | Gold: 50gp | XP: 0/300]
 Resources: HD: 1/1, Spells: None, Vitality: 20/20, Resolve: 10/10
 Dice Rolls:
-  - {'result': 16, 'type': 'provocation / social friction', 'faces': '14', 'modifier': 2, 'roll': '1d20+2', 'label': 'provocation / social friction'}
+  - {'modifier': 2, 'label': 'provocation / social friction', 'type': 'provocation / social friction', 'roll': '1d20+2', 'result': 16, 'faces': '14'}
 
 Game Master:
 The afternoon bell signals the end of final period, spilling students out into the bustling main corridor of New Halcyon Academy. Lockers slam shut, chatter echoes off the polished terrazzo floor, and the heavy scent of floor wax mixes with damp wool. Tsukio walks with his hands tucked into the pockets of his tailored trousers, his dark silver ponytail swaying slightly behind his shoulders as he maneuvers past a cluster of gossiping freshmen. 
@@ -2165,7 +2165,7 @@ Status: Student | Vitality: 20/20 | Drive: 100/100 | Resolve: 10/10 | XP: 0/300
 Resources: None]
 Resources: Vitality: 20/20, Drive: 100/100, Resolve: 10/10
 Dice Rolls:
-  - {'result': 40, 'type': 'Speed Escape (SPD 14 + PER 12)', 'faces': '14', 'modifier': 26, 'roll': '1d20+26', 'label': 'Speed Escape (SPD 14 + PER 12)'}
+  - {'modifier': 26, 'label': 'Speed Escape (SPD 14 + PER 12)', 'type': 'Speed Escape (SPD 14 + PER 12)', 'roll': '1d20+26', 'result': 40, 'faces': '14'}
 
 Game Master:
 Tsukio bolts, his boots slamming hard against the dirty concrete platform as he scrambles toward the concrete staircase leading up to the street. Behind him, the wraith lets out a horrific, metallic shriek that vibrates straight through his chest, the air turning ice-cold as the shadow surges forward in pursuit.
@@ -2184,7 +2184,7 @@ Status: Student | Vitality: 20/20 | Drive: 100/100 | Resolve: 10/10 | XP: 0/300
 Resources: None]
 Resources: Vitality: 20/20, Drive: 100/100, Resolve: 10/10
 Dice Rolls:
-  - {'result': 45, 'type': 'Speed Escape (SPD 14 + PER 12)', 'faces': '19', 'modifier': 26, 'roll': '1d20+26', 'label': 'Speed Escape (SPD 14 + PER 12)'}
+  - {'modifier': 26, 'label': 'Speed Escape (SPD 14 + PER 12)', 'type': 'Speed Escape (SPD 14 + PER 12)', 'roll': '1d20+26', 'result': 45, 'faces': '19'}
 
 Game Master:
 Tsukio lunges through the heavy swinging doors, his legs burning from the explosive sprint as he bursts out of the subway stairwell and onto the open pavement of New Halcyon. The roar of London traffic washes over him, drowning out the subterranean shrieks echoing from the dark depths below. Passersby jostle past on the crowded sidewalk, entirely indifferent to the terrifying breach just feet beneath their feet. Tsukio catches his breath against a brick wall, his chest heaving as his violet eyes dart back toward the station entrance, his fingers trembling slightly.
@@ -2815,7 +2815,7 @@ Status: Student | Vitality: 20/20 | Drive: 10/10 | Resolve: 10/10 | XP: 0/300
 Resources: None]
 Resources: Vitality: 20/20, Drive: 10/10, Resolve: 10/10
 Dice Rolls:
-  - {'result': 31, 'type': 'Movement & Evasion (SPD 14 + PER 12)', 'faces': '5', 'modifier': 26, 'roll': '1d20+26', 'label': 'Movement & Evasion (SPD 14 + PER 12)'}
+  - {'modifier': 26, 'label': 'Movement & Evasion (SPD 14 + PER 12)', 'type': 'Movement & Evasion (SPD 14 + PER 12)', 'roll': '1d20+26', 'result': 31, 'faces': '5'}
 
 Game Master:
 Tsukio turns away from the subway entrance and begins walking briskly along the sidewalk, attempting to blend into the steady flow of pedestrians. But before he can clear the block, the ambient air plunges into a bone-chilling freeze, turning his breath into a white plume in the autumn air. 
@@ -2835,7 +2835,7 @@ Location: New Halcyon Street Level
 Status: Student | Vitality: 5/20 | Drive: 10/10 | Resolve: 4/10 | XP: 0/300]
 Resources: Vitality: 5/20, Drive: 10/10, Resolve: 4/10
 Dice Rolls:
-  - {'result': 26, 'type': 'Wraith Shadow Strike vs Tsukio Endure (DUR 10 + RES 10)', 'faces': '6', 'modifier': 20, 'roll': '1d20+20', 'label': 'Wraith Shadow Strike vs Tsukio Endure (DUR 10 + RES 10)'}
+  - {'modifier': 20, 'label': 'Wraith Shadow Strike vs Tsukio Endure (DUR 10 + RES 10)', 'type': 'Wraith Shadow Strike vs Tsukio Endure (DUR 10 + RES 10)', 'roll': '1d20+20', 'result': 26, 'faces': '6'}
 
 Game Master:
 An abyssal chill pierces the damp autumn air as the wraith's shadow-draped arm shoots forward. Tsukio barely has time to grit his teeth before the spectral, clawed appendage plunges directly through his ribs and into his stomach. The agonizing cold isn't physical steel—it is an overwhelming spiritual frost that freezes the breath in his lungs and tears violently at his vital force.
@@ -2855,7 +2855,7 @@ Location: New Halcyon Street Level
 Status: Student | Vitality: 5/20 | Drive: 10/10 | Resolve: 4/10 | XP: 0/300]
 Resources: Vitality: 5/20, Drive: 10/10, Resolve: 4/10
 Dice Rolls:
-  - {'result': 38, 'type': 'Tales of Matsuchō Manifestation (PER 12 + RES 10)', 'faces': '16', 'modifier': 22, 'roll': '1d20+22', 'label': 'Tales of Matsuchō Manifestation (PER 12 + RES 10)'}
+  - {'modifier': 22, 'label': 'Tales of Matsuchō Manifestation (PER 12 + RES 10)', 'type': 'Tales of Matsuchō Manifestation (PER 12 + RES 10)', 'roll': '1d20+22', 'result': 38, 'faces': '16'}
 
 Game Master:
 As Tsukio lies slumping against the cold asphalt, the zipper on his canvas schoolbag violently bursts open. A blinding, golden-ink luminescence spills out from the pages of *Tales of Matsuchō*, illuminating the dim evening air. The wraith's shadow-claw freezes mid-air, its jagged tendrils flinching from the sudden, unnatural light.

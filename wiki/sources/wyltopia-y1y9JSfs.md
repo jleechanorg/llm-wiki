@@ -2,8 +2,8 @@
 title: "Wyltopia"
 type: source
 tags: [campaign, worldarchitect, wyltopia]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/y1y9JSfsyrjNaMAVEzNi/Wyltopia_y1y9JSfs.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/y1y9JSfsyrjNaMAVEzNi/Wyltopia_y1y9JSfs.txt
 campaign_id: y1y9JSfsyrjNaMAVEzNi
 entry_count: 82
 user_email: "williamdmzphang@gmail.com"

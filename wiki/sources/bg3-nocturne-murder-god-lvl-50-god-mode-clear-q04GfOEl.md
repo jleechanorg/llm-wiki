@@ -2,8 +2,8 @@
 title: "bg3 nocturne murder god (lvl 50 god mode clear)"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-lvl-50-god-mode-clear]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/q04GfOEl4SWnEQrFUVST/bg3 nocturne murder god _lvl 50 god mode clear__q04GfOEl.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/q04GfOEl4SWnEQrFUVST/bg3 nocturne murder god _lvl 50 god mode clear__q04GfOEl.txt
 campaign_id: q04GfOEl4SWnEQrFUVST
 entry_count: 458
 user_email: "jleechan@gmail.com"

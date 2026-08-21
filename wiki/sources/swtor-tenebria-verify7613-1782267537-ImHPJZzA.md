@@ -2,12 +2,13 @@
 title: "swtor - tenebria (verify7613-1782267537)"
 type: source
 tags: [campaign, worldarchitect, swtor-tenebria-verify7613-1782267537]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/ImHPJZzAHflTapgouFsU/swtor - tenebria _verify7613-1782267537__ImHPJZzA.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/ImHPJZzAHflTapgouFsU/swtor - tenebria _verify7613-1782267537__ImHPJZzA.txt
 campaign_id: ImHPJZzAHflTapgouFsU
 entry_count: 378
-last_updated_iso: 2026-07-13T02:33:10.196890+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

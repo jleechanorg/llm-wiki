@@ -2,8 +2,8 @@
 title: "nocturne Warcraft 3 (repaired)"
 type: source
 tags: [campaign, worldarchitect, nocturne-warcraft-3-repaired]
-date: 2026-08-18
-source_file: /tmp/campaign_daily_ingest/IJHp1APL33CHaimAjZ1b/nocturne Warcraft 3 _repaired__IJHp1APL.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/IJHp1APL33CHaimAjZ1b/nocturne Warcraft 3 _repaired__IJHp1APL.txt
 campaign_id: IJHp1APL33CHaimAjZ1b
 entry_count: 507
 user_email: "jleechan@gmail.com"

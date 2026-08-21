@@ -2,8 +2,8 @@
 title: "bg3 nocturne murder god"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/vPqka4Bz0N3si7quXXfM/bg3 nocturne murder god_vPqka4Bz.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/vPqka4Bz0N3si7quXXfM/bg3 nocturne murder god_vPqka4Bz.txt
 campaign_id: vPqka4Bz0N3si7quXXfM
 entry_count: 1208
 user_email: "jleechan@gmail.com"

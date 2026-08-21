@@ -2,12 +2,13 @@
 title: "bg1 nocturne continued"
 type: source
 tags: [campaign, worldarchitect, bg1-nocturne-continued]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/E7qKW9jz4tuK724EgIOf/bg1 nocturne continued_E7qKW9jz.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/E7qKW9jz4tuK724EgIOf/bg1 nocturne continued_E7qKW9jz.txt
 campaign_id: E7qKW9jz4tuK724EgIOf
 entry_count: 108
-last_updated_iso: 2026-07-13T02:33:01.614961+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

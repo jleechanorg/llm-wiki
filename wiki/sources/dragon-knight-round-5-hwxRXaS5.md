@@ -2,8 +2,8 @@
 title: "Dragon Knight Round 5"
 type: source
 tags: [campaign, worldarchitect, dragon-knight-round-5]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/hwxRXaS5kZckw2Lut11w/Dragon Knight Round 5_hwxRXaS5.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/hwxRXaS5kZckw2Lut11w/Dragon Knight Round 5_hwxRXaS5.txt
 campaign_id: hwxRXaS5kZckw2Lut11w
 entry_count: 718
 user_email: "kevinzsalleh@gmail.com"

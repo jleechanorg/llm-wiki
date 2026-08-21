@@ -2,12 +2,13 @@
 title: "aurelius caesar v3"
 type: source
 tags: [campaign, worldarchitect, aurelius-caesar-v3]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/mu7ZqwN0EjBOnWyYLPER/aurelius caesar v3_mu7ZqwN0.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/mu7ZqwN0EjBOnWyYLPER/aurelius caesar v3_mu7ZqwN0.txt
 campaign_id: mu7ZqwN0EjBOnWyYLPER
 entry_count: 216
-last_updated_iso: 2026-07-13T02:34:06.542879+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

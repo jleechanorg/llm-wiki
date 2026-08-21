@@ -2,12 +2,13 @@
 title: "Vespera Thul (copy)"
 type: source
 tags: [campaign, worldarchitect, vespera-thul-copy]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/pAcihJkx0CvYZFZ3v7IQ/Vespera Thul _copy__pAcihJkx.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/pAcihJkx0CvYZFZ3v7IQ/Vespera Thul _copy__pAcihJkx.txt
 campaign_id: pAcihJkx0CvYZFZ3v7IQ
 entry_count: 532
-last_updated_iso: 2026-07-13T02:42:03.508625+00:00
-ingest_batch: batch-2026-07-12-50plus-repair
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

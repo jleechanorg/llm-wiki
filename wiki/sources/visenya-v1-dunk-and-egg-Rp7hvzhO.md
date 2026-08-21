@@ -2,12 +2,13 @@
 title: "visenya v1 (dunk and egg)"
 type: source
 tags: [campaign, worldarchitect, visenya-v1-dunk-and-egg]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/Rp7hvzhOnS3TlvxpwCy4/visenya v1 _dunk and egg__Rp7hvzhO.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/Rp7hvzhOnS3TlvxpwCy4/visenya v1 _dunk and egg__Rp7hvzhO.txt
 campaign_id: Rp7hvzhOnS3TlvxpwCy4
-entry_count: 2130
-last_updated_iso: 2026-07-13T02:33:24.896415+00:00
-ingest_batch: batch-2026-07-12-50plus
+entry_count: 2000
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

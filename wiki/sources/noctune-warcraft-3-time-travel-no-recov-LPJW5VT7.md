@@ -2,8 +2,8 @@
 title: "noctune Warcraft 3 (time travel no recov)"
 type: source
 tags: [campaign, worldarchitect, noctune-warcraft-3-time-travel-no-recov]
-date: 2026-08-18
-source_file: /tmp/campaign_daily_ingest/LPJW5VT77Pxxvp5dRHdU/noctune Warcraft 3 _time travel no recov__LPJW5VT7.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/LPJW5VT77Pxxvp5dRHdU/noctune Warcraft 3 _time travel no recov__LPJW5VT7.txt
 campaign_id: LPJW5VT77Pxxvp5dRHdU
 entry_count: 523
 user_email: "jleechan@gmail.com"

@@ -2,12 +2,13 @@
 title: "Dragon knight good"
 type: source
 tags: [campaign, worldarchitect, dragon-knight-good]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/tcQL26E6XvqBJGfaLtE8/Dragon knight good_tcQL26E6.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/tcQL26E6XvqBJGfaLtE8/Dragon knight good_tcQL26E6.txt
 campaign_id: tcQL26E6XvqBJGfaLtE8
 entry_count: 460
-last_updated_iso: 2026-07-13T02:34:14.261194+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

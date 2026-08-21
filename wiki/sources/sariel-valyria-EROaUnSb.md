@@ -2,8 +2,8 @@
 title: "Sariel Valyria"
 type: source
 tags: [campaign, worldarchitect, sariel-valyria]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/EROaUnSbmDhqBedTbJMg/Sariel Valyria_EROaUnSb.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/EROaUnSbmDhqBedTbJMg/Sariel Valyria_EROaUnSb.txt
 campaign_id: EROaUnSbmDhqBedTbJMg
 entry_count: 1066
 user_email: "jleechan@gmail.com"

@@ -2,12 +2,13 @@
 title: "Thay trader (npc should be dead bad planningb)"
 type: source
 tags: [campaign, worldarchitect, thay-trader-npc-should-be-dead-bad-planningb]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/p8R2TabP7lDtcEkiuC8A/Thay trader _npc should be dead bad planningb__p8R2TabP.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/p8R2TabP7lDtcEkiuC8A/Thay trader _npc should be dead bad planningb__p8R2TabP.txt
 campaign_id: p8R2TabP7lDtcEkiuC8A
 entry_count: 278
-last_updated_iso: 2026-07-13T02:42:02.575065+00:00
-ingest_batch: batch-2026-07-12-50plus-repair
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

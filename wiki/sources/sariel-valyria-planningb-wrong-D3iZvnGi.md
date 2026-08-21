@@ -2,8 +2,8 @@
 title: "Sariel Valyria (planningb wrong)"
 type: source
 tags: [campaign, worldarchitect, sariel-valyria-planningb-wrong]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/D3iZvnGiBl9wyveQBFj9/Sariel Valyria _planningb wrong__D3iZvnGi.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/D3iZvnGiBl9wyveQBFj9/Sariel Valyria _planningb wrong__D3iZvnGi.txt
 campaign_id: D3iZvnGiBl9wyveQBFj9
 entry_count: 226
 user_email: "jleechan@gmail.com"

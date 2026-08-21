@@ -2,8 +2,8 @@
 title: "bg3 nocturne murder god (stuck level 77)"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-stuck-level-77]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/wSm8Z8McTLJ8oQjqlTyJ/bg3 nocturne murder god _stuck level 77__wSm8Z8Mc.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/wSm8Z8McTLJ8oQjqlTyJ/bg3 nocturne murder god _stuck level 77__wSm8Z8Mc.txt
 campaign_id: wSm8Z8McTLJ8oQjqlTyJ
 entry_count: 466
 user_email: "jleechan@gmail.com"

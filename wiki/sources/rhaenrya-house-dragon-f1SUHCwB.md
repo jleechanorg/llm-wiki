@@ -2,10 +2,10 @@
 title: "rhaenrya house dragon"
 type: source
 tags: [campaign, worldarchitect, rhaenrya-house-dragon]
-date: 2026-08-09
-source_file: /tmp/campaign_daily_ingest/f1SUHCwB6kgh0VjCBBaF/rhaenrya house dragon_f1SUHCwB.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/f1SUHCwB6kgh0VjCBBaF/rhaenrya house dragon_f1SUHCwB.txt
 campaign_id: f1SUHCwB6kgh0VjCBBaF
-entry_count: 104
+entry_count: 110
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill
@@ -127,7 +127,7 @@ Location: The Iron Throne, King's Landing
 Status: Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 1000gp | XP: 14000/23000
 Resources: Bardic Inspiration: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3]
 Dice Rolls:
-  - {'roll': '1d20+1', 'modifier': 1, 'faces': '14', 'result': 15, 'label': 'Intelligence Check (Financial Planning)', 'type': 'Intelligence Check (Financial Planning)'}
+  - {'type': 'Intelligence Check (Financial Planning)', 'result': 15, 'modifier': 1, 'faces': '14', 'label': 'Intelligence Check (Financial Planning)', 'roll': '1d20+1'}
 
 Game Master:
 Intelligence Check: 14 vs DC 10 — Success. Your sharp mind (INT 12) methodically weighs the financial ruin left by the Greens. You realize the gold hasn't vanished from the realm, only from your reach.
@@ -144,7 +144,7 @@ Status: Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 1000gp | XP: 14225/23000
 Resources: Bardic Inspiration: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3]
 Resources: HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+7', 'modifier': 7, 'faces': '13', 'result': 20, 'label': 'Intimidation (CHA +4, PROF +3)', 'type': 'Intimidation (CHA +4, PROF +3)'}
+  - {'type': 'Intimidation (CHA +4, PROF +3)', 'result': 20, 'modifier': 7, 'faces': '13', 'label': 'Intimidation (CHA +4, PROF +3)', 'roll': '1d20+7'}
 
 Game Master:
 The damp, salt-crusted air of the dungeons is a far cry from the drafty grandeur of the Great Hall. You stand in the flickering torchlight, the *Sovereign's Edge* sheathed at your hip, watching the man who helped steal your father's crown. Tyland Lannister is stripped of his fine silks, bound in heavy irons to a stone chair that has seen centuries of sorrow. Daemon stands beside the hooded interrogator, his eyes cold as dragonglass.
@@ -166,7 +166,7 @@ Location: The Dungeons, The Red Keep
 Status: Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 1000gp | XP: 14225/23000
 Resources: Bardic Inspiration: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3]
 Dice Rolls:
-  - {'roll': '1d20+0', 'modifier': 0, 'faces': '15', 'result': 15, 'label': 'Wisdom Check (Psychological Analysis)', 'type': 'Wisdom Check (Psychological Analysis)'}
+  - {'type': 'Wisdom Check (Psychological Analysis)', 'result': 15, 'modifier': 0, 'faces': '15', 'label': 'Wisdom Check (Psychological Analysis)', 'roll': '1d20+0'}
 
 Game Master:
 Wisdom Check: 15 vs DC 13 — Success. Your instincts (WIS 10) are sharp today, allowing you to look past Tyland's bloody mask and see the master politician beneath. You realize that while his body is Lannister steel, his heart is bound to the legacy of his House and his own pride as a man of coin.
@@ -183,7 +183,7 @@ Status: Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 1000gp | XP: 14375/23000
 Resources: Bardic Inspiration: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3]
 Resources: HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+7', 'modifier': 7, 'faces': '15', 'result': 22, 'label': 'Intimidation (Threatening House Lannister and Casterly Rock)', 'type': 'Intimidation (Threatening House Lannister and Casterly Rock)'}
+  - {'type': 'Intimidation (Threatening House Lannister and Casterly Rock)', 'result': 22, 'modifier': 7, 'faces': '15', 'label': 'Intimidation (Threatening House Lannister and Casterly Rock)', 'roll': '1d20+7'}
 
 Game Master:
 The torchlight catches the cold, predatory glint in your eyes as you lean into the space Tyland Lannister (Lvl 10) desperately tries to maintain. Your voice is a low, dangerous rasp—the sound of a dragon’s breath before the flame. 
@@ -212,7 +212,7 @@ Status: Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 1000gp | XP: 14975/23000
 Resources: Bardic Inspiration: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3]
 Resources: HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '17', 'result': 27, 'label': "Persuasion (The Queen's Pardon) supported by Daemon's Intimidation", 'type': "Persuasion (The Queen's Pardon) supported by Daemon's Intimidation"}
+  - {'type': "Persuasion (The Queen's Pardon) supported by Daemon's Intimidation", 'result': 27, 'modifier': 10, 'faces': '17', 'label': "Persuasion (The Queen's Pardon) supported by Daemon's Intimidation", 'roll': '1d20+10'}
 
 Game Master:
 You step into the circle of light, the shadow of Daemon (Lvl 12) looming behind you like a second, darker crown. You pull a blank scroll from your sleeve and place your royal seal upon the stone table near Tyland (Lvl 10). Your voice is no longer a rasp, but the clear, resonant tone of a Queen bestowing a gift.
@@ -241,7 +241,7 @@ Status: Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 1000gp | XP: 15975/23000
 Resources: Bardic Inspiration: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3]
 Resources: HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '20', 'result': 30, 'label': 'Final Persuasion/Interrogation of Tyland Lannister', 'type': 'Final Persuasion/Interrogation of Tyland Lannister'}
+  - {'type': 'Final Persuasion/Interrogation of Tyland Lannister', 'result': 30, 'modifier': 10, 'faces': '20', 'label': 'Final Persuasion/Interrogation of Tyland Lannister', 'roll': '1d20+10'}
 
 Game Master:
 Persuasion Check (Natural 20!): 20 + 10 = 30 vs DC 18 — Critical Success.
@@ -275,7 +275,7 @@ Status: Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 1500gp | XP: 23000/23000
 Resources: Bardic Inspiration: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3]
 Resources: HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Inspiration: 4/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '9', 'result': 19, 'label': 'Intimidation (Commanding the City Watch to yield the gold)', 'type': 'Intimidation (Commanding the City Watch to yield the gold)'}
+  - {'type': 'Intimidation (Commanding the City Watch to yield the gold)', 'result': 19, 'modifier': 10, 'faces': '9', 'label': 'Intimidation (Commanding the City Watch to yield the gold)', 'roll': '1d20+10'}
 
 Game Master:
 The ride from the Red Keep to the Mud Gate is a blur of golden cloaks and nervous whispers. Daemon (Lvl 12) rides at your side, his presence a silent promise of violence that the city seems to feel in its very bones. When you arrive at the barracks, the air is thick with the smell of unwashed men and the metallic tang of fear. The officers of the City Watch—men who once looked to Daemon as their 'Lord of Flea Bottom'—now look at you with the wary eyes of cornered animals.
@@ -302,8 +302,8 @@ Status: Lvl 6 Bard (Swords) | HP: 45/45 | Gold: 1500gp | XP: 23000/23000
 Resources: Bardic Inspiration: 3/4 | Spells: L1 4/4, L2 2/3, L3 3/3]
 Resources: HD: 6/6, Spells: L1 4/4, L2 2/3, L3 3/3, Inspiration: 3/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '6', 'result': 16, 'label': "Base Persuasion Check (Queen's Song of Order)", 'type': "Base Persuasion Check (Queen's Song of Order)"}
-  - {'roll': '1d8', 'modifier': 0, 'faces': '8', 'result': 8, 'label': 'Bardic Inspiration Die added to check', 'type': 'Bardic Inspiration Die added to check'}
+  - {'type': "Base Persuasion Check (Queen's Song of Order)", 'result': 16, 'modifier': 10, 'faces': '6', 'label': "Base Persuasion Check (Queen's Song of Order)", 'roll': '1d20+10'}
+  - {'type': 'Bardic Inspiration Die added to check', 'result': 8, 'modifier': 0, 'faces': '8', 'label': 'Bardic Inspiration Die added to check', 'roll': '1d8'}
 
 Game Master:
 The clamor of iron on stone and the smell of acrid smoke fill the Mud Gate Barracks. The sergeant’s spear is a trembling line of steel pointed at your heart, but you do not flinch. You draw a breath that tastes of the coming storm and begin to sing—not a tavern ditty, but a Valyrian-infused melody of order, a 'Song of Order' that vibrates through the very floorboards where the gold is hidden.
@@ -368,7 +368,7 @@ Location: Mud Gate Barracks, King's Landing
 Status: Lvl 7 Bard (Swords) | HP: 52/52 | Gold: 1500gp | XP: 23000/34000
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4]
 Dice Rolls:
-  - {'roll': '1d20+1', 'modifier': 1, 'faces': '13', 'result': 14, 'label': 'Intelligence Check (Logistical Planning)', 'type': 'Intelligence Check (Logistical Planning)'}
+  - {'type': 'Intelligence Check (Logistical Planning)', 'result': 14, 'modifier': 1, 'faces': '13', 'label': 'Intelligence Check (Logistical Planning)', 'roll': '1d20+1'}
 
 Game Master:
 Intelligence Check: 13 vs DC 12 — Success. Your logical mind (INT 12) quickly maps the logistical nightmare of the city's harbor. You realize that while Tyland spoke of Casterly Rock, the ships required to carry that weight of gold are unlikely to have escaped the Velaryon blockade entirely.
@@ -385,7 +385,7 @@ Status: Lvl 7 Bard (Swords) | HP: 52/52 | Gold: 1500gp | XP: 23300/34000
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4]
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '15', 'result': 25, 'label': 'Persuasion (Asserting authority over the harbor seizure)', 'type': 'Persuasion (Asserting authority over the harbor seizure)'}
+  - {'type': 'Persuasion (Asserting authority over the harbor seizure)', 'result': 25, 'modifier': 10, 'faces': '15', 'label': 'Persuasion (Asserting authority over the harbor seizure)', 'roll': '1d20+10'}
 
 Game Master:
 Afternoon (16:40:00)
@@ -414,8 +414,8 @@ Status: Lvl 7 Bard (Swords) | HP: 52/52 | Gold: 1500gp | XP: 23630/34000
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4]
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '13', 'result': 23, 'label': 'Intimidation (Interrogating Captain of the Gilded Lion)', 'type': 'Intimidation (Interrogating Captain of the Gilded Lion)'}
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '4', 'result': 14, 'label': 'Persuasion (Confronting Neutral Merchants)', 'type': 'Persuasion (Confronting Neutral Merchants)'}
+  - {'type': 'Intimidation (Interrogating Captain of the Gilded Lion)', 'result': 23, 'modifier': 10, 'faces': '13', 'label': 'Intimidation (Interrogating Captain of the Gilded Lion)', 'roll': '1d20+10'}
+  - {'type': 'Persuasion (Confronting Neutral Merchants)', 'result': 14, 'modifier': 10, 'faces': '4', 'label': 'Persuasion (Confronting Neutral Merchants)', 'roll': '1d20+10'}
 
 Game Master:
 Evening (17:20:00)
@@ -443,7 +443,7 @@ Status: Lvl 7 Bard (Swords) | HP: 52/52 | Gold: 1500gp | XP: 24830/34000
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4]
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+9', 'modifier': 9, 'faces': '16', 'result': 25, 'label': "Lord Corlys's Naval Audit/Authority Check", 'type': "Lord Corlys's Naval Audit/Authority Check"}
+  - {'type': "Lord Corlys's Naval Audit/Authority Check", 'result': 25, 'modifier': 9, 'faces': '16', 'label': "Lord Corlys's Naval Audit/Authority Check", 'roll': '1d20+9'}
 
 Game Master:
 Evening (18:00:00)
@@ -478,7 +478,7 @@ Status: Lvl 7 Bard (Swords) | HP: 52/52 | Gold: 1500gp | XP: 25630/34000
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4]
 Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '7', 'result': 17, 'label': 'War Council Strategy Coordination (Synergistic Delegation)', 'type': 'War Council Strategy Coordination (Synergistic Delegation)'}
+  - {'type': 'War Council Strategy Coordination (Synergistic Delegation)', 'result': 17, 'modifier': 10, 'faces': '7', 'label': 'War Council Strategy Coordination (Synergistic Delegation)', 'roll': '1d20+10'}
 
 Game Master:
 Evening (19:00:00)
@@ -552,7 +552,7 @@ Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4]
 ⚔️ Soldiers: 2,000 | 🕵️ Spies: 0 | 👑 Elites: 3 (Avg Lvl 9)
 🏰 Territory: 1,000 | 🏛️ Citizens: 40,000/50,000 | 💰 Gold: 4,000 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'roll': '1d20+1', 'modifier': 1, 'faces': '11', 'result': 12, 'label': 'Strategic Planning: Vhagar Interception', 'type': 'Strategic Planning: Vhagar Interception'}
+  - {'type': 'Strategic Planning: Vhagar Interception', 'result': 12, 'modifier': 1, 'faces': '11', 'label': 'Strategic Planning: Vhagar Interception', 'roll': '1d20+1'}
 
 Game Master:
 The transition to a wartime economy and strategic command is formalised as you standing over the Painted Table. "The blockade has served its purpose in starving the Greens out of the city," you declare, your voice ringing with the clarity of a Queen who has finally found her footing. "Lift it. Let the merchant cogs return. We need the silver to flow if we are to keep the Gold Cloaks from looking back toward Oldtown."
@@ -584,8 +584,8 @@ Resources: HD: 7/7, Spells: L1 4/4, L2 2/3, L3 3/3, L4 1/1, Inspiration: 3/4]
 ⚔️ Soldiers: 2,000 | 🕵️‍♂️ Spies: 0 | 👑 Elites: 4 (Avg Lvl 8.7)
 🏰 Territory: 1,000 | 🏛️ Citizens: 40,000/50,000 | 💰 Gold: 4,000 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '10', 'result': 20, 'label': 'Strategic Coordination of Dragonriders (Rhaenyra)', 'type': 'Strategic Coordination of Dragonriders (Rhaenyra)'}
-  - {'roll': '1d20+8', 'modifier': 8, 'faces': '6', 'result': 14, 'label': "Mysaria's Intelligence Network Deployment", 'type': "Mysaria's Intelligence Network Deployment"}
+  - {'type': 'Strategic Coordination of Dragonriders (Rhaenyra)', 'result': 20, 'modifier': 10, 'faces': '10', 'label': 'Strategic Coordination of Dragonriders (Rhaenyra)', 'roll': '1d20+10'}
+  - {'type': "Mysaria's Intelligence Network Deployment", 'result': 14, 'modifier': 8, 'faces': '6', 'label': "Mysaria's Intelligence Network Deployment", 'roll': '1d20+8'}
 
 Game Master:
 Evening (19:30:00)
@@ -661,9 +661,9 @@ Resources: HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic Inspiration:
 ⚔️ Soldiers: 2,000 | 🕵️‍♂️ Spies: 50 (Mysaria's Web) | 👑 Elites: 4 (Avg Lvl 8.7)
 🏰 Territory: 1,000 | 🏛️ Citizens: 40,000/50,000 | 💰 Gold: 4,000 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'roll': '1d20+9', 'modifier': 9, 'faces': '6', 'result': 15, 'label': "Mysaria's Intelligence (Max Pressure on Informants)", 'type': "Mysaria's Intelligence (Max Pressure on Informants)"}
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '9', 'result': 19, 'label': "Ambush Tactics/Stealth (Daemon's Lead)", 'type': "Ambush Tactics/Stealth (Daemon's Lead)"}
-  - {'roll': '1d20+4', 'modifier': 4, 'faces': '9', 'result': 13, 'label': "Ulf's Vanguard Distraction", 'type': "Ulf's Vanguard Distraction"}
+  - {'type': "Mysaria's Intelligence (Max Pressure on Informants)", 'result': 15, 'modifier': 9, 'faces': '6', 'label': "Mysaria's Intelligence (Max Pressure on Informants)", 'roll': '1d20+9'}
+  - {'type': "Ambush Tactics/Stealth (Daemon's Lead)", 'result': 19, 'modifier': 10, 'faces': '9', 'label': "Ambush Tactics/Stealth (Daemon's Lead)", 'roll': '1d20+10'}
+  - {'type': "Ulf's Vanguard Distraction", 'result': 13, 'modifier': 4, 'faces': '9', 'label': "Ulf's Vanguard Distraction", 'roll': '1d20+4'}
 
 Game Master:
 Dawn (06:00:00)
@@ -693,7 +693,7 @@ Location: Above Harroway's Town, The Riverlands
 Status: Lvl 7 Bard (Swords) | HP: 52/52 | Gold: 4000gp | XP: 27830/34000
 Resources: HD: 7/7, Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Bardic Inspiration: 3/4]
 Dice Rolls:
-  - {'roll': '1d20+1', 'modifier': 1, 'faces': '13', 'result': 14, 'label': 'Intelligence Check (Tactical Planning)', 'type': 'Intelligence Check (Tactical Planning)'}
+  - {'type': 'Intelligence Check (Tactical Planning)', 'result': 14, 'modifier': 1, 'faces': '13', 'label': 'Intelligence Check (Tactical Planning)', 'roll': '1d20+1'}
 
 Game Master:
 Intelligence Check: 14 vs DC 14 — Success. Your methodical mind (INT 12) identifies the exact window of opportunity as Vhagar's mass shifts to take flight. You realize that while the dragon is an ocean of scales, the rider is the rudder that guides her.
@@ -709,12 +709,12 @@ Location: Above Harroway's Town, The Riverlands
 Status: Lvl 7 Bard (Swords) | HP: 25/52 | Gold: 4000gp | XP: 34000/34000
 Resources: HD: 7/7, Spells: L1 4/4, L2 1/3, L3 3/3, L4 1/1 | Bardic Inspiration: 2/4]
 Dice Rolls:
-  - {'roll': '1d20+11', 'modifier': 11, 'faces': '1', 'result': 12, 'label': 'Daemon (Caraxes) Fire Attack on Aemond', 'type': 'Daemon (Caraxes) Fire Attack on Aemond'}
-  - {'roll': '1d20+8', 'modifier': 8, 'faces': '13', 'result': 21, 'label': 'Baela (Moondancer) Fire Attack on Aemond', 'type': 'Baela (Moondancer) Fire Attack on Aemond'}
-  - {'roll': '3d6+3', 'modifier': 3, 'faces': '2,5,1', 'result': 11, 'label': 'Baela (Moondancer) Fire Damage', 'type': 'Baela (Moondancer) Fire Damage'}
-  - {'roll': '1d20+4', 'modifier': 4, 'faces': '13', 'result': 17, 'label': 'Aemond WIS Save vs Hold Person', 'type': 'Aemond WIS Save vs Hold Person'}
-  - {'roll': '1d20+15', 'modifier': 15, 'faces': '13', 'result': 28, 'label': 'Vhagar Bite Attack on Rhaenyra/Syrax', 'type': 'Vhagar Bite Attack on Rhaenyra/Syrax'}
-  - {'roll': '4d12+10', 'modifier': 10, 'faces': '5,2,6,4', 'result': 27, 'label': 'Vhagar Bite Damage', 'type': 'Vhagar Bite Damage'}
+  - {'type': 'Daemon (Caraxes) Fire Attack on Aemond', 'result': 12, 'modifier': 11, 'faces': '1', 'label': 'Daemon (Caraxes) Fire Attack on Aemond', 'roll': '1d20+11'}
+  - {'type': 'Baela (Moondancer) Fire Attack on Aemond', 'result': 21, 'modifier': 8, 'faces': '13', 'label': 'Baela (Moondancer) Fire Attack on Aemond', 'roll': '1d20+8'}
+  - {'type': 'Baela (Moondancer) Fire Damage', 'result': 11, 'modifier': 3, 'faces': '2,5,1', 'label': 'Baela (Moondancer) Fire Damage', 'roll': '3d6+3'}
+  - {'type': 'Aemond WIS Save vs Hold Person', 'result': 17, 'modifier': 4, 'faces': '13', 'label': 'Aemond WIS Save vs Hold Person', 'roll': '1d20+4'}
+  - {'type': 'Vhagar Bite Attack on Rhaenyra/Syrax', 'result': 28, 'modifier': 15, 'faces': '13', 'label': 'Vhagar Bite Attack on Rhaenyra/Syrax', 'roll': '1d20+15'}
+  - {'type': 'Vhagar Bite Damage', 'result': 27, 'modifier': 10, 'faces': '5,2,6,4', 'label': 'Vhagar Bite Damage', 'roll': '4d12+10'}
 
 Game Master:
 Dawn (06:05:00)
@@ -805,9 +805,9 @@ Resources: HD: 8/8, Spells: L1 4/4, L2 2/3, L3 3/3, L4 2/2 | Bardic Inspiration:
 ⚔️ Soldiers: 2,000 | 🕵️‍♂️ Spies: 50 (Mysaria's Web) | 👑 Elites: 4 (Avg Lvl 8.7)
 🏰 Territory: 1,000 | 🏛️ Citizens: 40,000/50,000 | 💰 Gold: 4,000 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'roll': '1d8', 'modifier': 0, 'faces': '7', 'result': 7, 'label': 'Sovereign Inspiration added to Hold Person DC', 'type': 'Sovereign Inspiration added to Hold Person DC'}
-  - {'roll': '1d20+17', 'modifier': 17, 'faces': '6', 'result': 23, 'label': 'Vhagar Bite vs Syrax', 'type': 'Vhagar Bite vs Syrax'}
-  - {'roll': '2d10+10+4d6', 'modifier': 10, 'faces': '3,6,1,1,1,1', 'result': 23, 'label': 'Vhagar Bite Damage (Piercing + Fire)', 'type': 'Vhagar Bite Damage (Piercing + Fire)'}
+  - {'type': 'Sovereign Inspiration added to Hold Person DC', 'result': 7, 'modifier': 0, 'faces': '7', 'label': 'Sovereign Inspiration added to Hold Person DC', 'roll': '1d8'}
+  - {'type': 'Vhagar Bite vs Syrax', 'result': 23, 'modifier': 17, 'faces': '6', 'label': 'Vhagar Bite vs Syrax', 'roll': '1d20+17'}
+  - {'type': 'Vhagar Bite Damage (Piercing + Fire)', 'result': 23, 'modifier': 10, 'faces': '3,6,1,1,1,1', 'label': 'Vhagar Bite Damage (Piercing + Fire)', 'roll': '2d10+10+4d6'}
 
 Game Master:
 Dawn (06:10:00)
@@ -833,7 +833,7 @@ Location: Above Harroway's Town, The Riverlands
 Status: Lvl 8 Bard (Swords) | HP: 59/59 | Gold: 4000gp | XP: 48000/48000
 Resources: HD: 8/8, Spells: L1 4/4, L2 1/3, L3 3/3, L4 2/2 | Bardic Inspiration: 1/4]
 Dice Rolls:
-  - {'roll': '1d20+1', 'modifier': 1, 'faces': '14', 'result': 15, 'label': 'Intelligence Check (Planning)', 'type': 'Intelligence Check (Planning)'}
+  - {'type': 'Intelligence Check (Planning)', 'result': 15, 'modifier': 1, 'faces': '14', 'label': 'Intelligence Check (Planning)', 'roll': '1d20+1'}
 
 Game Master:
 Intelligence Check: 15 vs DC 14 — Success (Margin +1). Your tactical training and experience allow you to see the battle as a sequence of lethal geometries. You identify that Aemond is a fixed point in space, while Vhagar is a storm with no center.
@@ -850,13 +850,13 @@ Status: Lvl 9 Bard (Swords) | HP: 66/66 | Gold: 4000gp | XP: 48000/64000
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 1/4]
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 1/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '12d6', 'modifier': 0, 'faces': '6,4,6,5,6,5,4,3,4,4,4,6', 'result': 57, 'label': 'Fire of the Four (Daemon)', 'type': 'Fire of the Four (Daemon)'}
-  - {'roll': '12d6', 'modifier': 0, 'faces': '4,3,6,3,6,4,5,4,6,1,6,6', 'result': 54, 'label': 'Fire of the Four (Rhaenyra)', 'type': 'Fire of the Four (Rhaenyra)'}
-  - {'roll': '8d6', 'modifier': 0, 'faces': '3,3,5,5,5,3,3,2', 'result': 29, 'label': 'Fire of the Four (Baela)', 'type': 'Fire of the Four (Baela)'}
-  - {'roll': '12d6', 'modifier': 0, 'faces': '3,1,6,5,6,3,6,1,5,3,1,3', 'result': 43, 'label': 'Fire of the Four (Ulf)', 'type': 'Fire of the Four (Ulf)'}
-  - {'roll': '2d20kh1+10', 'modifier': 10, 'faces': '15,3', 'result': 25, 'label': 'Ranged Snipe', 'type': 'Ranged Snipe'}
-  - {'roll': '1d8+6', 'modifier': 6, 'faces': '2', 'result': 8, 'label': 'Arrow Damage', 'type': 'Arrow Damage'}
-  - {'roll': '1d20+4', 'modifier': 4, 'faces': '9', 'result': 13, 'label': 'Break Paralysis', 'type': 'Break Paralysis'}
+  - {'type': 'Fire of the Four (Daemon)', 'result': 57, 'modifier': 0, 'faces': '6,4,6,5,6,5,4,3,4,4,4,6', 'label': 'Fire of the Four (Daemon)', 'roll': '12d6'}
+  - {'type': 'Fire of the Four (Rhaenyra)', 'result': 54, 'modifier': 0, 'faces': '4,3,6,3,6,4,5,4,6,1,6,6', 'label': 'Fire of the Four (Rhaenyra)', 'roll': '12d6'}
+  - {'type': 'Fire of the Four (Baela)', 'result': 29, 'modifier': 0, 'faces': '3,3,5,5,5,3,3,2', 'label': 'Fire of the Four (Baela)', 'roll': '8d6'}
+  - {'type': 'Fire of the Four (Ulf)', 'result': 43, 'modifier': 0, 'faces': '3,1,6,5,6,3,6,1,5,3,1,3', 'label': 'Fire of the Four (Ulf)', 'roll': '12d6'}
+  - {'type': 'Ranged Snipe', 'result': 25, 'modifier': 10, 'faces': '15,3', 'label': 'Ranged Snipe', 'roll': '2d20kh1+10'}
+  - {'type': 'Arrow Damage', 'result': 8, 'modifier': 6, 'faces': '2', 'label': 'Arrow Damage', 'roll': '1d8+6'}
+  - {'type': 'Break Paralysis', 'result': 13, 'modifier': 4, 'faces': '9', 'label': 'Break Paralysis', 'roll': '1d20+4'}
 
 Game Master:
 You have leveled up to Level 9! Recommended package applied: +7 HP (fixed), +1 4th-level slot, +1 5th-level slot, Proficiency Bonus +4, Song of Rest (d8), and new spell: *Hold Monster*. These choices can be changed at any time using the Level-Up Review option below or God Mode.
@@ -950,13 +950,13 @@ Status: Lvl 9 Bard (Swords) | HP: 66/66 | Gold: 4000gp | XP: 49600/64000
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 0/4]
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 0/4, Exhaustion: 0
 Dice Rolls:
-  - {'roll': '1d20+4', 'modifier': 4, 'faces': '17', 'result': 21, 'label': 'Aemond WIS Save vs Hold Person', 'type': 'Aemond WIS Save vs Hold Person'}
-  - {'roll': '1d20+7', 'modifier': 7, 'faces': '19', 'result': 26, 'label': 'Vhagar Save vs Caraxes', 'type': 'Vhagar Save vs Caraxes'}
-  - {'roll': '1d20+7', 'modifier': 7, 'faces': '7', 'result': 14, 'label': 'Vhagar Save vs Syrax', 'type': 'Vhagar Save vs Syrax'}
-  - {'roll': '1d20+7', 'modifier': 7, 'faces': '5', 'result': 12, 'label': 'Vhagar Save vs Moondancer', 'type': 'Vhagar Save vs Moondancer'}
-  - {'roll': '1d20+7', 'modifier': 7, 'faces': '4', 'result': 11, 'label': 'Vhagar Save vs Silverwing', 'type': 'Vhagar Save vs Silverwing'}
-  - {'roll': '2d20kh1+10', 'modifier': 10, 'faces': '11,17', 'result': 27, 'label': 'Rhaenyra Longbow vs Aemond', 'type': 'Rhaenyra Longbow vs Aemond'}
-  - {'roll': '1d20+17', 'modifier': 17, 'faces': '19', 'result': 36, 'label': 'Vhagar Bite vs Syrax', 'type': 'Vhagar Bite vs Syrax'}
+  - {'type': 'Aemond WIS Save vs Hold Person', 'result': 21, 'modifier': 4, 'faces': '17', 'label': 'Aemond WIS Save vs Hold Person', 'roll': '1d20+4'}
+  - {'type': 'Vhagar Save vs Caraxes', 'result': 26, 'modifier': 7, 'faces': '19', 'label': 'Vhagar Save vs Caraxes', 'roll': '1d20+7'}
+  - {'type': 'Vhagar Save vs Syrax', 'result': 14, 'modifier': 7, 'faces': '7', 'label': 'Vhagar Save vs Syrax', 'roll': '1d20+7'}
+  - {'type': 'Vhagar Save vs Moondancer', 'result': 12, 'modifier': 7, 'faces': '5', 'label': 'Vhagar Save vs Moondancer', 'roll': '1d20+7'}
+  - {'type': 'Vhagar Save vs Silverwing', 'result': 11, 'modifier': 7, 'faces': '4', 'label': 'Vhagar Save vs Silverwing', 'roll': '1d20+7'}
+  - {'type': 'Rhaenyra Longbow vs Aemond', 'result': 27, 'modifier': 10, 'faces': '11,17', 'label': 'Rhaenyra Longbow vs Aemond', 'roll': '2d20kh1+10'}
+  - {'type': 'Vhagar Bite vs Syrax', 'result': 36, 'modifier': 17, 'faces': '19', 'label': 'Vhagar Bite vs Syrax', 'roll': '1d20+17'}
 
 Game Master:
 Dawn (06:15:00)
@@ -993,14 +993,14 @@ Status: Lvl 9 Bard (Swords) | HP: 66/66 | Gold: 4000gp | XP: 49920/64000
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 1/4]
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1, Inspiration: 1/4
 Dice Rolls:
-  - {'roll': '12d6', 'modifier': None, 'faces': '2,4,5,1,6,2,1,5,3,1,5,1', 'result': 36, 'label': 'Daemon (Caraxes) Fire Breath on Aemond', 'type': 'Daemon (Caraxes) Fire Breath on Aemond'}
-  - {'roll': '2d20kh1+11', 'modifier': 11, 'faces': '11,18', 'result': 29, 'label': 'Daemon Ranged Attack on Aemond (Advantage)', 'type': 'Daemon Ranged Attack on Aemond (Advantage)'}
-  - {'roll': '8d6', 'modifier': None, 'faces': '5,4,5,6,1,2,4,6', 'result': 33, 'label': 'Baela (Moondancer) Fire Breath on Aemond', 'type': 'Baela (Moondancer) Fire Breath on Aemond'}
-  - {'roll': '12d6', 'modifier': None, 'faces': '3,2,4,3,6,5,6,3,3,6,1,2', 'result': 44, 'label': 'Rhaenyra (Syrax) Fire Breath on Aemond', 'type': 'Rhaenyra (Syrax) Fire Breath on Aemond'}
-  - {'roll': '2d20kh1+11', 'modifier': 11, 'faces': '8,9', 'result': 20, 'label': 'Rhaenyra Longbow Attack on Aemond (Advantage)', 'type': 'Rhaenyra Longbow Attack on Aemond (Advantage)'}
-  - {'roll': '12d6', 'modifier': None, 'faces': '4,1,2,4,4,4,1,3,3,5,1,1', 'result': 33, 'label': 'Ulf (Silverwing) Fire Breath on Aemond', 'type': 'Ulf (Silverwing) Fire Breath on Aemond'}
-  - {'roll': '1d20+17', 'modifier': 17, 'faces': '15', 'result': 32, 'label': 'Vhagar Bite on Syrax', 'type': 'Vhagar Bite on Syrax'}
-  - {'roll': '2d10+10+4d6', 'modifier': 10, 'faces': '3,16', 'result': 29, 'label': 'Vhagar Bite Damage', 'type': 'Vhagar Bite Damage'}
+  - {'type': 'Daemon (Caraxes) Fire Breath on Aemond', 'result': 36, 'modifier': None, 'faces': '2,4,5,1,6,2,1,5,3,1,5,1', 'label': 'Daemon (Caraxes) Fire Breath on Aemond', 'roll': '12d6'}
+  - {'type': 'Daemon Ranged Attack on Aemond (Advantage)', 'result': 29, 'modifier': 11, 'faces': '11,18', 'label': 'Daemon Ranged Attack on Aemond (Advantage)', 'roll': '2d20kh1+11'}
+  - {'type': 'Baela (Moondancer) Fire Breath on Aemond', 'result': 33, 'modifier': None, 'faces': '5,4,5,6,1,2,4,6', 'label': 'Baela (Moondancer) Fire Breath on Aemond', 'roll': '8d6'}
+  - {'type': 'Rhaenyra (Syrax) Fire Breath on Aemond', 'result': 44, 'modifier': None, 'faces': '3,2,4,3,6,5,6,3,3,6,1,2', 'label': 'Rhaenyra (Syrax) Fire Breath on Aemond', 'roll': '12d6'}
+  - {'type': 'Rhaenyra Longbow Attack on Aemond (Advantage)', 'result': 20, 'modifier': 11, 'faces': '8,9', 'label': 'Rhaenyra Longbow Attack on Aemond (Advantage)', 'roll': '2d20kh1+11'}
+  - {'type': 'Ulf (Silverwing) Fire Breath on Aemond', 'result': 33, 'modifier': None, 'faces': '4,1,2,4,4,4,1,3,3,5,1,1', 'label': 'Ulf (Silverwing) Fire Breath on Aemond', 'roll': '12d6'}
+  - {'type': 'Vhagar Bite on Syrax', 'result': 32, 'modifier': 17, 'faces': '15', 'label': 'Vhagar Bite on Syrax', 'roll': '1d20+17'}
+  - {'type': 'Vhagar Bite Damage', 'result': 29, 'modifier': 10, 'faces': '3,16', 'label': 'Vhagar Bite Damage', 'roll': '2d10+10+4d6'}
 
 Game Master:
 Dawn (06:15:00)
@@ -1035,12 +1035,12 @@ Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Insp
 ⚔️ Soldiers: 2,000 | 🕵️ Spies: 50 (Mysaria's Web) | 👑 Elites: 4 (Avg Lvl 9.2)
 🏰 Territory: 1,000 | 🏛️ Citizens: 40,000/50,000 | 💰 Gold: 4,000 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'roll': '12d6', 'modifier': 0, 'faces': '4,1,4,4,3,5,3,6,5,3,6,5', 'result': 49, 'label': 'Daemon (Caraxes) Fire Breath', 'type': 'Daemon (Caraxes) Fire Breath'}
-  - {'roll': '12d6', 'modifier': 0, 'faces': '4,4,6,3,3,3,1,1,3,6,6,5', 'result': 45, 'label': 'Rhaenyra (Syrax) Fire Breath', 'type': 'Rhaenyra (Syrax) Fire Breath'}
-  - {'roll': '12d6', 'modifier': 0, 'faces': '1,3,5,2,3,5,2,1,5,4,6,5', 'result': 42, 'label': 'Ulf (Silverwing) Fire Breath', 'type': 'Ulf (Silverwing) Fire Breath'}
-  - {'roll': '8d6', 'modifier': 0, 'faces': '4,3,6,5,4,3,6,3', 'result': 34, 'label': 'Baela (Moondancer) Fire Breath', 'type': 'Baela (Moondancer) Fire Breath'}
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '18', 'result': 28, 'label': 'Rhaenyra Longbow vs Vhagar', 'type': 'Rhaenyra Longbow vs Vhagar'}
-  - {'roll': '1d20+17', 'modifier': 17, 'faces': '19', 'result': 36, 'label': 'Vhagar Death-Throes vs Caraxes', 'type': 'Vhagar Death-Throes vs Caraxes'}
+  - {'type': 'Daemon (Caraxes) Fire Breath', 'result': 49, 'modifier': 0, 'faces': '4,1,4,4,3,5,3,6,5,3,6,5', 'label': 'Daemon (Caraxes) Fire Breath', 'roll': '12d6'}
+  - {'type': 'Rhaenyra (Syrax) Fire Breath', 'result': 45, 'modifier': 0, 'faces': '4,4,6,3,3,3,1,1,3,6,6,5', 'label': 'Rhaenyra (Syrax) Fire Breath', 'roll': '12d6'}
+  - {'type': 'Ulf (Silverwing) Fire Breath', 'result': 42, 'modifier': 0, 'faces': '1,3,5,2,3,5,2,1,5,4,6,5', 'label': 'Ulf (Silverwing) Fire Breath', 'roll': '12d6'}
+  - {'type': 'Baela (Moondancer) Fire Breath', 'result': 34, 'modifier': 0, 'faces': '4,3,6,5,4,3,6,3', 'label': 'Baela (Moondancer) Fire Breath', 'roll': '8d6'}
+  - {'type': 'Rhaenyra Longbow vs Vhagar', 'result': 28, 'modifier': 10, 'faces': '18', 'label': 'Rhaenyra Longbow vs Vhagar', 'roll': '1d20+10'}
+  - {'type': 'Vhagar Death-Throes vs Caraxes', 'result': 36, 'modifier': 17, 'faces': '19', 'label': 'Vhagar Death-Throes vs Caraxes', 'roll': '1d20+17'}
 
 Game Master:
 Dawn (06:20:00)
@@ -1072,10 +1072,10 @@ Location: Above the Red Fork, The Riverlands
 Status: Lvl 9 Bard (Swords) | HP: 66/66 | Gold: 4000gp | XP: 51920/64000
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 1/4]
 Dice Rolls:
-  - {'roll': '1d20+4', 'modifier': 4, 'faces': '15', 'result': 19, 'label': 'Rhaenyra mid-air extraction of Aemond', 'type': 'Rhaenyra mid-air extraction of Aemond'}
-  - {'roll': '8d6', 'modifier': 0, 'faces': '1,1,4,2,2,3,6,6', 'result': 25, 'label': 'Moondancer Suppressing Fire', 'type': 'Moondancer Suppressing Fire'}
-  - {'roll': '12d6', 'modifier': 0, 'faces': '1,4,5,6,3,2,6,6,6,4,4,4', 'result': 51, 'label': 'Silverwing Suppressing Fire', 'type': 'Silverwing Suppressing Fire'}
-  - {'roll': '1d20+14', 'modifier': 14, 'faces': '4', 'result': 18, 'label': 'Caraxes Bite Strike', 'type': 'Caraxes Bite Strike'}
+  - {'type': 'Rhaenyra mid-air extraction of Aemond', 'result': 19, 'modifier': 4, 'faces': '15', 'label': 'Rhaenyra mid-air extraction of Aemond', 'roll': '1d20+4'}
+  - {'type': 'Moondancer Suppressing Fire', 'result': 25, 'modifier': 0, 'faces': '1,1,4,2,2,3,6,6', 'label': 'Moondancer Suppressing Fire', 'roll': '8d6'}
+  - {'type': 'Silverwing Suppressing Fire', 'result': 51, 'modifier': 0, 'faces': '1,4,5,6,3,2,6,6,6,4,4,4', 'label': 'Silverwing Suppressing Fire', 'roll': '12d6'}
+  - {'type': 'Caraxes Bite Strike', 'result': 18, 'modifier': 14, 'faces': '4', 'label': 'Caraxes Bite Strike', 'roll': '1d20+14'}
 
 Game Master:
 Dawn (06:21:00)
@@ -1101,7 +1101,7 @@ Location: Above the Red Fork, The Riverlands
 Status: Lvl 9 Bard (Swords) | HP: 66/66 | Gold: 4000gp | XP: 51920/64000
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 1/4]
 Dice Rolls:
-  - {'roll': '1d20+1', 'modifier': 1, 'faces': '16', 'result': 17, 'label': 'Intelligence Check (Valyrian Lore & Tactical Planning)', 'type': 'Intelligence Check (Valyrian Lore & Tactical Planning)'}
+  - {'type': 'Intelligence Check (Valyrian Lore & Tactical Planning)', 'result': 17, 'modifier': 1, 'faces': '16', 'label': 'Intelligence Check (Valyrian Lore & Tactical Planning)', 'roll': '1d20+1'}
 
 Game Master:
 Intelligence Check: 17 vs DC 13 — Success. Your educated mind (INT 12) sifts through the histories of Old Valyria. You recall that while the bond is absolute, the 'Shadow of the Dragon' can be redirected if the previous rider is broken or dead. You see Vhagar not just as an enemy, but as a vacant throne made of fire.
@@ -1117,11 +1117,11 @@ Location: Above the Gods Eye, The Riverlands
 Status: Lvl 9 Bard (Swords) | HP: 66/66 | Gold: 4000gp | XP: 53920/64000
 Resources: HD: 9/9, Spells: L1 4/4, L2 1/3, L3 3/3, L4 3/3, L5 1/1 | Bardic Inspiration: 1/4]
 Dice Rolls:
-  - {'roll': '12d6', 'modifier': 0, 'faces': '1,2,4,6,4,2,1,3,1,2,2,5', 'result': 33, 'label': 'Caraxes Fire Breath (Vhagar failed save: 18)', 'type': 'Caraxes Fire Breath (Vhagar failed save: 18)'}
-  - {'roll': '12d6', 'modifier': 0, 'faces': '1,1,2,2,2,4,5,3,4,1,3,5', 'result': 16, 'label': 'Syrax Fire Breath (Vhagar saved: 24)', 'type': 'Syrax Fire Breath (Vhagar saved: 24)'}
-  - {'roll': '8d6', 'modifier': 0, 'faces': '4,3,5,1,1,4,4,2', 'result': 24, 'label': 'Silverwing Fire Breath (Vhagar failed save: 13)', 'type': 'Silverwing Fire Breath (Vhagar failed save: 13)'}
-  - {'roll': '8d6', 'modifier': 0, 'faces': '3,4,6,1,5,4,4,2', 'result': 29, 'label': 'Moondancer Fire Breath (Vhagar failed save: 10)', 'type': 'Moondancer Fire Breath (Vhagar failed save: 10)'}
-  - {'roll': '1d20+10', 'modifier': 10, 'faces': '11', 'result': 21, 'label': 'Rhaenyra Longbow Attack', 'type': 'Rhaenyra Longbow Attack'}
+  - {'type': 'Caraxes Fire Breath (Vhagar failed save: 18)', 'result': 33, 'modifier': 0, 'faces': '1,2,4,6,4,2,1,3,1,2,2,5', 'label': 'Caraxes Fire Breath (Vhagar failed save: 18)', 'roll': '12d6'}
+  - {'type': 'Syrax Fire Breath (Vhagar saved: 24)', 'result': 16, 'modifier': 0, 'faces': '1,1,2,2,2,4,5,3,4,1,3,5', 'label': 'Syrax Fire Breath (Vhagar saved: 24)', 'roll': '12d6'}
+  - {'type': 'Silverwing Fire Breath (Vhagar failed save: 13)', 'result': 24, 'modifier': 0, 'faces': '4,3,5,1,1,4,4,2', 'label': 'Silverwing Fire Breath (Vhagar failed save: 13)', 'roll': '8d6'}
+  - {'type': 'Moondancer Fire Breath (Vhagar failed save: 10)', 'result': 29, 'modifier': 0, 'faces': '3,4,6,1,5,4,4,2', 'label': 'Moondancer Fire Breath (Vhagar failed save: 10)', 'roll': '8d6'}
+  - {'type': 'Rhaenyra Longbow Attack', 'result': 21, 'modifier': 10, 'faces': '11', 'label': 'Rhaenyra Longbow Attack', 'roll': '1d20+10'}
 
 Game Master:
 Dawn (06:22:00)

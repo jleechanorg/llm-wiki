@@ -2,12 +2,13 @@
 title: "Bran the broken (ignore directive)"
 type: source
 tags: [campaign, worldarchitect, bran-the-broken-ignore-directive]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/V8KORvEiB8kiEKeJM6qm/Bran the broken _ignore directive__V8KORvEi.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/V8KORvEiB8kiEKeJM6qm/Bran the broken _ignore directive__V8KORvEi.txt
 campaign_id: V8KORvEiB8kiEKeJM6qm
 entry_count: 248
-last_updated_iso: 2026-07-13T02:33:32.873585+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:
@@ -293,7 +294,7 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 0/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': "Insight to gauge Sansa's advice and the political climate", 'result': 26, 'type': "Insight to gauge Sansa's advice and the political climate", 'modifier': 6, 'faces': '19,20'}
+  - {'type': "Insight to gauge Sansa's advice and the political climate", 'result': 26, 'modifier': 6, 'faces': '19,20', 'label': "Insight to gauge Sansa's advice and the political climate", 'roll': '2d20kh1+6'}
 
 Game Master:
 The echoes of the lords' footsteps were still fading in the Great Hall as you turned your chair toward Sansa. The 'Permanent Foresight' thrummed in your mind, the tapestry of the immediate future overlapping with the present. You saw her lips begin to move before she spoke, and you sensed the weight of the secrets she kept like a cloak around her shoulders.
@@ -316,7 +317,7 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 30/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+4', 'label': 'Persuasion to establish authority over the Northern Lords', 'result': 23, 'type': 'Persuasion to establish authority over the Northern Lords', 'modifier': 4, 'faces': '5,19'}
+  - {'type': 'Persuasion to establish authority over the Northern Lords', 'result': 23, 'modifier': 4, 'faces': '5,19', 'label': 'Persuasion to establish authority over the Northern Lords', 'roll': '2d20kh1+4'}
 
 Game Master:
 At your signal, the guards at the heavy oak doors moved. "Call them back," you commanded, your voice carrying a resonance that seemed to vibrate the very frost on the stone. "The Lords of the North have not yet heard what the Raven has seen."
@@ -352,7 +353,7 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 60/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion (Greensight Gift) to win over the Northern Lords', 'result': 26, 'type': 'Persuasion (Greensight Gift) to win over the Northern Lords', 'modifier': 6, 'faces': '20,9'}
+  - {'type': 'Persuasion (Greensight Gift) to win over the Northern Lords', 'result': 26, 'modifier': 6, 'faces': '20,9', 'label': 'Persuasion (Greensight Gift) to win over the Northern Lords', 'roll': '2d20kh1+6'}
 
 Game Master:
 Morning (08:30:00). The tension in the Great Hall, which had been tight enough to snap, suddenly dissolved into a stunned, heavy silence as you spoke. You did not merely display your power; you offered it as a shield. 
@@ -391,8 +392,8 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 100/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+5', 'label': 'Investigation (Warging) to locate the hot spring leak in the crypts', 'result': 19, 'type': 'Investigation (Warging) to locate the hot spring leak in the crypts', 'modifier': 5, 'faces': '14,9'}
-  - {'roll': '2d20kh1+4', 'label': "Persuasion (Ceremonial) to formalize the Northern Lords' oaths", 'result': 14, 'type': "Persuasion (Ceremonial) to formalize the Northern Lords' oaths", 'modifier': 4, 'faces': '10,6'}
+  - {'type': 'Investigation (Warging) to locate the hot spring leak in the crypts', 'result': 19, 'modifier': 5, 'faces': '14,9', 'label': 'Investigation (Warging) to locate the hot spring leak in the crypts', 'roll': '2d20kh1+5'}
+  - {'type': "Persuasion (Ceremonial) to formalize the Northern Lords' oaths", 'result': 14, 'modifier': 4, 'faces': '10,6', 'label': "Persuasion (Ceremonial) to formalize the Northern Lords' oaths", 'roll': '2d20kh1+4'}
 
 Game Master:
 The ceremony of fealty was a somber, weighted affair. One by one, the lords of the North approached your chair, kneeling before the Valyrian steel of the Catspaw dagger. Lord Robett Glover was the first, his voice clear and resonant as he swore Deepwood Motte to your service. "I was lost in the dark, Lord Stark," he admitted, his eyes never leaving yours. "But you have shown me the way back. I am yours, now and always."
@@ -425,7 +426,7 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 100/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+4', 'label': 'Persuasion to convince Karstarks and Umbers to return to the fold', 'result': 14, 'type': 'Persuasion to convince Karstarks and Umbers to return to the fold', 'modifier': 4, 'faces': '10,3'}
+  - {'type': 'Persuasion to convince Karstarks and Umbers to return to the fold', 'result': 14, 'modifier': 4, 'faces': '10,3', 'label': 'Persuasion to convince Karstarks and Umbers to return to the fold', 'roll': '2d20kh1+4'}
 
 Game Master:
 The morning sun (10:00:00) slanted through the high windows of the Great Hall, illuminating the dust motes dancing in the air as you watched the ravens take flight from the rookery. Through your 'Permanent Foresight', you saw the black shapes against the pale sky, carrying the weight of House Stark's return to the northernmost reaches of the realm. You reached out to the Karstarks of Karhold and the Umbers of Last Hearth, your letters written with a blend of ancient authority and an offer of unity. 'The North is one body,' you had dictated to Maester Wolkan, 'and a body cannot survive without its limbs.'
@@ -448,9 +449,9 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Coordination Check (Parallel Synergistic: Warging + Audit)', 'result': 26, 'type': 'Coordination Check (Parallel Synergistic: Warging + Audit)', 'modifier': 6, 'faces': '1,20'}
-  - {'roll': '2d20kh1+6', 'label': 'Wisdom (Perception) via Warging to track the interceptor', 'result': 21, 'type': 'Wisdom (Perception) via Warging to track the interceptor', 'modifier': 6, 'faces': '15,10'}
-  - {'roll': '2d20kh1+5', 'label': 'Intelligence (Investigation) to audit the hidden granary', 'result': 20, 'type': 'Intelligence (Investigation) to audit the hidden granary', 'modifier': 5, 'faces': '15,11'}
+  - {'type': 'Coordination Check (Parallel Synergistic: Warging + Audit)', 'result': 26, 'modifier': 6, 'faces': '1,20', 'label': 'Coordination Check (Parallel Synergistic: Warging + Audit)', 'roll': '2d20kh1+6'}
+  - {'type': 'Wisdom (Perception) via Warging to track the interceptor', 'result': 21, 'modifier': 6, 'faces': '15,10', 'label': 'Wisdom (Perception) via Warging to track the interceptor', 'roll': '2d20kh1+6'}
+  - {'type': 'Intelligence (Investigation) to audit the hidden granary', 'result': 20, 'modifier': 5, 'faces': '15,11', 'label': 'Intelligence (Investigation) to audit the hidden granary', 'roll': '2d20kh1+5'}
 
 Game Master:
 Morning (10:30:00). In the solar of Winterfell, your physical body sat motionless, eyes clouded over with the pale, milk-white film of the Greenseer. Sansa sat across from you, her hands moving deftly over the newly recovered ledgers while Maester Wolkan meticulously tallied the grain counts. To any observer, you were a lord in a deep, perhaps fragile, trance. 
@@ -488,7 +489,7 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': "Insight to deliver the truth of Jon's lineage to Sansa", 'result': 18, 'type': "Insight to deliver the truth of Jon's lineage to Sansa", 'modifier': 6, 'faces': '12,4'}
+  - {'type': "Insight to deliver the truth of Jon's lineage to Sansa", 'result': 18, 'modifier': 6, 'faces': '12,4', 'label': "Insight to deliver the truth of Jon's lineage to Sansa", 'roll': '2d20kh1+6'}
 
 Game Master:
 The Solar was quiet, the only sound the crackle of the peat fire and the soft scratching of Sansa’s quill as she finished a ledger entry. You watched her through the lens of your 'Permanent Foresight,' seeing her hand pause just before she looked up at you. You knew the question she would ask, and you knew the answer that would change the North forever.
@@ -516,7 +517,7 @@ Location: Winterfell - Solar
 Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Dice Rolls:
-  - {'roll': '2d20kh1+3', 'label': 'Intelligence Check (Planning)', 'result': 20, 'type': 'Intelligence Check (Planning)', 'modifier': 3, 'faces': '17,11'}
+  - {'type': 'Intelligence Check (Planning)', 'result': 20, 'modifier': 3, 'faces': '17,11', 'label': 'Intelligence Check (Planning)', 'roll': '2d20kh1+3'}
 
 Game Master:
 Intelligence Check: 20 vs DC 15 — Masterful Success. Your mind, expanded by the Weirwood network, allows you to simulate the Dragon Queen's possible reactions with chilling precision. Your high Intelligence lets you weave these complex political threads into a coherent strategy for Jon's survival.
@@ -533,8 +534,8 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Wisdom (Persuasion/Insight) to deliver mystical intel to Jon Snow', 'result': 17, 'type': 'Wisdom (Persuasion/Insight) to deliver mystical intel to Jon Snow', 'modifier': 6, 'faces': '11,4'}
-  - {'roll': '2d20kh1+5', 'label': 'Intelligence (History/Tactics) to identify strategic intel for Daenerys', 'result': 17, 'type': 'Intelligence (History/Tactics) to identify strategic intel for Daenerys', 'modifier': 5, 'faces': '7,12'}
+  - {'type': 'Wisdom (Persuasion/Insight) to deliver mystical intel to Jon Snow', 'result': 17, 'modifier': 6, 'faces': '11,4', 'label': 'Wisdom (Persuasion/Insight) to deliver mystical intel to Jon Snow', 'roll': '2d20kh1+6'}
+  - {'type': 'Intelligence (History/Tactics) to identify strategic intel for Daenerys', 'result': 17, 'modifier': 5, 'faces': '7,12', 'label': 'Intelligence (History/Tactics) to identify strategic intel for Daenerys', 'roll': '2d20kh1+5'}
 
 Game Master:
 Midday (11:50:00). The Solar of Winterfell was submerged in a heavy, expectant silence. You sat in your chair, your hands resting on the intricate carvings of the armrests, as Sansa watched you with an expression of profound concern. To her, you were a brother navigating a dangerous sea of secrets; to the world, you were the memory of the Starks returning to reclaim the North.
@@ -565,7 +566,7 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion to establish the Regency partnership with Sansa', 'result': 20, 'type': 'Persuasion to establish the Regency partnership with Sansa', 'modifier': 6, 'faces': '14,2'}
+  - {'type': 'Persuasion to establish the Regency partnership with Sansa', 'result': 20, 'modifier': 6, 'faces': '14,2', 'label': 'Persuasion to establish the Regency partnership with Sansa', 'roll': '2d20kh1+6'}
 
 Game Master:
 Midday (12:10:00). The fire in the hearth had burned down to glowing embers, casting a warm, orange light over the Solar. You turned your chair to face Sansa, your 'Permanent Foresight' allowing you to see the phantom of her exhaustion—the years of fear in King's Landing and the weight of the North's survival etched into the lines around her eyes.
@@ -599,9 +600,9 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Coordination Check (Parallel Synergistic: Warging + Hall Prep)', 'result': 24, 'type': 'Coordination Check (Parallel Synergistic: Warging + Hall Prep)', 'modifier': 6, 'faces': '16,18'}
-  - {'roll': '2d20kh1+6', 'label': 'Wisdom (Perception) via Warging to scout the Karstarks', 'result': 20, 'type': 'Wisdom (Perception) via Warging to scout the Karstarks', 'modifier': 6, 'faces': '14,5'}
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion (Mystical Authority) to sway the Karstark Envoy', 'result': 11, 'type': 'Persuasion (Mystical Authority) to sway the Karstark Envoy', 'modifier': 6, 'faces': '5,1'}
+  - {'type': 'Coordination Check (Parallel Synergistic: Warging + Hall Prep)', 'result': 24, 'modifier': 6, 'faces': '16,18', 'label': 'Coordination Check (Parallel Synergistic: Warging + Hall Prep)', 'roll': '2d20kh1+6'}
+  - {'type': 'Wisdom (Perception) via Warging to scout the Karstarks', 'result': 20, 'modifier': 6, 'faces': '14,5', 'label': 'Wisdom (Perception) via Warging to scout the Karstarks', 'roll': '2d20kh1+6'}
+  - {'type': 'Persuasion (Mystical Authority) to sway the Karstark Envoy', 'result': 11, 'modifier': 6, 'faces': '5,1', 'label': 'Persuasion (Mystical Authority) to sway the Karstark Envoy', 'roll': '2d20kh1+6'}
 
 Game Master:
 Midday (12:45:00). In the minutes before the Karstark riders entered the castle, your consciousness was already among them. Through the eyes of a black-winged raven perched atop the gatehouse, you watched Torrhen Karstark and his six retainers. They sat stiffly in their saddles, their hands twitching near their sword hilts. 
@@ -641,7 +642,7 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 130/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion (Mystical History) to calm Torrhen Karstark', 'result': 16, 'type': 'Persuasion (Mystical History) to calm Torrhen Karstark', 'modifier': 6, 'faces': '10,3'}
+  - {'type': 'Persuasion (Mystical History) to calm Torrhen Karstark', 'result': 16, 'modifier': 6, 'faces': '10,3', 'label': 'Persuasion (Mystical History) to calm Torrhen Karstark', 'roll': '2d20kh1+6'}
 
 Game Master:
 Midday (13:00:00). The Great Hall remained frozen in a state of brittle tension, the Karstark men-at-arms tensing like wolves cornered in a trap. You did not move, nor did your voice rise in anger. Instead, you allowed the 'Permanent Foresight' to ground you, seeing the ripples of Torrhen's fear and the ancient, echoing history of the stones beneath your wheels.
@@ -673,8 +674,8 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 165/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Coordination', 'result': 26, 'type': 'Coordination', 'modifier': 6, 'faces': '20,10'}
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion', 'result': 26, 'type': 'Persuasion', 'modifier': 6, 'faces': '20,16'}
+  - {'type': 'Coordination', 'result': 26, 'modifier': 6, 'faces': '20,10', 'label': 'Coordination', 'roll': '2d20kh1+6'}
+  - {'type': 'Persuasion', 'result': 26, 'modifier': 6, 'faces': '20,16', 'label': 'Persuasion', 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (13:15:00). The Great Hall of Winterfell seemed to grow colder, the shadows stretching long across the floor as you leaned back in your chair. You reached out with your mind, not to track a physical enemy, but to weave a thread of possibility into the mind of the man standing before you. 
@@ -708,8 +709,8 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 205/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion to formalize the Karstark oath', 'result': 22, 'type': 'Persuasion to formalize the Karstark oath', 'modifier': 6, 'faces': '16,2'}
-  - {'roll': '2d20kh1+6', 'label': "Intimidation/Persuasion to reveal the Night King's threat", 'result': 20, 'type': "Intimidation/Persuasion to reveal the Night King's threat", 'modifier': 6, 'faces': '13,14'}
+  - {'type': 'Persuasion to formalize the Karstark oath', 'result': 22, 'modifier': 6, 'faces': '16,2', 'label': 'Persuasion to formalize the Karstark oath', 'roll': '2d20kh1+6'}
+  - {'type': "Intimidation/Persuasion to reveal the Night King's threat", 'result': 20, 'modifier': 6, 'faces': '13,14', 'label': "Intimidation/Persuasion to reveal the Night King's threat", 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (13:30:00). The shadows of the Great Hall seemed to deepen, drawing in toward the dais as Torrhen Karstark remained on his knees. You leaned forward, the wheels of your chair making a soft, lonely sound against the stone. You did not ask him to rise yet; the weight of the moment required the full gravity of the Stark heritage.
@@ -765,8 +766,8 @@ Status: Lvl 1 Bran Stark | HP: 9/9 | Gold: 25 | XP: 280/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Umber Unification', 'result': 25, 'type': 'Umber Unification', 'modifier': 6, 'faces': '8,19'}
-  - {'roll': '2d20kh1+6', 'label': 'Night King Tracking', 'result': 20, 'type': 'Night King Tracking', 'modifier': 6, 'faces': '10,14'}
+  - {'type': 'Umber Unification', 'result': 25, 'modifier': 6, 'faces': '8,19', 'label': 'Umber Unification', 'roll': '2d20kh1+6'}
+  - {'type': 'Night King Tracking', 'result': 20, 'modifier': 6, 'faces': '10,14', 'label': 'Night King Tracking', 'roll': '2d20kh1+6'}
 
 Game Master:
 The fortnight following the Karstark submission was a blur of shifting snows and silent victories. While your physical body rested in the Solar or by the hearth of the Great Hall, your mind was a sentinel, soaring across the North. In your trances, you found the young Ned Umber (Lvl 2) at Last Hearth; through a series of ravens and a vision shared in the dark of his own godswood, you convinced him that the Starks had truly returned with the power of the Old Gods. The Umbers have marched, their wagons filled with the last of their harvest, seeking the safety of Winterfell's walls.
@@ -795,10 +796,10 @@ Status: Lvl 1 Bran Stark (Lvl 2 available) | HP: 9/9 | Gold: 25 | XP: 310/300
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Portent: 2/2 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion: Formalizing the Regency and Military Command', 'result': 20, 'type': 'Persuasion: Formalizing the Regency and Military Command', 'modifier': 6, 'faces': '14,13'}
-  - {'roll': '2d20kh1+6', 'label': 'Intelligence: Strategic defense planning with Jon and Sansa', 'result': 23, 'type': 'Intelligence: Strategic defense planning with Jon and Sansa', 'modifier': 6, 'faces': '8,17'}
-  - {'roll': '2d20kh1+6', 'label': 'Wisdom: Scouting for potential allies in the South via Greensight', 'result': 20, 'type': 'Wisdom: Scouting for potential allies in the South via Greensight', 'modifier': 6, 'faces': '14,7'}
-  - {'roll': '2d20kh1+6', 'label': 'Wisdom: Telepathically projecting the White Walker threat to Daenerys', 'result': 24, 'type': 'Wisdom: Telepathically projecting the White Walker threat to Daenerys', 'modifier': 6, 'faces': '12,18'}
+  - {'type': 'Persuasion: Formalizing the Regency and Military Command', 'result': 20, 'modifier': 6, 'faces': '14,13', 'label': 'Persuasion: Formalizing the Regency and Military Command', 'roll': '2d20kh1+6'}
+  - {'type': 'Intelligence: Strategic defense planning with Jon and Sansa', 'result': 23, 'modifier': 6, 'faces': '8,17', 'label': 'Intelligence: Strategic defense planning with Jon and Sansa', 'roll': '2d20kh1+6'}
+  - {'type': 'Wisdom: Scouting for potential allies in the South via Greensight', 'result': 20, 'modifier': 6, 'faces': '14,7', 'label': 'Wisdom: Scouting for potential allies in the South via Greensight', 'roll': '2d20kh1+6'}
+  - {'type': 'Wisdom: Telepathically projecting the White Walker threat to Daenerys', 'result': 24, 'modifier': 6, 'faces': '12,18', 'label': 'Wisdom: Telepathically projecting the White Walker threat to Daenerys', 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (14:15:00). The wind howled through the courtyard of Winterfell, whipping the Stark banners into a frenzy of grey and white. You sat in your chair, flanked by Jon and Sansa, looking out over the sea of Northern faces—Glover, Manderly, Umber, and a hundred lesser knights. The 'Permanent Foresight' showed you the weight of their expectations, a heavy, silent pressure that neither your father nor your grandfather ever had to face. They were not just fighting for a crown; they were fighting against extinction.
@@ -879,7 +880,7 @@ Status: Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 310/900
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': "Insight to gauge Jon's unsaid feelings about Daenerys and his report", 'result': 20, 'type': "Insight to gauge Jon's unsaid feelings about Daenerys and his report", 'modifier': 6, 'faces': '14,8'}
+  - {'type': "Insight to gauge Jon's unsaid feelings about Daenerys and his report", 'result': 20, 'modifier': 6, 'faces': '14,8', 'label': "Insight to gauge Jon's unsaid feelings about Daenerys and his report", 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (14:45:00). The Solar was quiet, save for the crackle of the dying fire and the rasp of Jon's breathing as he recounted his time on the jagged cliffs of Dragonstone. You sat perfectly still, your 'Permanent Foresight' allowing you to see not just Jon, but the ripples of his experiences—the salt spray of the Narrow Sea and the terrifying, magnificent heat of the dragons.
@@ -908,8 +909,8 @@ Status: Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion to convince Jon of the truth and the political plan', 'result': 20, 'type': 'Persuasion to convince Jon of the truth and the political plan', 'modifier': 6, 'faces': '14,6'}
-  - {'roll': '2d20kh1+6', 'label': "Insight to read Jon's reaction", 'result': 18, 'type': "Insight to read Jon's reaction", 'modifier': 6, 'faces': '12,5'}
+  - {'type': 'Persuasion to convince Jon of the truth and the political plan', 'result': 20, 'modifier': 6, 'faces': '14,6', 'label': 'Persuasion to convince Jon of the truth and the political plan', 'roll': '2d20kh1+6'}
+  - {'type': "Insight to read Jon's reaction", 'result': 18, 'modifier': 6, 'faces': '12,5', 'label': "Insight to read Jon's reaction", 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (15:15:00). The fire in the Solar had burned down to embers, the room dimming as the heavy winter clouds thickened outside. You sat in the center of the room, your white eyes slowly clearing as you returned from the currents of time. Jon sat opposite you, his hands clasped so tightly his knuckles were white. Sansa stood behind your chair, her hand a cold, steady weight on your shoulder.
@@ -951,7 +952,7 @@ Status: Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion to convince Jon of the sovereignty/marriage compromise', 'result': 13, 'type': 'Persuasion to convince Jon of the sovereignty/marriage compromise', 'modifier': 6, 'faces': '5,7'}
+  - {'type': 'Persuasion to convince Jon of the sovereignty/marriage compromise', 'result': 13, 'modifier': 6, 'faces': '5,7', 'label': 'Persuasion to convince Jon of the sovereignty/marriage compromise', 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (15:30:00). You leaned forward, the shadows of the Solar lengthening as you laid out the architecture of a new world. "Trust is not a gift, Jon; it is a trade," you said, your voice steady despite the gravity of the proposal. "If you renounce your claim and stand by her side as King Consort, you remove the one thing that could turn her into a tyrant: the fear of a rival. You become the bridge between the Dragon and the Wolf."
@@ -979,7 +980,7 @@ Status: Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion to convince Jon to accept the marriage and sovereignty plan', 'result': 21, 'type': 'Persuasion to convince Jon to accept the marriage and sovereignty plan', 'modifier': 6, 'faces': '15,1'}
+  - {'type': 'Persuasion to convince Jon to accept the marriage and sovereignty plan', 'result': 21, 'modifier': 6, 'faces': '15,1', 'label': 'Persuasion to convince Jon to accept the marriage and sovereignty plan', 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (15:40:00). You watched the flickering light of the hearth reflect in Jon's eyes, the 'Permanent Foresight' showing you the divergent paths of his heart. You didn't push him with the cold weight of destiny; instead, you leaned back, your voice carrying a trace of the brother he used to hunt with in the Wolfswood.
@@ -1009,7 +1010,7 @@ Status: Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion: Showing Jon the tragic future to secure his commitment', 'result': 11, 'type': 'Persuasion: Showing Jon the tragic future to secure his commitment', 'modifier': 6, 'faces': '4,5'}
+  - {'type': 'Persuasion: Showing Jon the tragic future to secure his commitment', 'result': 11, 'modifier': 6, 'faces': '4,5', 'label': 'Persuasion: Showing Jon the tragic future to secure his commitment', 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (16:00:00). The embers in the hearth popped, a sharp sound in the heavy silence of the Solar. You turned your chair slightly, your milk-white gaze tracking a future that Jon had not yet lived. 
@@ -1047,8 +1048,8 @@ Status: Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 370/900
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion to ask Sansa to intervene', 'result': 14, 'type': 'Persuasion to ask Sansa to intervene', 'modifier': 6, 'faces': '3,8'}
-  - {'roll': '2d20kh1+6', 'label': "Insight to perceive Sansa's growing fear", 'result': 13, 'type': "Insight to perceive Sansa's growing fear", 'modifier': 6, 'faces': '4,7'}
+  - {'type': 'Persuasion to ask Sansa to intervene', 'result': 14, 'modifier': 6, 'faces': '3,8', 'label': 'Persuasion to ask Sansa to intervene', 'roll': '2d20kh1+6'}
+  - {'type': "Insight to perceive Sansa's growing fear", 'result': 13, 'modifier': 6, 'faces': '4,7', 'label': "Insight to perceive Sansa's growing fear", 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (16:15:00). The silence that followed the heavy thud of the door was stifling. You sat in your chair, the 'Permanent Foresight' continuing to weave threads of a dozen futures before your white eyes. You didn't move to follow Jon; you didn't have to. You could feel him in the courtyard, his heart beating like a trapped bird against the cold stone of his duty.
@@ -1079,7 +1080,7 @@ Status: Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 390/900
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Scrying on Sansa and Jon in the Godswood', 'result': 25, 'type': 'Scrying on Sansa and Jon in the Godswood', 'modifier': 6, 'faces': '19,7'}
+  - {'type': 'Scrying on Sansa and Jon in the Godswood', 'result': 25, 'modifier': 6, 'faces': '19,7', 'label': 'Scrying on Sansa and Jon in the Godswood', 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (16:30:00). You leaned back in your chair, your eyes clouding over as your consciousness drifted away from the Solar, riding the invisible currents of the Weirwood network. The 'Permanent Foresight' acted as a compass, guiding you through the static of the present until you found them in the Godswood. 
@@ -1112,7 +1113,7 @@ Status: Lvl 2 Bran Stark | HP: 15/15 | Gold: 25 | XP: 390/900
 Conditions: Crippled, Foresight | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Portent: 2/2 | Channel Divinity: 1/1 | Exhaustion: 0
 Dice Rolls:
-  - {'roll': '2d20kh1+6', 'label': 'Persuasion to comfort Jon and Sansa and explain the nature of his powers', 'result': 9, 'type': 'Persuasion to comfort Jon and Sansa and explain the nature of his powers', 'modifier': 6, 'faces': '2,3'}
+  - {'type': 'Persuasion to comfort Jon and Sansa and explain the nature of his powers', 'result': 9, 'modifier': 6, 'faces': '2,3', 'label': 'Persuasion to comfort Jon and Sansa and explain the nature of his powers', 'roll': '2d20kh1+6'}
 
 Game Master:
 Afternoon (17:30:00). You sat in the deepening gloom of the Solar, the only light coming from the dying embers of the hearth. You did not call for more wood; you did not need to see with your eyes to know that the room was cold. You waited, your 'Permanent Foresight' tracing the slow, heavy footsteps of your siblings as they ascended the spiral stairs. They were walking together, their rhythms synchronized—a silent pact of shared fear.

@@ -2,8 +2,8 @@
 title: "bg3 nocturne murder god (GREEN replay 2026-07-25)"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-green-replay-2026-07-25]
-date: 2026-07-27
-source_file: /tmp/campaign_daily_ingest/a0G7i0dkhayUrOWik4Qq/bg3 nocturne murder god _GREEN replay 2026-07-25__a0G7i0dk.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/a0G7i0dkhayUrOWik4Qq/bg3 nocturne murder god _GREEN replay 2026-07-25__a0G7i0dk.txt
 campaign_id: a0G7i0dkhayUrOWik4Qq
 entry_count: 1206
 user_email: "jleechan@worldarchitect.ai"

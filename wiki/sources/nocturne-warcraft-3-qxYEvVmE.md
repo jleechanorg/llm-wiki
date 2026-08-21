@@ -3,7 +3,7 @@ title: "nocturne warcraft 3"
 type: source
 tags: [campaign, worldarchitect, nocturne-warcraft-3]
 date: 2026-08-21
-source_file: /tmp/campaign_daily_ingest/qxYEvVmEy65QMyCATUaH/nocturne warcraft 3_qxYEvVmE.txt
+source_file: /tmp/wiki-fix-test/qxYEvVmEy65QMyCATUaH/nocturne warcraft 3_qxYEvVmE.txt
 campaign_id: qxYEvVmEy65QMyCATUaH
 entry_count: 954
 user_email: "jleechan@gmail.com"

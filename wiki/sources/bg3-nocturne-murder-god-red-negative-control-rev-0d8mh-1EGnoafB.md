@@ -2,8 +2,8 @@
 title: "bg3 nocturne murder god (RED negative-control rev-0d8mh)"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-red-negative-control-rev-0d8mh]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/1EGnoafBXCEFD2a4ACCY/bg3 nocturne murder god _RED negative-control rev-_1EGnoafB.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/1EGnoafBXCEFD2a4ACCY/bg3 nocturne murder god _RED negative-control rev-_1EGnoafB.txt
 campaign_id: 1EGnoafBXCEFD2a4ACCY
 entry_count: 1210
 user_email: "jleechan@gmail.com"

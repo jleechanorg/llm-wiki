@@ -2,12 +2,13 @@
 title: "Witcher Strat"
 type: source
 tags: [campaign, worldarchitect, witcher-strat]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/X08mM1iQEeUOp2r35OCS/Witcher Strat_X08mM1iQ.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/X08mM1iQEeUOp2r35OCS/Witcher Strat_X08mM1iQ.txt
 campaign_id: X08mM1iQEeUOp2r35OCS
 entry_count: 256
-last_updated_iso: 2026-07-13T02:33:40.374912+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

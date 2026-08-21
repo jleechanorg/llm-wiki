@@ -2,12 +2,13 @@
 title: "Stellaris - Nocturne V1 (repro 2spinners)"
 type: source
 tags: [campaign, worldarchitect, stellaris-nocturne-v1-repro-2spinners]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/0nj9266MG6fNQoUJ7uTz/Stellaris - Nocturne V1 _repro 2spinners__0nj9266M.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/0nj9266MG6fNQoUJ7uTz/Stellaris - Nocturne V1 _repro 2spinners__0nj9266M.txt
 campaign_id: 0nj9266MG6fNQoUJ7uTz
 entry_count: 443
-last_updated_iso: 2026-07-13T02:32:30.242243+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

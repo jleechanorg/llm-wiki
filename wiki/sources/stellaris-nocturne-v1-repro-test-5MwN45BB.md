@@ -2,12 +2,13 @@
 title: "Stellaris - Nocturne V1 (repro-test)"
 type: source
 tags: [campaign, worldarchitect, stellaris-nocturne-v1-repro-test]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/5MwN45BBcojDz9xG0g84/Stellaris - Nocturne V1 _repro-test__5MwN45BB.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/5MwN45BBcojDz9xG0g84/Stellaris - Nocturne V1 _repro-test__5MwN45BB.txt
 campaign_id: 5MwN45BBcojDz9xG0g84
 entry_count: 213
-last_updated_iso: 2026-07-13T02:32:40.666410+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

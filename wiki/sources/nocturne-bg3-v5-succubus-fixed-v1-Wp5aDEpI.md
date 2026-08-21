@@ -2,12 +2,13 @@
 title: "Nocturne bg3 v5 - succubus (fixed v1)"
 type: source
 tags: [campaign, worldarchitect, nocturne-bg3-v5-succubus-fixed-v1]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/Wp5aDEpITat6hlJRNx3H/Nocturne bg3 v5 - succubus _fixed v1__Wp5aDEpI.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/Wp5aDEpITat6hlJRNx3H/Nocturne bg3 v5 - succubus _fixed v1__Wp5aDEpI.txt
 campaign_id: Wp5aDEpITat6hlJRNx3H
 entry_count: 1338
-last_updated_iso: 2026-07-13T02:33:39.418277+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

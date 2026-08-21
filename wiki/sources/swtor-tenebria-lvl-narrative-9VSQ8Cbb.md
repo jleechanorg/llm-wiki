@@ -2,12 +2,13 @@
 title: "swtor - tenebria (lvl+narrative)"
 type: source
 tags: [campaign, worldarchitect, swtor-tenebria-lvl-narrative]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/9VSQ8CbbG8Nc9QORtsSR/swtor - tenebria _lvl_narrative__9VSQ8Cbb.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/9VSQ8CbbG8Nc9QORtsSR/swtor - tenebria _lvl_narrative__9VSQ8Cbb.txt
 campaign_id: 9VSQ8CbbG8Nc9QORtsSR
 entry_count: 132
-last_updated_iso: 2026-07-13T02:41:42.234848+00:00
-ingest_batch: batch-2026-07-12-50plus-repair
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

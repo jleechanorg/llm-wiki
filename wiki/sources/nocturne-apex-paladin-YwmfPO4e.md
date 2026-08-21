@@ -2,12 +2,13 @@
 title: "Nocturne apex paladin"
 type: source
 tags: [campaign, worldarchitect, nocturne-apex-paladin]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/YwmfPO4eXeWLBOoFLLg0/Nocturne apex paladin_YwmfPO4e.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/YwmfPO4eXeWLBOoFLLg0/Nocturne apex paladin_YwmfPO4e.txt
 campaign_id: YwmfPO4eXeWLBOoFLLg0
 entry_count: 425
-last_updated_iso: 2026-07-13T02:33:44.873952+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

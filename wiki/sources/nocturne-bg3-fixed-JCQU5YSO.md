@@ -2,8 +2,8 @@
 title: "nocturne (bg3) fixed"
 type: source
 tags: [campaign, worldarchitect, nocturne-bg3-fixed]
-date: 2026-08-18
-source_file: /tmp/campaign_daily_ingest/JCQU5YSOk1DgZVm1wLHV/nocturne _bg3_ fixed_JCQU5YSO.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/JCQU5YSOk1DgZVm1wLHV/nocturne _bg3_ fixed_JCQU5YSO.txt
 campaign_id: JCQU5YSOk1DgZVm1wLHV
 entry_count: 507
 user_email: "jleechan@gmail.com"

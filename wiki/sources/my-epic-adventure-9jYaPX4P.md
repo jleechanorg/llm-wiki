@@ -2,8 +2,8 @@
 title: "My Epic Adventure"
 type: source
 tags: [campaign, worldarchitect, my-epic-adventure]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/9jYaPX4PpVswNC4wgkfT/My Epic Adventure_9jYaPX4P.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/9jYaPX4PpVswNC4wgkfT/My Epic Adventure_9jYaPX4P.txt
 campaign_id: 9jYaPX4PpVswNC4wgkfT
 entry_count: 288
 user_email: "kevinzsalleh@gmail.com"

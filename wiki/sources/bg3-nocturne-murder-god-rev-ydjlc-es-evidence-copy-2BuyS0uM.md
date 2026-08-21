@@ -2,8 +2,8 @@
 title: "bg3 nocturne murder god (rev-ydjlc ES evidence copy)"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-rev-ydjlc-es-evidence-copy]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/2BuyS0uM2YBznsGavvoU/bg3 nocturne murder god _rev-ydjlc ES evidence cop_2BuyS0uM.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/2BuyS0uM2YBznsGavvoU/bg3 nocturne murder god _rev-ydjlc ES evidence cop_2BuyS0uM.txt
 campaign_id: 2BuyS0uM2YBznsGavvoU
 entry_count: 1208
 user_email: "jleechan@gmail.com"

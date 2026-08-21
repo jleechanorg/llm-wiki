@@ -2,12 +2,13 @@
 title: "Shadow heart "
 type: source
 tags: [campaign, worldarchitect, shadow-heart]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/DfeU0F059se9DDhTuOev/Shadow heart_DfeU0F05.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/DfeU0F059se9DDhTuOev/Shadow heart _DfeU0F05.txt
 campaign_id: DfeU0F059se9DDhTuOev
 entry_count: 111
-last_updated_iso: 2026-07-13T02:33:01.172931+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

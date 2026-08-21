@@ -2,12 +2,13 @@
 title: "Michele fried chicken"
 type: source
 tags: [campaign, worldarchitect, michele-fried-chicken]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/Ofn9aEEyvbHc8zdlCKpq/Michele fried chicken_Ofn9aEEy.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/Ofn9aEEyvbHc8zdlCKpq/Michele fried chicken_Ofn9aEEy.txt
 campaign_id: Ofn9aEEyvbHc8zdlCKpq
 entry_count: 84
-last_updated_iso: 2026-07-13T02:33:19.580464+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

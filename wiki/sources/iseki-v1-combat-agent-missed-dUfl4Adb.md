@@ -2,8 +2,8 @@
 title: "Iseki v1 (combat agent missed)"
 type: source
 tags: [campaign, worldarchitect, iseki-v1-combat-agent-missed]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/dUfl4Adb3oH6foczNFSZ/Iseki v1 _combat agent missed__dUfl4Adb.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/dUfl4Adb3oH6foczNFSZ/Iseki v1 _combat agent missed__dUfl4Adb.txt
 campaign_id: dUfl4Adb3oH6foczNFSZ
 entry_count: 124
 user_email: "jleechan@gmail.com"

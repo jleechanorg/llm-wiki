@@ -2,12 +2,13 @@
 title: "noctune bg3 v6 (bug-repro-test)"
 type: source
 tags: [campaign, worldarchitect, noctune-bg3-v6-bug-repro-test]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/ofsvdJwVjhD88CoJ50DS/noctune bg3 v6 _bug-repro-test__ofsvdJwV.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/ofsvdJwVjhD88CoJ50DS/noctune bg3 v6 _bug-repro-test__ofsvdJwV.txt
 campaign_id: ofsvdJwVjhD88CoJ50DS
 entry_count: 266
-last_updated_iso: 2026-07-13T02:34:08.636506+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

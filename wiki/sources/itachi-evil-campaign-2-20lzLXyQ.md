@@ -2,12 +2,13 @@
 title: "Itachi Evil Campaign 2"
 type: source
 tags: [campaign, worldarchitect, itachi-evil-campaign-2]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/20lzLXyQTcoLnHGCA3aW/Itachi Evil Campaign 2_20lzLXyQ.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/20lzLXyQTcoLnHGCA3aW/Itachi Evil Campaign 2_20lzLXyQ.txt
 campaign_id: 20lzLXyQTcoLnHGCA3aW
 entry_count: 1069
-last_updated_iso: 2026-07-13T02:32:33.297841+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 ============================================================

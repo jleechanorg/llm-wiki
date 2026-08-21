@@ -2,12 +2,13 @@
 title: "Derek"
 type: source
 tags: [campaign, worldarchitect, derek]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/oSpVZmb6hpgw74ITwZ1J/Derek_oSpVZmb6.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/oSpVZmb6hpgw74ITwZ1J/Derek_oSpVZmb6.txt
 campaign_id: oSpVZmb6hpgw74ITwZ1J
 entry_count: 50
-last_updated_iso: 2026-07-13T02:34:07.309248+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

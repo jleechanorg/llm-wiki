@@ -2,10 +2,10 @@
 title: "good doctor"
 type: source
 tags: [campaign, worldarchitect, good-doctor]
-date: 2026-08-18
-source_file: /tmp/campaign_daily_ingest/iQkmQoATtLFnGIweqnrQ/good doctor_iQkmQoAT.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/iQkmQoATtLFnGIweqnrQ/good doctor_iQkmQoAT.txt
 campaign_id: iQkmQoATtLFnGIweqnrQ
-entry_count: 98
+entry_count: 100
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill
@@ -203,7 +203,7 @@ Status: Lvl 6 Cleric (Medical Specialist) | HP: 45/45 | Gold: 1250gp | XP: 14000
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: Channel Divinity: 1/2, L1: 4/4, L2: 3/3, L3: 3/3
 Dice Rolls:
-  - {'label': 'Medicine Expertise (Diagnostic Stabilization)', 'result': 25, 'type': 'Medicine Expertise (Diagnostic Stabilization)', 'faces': '14', 'roll': '1d20+11', 'modifier': 11}
+  - {'type': 'Medicine Expertise (Diagnostic Stabilization)', 'result': 25, 'modifier': 11, 'faces': '14', 'label': 'Medicine Expertise (Diagnostic Stabilization)', 'roll': '1d20+11'}
 
 Game Master:
 The next thirty minutes pass in a blur of sterile plastic and rhythmic compressions. Morning (09:00:00). You move with a surgical grace that contradicts your youthful appearance, deploying your Ultrasound Tablet (Holy Symbol) to map the chaotic electrical storms in the patient's chest. You initiate a Rapid Triage (Channel Divinity: Preserve Life), sending a jolt of biological stabilization through the man's failing systems. Slowly, the violent tremors subside into a steady, shallow breath. The cyanosis—that terrifying blue tint to his lips—fades as his oxygen saturation climbs back into the safe zone.
@@ -237,7 +237,7 @@ Location: Boeing 777-300ER - Flight 814 (First Class Cabin)
 Status: Lvl 6 Cleric (Medical Specialist) | HP: 45/45 | Gold: $1,250 | XP: 14000/23000
 Conditions: Shy (Social Penalty) | Exhaustion: 0 | Inspiration: Yes]
 Dice Rolls:
-  - {'label': 'Perception Check', 'result': 11, 'type': 'Perception Check', 'faces': '3', 'roll': '1d20+8', 'modifier': 8}
+  - {'type': 'Perception Check', 'result': 11, 'modifier': 8, 'faces': '3', 'label': 'Perception Check', 'roll': '1d20+8'}
 
 Game Master:
 Morning (09:02:00). You keep your head down, the high-tensile titanium of your tablet frame cool against your fingertips as you lean over the patient in seat 1A. The clinical calm is still there, but the social weight of the cabin—the hushed whispers of the business class passengers, the rhythmic chime of the 'fasten seatbelt' sign—starts to bleed through your focus. Your face warms with a familiar, prickly heat. You reach into the leather seat pocket with a gloved hand, trying to avoid catching the patient's glazed, semi-conscious stare.
@@ -259,8 +259,8 @@ Location: Boeing 777-300ER - Flight 814 (First Class Cabin)
 Status: Lvl 6 Cleric (Medical Specialist) | HP: 45/45 | Gold: $1,250 | XP: 23000/23000
 Conditions: Shy (Social Penalty) | Exhaustion: 0 | Inspiration: Yes]
 Dice Rolls:
-  - {'label': 'Diagnostic Interpretation', 'result': 22, 'type': 'Diagnostic Interpretation', 'faces': '11', 'roll': '1d20+11', 'modifier': None}
-  - {'label': 'Augury Result', 'result': 4, 'type': 'Augury Result', 'faces': '4', 'roll': '1d100', 'modifier': None}
+  - {'type': 'Diagnostic Interpretation', 'result': 22, 'modifier': None, 'faces': '11', 'label': 'Diagnostic Interpretation', 'roll': '1d20+11'}
+  - {'type': 'Augury Result', 'result': 4, 'modifier': None, 'faces': '4', 'label': 'Augury Result', 'roll': '1d100'}
 🌍 Living World Updates (Debug):
 📊 Meta Information:
 
@@ -293,8 +293,8 @@ Location: Ambulance - En route to Queen's Medical Center
 Status: Lvl 7 Cleric (Medical Specialist) | HP: 53/53 | Gold: $1,250 | XP: 24200/34000
 Conditions: Shy (Social Penalty), Famous (Polarizing) | Exhaustion: 0 | Inspiration: Yes]
 Dice Rolls:
-  - {'label': 'Medicine Check', 'result': 29, 'type': 'Medicine Check', 'faces': '18', 'roll': '1d20+11', 'modifier': None}
-  - {'label': 'Social Check', 'result': 10, 'type': 'Social Check', 'faces': '10', 'roll': '1d20+0', 'modifier': None}
+  - {'type': 'Medicine Check', 'result': 29, 'modifier': None, 'faces': '18', 'label': 'Medicine Check', 'roll': '1d20+11'}
+  - {'type': 'Social Check', 'result': 10, 'modifier': None, 'faces': '10', 'label': 'Social Check', 'roll': '1d20+0'}
 
 Game Master:
 Morning (10:00:00). The First Class cabin is a landscape of hushed awe and sharp, whispering judgment. As you step away from the patient—now breathing with a deep, rhythmic perfection that defies the initial trauma—the intercom chimes with the pilot's voice announcing an emergency descent into Honolulu. 
@@ -327,7 +327,7 @@ Location: Tanaka Surgical Pavilion - Queen's Medical Center
 Status: Lvl 7 Cleric (Medical Specialist) | HP: 53/53 | Gold: $1,250 | XP: 25200/34000
 Conditions: Shy (Social Penalty), Famous (Polarizing) | Exhaustion: 0 | Inspiration: Yes]
 Dice Rolls:
-  - {'label': 'Social Check', 'result': 11, 'type': 'Social Check', 'faces': '11,10', 'roll': '2d20kh1+0', 'modifier': None}
+  - {'type': 'Social Check', 'result': 11, 'modifier': None, 'faces': '11,10', 'label': 'Social Check', 'roll': '2d20kh1+0'}
 
 Game Master:
 Midday (11:30:00). The wail of the ambulance siren dies an abrupt death as the vehicle lurches to a halt at the specialized trauma bay of the Tanaka Surgical Pavilion. The rear doors hiss open, and the humid, salty air of Honolulu is immediately replaced by the sharp, familiar scent of high-grade antiseptic. 
@@ -360,7 +360,7 @@ Location: Queen's Medical Center - ER Handoff
 Status: Lvl 7 Cleric (Medical Specialist) | HP: 53/53 | Gold: $1,250 | XP: 26300/34000
 Conditions: Shy (Social Penalty), Famous (Polarizing) | Exhaustion: 0 | Inspiration: Yes]
 Dice Rolls:
-  - {'label': 'Medicine Check', 'result': 15, 'type': 'Medicine Check', 'faces': '4', 'roll': '1d20+11', 'modifier': 11}
+  - {'type': 'Medicine Check', 'result': 15, 'modifier': 11, 'faces': '4', 'label': 'Medicine Check', 'roll': '1d20+11'}
 
 Game Master:
 Midday (11:45:00). The ambulance doors swing open to a wall of professional urgency at Queen's Medical Center. You emerge from the back of the vehicle, your slight frame momentarily dwarfed by the massive architecture of the Tanaka Surgical Pavilion. The receiving trauma team—four residents and two senior attendings—freezes as they recognize you. Despite your striking, 0.1% aesthetics that usually draw breathless admiration, you keep your eyes locked on the gurney's vitals monitor, your face a mask of clinical detachment that masks a racing heart.
@@ -389,7 +389,7 @@ Location: Queen's Medical Center - ER Handoff
 Status: Lvl 7 Cleric (Medical Specialist) | HP: 53/53 | Gold: $1,250 | XP: 26300/34000
 Conditions: Shy (Social Penalty), Famous (Polarizing) | Exhaustion: 0 | Inspiration: Yes]
 Dice Rolls:
-  - {'label': 'Social Check (Advantage)', 'result': 18, 'type': 'Social Check (Advantage)', 'faces': '18,20', 'roll': '2d20kh1-2', 'modifier': -2}
+  - {'type': 'Social Check (Advantage)', 'result': 18, 'modifier': -2, 'faces': '18,20', 'label': 'Social Check (Advantage)', 'roll': '2d20kh1-2'}
 
 Game Master:
 Noon (12:00:00). The transition from the chaos of the ER to the glass-walled corridors of the Tanaka Surgical Pavilion is a blur of high-gloss floors and whispering residents. You walk quickly, your oversized scrubs swishing with each step, your Ultrasound Tablet (Holy Symbol) clutched against your chest like a shield. Chloe Sterling walks beside you, her lead-flight-attendant posture radiating a calm that offsets your own visible tension. Behind you, Captain David Miller looms like a silent shadow, his eyes never stopping their rhythmic sweep of the hospital's security cameras.
@@ -420,7 +420,7 @@ Location: Tanaka Surgical Pavilion - Executive Wing
 Status: Lvl 7 Cleric (Medical Specialist) | HP: 53/53 | Gold: $1,250 | XP: 26300/34000
 Conditions: Shy (Social Penalty), Famous (Polarizing) | Exhaustion: 0 | Inspiration: Yes]
 Dice Rolls:
-  - {'label': 'Social Check (Advantage)', 'result': 5, 'type': 'Social Check (Advantage)', 'faces': '5,1', 'roll': '2d20kh1+0', 'modifier': None}
+  - {'type': 'Social Check (Advantage)', 'result': 5, 'modifier': None, 'faces': '5,1', 'label': 'Social Check (Advantage)', 'roll': '2d20kh1+0'}
 
 Game Master:
 Noon (12:00:00). The transition from the chaos of the ER to the glass-walled corridors of the Tanaka Surgical Pavilion is a blur of high-gloss floors and whispering residents. You walk quickly, your oversized scrubs swishing with each step, your Ultrasound Tablet (Holy Symbol) clutched against your chest like a shield. Chloe Sterling (Lvl 6) walks beside you, her lead-flight-attendant posture radiating a calm that offsets your own visible tension. Behind you, Captain David Miller (Lvl 6) looms like a silent shadow, his eyes never stopping their rhythmic sweep of the hospital's security cameras.
@@ -502,8 +502,8 @@ Location: Tanaka Surgical Pavilion - Executive Wing
 Status: Lvl 7 Cleric (Medical Specialist) | HP: 53/53 | Gold: $1,250 | XP: 26300/34000
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Dice Rolls:
-  - {'label': 'Social - Managing professional introduction with Marcus Andrews', 'result': 11, 'type': 'Social - Managing professional introduction with Marcus Andrews', 'faces': '5,13', 'roll': '2d20kh1-2', 'modifier': -2}
-  - {'label': 'Medicine - Demonstrating technical mastery to the surgical board', 'result': 18, 'type': 'Medicine - Demonstrating technical mastery to the surgical board', 'faces': '7', 'roll': '1d20+11', 'modifier': 11}
+  - {'type': 'Social - Managing professional introduction with Marcus Andrews', 'result': 11, 'modifier': -2, 'faces': '5,13', 'label': 'Social - Managing professional introduction with Marcus Andrews', 'roll': '2d20kh1-2'}
+  - {'type': 'Medicine - Demonstrating technical mastery to the surgical board', 'result': 18, 'modifier': 11, 'faces': '7', 'label': 'Medicine - Demonstrating technical mastery to the surgical board', 'roll': '1d20+11'}
 
 Game Master:
 Midday (12:15:00). The glass-walled corridors of the Tanaka Surgical Pavilion are a landscape of high-gloss floors and hushed, sharp whispers. You walk quickly, your oversized scrubs swishing with each step, your Ultrasound Tablet (Holy Symbol) clutched against your chest like a shield. Chloe Sterling (Lvl 6) walks beside you, her lead-flight-attendant posture radiating a professional calm that offsets your visible tension. Behind you, Captain David Miller (Lvl 6) looms like a silent shadow, his eyes never stopping their rhythmic sweep of the hospital's security cameras.
@@ -661,7 +661,7 @@ Status: Lvl 7 Gestalt Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 26300/
 Conditions: Shy (Social Penalty), Famous (Polarizing) | Exhaustion: 0 | Inspiration: Yes]
 Resources: Channel Divinity: 1/2 | L1: 4/4, L2: 3/3, L3: 3/3, L4: 1/1
 Dice Rolls:
-  - {'label': "Social Check (Navigating Vane's personal/professional pressure)", 'result': 17, 'type': "Social Check (Navigating Vane's personal/professional pressure)", 'faces': '17', 'roll': '1d20+0', 'modifier': 0}
+  - {'type': "Social Check (Navigating Vane's personal/professional pressure)", 'result': 17, 'modifier': 0, 'faces': '17', 'label': "Social Check (Navigating Vane's personal/professional pressure)", 'roll': '1d20+0'}
 
 Game Master:
 Afternoon (16:00:00). Four hours of intensive monitoring and molecular screening pass in the pressurized silence of your private lab. You arrive at the VIP Isolation Suite, your footsteps nearly silent on the high-gloss floors. The heavy security door slides open to reveal a scene of quiet, high-stakes intensity. 
@@ -736,7 +736,7 @@ Status: Lvl 7 Gestalt Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 26300/
 Conditions: Intimidated (Social Failure), Shy (Social Penalty) | Exhaustion: 0 | Inspiration: Yes]
 Resources: Channel Divinity: 1/2 | L1: 4/4, L2: 3/3, L3: 3/3, L4: 1/1
 Dice Rolls:
-  - {'label': 'Social Check (Technical Deflection of Adoption Offer)', 'result': 3, 'type': 'Social Check (Technical Deflection of Adoption Offer)', 'faces': '3', 'roll': '1d20+0', 'modifier': 0}
+  - {'type': 'Social Check (Technical Deflection of Adoption Offer)', 'result': 3, 'modifier': 0, 'faces': '3', 'label': 'Social Check (Technical Deflection of Adoption Offer)', 'roll': '1d20+0'}
 
 Game Master:
 Afternoon (16:10:00). The air in the VIP suite feels suddenly thin, as if Silas Vane’s presence is consuming all the available oxygen. You feel a familiar, cold prickle of sweat at the base of your neck. You hunch your shoulders so tightly they ache, your chin nearly touching your chest as you stare with agonizing intensity at the fluctuating heart-rate graph on your tablet. 
@@ -806,7 +806,7 @@ Status: Lvl 7 Gestalt Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 26300/
 Conditions: Shy (Social Penalty), Famous (Polarizing), Insightful | Exhaustion: 0 | Inspiration: Yes]
 Resources: Channel Divinity: 1/2 | L1: 4/4, L2: 3/3, L3: 3/3, L4: 1/1
 Dice Rolls:
-  - {'label': 'Insight Check', 'result': 15, 'type': 'Insight Check', 'faces': '5', 'roll': '1d20+10', 'modifier': 10}
+  - {'type': 'Insight Check', 'result': 15, 'modifier': 10, 'faces': '5', 'label': 'Insight Check', 'roll': '1d20+10'}
 
 Game Master:
 Afternoon (16:12:00). Your technical bombardment of bio-sensor recalibration and frontal lobe variances fills the room like a localized storm of clinical data. You keep your eyes locked on the rhythmic green spikes of the EKG on your tablet, your hands trembling just enough to make the stylus tap against the screen. You can feel Silas Vane’s proprietary gaze—it is charismatic, warm, and utterly possessive. He doesn’t see a shy teenager struggling to breathe; he sees a legacy he has already begun to anchor to his own.
@@ -833,7 +833,7 @@ Status: Lvl 7 Gestalt Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 26300/
 Conditions: Famous (Polarizing), Shy (Social Penalty) | Exhaustion: 0 | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | L1: 4/4, L2: 3/3, L3: 3/3, L4: 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': 'Orientation Social Check', 'result': 15, 'type': 'Orientation Social Check', 'faces': '20,17', 'roll': '2d20kl1-2', 'modifier': -2}
+  - {'type': 'Orientation Social Check', 'result': 15, 'modifier': -2, 'faces': '20,17', 'label': 'Orientation Social Check', 'roll': '2d20kl1-2'}
 
 Game Master:
 Morning (08:00:00). You emerge from your private research lab after a night of deep molecular pathology, your oversized scrubs wrinkled but your mind sharpened by the rhythmic hum of the centrifuges. A Long Rest in the staff bunk provides a brief, dreamless escape from Silas Vane’s charismatic entrapment, restoring your biological and arcane processing nodes to full capacity.
@@ -917,8 +917,8 @@ Status: Lvl 7 Gestalt Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 27300/
 Conditions: Social Pariah (Critical Failure), Famous (Polarizing), Sanctuary | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | L1: 4/4, L2: 3/3, L3: 3/3, L4: 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': "Clinical Mastery under 'Sink or Swim' pressure", 'result': 20, 'type': "Clinical Mastery under 'Sink or Swim' pressure", 'faces': '9', 'roll': '1d20+11', 'modifier': 11}
-  - {'label': 'Social Navigation vs. Peer Resentment', 'result': 1, 'type': 'Social Navigation vs. Peer Resentment', 'faces': '1,9', 'roll': '2d20kl1+0', 'modifier': 0}
+  - {'type': "Clinical Mastery under 'Sink or Swim' pressure", 'result': 20, 'modifier': 11, 'faces': '9', 'label': "Clinical Mastery under 'Sink or Swim' pressure", 'roll': '1d20+11'}
+  - {'type': 'Social Navigation vs. Peer Resentment', 'result': 1, 'modifier': 0, 'faces': '1,9', 'label': 'Social Navigation vs. Peer Resentment', 'roll': '2d20kl1+0'}
 
 Game Master:
 Midday (12:30:00). The morning rotation was a study in jarring contradictions. By 09:30 AM, Silas Vane had already bypasssed the senior attendings to assign you a 'Sink or Swim' trauma: a complex biological rejection in a high-profile athlete with a Vane-Biotech neural uplink. In the sterile, silent vacuum of the Operating Room, you were a god. Your fingers moved with a speed that blurred the line between surgical skill and arcane rhythm. You stabilized the patient in half the projected time, the 'Clinical Mastery' of your fingers leaving the assisting residents in a state of stunned, resentful silence.
@@ -963,7 +963,7 @@ Status: Lvl 7 Gestalt Cleric/Wizard | HP: 53/53 (Temp: 0) | Gold: $1,250 | XP: 2
 Conditions: Social Pariah (Morgan Conflict), Sanctuary, Famous (Polarizing) | Exhaustion: 0 | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | L1: 4/4, L2: 3/3, L3: 3/3, L4: 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': 'Investigation Check', 'result': 28, 'type': 'Investigation Check', 'faces': '20', 'roll': '1d20+8', 'modifier': 8}
+  - {'type': 'Investigation Check', 'result': 28, 'modifier': 8, 'faces': '20', 'label': 'Investigation Check', 'roll': '1d20+8'}
 
 Game Master:
 Midday (12:50:00). You retreat to the furthest corner of the mahogany-paneled lounge, the plush velvet armchair nearly swallowing your slight frame. You pull your oversized lab coat around you like a cocoon, using the high-tensile frame of your diagnostic tablet to shield your face from Chloe and Captain Miller. The social humiliation at the hands of Morgan Reznick still stings, a phantom heat prickling at your cheeks, but as the screen flickers to life with the morning's surgical telemetry, that world begins to fade. 
@@ -1008,7 +1008,7 @@ Status: Lvl 7 Gestalt Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 27300/
 Conditions: Social Pariah (Morgan Conflict), Sanctuary, Famous (Polarizing) | Exhaustion: 0 | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': 'Perception Check', 'result': 13, 'type': 'Perception Check', 'faces': '5', 'roll': '1d20+8', 'modifier': 8}
+  - {'type': 'Perception Check', 'result': 13, 'modifier': 8, 'faces': '5', 'label': 'Perception Check', 'roll': '1d20+8'}
 
 Game Master:
 Midday (12:55:00). The sudden, hollow silence of the staff lounge is jarring. Chloe Sterling and Captain Miller have departed for their post-flight debriefings, leaving you alone with the rhythmic, neon-green spikes of the surgical telemetry. The tea Chloe left for you is still steaming, a faint scent of jasmine fighting against the pervasive smell of ozone and antiseptic. 
@@ -1037,7 +1037,7 @@ Status: Lvl 7 Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 27300/34000
 Conditions: Shy (Social Penalty), Famous (Polarizing), Sanctuary | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': 'Intelligence (Medicine) Check', 'result': 25, 'type': 'Intelligence (Medicine) Check', 'faces': '14', 'roll': '1d20+11', 'modifier': 11}
+  - {'type': 'Intelligence (Medicine) Check', 'result': 25, 'modifier': 11, 'faces': '14', 'label': 'Intelligence (Medicine) Check', 'roll': '1d20+11'}
 
 Game Master:
 Midday (12:57:00). You flinch as Dr. Claire Browne's shadow falls across your tablet, your shoulders hunching instinctively. The sudden proximity feels like a physical weight, and for a second, your mind blanks—the familiar, prickly heat of social anxiety beginning to climb your neck. But as she mentions the pathology report, you seize upon the technical prompt like a lifeline. You don't look up; instead, you focus entirely on the glowing neurotransmitter graph, your fingers flying across the screen to pull up the raw data.
@@ -1066,7 +1066,7 @@ Status: Lvl 7 Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 27300/34000
 Conditions: Shy (Social Penalty), Famous (Polarizing), Sanctuary | Exhaustion: 0 | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': 'Persuasion (Overcoming shyness to present clinical anomaly)', 'result': 10, 'type': 'Persuasion (Overcoming shyness to present clinical anomaly)', 'faces': '10,15', 'roll': '2d20kl1+0', 'modifier': 0}
+  - {'type': 'Persuasion (Overcoming shyness to present clinical anomaly)', 'result': 10, 'modifier': 0, 'faces': '10,15', 'label': 'Persuasion (Overcoming shyness to present clinical anomaly)', 'roll': '2d20kl1+0'}
 
 Game Master:
 Midday (13:00:00). You feel the air in the lounge grow heavy, the scent of Claire's jasmine tea suddenly cloying as your heart hammers a frantic rhythm against your ribs. You want to point to the screen, to explain the 0.004% neurotransmitter variance that proves Silas Vane's experimental firmware update was a failure. You want to say 'crash,' not 'seizure.'
@@ -1095,8 +1095,8 @@ Status: Lvl 7 Cleric/Wizard | HP: 53/53 | Gold: $1,250 | XP: 27900/34000
 Conditions: Social Pariah (Morgan Conflict), Sanctuary, Famous (Polarizing) | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': 'Social Check', 'result': 6, 'type': 'Social Check', 'faces': '6', 'roll': '1d20+0', 'modifier': 0}
-  - {'label': 'Sleight of Hand (Technical)', 'result': 19, 'type': 'Sleight of Hand (Technical)', 'faces': '12', 'roll': '1d20+7', 'modifier': 7}
+  - {'type': 'Social Check', 'result': 6, 'modifier': 0, 'faces': '6', 'label': 'Social Check', 'roll': '1d20+0'}
+  - {'type': 'Sleight of Hand (Technical)', 'result': 19, 'modifier': 7, 'faces': '12', 'label': 'Sleight of Hand (Technical)', 'roll': '1d20+7'}
 
 Game Master:
 Midday (13:05:00). You feel Dr. Claire Browne's gaze like a spotlight, and the heat in your face reaches a fever pitch. Your social anxiety screams for you to flee, but the technical imperative—the need to protect the 'smoking gun' while maintaining professional cover—forces a desperate sort of composure. 
@@ -1129,7 +1129,7 @@ Status: Lvl 7 Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 28000/34000
 Conditions: Social Collapse (Critical Failure), Famous (Polarizing), Sanctuary | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': 'Social Check (Persuasion)', 'result': 1, 'type': 'Social Check (Persuasion)', 'faces': '3,1', 'roll': '2d20kh1-2', 'modifier': -2}
+  - {'type': 'Social Check (Persuasion)', 'result': 1, 'modifier': -2, 'faces': '3,1', 'label': 'Social Check (Persuasion)', 'roll': '2d20kh1-2'}
 
 Game Master:
 Midday (13:10:00). You remain frozen for a long, agonizing heartbeat, the only sound in the lounge being the faint, high-frequency whine of your tablet's cooling fan. You look at Dr. Claire Browne, your breath hitching in your throat. Your mind, a fortress of molecular pathology and genomics, is currently a chaotic storm of social static. 
@@ -1160,7 +1160,7 @@ Status: Lvl 7 Cleric/Wizard | HP: 53/53 | INT: 20 | WIS: 20 | XP: 28000/34000
 Conditions: Technical Armor (Composure), Famous (Polarizing), Sanctuary | Inspiration: Yes]
 Resources: Channel Divinity: 2/2 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 1/1 | Arcane Recovery: 1/day
 Dice Rolls:
-  - {'label': 'Intelligence (Medicine) Check', 'result': 30, 'type': 'Intelligence (Medicine) Check', 'faces': '19,8', 'roll': '2d20kh1+11', 'modifier': 11}
+  - {'type': 'Intelligence (Medicine) Check', 'result': 30, 'modifier': 11, 'faces': '19,8', 'label': 'Intelligence (Medicine) Check', 'roll': '2d20kh1+11'}
 
 Game Master:
 Midday (13:15:00). You close your eyes, forcing a slow, shuddering breath into your lungs as you count the prime numbers between one and one hundred—a familiar cognitive anchor. The social static doesn't vanish, but it recedes behind a wall of cold, analytical logic. When you open your eyes, the tremor in your fingers is gone, replaced by the stillness of a master surgeon. 

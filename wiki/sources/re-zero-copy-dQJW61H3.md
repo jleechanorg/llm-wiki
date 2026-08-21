@@ -2,12 +2,13 @@
 title: "Re: zero (copy)"
 type: source
 tags: [campaign, worldarchitect, re-zero-copy]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/dQJW61H3AGa5yn5BqzsS/Re_ zero _copy__dQJW61H3.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/dQJW61H3AGa5yn5BqzsS/Re_ zero _copy__dQJW61H3.txt
 campaign_id: dQJW61H3AGa5yn5BqzsS
 entry_count: 158
-last_updated_iso: 2026-07-13T02:32:08.450109+00:00
-ingest_batch: batch-2026-07-12-50plus-smoke
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

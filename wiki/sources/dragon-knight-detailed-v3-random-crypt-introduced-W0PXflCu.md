@@ -2,12 +2,13 @@
 title: "Dragon knight detailed v3 - random crypt introduced"
 type: source
 tags: [campaign, worldarchitect, dragon-knight-detailed-v3-random-crypt-introduced]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/W0PXflCumLINi52RMgJ4/Dragon knight detailed v3 - random crypt introduce_W0PXflCu.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/W0PXflCumLINi52RMgJ4/Dragon knight detailed v3 - random crypt introduce_W0PXflCu.txt
 campaign_id: W0PXflCumLINi52RMgJ4
 entry_count: 69
-last_updated_iso: 2026-07-13T02:33:35.751408+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

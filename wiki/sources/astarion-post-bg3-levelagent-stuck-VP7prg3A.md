@@ -2,12 +2,13 @@
 title: "astarion post bg3 (levelagent stuck)"
 type: source
 tags: [campaign, worldarchitect, astarion-post-bg3-levelagent-stuck]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/VP7prg3AqYTF8skykyer/astarion post bg3 _levelagent stuck__VP7prg3A.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/VP7prg3AqYTF8skykyer/astarion post bg3 _levelagent stuck__VP7prg3A.txt
 campaign_id: VP7prg3AqYTF8skykyer
 entry_count: 194
-last_updated_iso: 2026-07-13T02:33:34.009490+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

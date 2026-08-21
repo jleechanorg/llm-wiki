@@ -2,8 +2,8 @@
 title: "Dragon Warrioress"
 type: source
 tags: [campaign, worldarchitect, dragon-warrioress]
-date: 2026-08-17
-source_file: /tmp/campaign_daily_ingest/adtDKJlSK83lnaKNgY2t/Dragon Warrioress_adtDKJlS.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/adtDKJlSK83lnaKNgY2t/Dragon Warrioress_adtDKJlS.txt
 campaign_id: adtDKJlSK83lnaKNgY2t
 entry_count: 68
 user_email: "nordicsuccubus@proton.me"

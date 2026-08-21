@@ -2,12 +2,13 @@
 title: "Thay trader (lvl 14 no planning block)"
 type: source
 tags: [campaign, worldarchitect, thay-trader-lvl-14-no-planning-block]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/Fwq3dDjJZQMmKeA1Vj6O/Thay trader _lvl 14 no planning block__Fwq3dDjJ.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/Fwq3dDjJZQMmKeA1Vj6O/Thay trader _lvl 14 no planning block__Fwq3dDjJ.txt
 campaign_id: Fwq3dDjJZQMmKeA1Vj6O
 entry_count: 480
-last_updated_iso: 2026-07-13T02:41:46.492767+00:00
-ingest_batch: batch-2026-07-12-50plus-repair
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

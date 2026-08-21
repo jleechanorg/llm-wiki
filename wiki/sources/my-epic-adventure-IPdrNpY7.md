@@ -2,8 +2,8 @@
 title: "My Epic Adventure"
 type: source
 tags: [campaign, worldarchitect, my-epic-adventure]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/IPdrNpY7fJNPp5xfnxaP/My Epic Adventure_IPdrNpY7.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/IPdrNpY7fJNPp5xfnxaP/My Epic Adventure_IPdrNpY7.txt
 campaign_id: IPdrNpY7fJNPp5xfnxaP
 entry_count: 82
 user_email: "thiago.hirai@gmail.com"

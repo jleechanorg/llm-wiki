@@ -2,12 +2,13 @@
 title: "Arisocrat reborn Cain v1"
 type: source
 tags: [campaign, worldarchitect, arisocrat-reborn-cain-v1]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/jCJ5o7GMYz92TWB2lr9Y/Arisocrat reborn Cain v1_jCJ5o7GM.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/jCJ5o7GMYz92TWB2lr9Y/Arisocrat reborn Cain v1_jCJ5o7GM.txt
 campaign_id: jCJ5o7GMYz92TWB2lr9Y
 entry_count: 177
-last_updated_iso: 2026-07-13T02:33:58.376838+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

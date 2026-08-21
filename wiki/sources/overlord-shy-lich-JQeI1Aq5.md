@@ -2,10 +2,10 @@
 title: "Overlord shy lich"
 type: source
 tags: [campaign, worldarchitect, overlord-shy-lich]
-date: 2026-08-11
-source_file: /tmp/campaign_daily_ingest/JQeI1Aq5YGnAuuuGIlDK/Overlord shy lich_JQeI1Aq5.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/JQeI1Aq5YGnAuuuGIlDK/Overlord shy lich_JQeI1Aq5.txt
 campaign_id: JQeI1Aq5YGnAuuuGIlDK
-entry_count: 336
+entry_count: 397
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill
@@ -626,9 +626,9 @@ Status: Lvl 20 Bladesinger/Monk | HP: 243/243 | Gold: 7,200 (YGGDRASIL) | XP: 35
 Conditions: Mask of Fragility (DC 26) | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Ki: 20/20
 Dice Rolls:
-  - {'roll': '1d20+14', 'result': 20, 'label': 'Mask of Fragility Stealth (Intervening Softly)', 'modifier': 14, 'type': 'Mask of Fragility Stealth (Intervening Softly)', 'faces': '6'}
-  - {'roll': '1d20+12', 'result': 26, 'label': 'Perception (Spotting Raiders)', 'modifier': 12, 'type': 'Perception (Spotting Raiders)', 'faces': '14'}
-  - {'roll': '1d20+16', 'result': 18, 'label': 'Persuasion (Calming Enri Emmot)', 'modifier': 16, 'type': 'Persuasion (Calming Enri Emmot)', 'faces': '2'}
+  - {'type': 'Mask of Fragility Stealth (Intervening Softly)', 'result': 20, 'modifier': 14, 'faces': '6', 'label': 'Mask of Fragility Stealth (Intervening Softly)', 'roll': '1d20+14'}
+  - {'type': 'Perception (Spotting Raiders)', 'result': 26, 'modifier': 12, 'faces': '14', 'label': 'Perception (Spotting Raiders)', 'roll': '1d20+12'}
+  - {'type': 'Persuasion (Calming Enri Emmot)', 'result': 18, 'modifier': 16, 'faces': '2', 'label': 'Persuasion (Calming Enri Emmot)', 'roll': '1d20+16'}
 
 Game Master:
 The journey to Carne Village is short, yet the transition from the sterile, crystalline air of Nazarick to the humid, pine-scented breeze of the New World is jarring. You travel as a 'fragile' noble girl, Sebas walking stoically at your side in his butler's livery. As you crest the final ridge overlooking the village, the smell hits you first: smoke. Pungent, oily, and unmistakably coming from burning thatch.
@@ -761,8 +761,8 @@ Conditions: Mask of Fragility (DC 26) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 500 | 🏛️ Citizens: 14,000/25,000 | 💰 Gold: 7,200 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Ki: 20/20
 Dice Rolls:
-  - {'roll': '1d20+18', 'result': 28, 'label': 'Persuasion (Comforting Villagers with Aura and Beauty)', 'modifier': 18, 'type': 'Persuasion (Comforting Villagers with Aura and Beauty)', 'faces': '10'}
-  - {'roll': '1d20+10', 'result': 11, 'label': 'Intimidation (Subduing Slane Prisoners)', 'modifier': 10, 'type': 'Intimidation (Subduing Slane Prisoners)', 'faces': '1'}
+  - {'type': 'Persuasion (Comforting Villagers with Aura and Beauty)', 'result': 28, 'modifier': 18, 'faces': '10', 'label': 'Persuasion (Comforting Villagers with Aura and Beauty)', 'roll': '1d20+18'}
+  - {'type': 'Intimidation (Subduing Slane Prisoners)', 'result': 11, 'modifier': 10, 'faces': '1', 'label': 'Intimidation (Subduing Slane Prisoners)', 'roll': '1d20+10'}
 
 Game Master:
 Midday sun (12:00:00) filters through the drifting smoke of Carne, catching the starlight threads of your robe. The village square is a tableau of hushed reverence and lingering shock. Behind you, the ten elite knights—your 'Vanguard of the High House'—stand in flawless human forms, their silvered plate catching the light. To the terrified villagers, they look like legendary heroes; to the captured Slane raiders, they are an impossible nightmare.
@@ -796,8 +796,8 @@ Conditions: Mask of Fragility (DC 26) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 500 | 🏛️ Citizens: 14,000/25,000 | 💰 Gold: 7,200 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Ki: 20/20
 Dice Rolls:
-  - {'roll': '1d20+12', 'result': 19, 'label': 'Medicine (Healing Villagers)', 'modifier': 12, 'type': 'Medicine (Healing Villagers)', 'faces': '7'}
-  - {'roll': '1d20+18', 'result': 20, 'label': 'Persuasion (Polite Interrogation)', 'modifier': 18, 'type': 'Persuasion (Polite Interrogation)', 'faces': '2'}
+  - {'type': 'Medicine (Healing Villagers)', 'result': 19, 'modifier': 12, 'faces': '7', 'label': 'Medicine (Healing Villagers)', 'roll': '1d20+12'}
+  - {'type': 'Persuasion (Polite Interrogation)', 'result': 20, 'modifier': 18, 'faces': '2', 'label': 'Persuasion (Polite Interrogation)', 'roll': '1d20+18'}
 
 Game Master:
 The smoke begins to settle over Carne Village as the midday sun (12:30:00) beats down on the blood-stained mud. You move among the villagers, your hands trembling slightly—half from the genuine anxiety of so many eyes watching you, half to maintain the **Mask of Fragility**. You apply bandages and low-tier herbal salves with a grace that seems almost divine. Your beauty, enhanced by the starlight threads of your robe, acts as a soothing balm; the peasants gaze at you not as a noble, but as a descending angel. 
@@ -827,7 +827,7 @@ Status: Lvl 20 Bladesinger/Monk | HP: 243/243 | Gold: 7,200 (YGGDRASIL) | XP: 35
 Conditions: Mask of Fragility (DC 26) | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Ki: 20/20
 Dice Rolls:
-  - {'roll': '1d20+18', 'result': 19, 'label': 'Persuasion (Interrogating Knights with Synergistic Presence)', 'modifier': 18, 'type': 'Persuasion (Interrogating Knights with Synergistic Presence)', 'faces': '1'}
+  - {'type': 'Persuasion (Interrogating Knights with Synergistic Presence)', 'result': 19, 'modifier': 18, 'faces': '1', 'label': 'Persuasion (Interrogating Knights with Synergistic Presence)', 'roll': '1d20+18'}
 
 Game Master:
 The shadow of Sebas Tian and your ten silver-clad 'Vanguard' knights stretches long across the muddy square as the afternoon sun (12:45:00) begins its slow descent. You stand in the center of that shadow, your breathtaking beauty creating a jarring, surreal contrast with the lethal silence of your retinue. The lead knight of the Slane raiders stares up at you, his breathing shallow and ragged. He sees a girl who looks like a porcelain doll, yet she speaks of 'meanness' with the detached curiosity of a being who views his world as a child's toy box.
@@ -877,9 +877,9 @@ Conditions: Mask of Fragility (DC 26) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 500 | 🏛️ Citizens: 14,000/25,000 | 💰 Gold: 7,200 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Ki: 20/20
 Dice Rolls:
-  - {'roll': '1d20+18', 'result': 30, 'label': 'Persuasion (Interrogating Knights with Synergistic Presence)', 'modifier': 18, 'type': 'Persuasion (Interrogating Knights with Synergistic Presence)', 'faces': '12'}
-  - {'roll': '1d20+8', 'result': 17, 'label': 'Vanguard Forest Mapping', 'modifier': 8, 'type': 'Vanguard Forest Mapping', 'faces': '9'}
-  - {'roll': '1d100', 'result': 44, 'label': 'Unforeseen Complication Check', 'modifier': None, 'type': 'Unforeseen Complication Check', 'faces': '44'}
+  - {'type': 'Persuasion (Interrogating Knights with Synergistic Presence)', 'result': 30, 'modifier': 18, 'faces': '12', 'label': 'Persuasion (Interrogating Knights with Synergistic Presence)', 'roll': '1d20+18'}
+  - {'type': 'Vanguard Forest Mapping', 'result': 17, 'modifier': 8, 'faces': '9', 'label': 'Vanguard Forest Mapping', 'roll': '1d20+8'}
+  - {'type': 'Unforeseen Complication Check', 'result': 44, 'modifier': None, 'faces': '44', 'label': 'Unforeseen Complication Check', 'roll': '1d100'}
 
 Game Master:
 Early afternoon (13:00:00) brings a deceptive calm to Carne. You stand at the center of the village, the starlight threads of your robe shimmering as you gesture for your 'Vanguard' to disperse. Six of your silver-clad knights depart with rhythmic, inhumanly steady strides, disappearing into the Tob Forest to map the surrounding trails and ensure no further 'meanness' lurks in the shadows.
@@ -915,9 +915,9 @@ Conditions: Mask of Fragility (DC 26) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 500 | 🏛️ Citizens: 14,000/25,000 | 💰 Gold: 7,200 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Ki: 20/20
 Dice Rolls:
-  - {'roll': '1d20+18', 'result': 25, 'label': 'Final Persuasion push on Slane Survivors', 'modifier': 18, 'type': 'Final Persuasion push on Slane Survivors', 'faces': '7'}
-  - {'roll': '1d20+8', 'result': 16, 'label': 'Vanguard Forest Scouting', 'modifier': 8, 'type': 'Vanguard Forest Scouting', 'faces': '8'}
-  - {'roll': '1d20+10', 'result': 16, 'label': 'Imperial Auditor Scrutiny vs Mask DC 26', 'modifier': 10, 'type': 'Imperial Auditor Scrutiny vs Mask DC 26', 'faces': '6'}
+  - {'type': 'Final Persuasion push on Slane Survivors', 'result': 25, 'modifier': 18, 'faces': '7', 'label': 'Final Persuasion push on Slane Survivors', 'roll': '1d20+18'}
+  - {'type': 'Vanguard Forest Scouting', 'result': 16, 'modifier': 8, 'faces': '8', 'label': 'Vanguard Forest Scouting', 'roll': '1d20+8'}
+  - {'type': 'Imperial Auditor Scrutiny vs Mask DC 26', 'result': 16, 'modifier': 10, 'faces': '6', 'label': 'Imperial Auditor Scrutiny vs Mask DC 26', 'roll': '1d20+10'}
 
 Game Master:
 Two hours pass in a blur of soft-spoken questions and quiet, rhythmic labor. The afternoon sun (15:00:00) now hangs lower in the sky, casting long, dramatic shadows from the silver-clad knights standing guard around the square. You have spent the time sitting on a low stool, looking every bit the weary but resolute envoy, occasionally wincing at the 'scary' presence of the bound prisoners while Sebas Tian provides a looming, silent pressure.
@@ -1031,8 +1031,8 @@ Status: Lvl 20 Bladesinger/Monk | HP: 243/243 | Gold: 7,200 (YGGDRASIL) | XP: 36
 Conditions: Mask of Fragility (DC 26) | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Ki: 20/20
 Dice Rolls:
-  - {'roll': '1d20+8', 'result': 15, 'label': "Vanguard Elite Scouting (Nigun's Position)", 'modifier': 8, 'type': "Vanguard Elite Scouting (Nigun's Position)", 'faces': '7'}
-  - {'roll': '1d20+10', 'result': 11, 'label': "Sebas Perception (Spotting Gazef's approach)", 'modifier': 10, 'type': "Sebas Perception (Spotting Gazef's approach)", 'faces': '1'}
+  - {'type': "Vanguard Elite Scouting (Nigun's Position)", 'result': 15, 'modifier': 8, 'faces': '7', 'label': "Vanguard Elite Scouting (Nigun's Position)", 'roll': '1d20+8'}
+  - {'type': "Sebas Perception (Spotting Gazef's approach)", 'result': 11, 'modifier': 10, 'faces': '1', 'label': "Sebas Perception (Spotting Gazef's approach)", 'roll': '1d20+10'}
 
 Game Master:
 Afternoon shadows (16:00:00) stretch long across the valley floor as the wait for the Head Warrior begins. You sit upon a crate of YGGDRASIL grain, playing the part of the weary noble envoy to perfection. Sebas Tian remains a silent, immovable presence at your side, his eyes scanning the horizon for the first sign of the Kingdom's response.
@@ -1057,10 +1057,10 @@ Status: Lvl 20 Bladesinger/Monk | HP: 243/243 | Gold: 7,200 (YGGDRASIL) | XP: 36
 Conditions: Mask of Fragility (DC 26) | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 3/3, L6 2/2, L7 2/2, L8 1/1, L9 1/1 | Ki: 20/20
 Dice Rolls:
-  - {'roll': '1d20+18', 'result': 32, 'label': 'Persuasion (Warning Gazef Stronoff)', 'modifier': 18, 'type': 'Persuasion (Warning Gazef Stronoff)', 'faces': '14'}
-  - {'roll': '1d20+10', 'result': 23, 'label': 'Vanguard Stealth (Flanking Sunlight Scripture)', 'modifier': 10, 'type': 'Vanguard Stealth (Flanking Sunlight Scripture)', 'faces': '13'}
-  - {'roll': '1d20+8', 'result': 15, 'label': 'Vanguard Flanking Attack', 'modifier': 8, 'type': 'Vanguard Flanking Attack', 'faces': '7'}
-  - {'roll': '1d100', 'result': 35, 'label': 'Unforeseen Complication Check (40% threshold)', 'modifier': 0, 'type': 'Unforeseen Complication Check (40% threshold)', 'faces': '35'}
+  - {'type': 'Persuasion (Warning Gazef Stronoff)', 'result': 32, 'modifier': 18, 'faces': '14', 'label': 'Persuasion (Warning Gazef Stronoff)', 'roll': '1d20+18'}
+  - {'type': 'Vanguard Stealth (Flanking Sunlight Scripture)', 'result': 23, 'modifier': 10, 'faces': '13', 'label': 'Vanguard Stealth (Flanking Sunlight Scripture)', 'roll': '1d20+10'}
+  - {'type': 'Vanguard Flanking Attack', 'result': 15, 'modifier': 8, 'faces': '7', 'label': 'Vanguard Flanking Attack', 'roll': '1d20+8'}
+  - {'type': 'Unforeseen Complication Check (40% threshold)', 'result': 35, 'modifier': 0, 'faces': '35', 'label': 'Unforeseen Complication Check (40% threshold)', 'roll': '1d100'}
 
 Game Master:
 Afternoon light (16:15:00) filters through the swaying pines as the thunder of hooves reaches a crescendo. You don't wait for Gazef Stronoff to reach the village; instead, you step into the center of the road, your **Robe of the Sky** shimmering softly like a fallen piece of the firmament. To the approaching Head Warrior, you appear as a vision of impossible beauty and fragile grace standing alone against the coming storm.

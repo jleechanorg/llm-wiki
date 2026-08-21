@@ -2,8 +2,8 @@
 title: "Visenya v9 (forgot tybolt)"
 type: source
 tags: [campaign, worldarchitect, visenya-v9-forgot-tybolt]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/fw9Fo3QXkqshtVxBIwX2/Visenya v9 _forgot tybolt__fw9Fo3QX.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/fw9Fo3QXkqshtVxBIwX2/Visenya v9 _forgot tybolt__fw9Fo3QX.txt
 campaign_id: fw9Fo3QXkqshtVxBIwX2
 entry_count: 378
 user_email: "jleechan@gmail.com"
@@ -563,8 +563,8 @@ Status: Lvl 6 Apex Stalker (Gestalt) | HP: 52/52 | Gold: 28,000gp | XP: 14900/23
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Stress Lines: 1/1 | Apex Patience: 3/3
 Dice Rolls:
-  - {'type': 'Intimidation of the prisoner to extract names', 'roll': '1d20+1', 'modifier': 1, 'result': 12, 'label': 'Intimidation of the prisoner to extract names', 'faces': '11'}
-  - {'type': 'Blood Dragon Reputation check after Choice A', 'roll': '1d20+10', 'modifier': 10, 'result': 20, 'label': 'Blood Dragon Reputation check after Choice A', 'faces': '12'}
+  - {'type': 'Intimidation of the prisoner to extract names', 'result': 12, 'modifier': 1, 'faces': '11', 'label': 'Intimidation of the prisoner to extract names', 'roll': '1d20+1'}
+  - {'type': 'Blood Dragon Reputation check after Choice A', 'result': 20, 'modifier': 10, 'faces': '12', 'label': 'Blood Dragon Reputation check after Choice A', 'roll': '1d20+10'}
 
 Game Master:
 Midday (12:00:00) on the Kingsroad, five miles north of Rook's Rest—the air is thick with the scent of pine, wet earth, and the metallic tang of drying blood. 
@@ -686,7 +686,7 @@ Status: Lvl 6 Apex Stalker (Gestalt) | HP: 52/52 | Gold: 28,000gp | XP: 17400/23
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Stress Lines: 1/1 | Apex Predator's Patience: 3/3
 Dice Rolls:
-  - {'type': 'Unforeseen Complication Check (Streak 1)', 'roll': '1d100', 'modifier': 0, 'result': 61, 'label': 'Unforeseen Complication Check (Streak 1)', 'faces': '61'}
+  - {'type': 'Unforeseen Complication Check (Streak 1)', 'result': 61, 'modifier': 0, 'faces': '61', 'label': 'Unforeseen Complication Check (Streak 1)', 'roll': '1d100'}
 
 Game Master:
 Evening (18:00:00) at Rook's Rest—four weeks have passed since the Kingsroad was lined with the ghosts of the brotherhood, and the world has reshaped itself around the vacancy you created. 
@@ -755,8 +755,8 @@ Status: Lvl 6 Apex Stalker (Gestalt) | HP: 52/52 | Gold: 28,000gp | XP: 17700/23
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Stress Lines: 1/1 | Apex Predator's Patience: 3/3
 Dice Rolls:
-  - {'type': "Insight check to read the 'Stress Lines' of the family dinner", 'roll': '1d20+6', 'modifier': 6, 'result': 14, 'label': "Insight check to read the 'Stress Lines' of the family dinner", 'faces': '8'}
-  - {'type': 'Geometric resonance with the First Song', 'roll': '1d20', 'modifier': None, 'result': 13, 'label': 'Geometric resonance with the First Song', 'faces': '13'}
+  - {'type': "Insight check to read the 'Stress Lines' of the family dinner", 'result': 14, 'modifier': 6, 'faces': '8', 'label': "Insight check to read the 'Stress Lines' of the family dinner", 'roll': '1d20+6'}
+  - {'type': 'Geometric resonance with the First Song', 'result': 13, 'modifier': None, 'faces': '13', 'label': 'Geometric resonance with the First Song', 'roll': '1d20'}
 
 Game Master:
 Evening (19:30:00) in the Red Keep, King's Landing—the summer heat is a physical weight, thick with the scent of roasted swan, expensive oils, and the underlying rot of the Blackwater. The stone walls of your father's private solar seem to sweat in the torchlight, but the atmosphere around the table is colder than a winter's night in the North.
@@ -808,7 +808,7 @@ Status: Lvl 6 Apex Stalker (Gestalt) | HP: 52/52 | Gold: 28,000gp | XP: 17700/23
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Stress Lines: 1/1 | Apex Predator's Patience: 3/3
 Dice Rolls:
-  - {'type': 'Persuading Maekar of the utilitarian value of the executions', 'roll': '1d20+4', 'modifier': 4, 'result': 6, 'label': 'Persuading Maekar of the utilitarian value of the executions', 'faces': '2'}
+  - {'type': 'Persuading Maekar of the utilitarian value of the executions', 'result': 6, 'modifier': 4, 'faces': '2', 'label': 'Persuading Maekar of the utilitarian value of the executions', 'roll': '1d20+4'}
 
 Game Master:
 Evening (20:00:00) in the Red Keep, King's Landing—the candles have burned halfway down their silver sticks, the wax pooling like cooling blood. You keep your voice level, your mother's star-pin catching the light as you look directly into your father's hard, slate-grey eyes.
@@ -865,8 +865,8 @@ Status: Lvl 6 Apex Stalker (Gestalt) | HP: 52/52 | Gold: 28,000gp | XP: 17700/23
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Stress Lines: 1/1 | Apex Predator's Patience: 3/3
 Dice Rolls:
-  - {'type': "Umbral Scouts investigating Aerion's wildfire stockpile", 'roll': '1d20+7', 'modifier': 7, 'result': 8, 'label': "Umbral Scouts investigating Aerion's wildfire stockpile", 'faces': '1'}
-  - {'type': 'Unforeseen Complication Check (Streak 3)', 'roll': '1d100', 'modifier': None, 'result': 14, 'label': 'Unforeseen Complication Check (Streak 3)', 'faces': '14'}
+  - {'type': "Umbral Scouts investigating Aerion's wildfire stockpile", 'result': 8, 'modifier': 7, 'faces': '1', 'label': "Umbral Scouts investigating Aerion's wildfire stockpile", 'roll': '1d20+7'}
+  - {'type': 'Unforeseen Complication Check (Streak 3)', 'result': 14, 'modifier': None, 'faces': '14', 'label': 'Unforeseen Complication Check (Streak 3)', 'roll': '1d100'}
 
 Game Master:
 Evening (20:15:00) in the Red Keep's private dining hall—the tension at the table is so thick it could be cut with a common dinner knife, let alone a blade like *First-Severance*.
@@ -894,8 +894,8 @@ Status: Lvl 6 Apex Stalker (Gestalt) | HP: 52/52 | Gold: 28,000gp | XP: 17700/23
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Stress Lines: 1/1 | Apex Predator's Patience: 3/3
 Dice Rolls:
-  - {'type': 'Interrogating Aerion via lethal feminine charm', 'roll': '1d20+4', 'modifier': 4, 'result': 7, 'label': 'Interrogating Aerion via lethal feminine charm', 'faces': '3'}
-  - {'type': "Reading the stress lines of Aerion's deception", 'roll': '1d20+6', 'modifier': 6, 'result': 19, 'label': "Reading the stress lines of Aerion's deception", 'faces': '13'}
+  - {'type': 'Interrogating Aerion via lethal feminine charm', 'result': 7, 'modifier': 4, 'faces': '3', 'label': 'Interrogating Aerion via lethal feminine charm', 'roll': '1d20+4'}
+  - {'type': "Reading the stress lines of Aerion's deception", 'result': 19, 'modifier': 6, 'faces': '13', 'label': "Reading the stress lines of Aerion's deception", 'roll': '1d20+6'}
 
 Game Master:
 Evening (20:30:00) in the Serpentine Corridor of the Red Keep—torchlight flickers against the damp stone, casting shadows that seem to stretch and hunt in the periphery of your Stress-Line Sight.
@@ -921,7 +921,7 @@ Location: The Red Keep, King's Landing
 Status: Lvl 6 Apex Stalker | HP: 52/52 | Gold: 28,000gp | XP: 17700/23000
 Resources: Wound Ledger Names: 243 | Stress Lines: 1/1 | Apex Patience: 3/3]
 Dice Rolls:
-  - {'type': 'Intelligence Check (Planning)', 'roll': '1d20+1', 'modifier': 1, 'result': 19, 'label': 'Intelligence Check (Planning)', 'faces': '18'}
+  - {'type': 'Intelligence Check (Planning)', 'result': 19, 'modifier': 1, 'faces': '18', 'label': 'Intelligence Check (Planning)', 'roll': '1d20+1'}
 
 Game Master:
 Intelligence Check: 19 vs DC 14 — Success. Your methodical mind deconstructs the Red Keep's political geometry with chilling clarity. (INT 12) Even as you cultivate your girlish facade, your thoughts click into place like the gears of a siege engine, identifying the precise stress lines required to shatter Aerion's trap.
@@ -938,9 +938,9 @@ Status: Lvl 6 Apex Stalker | HP: 52/52 | Gold: 28,000gp | XP: 18600/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Stress Lines: 1/1 | Apex Predator's Patience: 3/3
 Dice Rolls:
-  - {'type': "Mya Rivers stealthily planting evidence in Aerion's solar", 'roll': '1d20+8', 'modifier': 8, 'result': 26, 'label': "Mya Rivers stealthily planting evidence in Aerion's solar", 'faces': '18'}
-  - {'type': 'Visenya maintaining her innocent facade during the audit setup', 'roll': '1d20+4', 'modifier': 4, 'result': 19, 'label': 'Visenya maintaining her innocent facade during the audit setup', 'faces': '15'}
-  - {'type': 'Unforeseen Complication Check (Streak 0)', 'roll': '1d100', 'modifier': 0, 'result': 25, 'label': 'Unforeseen Complication Check (Streak 0)', 'faces': '25'}
+  - {'type': "Mya Rivers stealthily planting evidence in Aerion's solar", 'result': 26, 'modifier': 8, 'faces': '18', 'label': "Mya Rivers stealthily planting evidence in Aerion's solar", 'roll': '1d20+8'}
+  - {'type': 'Visenya maintaining her innocent facade during the audit setup', 'result': 19, 'modifier': 4, 'faces': '15', 'label': 'Visenya maintaining her innocent facade during the audit setup', 'roll': '1d20+4'}
+  - {'type': 'Unforeseen Complication Check (Streak 0)', 'result': 25, 'modifier': 0, 'faces': '25', 'label': 'Unforeseen Complication Check (Streak 0)', 'roll': '1d100'}
 
 Game Master:
 Morning (06:30:00) in the Red Keep, King's Landing—the dawn light is a pale, sickly yellow, filtered through the smog of the city's chimneys. The air is cool but carries the metallic tang of the Street of Steel and the faint, chemical bite of alchemical fumes.
@@ -971,9 +971,9 @@ Status: Lvl 6 Apex Stalker | HP: 52/52 | Gold: 28,000gp | XP: 19500/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: Yes]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Stress Lines: 1/1 | Apex Patience: 3/3
 Dice Rolls:
-  - {'type': 'Maintaining the innocent observer facade', 'roll': '1d20+4', 'modifier': 4, 'result': 11, 'label': 'Maintaining the innocent observer facade', 'faces': '7'}
-  - {'type': "Reputation growth from Aerion's public disgrace", 'roll': '1d20+10', 'modifier': 10, 'result': 20, 'label': "Reputation growth from Aerion's public disgrace", 'faces': '18'}
-  - {'type': 'Unforeseen Complication Check (Streak 1)', 'roll': '1d100', 'modifier': None, 'result': 30, 'label': 'Unforeseen Complication Check (Streak 1)', 'faces': '30'}
+  - {'type': 'Maintaining the innocent observer facade', 'result': 11, 'modifier': 4, 'faces': '7', 'label': 'Maintaining the innocent observer facade', 'roll': '1d20+4'}
+  - {'type': "Reputation growth from Aerion's public disgrace", 'result': 20, 'modifier': 10, 'faces': '18', 'label': "Reputation growth from Aerion's public disgrace", 'roll': '1d20+10'}
+  - {'type': 'Unforeseen Complication Check (Streak 1)', 'result': 30, 'modifier': None, 'faces': '30', 'label': 'Unforeseen Complication Check (Streak 1)', 'roll': '1d100'}
 
 Game Master:
 Morning (07:30:00) in the Red Keep, King's Landing—the air inside Prince Aerion's solar is cool and smells of expensive cedar and lavender, a sharp contrast to the thick, humid smog outside. 

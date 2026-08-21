@@ -2,12 +2,13 @@
 title: "Saita v3.1 (copy)"
 type: source
 tags: [campaign, worldarchitect, saita-v3-1-copy]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/64YLFbg6j3FdQrAYdDxp/Saita v3_1 _copy__64YLFbg6.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/64YLFbg6j3FdQrAYdDxp/Saita v3_1 _copy__64YLFbg6.txt
 campaign_id: 64YLFbg6j3FdQrAYdDxp
 entry_count: 67
-last_updated_iso: 2026-07-13T02:32:41.226583+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 ============================================================
@@ -216,8 +217,8 @@ Status: Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3739/6500 | Gold: 281gp
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'success': True, 'margin': None, 'result': 15, 'dc_category': None, 'outcome': 'Identified one Tier-3 genetic specimen among the thugs.', 'dc': 15, 'roll': '1d20+4', 'dc_reasoning': None, 'type': 'Assessment of Prisoners (Medicine/Insight)'}
-  - {'success': True, 'margin': None, 'result': 22, 'dc_category': None, 'outcome': 'Duke Ravengard yields to the security of the Annex and agrees to sign.', 'roll': '1d20+9', 'dc': 17, 'dc_reasoning': None, 'type': 'Escorting Duke Ravengard (Persuasion)'}
+  - {'type': 'Assessment of Prisoners (Medicine/Insight)', 'result': 15, 'margin': None, 'outcome': 'Identified one Tier-3 genetic specimen among the thugs.', 'roll': '1d20+4', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
+  - {'type': 'Escorting Duke Ravengard (Persuasion)', 'result': 22, 'margin': None, 'outcome': 'Duke Ravengard yields to the security of the Annex and agrees to sign.', 'roll': '1d20+9', 'dc_reasoning': None, 'dc': 17, 'success': True, 'dc_category': None}
 
 Game Master:
 Late night (22:15:00) in the Gray Harbor—the salt-mist is so thick it feels like a physical weight against your midnight-blue mantle. You stand amidst the wreckage of Warehouse 7, the paralyzed Zhentarim quartermaster still a frozen monument to your Sovereign Stasis. 

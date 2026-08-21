@@ -2,8 +2,8 @@
 title: "Dragon Knight"
 type: source
 tags: [campaign, worldarchitect, dragon-knight]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/GaMciDSKJLB5p34TPEoc/Dragon Knight_GaMciDSK.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/GaMciDSKJLB5p34TPEoc/Dragon Knight_GaMciDSK.txt
 campaign_id: GaMciDSKJLB5p34TPEoc
 entry_count: 52
 user_email: "mushrooming.fungus@gmail.com"

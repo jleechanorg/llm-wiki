@@ -2,12 +2,13 @@
 title: "My Epic Adventure ezlvl5"
 type: source
 tags: [campaign, worldarchitect, my-epic-adventure-ezlvl5]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/ckfDvn6Pwb25RzuDSlDO/My Epic Adventure ezlvl5_ckfDvn6P.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/ckfDvn6Pwb25RzuDSlDO/My Epic Adventure ezlvl5_ckfDvn6P.txt
 campaign_id: ckfDvn6Pwb25RzuDSlDO
 entry_count: 65
-last_updated_iso: 2026-07-13T02:33:51.855888+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

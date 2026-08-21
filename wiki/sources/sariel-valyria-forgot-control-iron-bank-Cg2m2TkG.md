@@ -2,8 +2,8 @@
 title: "Sariel Valyria (forgot control iron bank)"
 type: source
 tags: [campaign, worldarchitect, sariel-valyria-forgot-control-iron-bank]
-date: 2026-07-20
-source_file: /tmp/campaign_daily_ingest/Cg2m2TkGFFez7XBynEah/Sariel Valyria _forgot control iron bank__Cg2m2TkG.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/Cg2m2TkGFFez7XBynEah/Sariel Valyria _forgot control iron bank__Cg2m2TkG.txt
 campaign_id: Cg2m2TkGFFez7XBynEah
 entry_count: 784
 user_email: "jleechan@gmail.com"

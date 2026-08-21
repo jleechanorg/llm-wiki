@@ -2,12 +2,13 @@
 title: "astarion post bg3 (cannot level 6)"
 type: source
 tags: [campaign, worldarchitect, astarion-post-bg3-cannot-level-6]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/UuOl2cnEZwjl3AfQavvs/astarion post bg3 _cannot level 6__UuOl2cnE.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/UuOl2cnEZwjl3AfQavvs/astarion post bg3 _cannot level 6__UuOl2cnE.txt
 campaign_id: UuOl2cnEZwjl3AfQavvs
 entry_count: 184
-last_updated_iso: 2026-07-13T02:33:31.871618+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

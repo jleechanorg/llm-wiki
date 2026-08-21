@@ -2,12 +2,13 @@
 title: "Visenya v7"
 type: source
 tags: [campaign, worldarchitect, visenya-v7]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/MU0xmGESX9GaINqpaxXT/Visenya v7_MU0xmGES.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/MU0xmGESX9GaINqpaxXT/Visenya v7_MU0xmGES.txt
 campaign_id: MU0xmGESX9GaINqpaxXT
 entry_count: 1408
-last_updated_iso: 2026-07-13T02:32:27.684745+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:
@@ -457,7 +458,7 @@ Status: Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Spells: No Spells Yet (Level 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Persuasion check to impress Queen Rhaenyra and the Black Council', 'result': 23, 'type': 'Persuasion check to impress Queen Rhaenyra and the Black Council', 'modifier': 3, 'faces': '20'}
+  - {'modifier': 3, 'label': 'Persuasion check to impress Queen Rhaenyra and the Black Council', 'type': 'Persuasion check to impress Queen Rhaenyra and the Black Council', 'roll': '1d20+3', 'result': 23, 'faces': '20'}
 
 Game Master:
 The heavy oak doors of the Chamber of the Painted Table groan open, admitting the salt-laden breeze and the unmistakable scent of dragonfire. You stride into the dim, candle-lit hall, your silver-gold hair matted with the grey ash of the Dragonmont and your face streaked with soot—yet beneath the grime, your features radiate the ancient, haughty beauty of Old Valyria. You look more like a queen of old than a bastard of the present.
@@ -489,7 +490,7 @@ Status: Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 0/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Spells: No Spells Yet (Unlock at Level 3)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Persuasion check for formal pledge and training request', 'result': 9, 'type': 'Persuasion check for formal pledge and training request', 'modifier': 3, 'faces': '6'}
+  - {'modifier': 3, 'label': 'Persuasion check for formal pledge and training request', 'type': 'Persuasion check for formal pledge and training request', 'roll': '1d20+3', 'result': 9, 'faces': '6'}
 
 Game Master:
 Morning (10:45:00)
@@ -523,7 +524,7 @@ Status: Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 60/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Spells: No Spells Yet (Lvl 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+5', 'label': 'Acrobatics check to prove competence in Shadow style sparring', 'result': 17, 'type': 'Acrobatics check to prove competence in Shadow style sparring', 'modifier': 5, 'faces': '12'}
+  - {'modifier': 5, 'label': 'Acrobatics check to prove competence in Shadow style sparring', 'type': 'Acrobatics check to prove competence in Shadow style sparring', 'roll': '1d20+5', 'result': 17, 'faces': '12'}
 
 Game Master:
 Late Morning (11:30:00)
@@ -557,8 +558,8 @@ Status: Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 90/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Spells: No Spells Yet (Unlock at Level 3)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': "Persuasion to ease Prince Jacaerys' insecurity", 'result': 13, 'type': "Persuasion to ease Prince Jacaerys' insecurity", 'modifier': 3, 'faces': '10'}
-  - {'roll': '2d20kh1+2', 'label': 'Animal Handling to practice tactical coordination with Vermithrax', 'result': 18, 'type': 'Animal Handling to practice tactical coordination with Vermithrax', 'modifier': 2, 'faces': '16,7'}
+  - {'modifier': 3, 'label': "Persuasion to ease Prince Jacaerys' insecurity", 'type': "Persuasion to ease Prince Jacaerys' insecurity", 'roll': '1d20+3', 'result': 13, 'faces': '10'}
+  - {'modifier': 2, 'label': 'Animal Handling to practice tactical coordination with Vermithrax', 'type': 'Animal Handling to practice tactical coordination with Vermithrax', 'roll': '2d20kh1+2', 'result': 18, 'faces': '16,7'}
 
 Game Master:
 Midday (12:15:00)
@@ -592,8 +593,8 @@ Status: Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 240/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: No Spells Yet (Lvl 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+5', 'label': 'Acrobatics check for intensive Shadow-style combat training', 'result': 17, 'type': 'Acrobatics check for intensive Shadow-style combat training', 'modifier': 5, 'faces': '12'}
-  - {'roll': '2d20kh1+2', 'label': 'Animal Handling with Advantage for World-Eater flight training', 'result': 12, 'type': 'Animal Handling with Advantage for World-Eater flight training', 'modifier': 2, 'faces': '10,10'}
+  - {'modifier': 5, 'label': 'Acrobatics check for intensive Shadow-style combat training', 'type': 'Acrobatics check for intensive Shadow-style combat training', 'roll': '1d20+5', 'result': 17, 'faces': '12'}
+  - {'modifier': 2, 'label': 'Animal Handling with Advantage for World-Eater flight training', 'type': 'Animal Handling with Advantage for World-Eater flight training', 'roll': '2d20kh1+2', 'result': 12, 'faces': '10,10'}
 
 Game Master:
 Morning (09:00:00)
@@ -625,7 +626,7 @@ Status: Lvl 1 Rogue | HP: 10/10 | Gold: 25gp | XP: 265/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: No Spells Yet (Unlock at Level 3)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Persuasion check to build trust and bridge the social gap with Jacaerys', 'result': 19, 'type': 'Persuasion check to build trust and bridge the social gap with Jacaerys', 'modifier': 3, 'faces': '16'}
+  - {'modifier': 3, 'label': 'Persuasion check to build trust and bridge the social gap with Jacaerys', 'type': 'Persuasion check to build trust and bridge the social gap with Jacaerys', 'roll': '1d20+3', 'result': 19, 'faces': '16'}
 
 Game Master:
 Morning (09:15:00)
@@ -663,7 +664,7 @@ Status: Lvl 1 Rogue (Lvl 2 available) | HP: 10/10 | Gold: 25gp | XP: 300/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: No Spells Yet (Level 2 pending)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Persuasion check to finalize trust with Jacaerys', 'result': 19, 'type': 'Persuasion check to finalize trust with Jacaerys', 'modifier': 3, 'faces': '16'}
+  - {'modifier': 3, 'label': 'Persuasion check to finalize trust with Jacaerys', 'type': 'Persuasion check to finalize trust with Jacaerys', 'roll': '1d20+3', 'result': 19, 'faces': '16'}
 
 Game Master:
 Morning (09:20:00)
@@ -779,8 +780,8 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 300/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2, Spells: No Spells Yet (Level 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+5', 'label': 'Investigation to locate Daemon before the council reconvenes', 'result': 16, 'type': 'Investigation to locate Daemon before the council reconvenes', 'modifier': 5, 'faces': '11'}
-  - {'roll': '1d20+3', 'label': 'Persuasion to convince Daemon to authorize a covert scouting mission', 'result': 23, 'type': 'Persuasion to convince Daemon to authorize a covert scouting mission', 'modifier': 3, 'faces': '20'}
+  - {'modifier': 5, 'label': 'Investigation to locate Daemon before the council reconvenes', 'type': 'Investigation to locate Daemon before the council reconvenes', 'roll': '1d20+5', 'result': 16, 'faces': '11'}
+  - {'modifier': 3, 'label': 'Persuasion to convince Daemon to authorize a covert scouting mission', 'type': 'Persuasion to convince Daemon to authorize a covert scouting mission', 'roll': '1d20+3', 'result': 23, 'faces': '20'}
 
 Game Master:
 Morning (09:40:00)
@@ -819,10 +820,10 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 330/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Unlock at Level 3)
 Dice Rolls:
-  - {'roll': '1d20+7', 'label': 'Stealth check to reach the Crownlands undetected', 'result': 8, 'type': 'Stealth check to reach the Crownlands undetected', 'modifier': 7, 'faces': '1'}
-  - {'roll': '2d20kh1+2', 'label': 'Animal Handling to coordinate with Vermithrax in the storm', 'result': 20, 'type': 'Animal Handling to coordinate with Vermithrax in the storm', 'modifier': 2, 'faces': '18,11'}
-  - {'roll': '1d20+5', 'label': "Investigation to pinpoint Cole's vanguard strength", 'result': 12, 'type': "Investigation to pinpoint Cole's vanguard strength", 'modifier': 5, 'faces': '7'}
-  - {'roll': '1d100', 'label': 'Complication Check (70% threshold at streak 5)', 'result': 42, 'type': 'Complication Check (70% threshold at streak 5)', 'modifier': 0, 'faces': '42'}
+  - {'modifier': 7, 'label': 'Stealth check to reach the Crownlands undetected', 'type': 'Stealth check to reach the Crownlands undetected', 'roll': '1d20+7', 'result': 8, 'faces': '1'}
+  - {'modifier': 2, 'label': 'Animal Handling to coordinate with Vermithrax in the storm', 'type': 'Animal Handling to coordinate with Vermithrax in the storm', 'roll': '2d20kh1+2', 'result': 20, 'faces': '18,11'}
+  - {'modifier': 5, 'label': "Investigation to pinpoint Cole's vanguard strength", 'type': "Investigation to pinpoint Cole's vanguard strength", 'roll': '1d20+5', 'result': 12, 'faces': '7'}
+  - {'modifier': 0, 'label': 'Complication Check (70% threshold at streak 5)', 'type': 'Complication Check (70% threshold at streak 5)', 'roll': '1d100', 'result': 42, 'faces': '42'}
 
 Game Master:
 Midday (12:10:00)
@@ -858,7 +859,7 @@ Location: Skies over the Crownlands (Near Rook's Rest)
 Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 330/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Intelligence Check (Planning)', 'result': 16, 'type': 'Intelligence Check (Planning)', 'modifier': 3, 'faces': '13'}
+  - {'modifier': 3, 'label': 'Intelligence Check (Planning)', 'type': 'Intelligence Check (Planning)', 'roll': '1d20+3', 'result': 16, 'faces': '13'}
 
 Game Master:
 Intelligence Check: 16 vs DC 14 — Success. Your tactical mind races as the shadow of Vhagar looms, calculating the exact weight of survival against the value of the intel you carry. You realize that your primary utility is not as a martyr, but as a messenger of the shadow.
@@ -874,7 +875,7 @@ Location: Skies over the Crownlands (Near Rook's Rest)
 Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 330/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Intelligence Check (Planning)', 'result': 14, 'type': 'Intelligence Check (Planning)', 'modifier': 3, 'faces': '11'}
+  - {'modifier': 3, 'label': 'Intelligence Check (Planning)', 'type': 'Intelligence Check (Planning)', 'roll': '1d20+3', 'result': 14, 'faces': '11'}
 
 Game Master:
 Intelligence Check: 14 vs DC 11 — Success. Your tactical mind, sharpened by your 16 Intelligence, immediately recalls the stories of the sapphire eye and the price paid at Storm's End. You realize that Aemond's greatest strength—his dragon—is steered by a man who cannot see the world in three dimensions.
@@ -891,9 +892,9 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 345/900
 Conditions: Hidden (Blind Side) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Unlock at Level 3)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Parallel Coordination Check (Synergistic Maneuver)', 'result': 16, 'type': 'Parallel Coordination Check (Synergistic Maneuver)', 'modifier': 3, 'faces': '13'}
-  - {'roll': '1d20+7', 'label': 'Stealth (Soot-Cloud Masking)', 'result': 21, 'type': 'Stealth (Soot-Cloud Masking)', 'modifier': 7, 'faces': '14'}
-  - {'roll': '2d20kh1+2', 'label': 'Animal Handling (Terrain Trap Maneuver)', 'result': 9, 'type': 'Animal Handling (Terrain Trap Maneuver)', 'modifier': 2, 'faces': '6,7'}
+  - {'modifier': 3, 'label': 'Parallel Coordination Check (Synergistic Maneuver)', 'type': 'Parallel Coordination Check (Synergistic Maneuver)', 'roll': '1d20+3', 'result': 16, 'faces': '13'}
+  - {'modifier': 7, 'label': 'Stealth (Soot-Cloud Masking)', 'type': 'Stealth (Soot-Cloud Masking)', 'roll': '1d20+7', 'result': 21, 'faces': '14'}
+  - {'modifier': 2, 'label': 'Animal Handling (Terrain Trap Maneuver)', 'type': 'Animal Handling (Terrain Trap Maneuver)', 'roll': '2d20kh1+2', 'result': 9, 'faces': '6,7'}
 
 Game Master:
 Midday (12:15:00)
@@ -919,7 +920,7 @@ Location: Skies over the Crownlands (The Whispers Coastal Fog)
 Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 345/900
 Conditions: Hidden (Blind Side) | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Intelligence Check (Planning)', 'result': 22, 'type': 'Intelligence Check (Planning)', 'modifier': 3, 'faces': '19'}
+  - {'modifier': 3, 'label': 'Intelligence Check (Planning)', 'type': 'Intelligence Check (Planning)', 'roll': '1d20+3', 'result': 22, 'faces': '19'}
 
 Game Master:
 Intelligence Check: 22 vs DC 12 — Success. Your mind, sharp and cold as dragon-glass, deconstructs the mechanics of Aemond's vision with brilliant clarity. You realize his sapphire eye isn't just a scar; it is a blind spot in his reality that you can exploit with surgical precision.
@@ -936,9 +937,9 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 405/900
 Conditions: Hidden (Sea-Mist) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Parallel Coordination (Ghosting & Parallax)', 'result': 8, 'type': 'Parallel Coordination (Ghosting & Parallax)', 'modifier': 3, 'faces': '5'}
-  - {'roll': '1d20+7', 'label': 'Stealth (Sea-Mist Ghosting)', 'result': 23, 'type': 'Stealth (Sea-Mist Ghosting)', 'modifier': 7, 'faces': '16'}
-  - {'roll': '2d20kh1+2', 'label': 'Animal Handling (Parallax Feint)', 'result': 17, 'type': 'Animal Handling (Parallax Feint)', 'modifier': 2, 'faces': '12,15'}
+  - {'modifier': 3, 'label': 'Parallel Coordination (Ghosting & Parallax)', 'type': 'Parallel Coordination (Ghosting & Parallax)', 'roll': '1d20+3', 'result': 8, 'faces': '5'}
+  - {'modifier': 7, 'label': 'Stealth (Sea-Mist Ghosting)', 'type': 'Stealth (Sea-Mist Ghosting)', 'roll': '1d20+7', 'result': 23, 'faces': '16'}
+  - {'modifier': 2, 'label': 'Animal Handling (Parallax Feint)', 'type': 'Animal Handling (Parallax Feint)', 'roll': '2d20kh1+2', 'result': 17, 'faces': '12,15'}
 
 Game Master:
 Midday (12:20:00)
@@ -965,9 +966,9 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 475/900
 Conditions: Exposed | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+7', 'label': 'Stealth: High-speed return pass over the mainland', 'result': 10, 'type': 'Stealth: High-speed return pass over the mainland', 'modifier': 7, 'faces': '3'}
-  - {'roll': '1d20+5', 'label': "Investigation: Count Criston Cole's heavy horse", 'result': 14, 'type': "Investigation: Count Criston Cole's heavy horse", 'modifier': 5, 'faces': '9'}
-  - {'roll': '1d100', 'label': 'Complication Check', 'result': 91, 'type': 'Complication Check', 'modifier': 0, 'faces': '91'}
+  - {'modifier': 7, 'label': 'Stealth: High-speed return pass over the mainland', 'type': 'Stealth: High-speed return pass over the mainland', 'roll': '1d20+7', 'result': 10, 'faces': '3'}
+  - {'modifier': 5, 'label': "Investigation: Count Criston Cole's heavy horse", 'type': "Investigation: Count Criston Cole's heavy horse", 'roll': '1d20+5', 'result': 14, 'faces': '9'}
+  - {'modifier': 0, 'label': 'Complication Check', 'type': 'Complication Check', 'roll': '1d100', 'result': 91, 'faces': '91'}
 
 Game Master:
 Midday (12:35:00)
@@ -996,9 +997,9 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 535/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2, Spells: No Spells Yet (Unlock at Level 3)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Deception to bait Aemond into a false pursuit inland', 'result': 16, 'type': 'Deception to bait Aemond into a false pursuit inland', 'modifier': 3, 'faces': '13'}
-  - {'roll': '1d20+7', 'label': "Stealth to circle back using 'Shadow' cover", 'result': 16, 'type': "Stealth to circle back using 'Shadow' cover", 'modifier': 7, 'faces': '9'}
-  - {'roll': '2d20kh1+2', 'label': 'Animal Handling for low-altitude maneuvering', 'result': 4, 'type': 'Animal Handling for low-altitude maneuvering', 'modifier': 2, 'faces': '1,2'}
+  - {'modifier': 3, 'label': 'Deception to bait Aemond into a false pursuit inland', 'type': 'Deception to bait Aemond into a false pursuit inland', 'roll': '1d20+3', 'result': 16, 'faces': '13'}
+  - {'modifier': 7, 'label': "Stealth to circle back using 'Shadow' cover", 'type': "Stealth to circle back using 'Shadow' cover", 'roll': '1d20+7', 'result': 16, 'faces': '9'}
+  - {'modifier': 2, 'label': 'Animal Handling for low-altitude maneuvering', 'type': 'Animal Handling for low-altitude maneuvering', 'roll': '2d20kh1+2', 'result': 4, 'faces': '1,2'}
 
 Game Master:
 Midday (12:50:00)
@@ -1041,9 +1042,9 @@ Status: Lvl 2 Rogue | HP: 10/10 | Gold: 25gp | XP: 585/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Unlock at Level 3)
 Dice Rolls:
-  - {'roll': '2d20kh1+2', 'label': 'Animal Handling (Land on the Velaryon Fleet)', 'result': 15, 'type': 'Animal Handling (Land on the Velaryon Fleet)', 'modifier': 2, 'faces': '13,1'}
-  - {'roll': '1d20+3', 'label': 'Persuasion (Warn Alyn of Hull)', 'result': 7, 'type': 'Persuasion (Warn Alyn of Hull)', 'modifier': 3, 'faces': '4'}
-  - {'roll': '1d100', 'label': 'Complication Check', 'result': 29, 'type': 'Complication Check', 'modifier': 0, 'faces': '29'}
+  - {'modifier': 2, 'label': 'Animal Handling (Land on the Velaryon Fleet)', 'type': 'Animal Handling (Land on the Velaryon Fleet)', 'roll': '2d20kh1+2', 'result': 15, 'faces': '13,1'}
+  - {'modifier': 3, 'label': 'Persuasion (Warn Alyn of Hull)', 'type': 'Persuasion (Warn Alyn of Hull)', 'roll': '1d20+3', 'result': 7, 'faces': '4'}
+  - {'modifier': 0, 'label': 'Complication Check', 'type': 'Complication Check', 'roll': '1d100', 'result': 29, 'faces': '29'}
 
 Game Master:
 Afternoon (13:40:00)
@@ -1082,9 +1083,9 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 660/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+2', 'label': 'Animal Handling (Assess Vermithrax)', 'result': 19, 'type': 'Animal Handling (Assess Vermithrax)', 'modifier': 2, 'faces': '17'}
-  - {'roll': '1d20+3', 'label': 'Persuasion (Report to Daemon)', 'result': 5, 'type': 'Persuasion (Report to Daemon)', 'modifier': 3, 'faces': '2'}
-  - {'roll': '1d100', 'label': 'Complication Check', 'result': 64, 'type': 'Complication Check', 'modifier': 0, 'faces': '64'}
+  - {'modifier': 2, 'label': 'Animal Handling (Assess Vermithrax)', 'type': 'Animal Handling (Assess Vermithrax)', 'roll': '1d20+2', 'result': 19, 'faces': '17'}
+  - {'modifier': 3, 'label': 'Persuasion (Report to Daemon)', 'type': 'Persuasion (Report to Daemon)', 'roll': '1d20+3', 'result': 5, 'faces': '2'}
+  - {'modifier': 0, 'label': 'Complication Check', 'type': 'Complication Check', 'roll': '1d100', 'result': 64, 'faces': '64'}
 
 Game Master:
 Afternoon (14:20:00)
@@ -1121,7 +1122,7 @@ Location: Dragonstone (The Painted Table)
 Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 660/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Intelligence Check (Planning)', 'result': 14, 'type': 'Intelligence Check (Planning)', 'modifier': 3, 'faces': '11'}
+  - {'modifier': 3, 'label': 'Intelligence Check (Planning)', 'type': 'Intelligence Check (Planning)', 'roll': '1d20+3', 'result': 14, 'faces': '11'}
 
 Game Master:
 Intelligence Check: 14 vs DC 10 — Success. Your methodical mind sifts through the chaotic blur of the chase, pulling a sharp, non-obvious detail from the mud and steel of Cole's vanguard. Your high Intelligence allows you to see the patterns behind the numbers.
@@ -1143,7 +1144,7 @@ Location: Dragonstone (The Painted Table)
 Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 660/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Intelligence Check (Planning)', 'result': 14, 'type': 'Intelligence Check (Planning)', 'modifier': 3, 'faces': '11'}
+  - {'modifier': 3, 'label': 'Intelligence Check (Planning)', 'type': 'Intelligence Check (Planning)', 'roll': '1d20+3', 'result': 14, 'faces': '11'}
 
 Game Master:
 Intelligence Check: 14 vs DC 11 — Success. Your methodical mind, fueled by your 16 Intelligence, allows you to deconstruct the blur of the chase into actionable data. You realize that what you saw on the ground was not just a march, but a calculated strangulation of the Crownlands.
@@ -1168,8 +1169,8 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 690/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Parallel Coordination (Synergistic Briefing)', 'result': 21, 'type': 'Parallel Coordination (Synergistic Briefing)', 'modifier': 3, 'faces': '18'}
-  - {'roll': '1d20+1', 'label': 'Persuasion (Logistical Stranglehold Briefing)', 'result': 7, 'type': 'Persuasion (Logistical Stranglehold Briefing)', 'modifier': 1, 'faces': '6'}
+  - {'modifier': 3, 'label': 'Parallel Coordination (Synergistic Briefing)', 'type': 'Parallel Coordination (Synergistic Briefing)', 'roll': '1d20+3', 'result': 21, 'faces': '18'}
+  - {'modifier': 1, 'label': 'Persuasion (Logistical Stranglehold Briefing)', 'type': 'Persuasion (Logistical Stranglehold Briefing)', 'roll': '1d20+1', 'result': 7, 'faces': '6'}
 
 Game Master:
 Afternoon (14:35:00)
@@ -1205,8 +1206,8 @@ Status: Lvl 2 Rogue | HP: 10/10 | Gold: 25gp | XP: 690/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+5', 'label': 'Investigation (Study Soot-Singer Journals)', 'result': 9, 'type': 'Investigation (Study Soot-Singer Journals)', 'modifier': 5, 'faces': '4'}
-  - {'roll': '1d100', 'label': 'Complication Check', 'result': 65, 'type': 'Complication Check', 'modifier': 0, 'faces': '65'}
+  - {'modifier': 5, 'label': 'Investigation (Study Soot-Singer Journals)', 'type': 'Investigation (Study Soot-Singer Journals)', 'roll': '1d20+5', 'result': 9, 'faces': '4'}
+  - {'modifier': 0, 'label': 'Complication Check', 'type': 'Complication Check', 'roll': '1d100', 'result': 65, 'faces': '65'}
 
 Game Master:
 Morning (08:00:00)
@@ -1233,8 +1234,8 @@ Status: Lvl 2 Rogue | HP: 17/17 | Gold: 25gp | XP: 740/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: No Spells Yet (Lvl 3 Required)
 Dice Rolls:
-  - {'roll': '1d20+3', 'label': 'Persuasion (Presenting tactical findings to the Black Council)', 'result': 22, 'type': 'Persuasion (Presenting tactical findings to the Black Council)', 'modifier': 3, 'faces': '19'}
-  - {'roll': '1d20+2', 'label': "Insight (Reading the Council's reaction)", 'result': 19, 'type': "Insight (Reading the Council's reaction)", 'modifier': 2, 'faces': '17'}
+  - {'modifier': 3, 'label': 'Persuasion (Presenting tactical findings to the Black Council)', 'type': 'Persuasion (Presenting tactical findings to the Black Council)', 'roll': '1d20+3', 'result': 22, 'faces': '19'}
+  - {'modifier': 2, 'label': "Insight (Reading the Council's reaction)", 'type': "Insight (Reading the Council's reaction)", 'roll': '1d20+2', 'result': 19, 'faces': '17'}
 
 Game Master:
 Morning (08:30:00)

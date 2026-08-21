@@ -2,12 +2,13 @@
 title: "Itachi V2 (lane_e_probe)"
 type: source
 tags: [campaign, worldarchitect, itachi-v2-lane-e-probe]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/ITtLOp8rHppkBWqU4Zy1/Itachi V2 _lane_e_probe__ITtLOp8r.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/ITtLOp8rHppkBWqU4Zy1/Itachi V2 _lane_e_probe__ITtLOp8r.txt
 campaign_id: ITtLOp8rHppkBWqU4Zy1
 entry_count: 150
-last_updated_iso: 2026-07-13T02:33:09.655753+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

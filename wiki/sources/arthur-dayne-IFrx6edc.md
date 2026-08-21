@@ -2,12 +2,13 @@
 title: "Arthur Dayne"
 type: source
 tags: [campaign, worldarchitect, arthur-dayne]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/IFrx6edcipef1LTMuBkZ/Arthur Dayne_IFrx6edc.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/IFrx6edcipef1LTMuBkZ/Arthur Dayne_IFrx6edc.txt
 campaign_id: IFrx6edcipef1LTMuBkZ
 entry_count: 280
-last_updated_iso: 2026-07-13T02:41:47.476983+00:00
-ingest_batch: batch-2026-07-12-50plus-repair
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:
@@ -184,9 +185,9 @@ Conditions: Aura of Protection (+5 Save), Aura of the Crown (+5 AC) | Exhaustion
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2 | Superiority Dice: 6/6
 Dice Rolls:
-  - {'outcome': None, 'success': None, 'dc': None, 'result': 11, 'type': 'Initiative: Ser Arthur Dayne', 'roll': '1d20+4', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': True, 'dc': None, 'result': 22, 'type': 'Initiative: Lord Eddard Stark', 'roll': '1d20+2', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': False, 'dc': 31, 'result': 16, 'type': 'Attack: Ned Stark vs Arthur AC 31', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Initiative: Ser Arthur Dayne', 'result': 11, 'margin': None, 'outcome': None, 'roll': '1d20+4', 'dc_reasoning': None, 'dc': None, 'success': None, 'dc_category': None}
+  - {'type': 'Initiative: Lord Eddard Stark', 'result': 22, 'margin': None, 'outcome': None, 'roll': '1d20+2', 'dc_reasoning': None, 'dc': None, 'success': True, 'dc_category': None}
+  - {'type': 'Attack: Ned Stark vs Arthur AC 31', 'result': 16, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 31, 'success': False, 'dc_category': None}
 
 Game Master:
 Morning (09:00:10) at the Tower of Joy—the air shimmers with a heat that feels physical, a weight upon the brow that matches the gravity of the steel now drawn. You stand as a titan of the white order, the light of Dawn pulsing in your hands with a rhythmic, stellar heartbeat. Ned Stark (Lvl 12) moves with the desperation of a man who has lost a sister and a king in a single year, his greatsword 'Ice' whistling through the dry air.
@@ -238,8 +239,8 @@ Conditions: Paladin Aura (AC +5, Saves +5) | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2 | Superiority Dice: 5/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 18, 'result': 28, 'type': 'Dawn Strike (Disarming)', 'roll': '1d20+19', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': False, 'dc': 22, 'result': 15, 'type': 'Ned Stark STR Save', 'roll': '1d20+5', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Dawn Strike (Disarming)', 'result': 28, 'margin': None, 'outcome': None, 'roll': '1d20+19', 'dc_reasoning': None, 'dc': 18, 'success': True, 'dc_category': None}
+  - {'type': 'Ned Stark STR Save', 'result': 15, 'margin': None, 'outcome': None, 'roll': '1d20+5', 'dc_reasoning': None, 'dc': 22, 'success': False, 'dc_category': None}
 
 Game Master:
 Morning (09:00:20) at the Tower of Joy—the desert sun glints off the pale, translucent steel of Dawn as you bring the legendary blade around in a blurring arc. Lord Eddard Stark (Lvl 12) is a formidable man, hardened by the Trident and the Bells, but he is a mortal man facing a titan. You do not strike to kill; your intent is a surgical correction of his path.
@@ -267,7 +268,7 @@ Conditions: Aura of the Crown (+5 AC/Saves) | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Action Surge: 2/2 | Superiority Dice: 5/6
 Dice Rolls:
-  - {'outcome': None, 'success': False, 'dc': 18, 'result': 17, 'type': 'Intimidation (Futility)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Intimidation (Futility)', 'result': 17, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 18, 'success': False, 'dc_category': None}
 
 Game Master:
 Morning (09:00:50) at the Tower of Joy—the Sword of the Morning steps back, the tip of Dawn tracing a line in the red dust. It is a gesture of terrifying grace, a moment of chivalry so absolute it feels like an insult. Lord Eddard Stark (Lvl 12) stares at his empty, trembling hands, then at the ancestral Valyrian blade buried in the earth several yards away.
@@ -298,7 +299,7 @@ Status: Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 355,000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 5/6
 Dice Rolls:
-  - {'outcome': None, 'success': False, 'dc': 15, 'result': 7, 'type': 'Persuasion Check (Command to Halt)', 'roll': '1d20+5', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuasion Check (Command to Halt)', 'result': 7, 'margin': None, 'outcome': None, 'roll': '1d20+5', 'dc_reasoning': None, 'dc': 15, 'success': False, 'dc_category': None}
 
 Game Master:
 Morning (09:01:00) at the Tower of Joy—the air crackles with the heat of the Dornish sun and the raw tension of the standoff. You lower the tip of Dawn, the starlight blade humming softly in the silence, and raise your voice. It is a voice forged in the courts of King's Landing and the fires of battle, carrying the weight of the Crown itself.
@@ -360,10 +361,10 @@ Status: Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 355,000/355,000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 16, 'type': 'Disarm/Knockout Martyn Cassel', 'roll': '1d20+14', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 25, 'type': 'Disarm/Knockout Theo Wull', 'roll': '1d20+14', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 28, 'type': 'Disarm/Knockout Howland Reed', 'roll': '1d20+14', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': True, 'dc': 18, 'result': 23, 'type': 'Disarm/Knockout Ned Stark', 'roll': '1d20+14', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Disarm/Knockout Martyn Cassel', 'result': 16, 'margin': None, 'outcome': None, 'roll': '1d20+14', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
+  - {'type': 'Disarm/Knockout Theo Wull', 'result': 25, 'margin': None, 'outcome': None, 'roll': '1d20+14', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
+  - {'type': 'Disarm/Knockout Howland Reed', 'result': 28, 'margin': None, 'outcome': None, 'roll': '1d20+14', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
+  - {'type': 'Disarm/Knockout Ned Stark', 'result': 23, 'margin': None, 'outcome': None, 'roll': '1d20+14', 'dc_reasoning': None, 'dc': 18, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (09:01:30) at the Tower of Joy—the scorching sun hangs like a gilded executioner over the red sands. Lord Eddard Stark (Lvl 12) and his companions close in, but you move before their desperation can turn into a tragedy. You are no longer merely a knight; you are the pinnacle of martial law, a white whirlwind that the desert wind itself seems to obey.
@@ -388,8 +389,8 @@ Status: Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 357,450/355,000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': False, 'dc': 12, 'result': 5, 'type': 'Medicine Check to wake Ned respectfully', 'roll': '1d20+2', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': True, 'dc': 18, 'result': 19, 'type': 'Persuasion Check to calm Ned', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Medicine Check to wake Ned respectfully', 'result': 5, 'margin': None, 'outcome': None, 'roll': '1d20+2', 'dc_reasoning': None, 'dc': 12, 'success': False, 'dc_category': None}
+  - {'type': 'Persuasion Check to calm Ned', 'result': 19, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 18, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (09:15:00) at the Tower of Joy—the dust kicked up by the brief, violent struggle begins to settle, coating the fallen Northmen in a fine red powder. You stand over them, the white cloak of the Kingsguard pristine despite the chaos. You sheath Dawn with a soft, metallic click that seems to ring out across the silent mountains.
@@ -418,7 +419,7 @@ Status: Lvl 20 Gestalt | HP: 224/224 | XP: 357,450 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 18, 'result': 25, 'type': "Persuasion Check (Ned's Oath)", 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': "Persuasion Check (Ned's Oath)", 'result': 25, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 18, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (09:20:00) at the Tower of Joy—the desert wind carries the scent of salt and blood as you lean in toward the Lord of Winterfell. Ned Stark (Lvl 12) is breathless, the bind of the rope around his wrists a stark contrast to the divine light still faintly shimmering on your white plate.
@@ -448,7 +449,7 @@ Status: Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 357,450 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 18, 'result': 26, 'type': "Persuasion: The Truth of Robert's Wrath", 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': "Persuasion: The Truth of Robert's Wrath", 'result': 26, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 18, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (09:25:00) at the Tower of Joy—the winds howl through the high passes, sounding like the ghosts of the Trident. You keep your hand firm on Eddard's shoulder, your shadow engulfing the Lord of Winterfell as he kneels in the red dust. The starlight glow of your armor has dimmed to a steady, rhythmic pulse, matching the gravity of the words you must now speak.
@@ -481,7 +482,7 @@ Conditions: Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority Dice: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 18, 'result': 31, 'type': 'Persuasion (Truth of the Elopement)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuasion (Truth of the Elopement)', 'result': 31, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 18, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (09:35:00) at the Tower of Joy—the sun is a white-hot eye watching the culmination of a tragedy. You reach down and retrieve 'Ice' from the red earth, the Valyrian steel dark and cold despite the desert heat. With a deliberate, reverent motion, you present the hilt to Eddard Stark (Lvl 12). He takes it with trembling fingers, the ancestral blade looking heavy in his weary hands.
@@ -511,7 +512,7 @@ Conditions: Paladin Aura (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, Lay on Hands: 0/100, Ki: N/A, Rage: N/A, Potions: 0/0
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 25, 'result': 16, 'type': 'Divine Healing (Lyanna)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Divine Healing (Lyanna)', 'result': 16, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 25, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (09:45:00) in the Tower of Joy's uppermost chamber—the air is thick with the cloying scent of blood and winter roses. Lyanna Stark (Lvl 1) lies amidst a sea of crimson-stained linens, her face the color of bleached bone. Eddard Stark (Lvl 12) collapses by her side, clutching her hand as if he could pull her back from the abyss by sheer force of will.
@@ -562,7 +563,7 @@ Conditions: Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20, Spells: L1 2/4, L2 3/3, L3 3/3, L4 3/3, L5 0/2, Lay on Hands: 0/100
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 30, 'type': 'Persuasion', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuasion', 'result': 30, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (10:05:00) in the Tower of Joy—the weight of the secret you have just shared with Eddard Stark (Lvl 12) hangs in the room like the smoke of a guttering candle. You watch him as he stares at his sister's pale face, the name 'Jon' still a fresh, stinging wound on his lips. 
@@ -600,7 +601,7 @@ Status: Ser Arthur Dayne (Lvl 20) | HP: 224/224 | XP: 361,950/355,000 | Gold: 10
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 17, 'type': "Lyanna's Recovery Surge", 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': "Lyanna's Recovery Surge", 'result': 17, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
 
 Game Master:
 Midday (14:05:00) in the Tower of Joy's uppermost chamber—the oppressive heat of the morning has given way to a heavy, expectant stillness. Hours have passed since the star-pale light of Dawn first mended the fraying threads of Lyanna Stark’s life. The miraculous healing, a feat that would be spoken of in hushed whispers for centuries were it not a secret, has taken hold. The gray pallor that once claimed her features has been replaced by a faint, healthy flush of life.
@@ -628,7 +629,7 @@ Conditions: Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 12, 'result': 31, 'type': 'Persuasion (Humble Submission)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuasion (Humble Submission)', 'result': 31, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 12, 'success': True, 'dc_category': None}
 
 Game Master:
 Midday (14:10:00) in the Tower of Joy's Birth Chamber—the light through the narrow arrow-slits has shifted, casting long, golden bars across the stone floor. You remain kneeling, the white enameled plates of your armor reflecting the soft glow of the desert afternoon. Lyanna (Lvl 9) watches you, her gray eyes narrowing as she processes the magnitude of your miracle. The weakness of the birth is still there, but a fierce, revitalized fire burns within her—the fire of a wolf-maid who has survived the winter.
@@ -685,7 +686,7 @@ Resources: Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay On Hands: 0/100 
 ⚔️ Soldiers: 0 | 🕵️ Spies: 0 | 👑 Elites: 0 (Avg Lvl 0)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 20, 'type': 'Strategic Coordination (Persuasion)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': 'Coordinating a multi-layered deception across three different groups in hostile terrain.'}
+  - {'type': 'Strategic Coordination (Persuasion)', 'result': 20, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': 'Coordinating a multi-layered deception across three different groups in hostile terrain.', 'dc': 15, 'success': True, 'dc_category': None}
 
 Game Master:
 Midday (14:30:00) at the Tower of Joy—The sun begins its slow descent toward the western peaks of the Prince's Pass, casting long, jagged shadows across the red stone. Following Lyanna's (Lvl 9) command, you move with the practiced efficiency of a commander who has overseen the logistics of the royal host. You gather Ser Gerold (Lvl 18) and Ser Oswell (Lvl 15) in the courtyard, the heat still shimmering off the sand.
@@ -710,7 +711,7 @@ Status: Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 362450/400000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 16, 'result': 30, 'type': 'Persuasion (Briefing Northmen)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuasion (Briefing Northmen)', 'result': 30, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 16, 'success': True, 'dc_category': None}
 
 Game Master:
 Afternoon (14:45:00) at the Tower of Joy—the long shadows of the Red Mountains stretch across the courtyard like dark fingers, cooling the red dust where the Northmen begin to stir. You descend from the birth chamber, your white Kingsguard plate shimmering with a steady, divine radiance that seems to push back the encroaching gloom. Ned Stark (Lvl 12) walks beside you, his hand resting on the hilt of Ice, his face a mask of somber resolution.
@@ -742,7 +743,7 @@ Conditions: Paladin Aura (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 12, 'result': 20, 'type': 'Group Stealth/Coordination', 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Group Stealth/Coordination', 'result': 20, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 12, 'success': True, 'dc_category': None}
 
 Game Master:
 Night (21:00:00) in the Red Mountains of Dorne—the furnace of the day has cooled into a sharp, dry chill that rattles the desert scrub. You lead the small, ghostly procession away from the Tower of Joy, leaving the red stone monument to its secrets. The moon is a thin sliver of bone, providing just enough light to see the path without exposing your silhouettes to the high ridges.
@@ -767,7 +768,7 @@ Status: Lvl 20 Gestalt Fighter/Paladin | HP: 224/224 | XP: 362,450/400,000 | Gol
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20, Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, Lay on Hands: 0/100, Action Surge: 2/2, Superiority: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 14, 'result': 15, 'type': 'Howland Reed - Survival/Scout Signal', 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Howland Reed - Survival/Scout Signal', 'result': 15, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 14, 'success': True, 'dc_category': None}
 
 Game Master:
 Night (21:15:00) deep in the jagged shadows of the Prince's Pass—the wind whistles through the red stone chimneys like a dying man's breath. You call a brief halt, the litter carrying Lyanna (Lvl 9) coming to a gentle rest. You beckon Howland Reed (Lvl 8) forward, the crannogman moving with a quiet, lizard-like grace that even the dry Dornish sands cannot fully betray.
@@ -795,8 +796,8 @@ Conditions: Aura of Protection (+5 AC/Saves) | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Action Surge: 2/2 | Superiority: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 15, 'type': 'Athletics (Guidance/Coordination)', 'roll': '1d20+14', 'margin': None, 'dc_category': None, 'dc_reasoning': 'Navigating a wounded noble through the Palestone Path while delegating a scout requires expert focus and synchronization.'}
-  - {'outcome': None, 'success': True, 'dc': 14, 'result': 28, 'type': 'Ser Oswell Stealth/Scout', 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': 'Avoiding local Dayne outriders in familiar terrain.'}
+  - {'type': 'Athletics (Guidance/Coordination)', 'result': 15, 'margin': None, 'outcome': None, 'roll': '1d20+14', 'dc_reasoning': 'Navigating a wounded noble through the Palestone Path while delegating a scout requires expert focus and synchronization.', 'dc': 15, 'success': True, 'dc_category': None}
+  - {'type': 'Ser Oswell Stealth/Scout', 'result': 28, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': 'Avoiding local Dayne outriders in familiar terrain.', 'dc': 14, 'success': True, 'dc_category': None}
 
 Game Master:
 Night (22:30:00) along the Palestone Path—the jagged peaks of the Red Mountains loom like the teeth of a sleeping dragon against the starlit sky. You move with a focus that transcends the physical, your hands steady on the poles of the litter as you guide the group through a narrow, winding track known only to the outriders of Starfall. The ground is treacherous, a shifting carpet of shale and dry earth, yet you navigate it with the effortless strength of a giant, ensuring the wounded Lyanna (Lvl 9) remains undisturbed by the journey.
@@ -821,7 +822,7 @@ Status: Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 362450/400000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 19, 'type': 'Persuasion (Dayne Guards Loyalty)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuasion (Dayne Guards Loyalty)', 'result': 19, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (08:30:00) at the outskirts of Starfall—the first light of dawn spills over the shimmering waters of the Torrentine, turning the river into a ribbon of molten gold. The jagged, red teeth of the mountains are behind you now, replaced by the lush, white-stone architecture of your ancestral home. 
@@ -851,7 +852,7 @@ Conditions: Aura of Protection (+5 Save/AC) | Exhaustion: 0]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 16, 'result': 17, 'type': "Arthur's Insight on Ned and Ashara", 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': "Arthur's Insight on Ned and Ashara", 'result': 17, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 16, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (08:45:00) in the private solar of Starfall—the room is filled with the scent of sea salt and crushed lavender, a stark contrast to the parched dust of the Prince's Pass. Ashara Dayne (Lvl 5) stands by the arched window, her violet eyes reflecting the sparkling Torrentine below. She is hauntingly beautiful, her dark hair cascading like a silken waterfall over a gown of pale lilac. When she turns to face the newcomers, the air in the room seems to grow still.
@@ -905,7 +906,7 @@ Status: Lvl 20 Gestalt | HP: 224/224 | XP: 362,450/400,000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': False, 'dc': 16, 'result': 12, 'type': "Insight: Reading Lyanna's resolve", 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': "Insight: Reading Lyanna's resolve", 'result': 12, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 16, 'success': False, 'dc_category': None}
 
 Game Master:
 Morning (09:15:00) in the quiet, lavender-scented guest wing of Starfall—the silence following your proposal is thick, punctuated only by the distant, rhythmic crash of the Summer Sea against the cliffs. Lyanna (Lvl 9) looks down at the child, her fingers trembling as they brush against his dark tuft of hair. For a moment, the 'Wolf-Maid' seems lost in the sea-blue light of the room, weighing the safety of the North against the freedom of the East.
@@ -931,8 +932,8 @@ Conditions: Aura of Protection (+5 Save, +5 AC) | Exhaustion: 0 | Inspiration: N
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 17, 'type': 'Persuade Gerold/Oswell to split', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': False, 'dc': 12, 'result': 11, 'type': "Insight on Ned's reaction", 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuade Gerold/Oswell to split', 'result': 17, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
+  - {'type': "Insight on Ned's reaction", 'result': 11, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 12, 'success': False, 'dc_category': None}
 
 Game Master:
 Morning (09:30:00) in the quiet guest wing of Starfall—the scent of salt air mingles with the fading fragrance of lavender. You look upon the small gathering, the starlight of Dawn muted in its scabbard, yet your presence remains the stabilizing pillar of the room. 
@@ -960,7 +961,7 @@ Conditions: Aura of the Crown (Active) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 16, 'type': 'Insight (Perceiving emotional subtext)', 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Insight (Perceiving emotional subtext)', 'result': 16, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (10:00:00) at Starfall—the high windows of the guest wing are thrown open, letting in the cool, salt-laden breath of the Summer Sea to chase away the lingering scent of birth and blood. Lyanna Stark (Lvl 9) sits propped against the pillows, her son cradled in the crook of her arm, while Ned Stark (Lvl 12) stands at her shoulder, his hand resting protectively on her bedpost. The starlight glow of your armor, the Kingsguard Plate of the Sun +3, pulses with a low, rhythmic hum that seems to calm the very air in the room.
@@ -993,7 +994,7 @@ Conditions: Aura of the Crown (+5 AC) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 0/100 | Superiority: 1/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 10, 'result': 13, 'type': 'Persuasion (Inspiring Ned)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuasion (Inspiring Ned)', 'result': 13, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 10, 'success': True, 'dc_category': None}
 
 Game Master:
 Morning (10:15:00) at Starfall—the sunlight dancing off the Torrentine river illuminates the quiet room where the future of the Seven Kingdoms has just been bartered for an oath. Ned Stark (Lvl 12) stands by the window, his gaze lingering on the white towers of the castle before he turns back to you. The weight of the morning—the blood, the miracle, and the monumental lie—seems to have aged him, yet there is a boyish vulnerability in his gray eyes as he speaks.
@@ -1023,9 +1024,9 @@ Conditions: Aura of the Crown (+5 AC/Saves) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6
 Dice Rolls:
-  - {'outcome': None, 'success': False, 'dc': 25, 'result': 16, 'type': 'Apotheosis Insight (INT)', 'roll': '1d20+1', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': True, 'dc': 15, 'result': 27, 'type': 'Instruction/Training (CHA)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': False, 'dc': 18, 'result': 9, 'type': 'Resisting Charms (WIS Save)', 'roll': '1d20+7', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Apotheosis Insight (INT)', 'result': 16, 'margin': None, 'outcome': None, 'roll': '1d20+1', 'dc_reasoning': None, 'dc': 25, 'success': False, 'dc_category': None}
+  - {'type': 'Instruction/Training (CHA)', 'result': 27, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 15, 'success': True, 'dc_category': None}
+  - {'type': 'Resisting Charms (WIS Save)', 'result': 9, 'margin': None, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'dc': 18, 'success': False, 'dc_category': None}
 
 Game Master:
 Late morning (10:15:00) at Starfall—the year has turned with the steady, inexorable rhythm of the tides against the Torrentine cliffs. Twelve months have passed since the 'Sword of the Morning' brought the wolf-maid and the dragon-spawn to the sanctuary of the South. 
@@ -1054,8 +1055,8 @@ Status: Lvl 20 Gestalt | HP: 224/224 | XP: 377,950/400,000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20, Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, Lay on Hands: 100/100, Superiority: 6/6
 Dice Rolls:
-  - {'outcome': None, 'success': False, 'dc': 14, 'result': 13, 'type': 'Insight (Reading Ashara)', 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': True, 'dc': 12, 'result': 26, 'type': 'Persuasion (Delicate Inquiry)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Insight (Reading Ashara)', 'result': 13, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 14, 'success': False, 'dc_category': None}
+  - {'type': 'Persuasion (Delicate Inquiry)', 'result': 26, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 12, 'success': True, 'dc_category': None}
 
 Game Master:
 Late morning (10:30:00) at Starfall—the sea breeze carries the scent of blooming jasmine as you find your sister Ashara (Lvl 5) standing alone on the terrace of the High Hermitage. The year of secrecy has weighed heavily on everyone within these white walls, but Ashara has borne the brunt of the domestic deception, managing the household while keeping the 'ghosts' hidden. 
@@ -1084,8 +1085,8 @@ Status: Lvl 20 Fighter/Paladin | HP: 224/224 | XP: 377,950/400,000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2 | Lay on Hands: 100/100 | Superiority: 6/6 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 14, 'result': 15, 'type': 'Persuasion (Pushing for honesty)', 'roll': '1d20+11', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': False, 'dc': 16, 'result': 14, 'type': 'Insight (Reading Ashara)', 'roll': '1d20+8', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Persuasion (Pushing for honesty)', 'result': 15, 'margin': None, 'outcome': None, 'roll': '1d20+11', 'dc_reasoning': None, 'dc': 14, 'success': True, 'dc_category': None}
+  - {'type': 'Insight (Reading Ashara)', 'result': 14, 'margin': None, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'dc': 16, 'success': False, 'dc_category': None}
 
 Game Master:
 Late morning (10:45:00) at Starfall—the jasmine scent hangs heavy in the humid air. You do not let Ashara (Lvl 5) retreat behind her clever deflections. You step closer, the white enameled plates of your Kingsguard armor catching the high sun, and look her directly in the eye. 
@@ -1111,8 +1112,8 @@ Conditions: Disguised, Stealth Advantage | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 20/20 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Lay on Hands: 100/100 | Superiority: 6/6
 Dice Rolls:
-  - {'outcome': None, 'success': True, 'dc': 12, 'result': 29, 'type': 'Group Stealth Check', 'roll': '2d20kh1+10', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
-  - {'outcome': None, 'success': False, 'dc': 18, 'result': 5, 'type': 'Masking Titan Presence', 'roll': '1d20+2', 'margin': None, 'dc_category': None, 'dc_reasoning': None}
+  - {'type': 'Group Stealth Check', 'result': 29, 'margin': None, 'outcome': None, 'roll': '2d20kh1+10', 'dc_reasoning': None, 'dc': 12, 'success': True, 'dc_category': None}
+  - {'type': 'Masking Titan Presence', 'result': 5, 'margin': None, 'outcome': None, 'roll': '1d20+2', 'dc_reasoning': None, 'dc': 18, 'success': False, 'dc_category': None}
 
 Game Master:
 Night (20:00:00) at the edge of the Neck—the humid air of the South has been replaced by the biting, damp chill of the North's gateway. A year has passed since the secret of the dragon was tucked away in Starfall, and now, the time for ghosts to move has come. You lead a small, shadowed procession through the mire, your legendary white plate hidden beneath layers of dun-colored wool and boiled leather. Your gear, enchanted with a +3 subtle weaving of Starfall's finest craftsmen, makes your group move like mist across the water.

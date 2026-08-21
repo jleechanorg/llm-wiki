@@ -2,8 +2,8 @@
 title: "bg3 nocturne murder god (dupe content)"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-dupe-content]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/VHzYHoXaCqdibZuTjc07/bg3 nocturne murder god _dupe content__VHzYHoXa.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/VHzYHoXaCqdibZuTjc07/bg3 nocturne murder god _dupe content__VHzYHoXa.txt
 campaign_id: VHzYHoXaCqdibZuTjc07
 entry_count: 84
 user_email: "jleechan@gmail.com"

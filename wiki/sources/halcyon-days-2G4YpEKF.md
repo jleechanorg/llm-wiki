@@ -2,10 +2,10 @@
 title: "Halcyon Days"
 type: source
 tags: [campaign, worldarchitect, halcyon-days]
-date: 2026-08-07
-source_file: /tmp/campaign_daily_ingest/2G4YpEKFCPAVC7gjS3ET/Halcyon Days_2G4YpEKF.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/2G4YpEKFCPAVC7gjS3ET/Halcyon Days_2G4YpEKF.txt
 campaign_id: 2G4YpEKFCPAVC7gjS3ET
-entry_count: 210
+entry_count: 222
 user_email: "hanjistevens@gmail.com"
 user_uid: "oPISN50TvEcH21uVYKzlZX1kKNv2"
 ingest_batch: download-campaign-skill
@@ -642,7 +642,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '17', 'label': 'Convincing Namaro to go to school', 'roll': '1d20+4', 'type': 'Convincing Namaro to go to school', 'modifier': 4, 'result': 21}
+  - {'modifier': 4, 'label': 'Convincing Namaro to go to school', 'type': 'Convincing Namaro to go to school', 'roll': '1d20+4', 'result': 21, 'faces': '17'}
 
 Game Master:
 Hilga sighed, his hand slipping into his pocket to flick the heavy cylinder of the right 'Last Shot' revolver resting beneath his jacket. "We are going to school, Namaro. I'm not getting expelled because you wanted to play cowboy in a drainage pipe."
@@ -794,7 +794,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '9', 'label': 'Act casual and bored next to Sechi', 'roll': '1d20+4', 'type': 'Act casual and bored next to Sechi', 'modifier': 4, 'result': 13}
+  - {'modifier': 4, 'label': 'Act casual and bored next to Sechi', 'type': 'Act casual and bored next to Sechi', 'roll': '1d20+4', 'result': 13, 'faces': '9'}
 
 Game Master:
 Hilga bypassed his usual desk in the back, dragging his chair over with a low, scraping sound to plant himself directly in the empty seat next to Sechi Senokima. He leaned back, stretching his legs out wide under the desk, and let out a flat, airy whistle that drifted lazily through the quiet classroom.
@@ -821,7 +821,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '6', 'label': 'Act casual and bored next to Sechi', 'roll': '1d20+4', 'type': 'Act casual and bored next to Sechi', 'modifier': 4, 'result': 10}
+  - {'modifier': 4, 'label': 'Act casual and bored next to Sechi', 'type': 'Act casual and bored next to Sechi', 'roll': '1d20+4', 'result': 10, 'faces': '6'}
 
 Game Master:
 Hilga pulled out his wooden chair with a loud, deliberate scrape and slid into the empty desk right next to Sechi Senokima. He leaned back, crossing his arms over his emerald-green school blazer, and let out a lazy, flat whistle that rattled softly against the classroom window.
@@ -852,7 +852,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '16', 'label': 'Inquire casually to Sechi', 'roll': '1d20+4', 'type': 'Inquire casually to Sechi', 'modifier': 4, 'result': 20}
+  - {'modifier': 4, 'label': 'Inquire casually to Sechi', 'type': 'Inquire casually to Sechi', 'roll': '1d20+4', 'result': 20, 'faces': '16'}
 
 Game Master:
 Hilga tilted his head back, his sharp eyes half-closed under his spiky blonde fringe as he leaned his chair precariously on two legs. "How are you doing, Sechi?" his voice carried a lazy, completely unbothered drawl, his carefree posture projecting the perfect image of a slacker with nothing better to do than annoy his desk neighbor.
@@ -881,7 +881,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '17', 'label': "De-escalate Sechi's cold reaction", 'roll': '1d20+4', 'type': "De-escalate Sechi's cold reaction", 'modifier': 4, 'result': 21}
+  - {'modifier': 4, 'label': "De-escalate Sechi's cold reaction", 'type': "De-escalate Sechi's cold reaction", 'roll': '1d20+4', 'result': 21, 'faces': '17'}
 
 Game Master:
 Hilga threw his hands up in a dramatic, carefree gesture of surrender, his spiky blonde hair swaying slightly as he leaned back. "Sheesh, what did I do to get you mad?" he murmured, letting a lazy, prideful drawl carry his voice. "I was just trying to be a model desk neighbor, Sechi. You're radiating enough heat to melt a Bizzar key, and we haven't even finished roll call."
@@ -910,7 +910,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '17', 'label': "Play innocent and deflect Sechi's deadpan remark", 'roll': '1d20+4', 'type': "Play innocent and deflect Sechi's deadpan remark", 'modifier': 4, 'result': 21}
+  - {'modifier': 4, 'label': "Play innocent and deflect Sechi's deadpan remark", 'type': "Play innocent and deflect Sechi's deadpan remark", 'roll': '1d20+4', 'result': 21, 'faces': '17'}
 
 Game Master:
 Hilga did not let his carefree posture slip. He leaned his head back slightly against the cold chalkboard rail, raising both hands to clasp them behind his spiky blonde hair. "Sheesh, what did I do?" he drawled, his voice carrying a perfect note of dry, unbothered innocence. "I ask a simple, polite neighborly question to my favorite classmate, and I get treated like some kind of biological hazard. You’re cold, Sechi. Seriously cold."
@@ -956,7 +956,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '17', 'label': "React to Sechi's cold attitude", 'roll': '1d20+4', 'type': "React to Sechi's cold attitude", 'modifier': 4, 'result': 21}
+  - {'modifier': 4, 'label': "React to Sechi's cold attitude", 'type': "React to Sechi's cold attitude", 'roll': '1d20+4', 'result': 21, 'faces': '17'}
 
 Game Master:
 Hilga lets his head tilt back slightly, his sharp eyes blinking with an easy, unbothered expression as he holds up his palms. His spiky blonde hair catches the pale fluorescent light of the classroom as he relaxes back in his chair, completely projecting the image of a student who is simply baffled by his desk neighbor's early morning prickliness.
@@ -981,7 +981,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '4', 'label': "Insight check to read Seda's irritation", 'roll': '1d20+3', 'type': "Insight check to read Seda's irritation", 'modifier': 3, 'result': 7}
+  - {'modifier': 3, 'label': "Insight check to read Seda's irritation", 'type': "Insight check to read Seda's irritation", 'roll': '1d20+3', 'result': 7, 'faces': '4'}
 
 Game Master:
 Hilga leaned his chin on his palm, his sharp eyes drifting toward Seda's rigid back. A sudden, highly amusing realization crossed his mind. If he were in her position—an elite sophomore forced to sit through remedial freshman-level geometry just to maintain a covert surveillance net over two street-level odd-job freelancers—he would be absolutely furious too. It was a hilarious waste of her time, and the sheer absurdity of it made his carefree nature prickle with quiet satisfaction.
@@ -1016,7 +1016,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '13', 'label': "Charm and disarm Sechi's suspicion", 'roll': '1d20+4', 'type': "Charm and disarm Sechi's suspicion", 'modifier': 4, 'result': 17}
+  - {'modifier': 4, 'label': "Charm and disarm Sechi's suspicion", 'type': "Charm and disarm Sechi's suspicion", 'roll': '1d20+4', 'result': 17, 'faces': '13'}
 
 Game Master:
 Morning (09:35:00) in New Halcyon's Halcyon High homeroom classroom finds the low hum of student chatter starting to settle as the teacher begins sorting worksheets at the chalkboard. Hilga leans close, his sharp eyes dropping to the plastic stylus rolling between Sechi's slim fingers, then to the glowing screen of her tablet. With a playful tilt of his spiky blonde head and a carefree, amoral expression, he points to himself and gestures to her sketch, asking if his own spiky likeness is the secret subject of her canvas, his voice low and rich with street-smart charm.
@@ -1047,7 +1047,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '14', 'label': 'Maintain carefree charm with Sechi', 'roll': '1d20+4', 'type': 'Maintain carefree charm with Sechi', 'modifier': 4, 'result': 18}
+  - {'modifier': 4, 'label': 'Maintain carefree charm with Sechi', 'type': 'Maintain carefree charm with Sechi', 'roll': '1d20+4', 'result': 18, 'faces': '14'}
 
 Game Master:
 The geometry teacher's chalk squeaked sharply against the blackboard, drawing a complex grid of intersecting vectors that made half the classroom slump forward in synchronized boredom. Hilga remained leaning back, his hands tucked loosely behind his wild, spiky blonde hair, his sharp eyes flicking sideways with an easy, unbothered smirk. He kept his tone light and conversational, offering a low, playful chuckle that hung in the air just long enough to test whether Sechi's deadpan armor would crack.
@@ -1072,7 +1072,7 @@ Status: Lvl 1 Mercenary | HP: 12/12 | Gold: 100gp | XP: 10/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2
 Dice Rolls:
-  - {'faces': '13', 'label': 'Solve the geometry equation on the chalkboard', 'roll': '1d20+2', 'type': 'Solve the geometry equation on the chalkboard', 'modifier': 2, 'result': 15}
+  - {'modifier': 2, 'label': 'Solve the geometry equation on the chalkboard', 'type': 'Solve the geometry equation on the chalkboard', 'roll': '1d20+2', 'result': 15, 'faces': '13'}
 
 Game Master:
 Hilga leaned forward, his sharp eyes scanning the complex matrix of vectors and variables scrawled in chalk across the green board. With a casual, effortless flick of his wrist, he called out the exact solution to the second-degree equation, his voice carrying clearly across the quiet classroom.

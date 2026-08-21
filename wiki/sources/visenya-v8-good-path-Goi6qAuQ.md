@@ -2,10 +2,12 @@
 title: "Visenya V8 - good path"
 type: source
 tags: [campaign, worldarchitect, visenya-v8-good-path]
-date: 2026-07-15
-source_file: /tmp/campaign_daily_ingest/Goi6qAuQuYUr3bjFGuY2/Visenya V8 - good path_Goi6qAuQ.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/Goi6qAuQuYUr3bjFGuY2/Visenya V8 - good path_Goi6qAuQ.txt
 campaign_id: Goi6qAuQuYUr3bjFGuY2
 entry_count: 1166
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill
 ---
 
@@ -465,7 +467,7 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 14000/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 0 SP | Vermithrax: Active
 Dice Rolls:
-  - {'type': 'Persuasion (Scholar-fostered background)', 'label': 'Persuasion (Scholar-fostered background)', 'modifier': 7, 'result': 9, 'roll': '1d20+7', 'faces': '2'}
+  - {'modifier': 7, 'label': 'Persuasion (Scholar-fostered background)', 'type': 'Persuasion (Scholar-fostered background)', 'roll': '1d20+7', 'result': 9, 'faces': '2'}
 
 Game Master:
 The victory feast is a discordant symphony of low-born gluttony and high-born grief. At the lower tables, Ulf White is a spectacle of boorishness; he has already spilled a flagon of arbor gold down his front and is currently using a hunk of sourdough to mop grease from his matted beard, laughing at a joke only he seems to find funny. Hugh Hammer sits like a statue of iron, his silence more natural but no less imposing, his eyes occasionally drifting to the high table with a look of possessive ownership over the air itself.
@@ -495,7 +497,7 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 14000/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 0 SP | Vermithrax: Active (Maintenance: Royal Coverage)
 Dice Rolls:
-  - {'type': 'Persuasion (Truthful answer about unknown parentage to the Queen)', 'label': 'Persuasion (Truthful answer about unknown parentage to the Queen)', 'modifier': 7, 'result': 12, 'roll': '1d20+7', 'faces': '5'}
+  - {'modifier': 7, 'label': 'Persuasion (Truthful answer about unknown parentage to the Queen)', 'type': 'Persuasion (Truthful answer about unknown parentage to the Queen)', 'roll': '1d20+7', 'result': 12, 'faces': '5'}
 
 Game Master:
 The heavy, iron-bound doors at the far end of the hall groan open, and the chaotic din of the feast is instantly severed by the sharp, rhythmic tap of a cane and the rustle of heavy silk. Queen Rhaenyra Targaryen enters, her black mourning robes trailing like a shadow across the stone floor. Her face is a marble mask of grief and calculated fury, her eyes red-rimmed but burning with a fire that matches the Dragonmont itself.
@@ -536,7 +538,7 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 14900/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 0 SP | Vermithrax: Active (Maintenance: Royal Coverage)
 Dice Rolls:
-  - {'type': "Persuasion (Leveraging Valyrian Poise for Queen's Favor)", 'label': "Persuasion (Leveraging Valyrian Poise for Queen's Favor)", 'modifier': 7, 'result': 8, 'roll': '1d20+7', 'faces': '1'}
+  - {'modifier': 7, 'label': "Persuasion (Leveraging Valyrian Poise for Queen's Favor)", 'type': "Persuasion (Leveraging Valyrian Poise for Queen's Favor)", 'roll': '1d20+7', 'result': 8, 'faces': '1'}
 
 Game Master:
 Queen Rhaenyra (Lvl 18) halts her departure, the silk of her black robes whispering against the obsidian floor like the rustle of wings. She turns back slowly, her gaze raking over you once more, lingering on the amethyst depth of your eyes and the silver-gold fire of your hair. The suspicion that hardened her features moments ago begins to dissolve into a profound, diagnostic fascination. In your face, she sees not a threat, but a mirror—a resonance of the Old Blood so pure it defies the convenience of a lie. 
@@ -642,7 +644,7 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 14900/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 0 SP | Vermithrax: Active (Maintenance: Royal Coverage)
 Dice Rolls:
-  - {'type': 'Persuasion (Consolidate Royal Favor via Valyrian History)', 'label': 'Persuasion (Consolidate Royal Favor via Valyrian History)', 'modifier': 7, 'result': 11, 'roll': '1d20+7', 'faces': '4'}
+  - {'modifier': 7, 'label': 'Persuasion (Consolidate Royal Favor via Valyrian History)', 'type': 'Persuasion (Consolidate Royal Favor via Valyrian History)', 'roll': '1d20+7', 'result': 11, 'faces': '4'}
 
 Game Master:
 The Great Hall remains a cavern of shifting loyalties and ancient echoes. You lean closer to Queen Rhaenyra (Lvl 18), your voice a low, melodic resonance that cuts through the boorish cackling of Ulf White (Lvl 3) nearby. You speak of the Dragonmont—not as a commoner sees it, a smoking mountain of ash—but as the Freehold scholars described it: the *Zaldrīzes Mēre*, the hearth-fire of the world's blood. You attempt to draw her into a shared intimacy of heritage, weaving the history of the Old Freehold into the current necessity of the war.
@@ -668,8 +670,8 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 14950/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 0 SP | Vermithrax: Active (Maintenance: Royal Coverage)
 Dice Rolls:
-  - {'type': "Insight check to read Jacaerys's state of mind", 'label': "Insight check to read Jacaerys's state of mind", 'modifier': 3, 'result': 14, 'roll': '1d20+3', 'faces': '11'}
-  - {'type': 'Persuasion check to initiate private dialogue with Jacaerys', 'label': 'Persuasion check to initiate private dialogue with Jacaerys', 'modifier': 7, 'result': 16, 'roll': '1d20+7', 'faces': '9'}
+  - {'modifier': 3, 'label': "Insight check to read Jacaerys's state of mind", 'type': "Insight check to read Jacaerys's state of mind", 'roll': '1d20+3', 'result': 14, 'faces': '11'}
+  - {'modifier': 7, 'label': 'Persuasion check to initiate private dialogue with Jacaerys', 'type': 'Persuasion check to initiate private dialogue with Jacaerys', 'roll': '1d20+7', 'result': 16, 'faces': '9'}
 
 Game Master:
 The rhythmic tap of the Queen's cane ceases as Lord Bartimos Celtigar (Lvl 11) practically collides with the high table. His face, usually a mask of maritime arrogance, is pale, the sweat on his brow glistening in the torchlight like salt-spray. He ignores the dragonseeds and the servants, bowing so low his crab-crested doublet strains at the seams. 
@@ -708,7 +710,7 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 14950/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 0 SP | Vermithrax: Large (Maintenance: Royal Coverage)
 Dice Rolls:
-  - {'type': 'Persuasion (Volunteer for scouting mission with humility)', 'label': 'Persuasion (Volunteer for scouting mission with humility)', 'modifier': 7, 'result': 9, 'roll': '1d20+7', 'faces': '2'}
+  - {'modifier': 7, 'label': 'Persuasion (Volunteer for scouting mission with humility)', 'type': 'Persuasion (Volunteer for scouting mission with humility)', 'roll': '1d20+7', 'result': 9, 'faces': '2'}
 
 Game Master:
 The tension in the alcove is a physical weight, heavier even than the sulfurous air drifting in from the Dragonmont. Jacaerys (Lvl 10) stands before you, his gaze finally shifting from the dark glass to your face. In the flickering torchlight, his eyes betray a storm of conflicting impulses. He sees the threat you pose to his name—the pure-blooded shadow that makes his own dark hair look like a confession—but there is something else now, a softer, more dangerous heat. He looks at you not just as a rival, but as a woman of the Freehold whose beauty is as undeniable as the fire in her dragon's throat. It is a love-hate resonance, a diagnostic of his own loneliness and the desire to possess what he fears.
@@ -733,7 +735,7 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 14950/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 0 SP | Vermithrax: Large (Maintenance: Royal Coverage)
 Dice Rolls:
-  - {'type': "Persuasion (Appealing to the Queen's pragmatic need for intelligence)", 'label': "Persuasion (Appealing to the Queen's pragmatic need for intelligence)", 'modifier': 7, 'result': 16, 'roll': '1d20+7', 'faces': '9'}
+  - {'modifier': 7, 'label': "Persuasion (Appealing to the Queen's pragmatic need for intelligence)", 'type': "Persuasion (Appealing to the Queen's pragmatic need for intelligence)", 'roll': '1d20+7', 'result': 16, 'faces': '9'}
 
 Game Master:
 The Queen’s voice, a low and commanding resonance, drifts across the Great Hall, severing the private tension of the alcove. “Jacaerys. Visenya. Return to the table.”
@@ -795,9 +797,9 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 15850/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 1/2 | Sovereign Power: 10 SP | Vermithrax: Large (Active)
 Dice Rolls:
-  - {'type': 'Investigation (Extracting financial leverage from Celtigar Ledger)', 'label': 'Investigation (Extracting financial leverage from Celtigar Ledger)', 'modifier': 5, 'result': 18, 'roll': '1d20+5', 'faces': '13'}
-  - {'type': 'Animal Handling (High Valyrian command for surgical scouting)', 'label': 'Animal Handling (High Valyrian command for surgical scouting)', 'modifier': 7, 'result': 23, 'roll': '1d20+7', 'faces': '16'}
-  - {'type': 'Stealth (Scouting the Triarchy fleet under Pass Without Trace)', 'label': 'Stealth (Scouting the Triarchy fleet under Pass Without Trace)', 'modifier': 16, 'result': 32, 'roll': '1d20+16', 'faces': '16'}
+  - {'modifier': 5, 'label': 'Investigation (Extracting financial leverage from Celtigar Ledger)', 'type': 'Investigation (Extracting financial leverage from Celtigar Ledger)', 'roll': '1d20+5', 'result': 18, 'faces': '13'}
+  - {'modifier': 7, 'label': 'Animal Handling (High Valyrian command for surgical scouting)', 'type': 'Animal Handling (High Valyrian command for surgical scouting)', 'roll': '1d20+7', 'result': 23, 'faces': '16'}
+  - {'modifier': 16, 'label': 'Stealth (Scouting the Triarchy fleet under Pass Without Trace)', 'type': 'Stealth (Scouting the Triarchy fleet under Pass Without Trace)', 'roll': '1d20+16', 'result': 32, 'faces': '16'}
 
 Game Master:
 The Great Hall remains a hive of frantic activity, but you move through the chaos with a clinical detachment. Before departing, you spend a few calculated moments over the *Celtigar Harbor Ledger*. Your fingers trace the ink with a scholar's precision, cross-referencing tariff exemptions with the private holdings of the Crab Lord. You find it—a series of hidden 'ghost-vessels' used to bypass the Sea Snake's customs. It is a blackmail cache of significant weight, a thread you can pull to unravel Celtigar's financial independence. You commit the numbers to memory as you close the book; your shadow over Dragonstone’s bureaucracy has just begun to take shape.
@@ -822,7 +824,7 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 15850/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 1/2 | Sovereign Power: 10 SP | Vermithrax: Large (Active)
 Dice Rolls:
-  - {'type': 'Persuasion (Diplomatic Overture: Gifting intel and leverage to Jacaerys)', 'label': 'Persuasion (Diplomatic Overture: Gifting intel and leverage to Jacaerys)', 'modifier': 7, 'result': 10, 'roll': '1d20+7', 'faces': '3'}
+  - {'modifier': 7, 'label': 'Persuasion (Diplomatic Overture: Gifting intel and leverage to Jacaerys)', 'type': 'Persuasion (Diplomatic Overture: Gifting intel and leverage to Jacaerys)', 'roll': '1d20+7', 'result': 10, 'faces': '3'}
 
 Game Master:
 The descent is a silent fall through velvet blackness. Vermithrax banks over the jagged obsidian teeth of the Dragonmont, his lava-veined wings catching the moonlight as you spiral toward the lower ramparts. You do not land in the yard where the seeds still bray for ale; you touch down on the private terrace of the Sea Dragon Tower, the dragon's claws clicking softly against the damp stone. 
@@ -854,7 +856,7 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 15850/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 1/2 | Sovereign Power: 10 SP | Vermithrax: Large (Active)
 Dice Rolls:
-  - {'type': 'Persuasion (Appearing genuinely modest while Jacaerys takes credit)', 'label': 'Persuasion (Appearing genuinely modest while Jacaerys takes credit)', 'modifier': 7, 'result': 11, 'roll': '1d20+7', 'faces': '4'}
+  - {'modifier': 7, 'label': 'Persuasion (Appearing genuinely modest while Jacaerys takes credit)', 'type': 'Persuasion (Appearing genuinely modest while Jacaerys takes credit)', 'roll': '1d20+7', 'result': 11, 'faces': '4'}
 
 Game Master:
 The heavy oak doors of the Great Hall groan open as you follow two paces behind Prince Jacaerys (Lvl 7). The air inside is thick with the scent of tallow candles and the sharp, metallic tang of cold sweat from the gathered lords. You maintain a study in regal modesty—shoulders relaxed, gaze lowered, your silver-gold hair reflecting the torchlight like a muted banner of surrender. You are the shadow, and he is the light.
@@ -886,8 +888,8 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 16050/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 1/2 | Sovereign Power: 10 SP | Vermithrax: Active (Maintenance: Royal Coverage)
 Dice Rolls:
-  - {'type': "Deception (Maintain modest facade during Jacaerys's report)", 'label': "Deception (Maintain modest facade during Jacaerys's report)", 'modifier': 7, 'result': 15, 'roll': '1d20+7', 'faces': '8'}
-  - {'type': "Rhaenyra's Insight (Recognizing Visenya as the true source)", 'label': "Rhaenyra's Insight (Recognizing Visenya as the true source)", 'modifier': 9, 'result': 15, 'roll': '1d20+9', 'faces': '6'}
+  - {'modifier': 7, 'label': "Deception (Maintain modest facade during Jacaerys's report)", 'type': "Deception (Maintain modest facade during Jacaerys's report)", 'roll': '1d20+7', 'result': 15, 'faces': '8'}
+  - {'modifier': 9, 'label': "Rhaenyra's Insight (Recognizing Visenya as the true source)", 'type': "Rhaenyra's Insight (Recognizing Visenya as the true source)", 'roll': '1d20+9', 'result': 15, 'faces': '6'}
 
 Game Master:
 Prince Jacaerys (Lvl 7) commands the center of the Great Hall with a feverish, high-frequency energy. He stands before the Painted Table, his dark hair disheveled from the wind of the terrace, gesturing sharply to the carved wooden ships in the Gullet. 
@@ -926,8 +928,8 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 16050/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 1/2 | Sovereign Power: 10 SP | Vermithrax: Active
 Dice Rolls:
-  - {'type': 'Persuasion (Publicly attributing scouting success to Jacaerys)', 'label': 'Persuasion (Publicly attributing scouting success to Jacaerys)', 'modifier': 7, 'result': 11, 'roll': '1d20+7', 'faces': '4'}
-  - {'type': 'Persuasion (Mentorship request to Jacaerys)', 'label': 'Persuasion (Mentorship request to Jacaerys)', 'modifier': 7, 'result': 14, 'roll': '1d20+7', 'faces': '7'}
+  - {'modifier': 7, 'label': 'Persuasion (Publicly attributing scouting success to Jacaerys)', 'type': 'Persuasion (Publicly attributing scouting success to Jacaerys)', 'roll': '1d20+7', 'result': 11, 'faces': '4'}
+  - {'modifier': 7, 'label': 'Persuasion (Mentorship request to Jacaerys)', 'type': 'Persuasion (Mentorship request to Jacaerys)', 'roll': '1d20+7', 'result': 14, 'faces': '7'}
 
 Game Master:
 You step forward as the Council's murmurs settle, your movements a study in courtly diplomatic grace. You do not look at the Queen first; you turn to Prince Jacaerys (Lvl 7), your voice carrying a polite, melodic warmth that softens the clinical edge of your earlier resonance. 
@@ -978,8 +980,8 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 16650/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 20 SP | Vermithrax: Large (Active)
 Dice Rolls:
-  - {'type': 'Dragon Riding Training (Animal Handling)', 'label': 'Dragon Riding Training (Animal Handling)', 'modifier': 7, 'result': 15, 'roll': '1d20+7', 'faces': '8'}
-  - {'type': 'Melee Combat Training', 'label': 'Melee Combat Training', 'modifier': 6, 'result': 25, 'roll': '1d20+6', 'faces': '19'}
+  - {'modifier': 7, 'label': 'Dragon Riding Training (Animal Handling)', 'type': 'Dragon Riding Training (Animal Handling)', 'roll': '1d20+7', 'result': 15, 'faces': '8'}
+  - {'modifier': 6, 'label': 'Melee Combat Training', 'type': 'Melee Combat Training', 'roll': '1d20+6', 'result': 25, 'faces': '19'}
 
 Game Master:
 Morning (08:00:00)
@@ -1045,8 +1047,8 @@ Status: Lvl 6 Sovereign Shadow | HP: 44/44 | Gold: 100gp | XP: 17250/23000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Sovereign Power: 41 SP (Tier 2) | Vermithrax: Large (Active)
 Dice Rolls:
-  - {'type': "Charisma (Subverting Celtigar's remnant harbor-officers for SP)", 'label': "Charisma (Subverting Celtigar's remnant harbor-officers for SP)", 'modifier': 7, 'result': 24, 'roll': '1d20+7', 'faces': '17'}
-  - {'type': 'Persuasion (De-escalating Jacaerys during training)', 'label': 'Persuasion (De-escalating Jacaerys during training)', 'modifier': 7, 'result': 21, 'roll': '1d20+7', 'faces': '14'}
+  - {'modifier': 7, 'label': "Charisma (Subverting Celtigar's remnant harbor-officers for SP)", 'type': "Charisma (Subverting Celtigar's remnant harbor-officers for SP)", 'roll': '1d20+7', 'result': 24, 'faces': '17'}
+  - {'modifier': 7, 'label': 'Persuasion (De-escalating Jacaerys during training)', 'type': 'Persuasion (De-escalating Jacaerys during training)', 'roll': '1d20+7', 'result': 21, 'faces': '14'}
 
 Game Master:
 Morning (08:00:00)

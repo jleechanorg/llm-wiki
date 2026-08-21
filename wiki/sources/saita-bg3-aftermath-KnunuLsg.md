@@ -2,12 +2,13 @@
 title: "Saita bg3 aftermath "
 type: source
 tags: [campaign, worldarchitect, saita-bg3-aftermath]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/KnunuLsgsWm5v9M5q07w/Saita bg3 aftermath_KnunuLsg.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/KnunuLsgsWm5v9M5q07w/Saita bg3 aftermath _KnunuLsg.txt
 campaign_id: KnunuLsgsWm5v9M5q07w
 entry_count: 236
-last_updated_iso: 2026-07-13T02:33:14.548195+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

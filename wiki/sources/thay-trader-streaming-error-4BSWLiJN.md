@@ -2,12 +2,13 @@
 title: "Thay trader (streaming error)"
 type: source
 tags: [campaign, worldarchitect, thay-trader-streaming-error]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/4BSWLiJNxadROOcjrzih/Thay trader _streaming error__4BSWLiJN.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/4BSWLiJNxadROOcjrzih/Thay trader _streaming error__4BSWLiJN.txt
 campaign_id: 4BSWLiJNxadROOcjrzih
 entry_count: 849
-last_updated_iso: 2026-07-13T02:41:39.328693+00:00
-ingest_batch: batch-2026-07-12-50plus-repair
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

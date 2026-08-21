@@ -2,12 +2,13 @@
 title: "bg3 astarion"
 type: source
 tags: [campaign, worldarchitect, bg3-astarion]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/LUAqNRjA6SIgLAoSPfDH/bg3 astarion_LUAqNRjA.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/LUAqNRjA6SIgLAoSPfDH/bg3 astarion_LUAqNRjA.txt
 campaign_id: LUAqNRjA6SIgLAoSPfDH
 entry_count: 254
-last_updated_iso: 2026-07-13T02:33:14.847917+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

@@ -2,10 +2,10 @@
 title: "Valeria iseki"
 type: source
 tags: [campaign, worldarchitect, valeria-iseki]
-date: 2026-08-01
-source_file: /tmp/campaign_daily_ingest/1jO5rtBMvkvreFGCLahs/Valeria iseki_1jO5rtBM.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/1jO5rtBMvkvreFGCLahs/Valeria iseki_1jO5rtBM.txt
 campaign_id: 1jO5rtBMvkvreFGCLahs
-entry_count: 288
+entry_count: 406
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill
@@ -527,8 +527,8 @@ Stats: STR 12 (+1) DEX 18 (+4) CON 14 (+2) INT 18 (+4) WIS 14 (+2) CHA 12 (+1)
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Aethersong: Active]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Second Wind: 1/1 | Action Surge: 1/1 | Aethersong: Active
 Dice Rolls:
-  - {'modifier': 7, 'roll': '1d20+7', 'faces': '18', 'label': "Julian's Highlander Thrust (Attack)", 'type': "Julian's Highlander Thrust (Attack)", 'result': 25}
-  - {'modifier': 3, 'roll': '1d8+3', 'faces': '8', 'label': "Julian's Damage", 'type': "Julian's Damage", 'result': 11}
+  - {'type': "Julian's Highlander Thrust (Attack)", 'result': 25, 'modifier': 7, 'faces': '18', 'label': "Julian's Highlander Thrust (Attack)", 'roll': '1d20+7'}
+  - {'type': "Julian's Damage", 'result': 11, 'modifier': 3, 'faces': '8', 'label': "Julian's Damage", 'roll': '1d8+3'}
 
 Game Master:
 Morning (08:15:05) in the Royal Knight Academy Courtyard—the practice duel begins with a flash of polished steel and the heavy scent of noble arrogance. As Julian (Lvl 6) initiates his 'Highlander Thrust,' his face is a mask of concentrated spite. Under the 'Lord of Body and Soul' caste system, this isn't just a spar; it is a legal correction of a 'Runeless' anomaly who dares to stand in the presence of his High-class betters. His strike is fast, precise, and fueled by a desperate 'Rune Anxiety'—the need to prove that his Baptism wasn't a mistake by crushing a girl everyone believes is a nepotistic fraud.
@@ -604,11 +604,11 @@ World: Lvl 1-2 Peer Baseline | Rival: Julian (Lvl 3)
 Conditions: Aethersong Active (Auto)]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Action Surge: 1/1 | Second Wind: 1/1
 Dice Rolls:
-  - {'modifier': 4, 'roll': '1d10+4', 'faces': '8', 'label': 'Parry damage reduction (Maneuver)', 'type': 'Parry damage reduction (Maneuver)', 'result': 12}
-  - {'modifier': 9, 'roll': '1d20+9', 'faces': '20', 'label': 'Mundane counter-attack 1', 'type': 'Mundane counter-attack 1', 'result': 29}
-  - {'modifier': 6, 'roll': '1d8+6', 'faces': '7', 'label': 'Rapier damage 1', 'type': 'Rapier damage 1', 'result': 13}
-  - {'modifier': 9, 'roll': '1d20+9', 'faces': '16', 'label': 'Mundane counter-attack 2', 'type': 'Mundane counter-attack 2', 'result': 25}
-  - {'modifier': 6, 'roll': '1d8+6', 'faces': '4', 'label': 'Rapier damage 2', 'type': 'Rapier damage 2', 'result': 10}
+  - {'type': 'Parry damage reduction (Maneuver)', 'result': 12, 'modifier': 4, 'faces': '8', 'label': 'Parry damage reduction (Maneuver)', 'roll': '1d10+4'}
+  - {'type': 'Mundane counter-attack 1', 'result': 29, 'modifier': 9, 'faces': '20', 'label': 'Mundane counter-attack 1', 'roll': '1d20+9'}
+  - {'type': 'Rapier damage 1', 'result': 13, 'modifier': 6, 'faces': '7', 'label': 'Rapier damage 1', 'roll': '1d8+6'}
+  - {'type': 'Mundane counter-attack 2', 'result': 25, 'modifier': 9, 'faces': '16', 'label': 'Mundane counter-attack 2', 'roll': '1d20+9'}
+  - {'type': 'Rapier damage 2', 'result': 10, 'modifier': 6, 'faces': '4', 'label': 'Rapier damage 2', 'roll': '1d8+6'}
 
 Game Master:
 Morning (08:15:15) in the Royal Knight Academy Courtyard—the air turns to lead as Julian’s (Lvl 3) practice blade nears your shoulder. He is smiling, already savoring the sight of a Runeless noble forced to her knees. But you do not use Aether. You do not invoke the fluid, shimmering resonance of the Queen. You simply breathe.
@@ -734,8 +734,8 @@ Stats: STR 12 (+1) DEX 18 (+4) CON 14 (+2) INT 18 (+4) WIS 14 (+2) CHA 12 (+1)
 Companion: Sarah (Lvl 4 Grand Rune Archer)]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Action Surge: 1/1 | Second Wind: 1/1
 Dice Rolls:
-  - {'modifier': 2, 'roll': '1d20+2', 'faces': '18', 'label': "Insight to gauge Captain Vance's reaction", 'type': "Insight to gauge Captain Vance's reaction", 'result': 20}
-  - {'modifier': 1, 'roll': '1d20+1', 'faces': '20', 'label': "Julian's morale check", 'type': "Julian's morale check", 'result': 21}
+  - {'type': "Insight to gauge Captain Vance's reaction", 'result': 20, 'modifier': 2, 'faces': '18', 'label': "Insight to gauge Captain Vance's reaction", 'roll': '1d20+2'}
+  - {'type': "Julian's morale check", 'result': 21, 'modifier': 1, 'faces': '20', 'label': "Julian's morale check", 'roll': '1d20+1'}
 
 Game Master:
 Morning (08:16:00) in the Royal Knight Academy Courtyard—a silence so profound it seems to swallow the very sound of the wind settles over the white marble. Julian (Lvl 3) stands frozen, his practice rapier hanging limp in a hand that has forgotten how to grip. He is not bleeding, but the two strikes you delivered with such clinical, mundane precision have hollowed out his pride more effectively than any Aether-flare ever could. To the observers, you didn't just win; you dismantled a 'Lord of Body and Soul' with the effortless ease of a gardener pruning a rose.
@@ -1035,7 +1035,7 @@ Status: Lvl 6 Spellblade (Runeless Mask) | HP: 52/52 | Gold: 1,500gp | XP: 15800
 Social: Vulnerable Prize (0.01% Beauty Anomaly) | Attraction: Universal]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Aethersong: Auto-Active
 Dice Rolls:
-  - {'modifier': 2, 'roll': '1d20+2', 'faces': '6', 'label': 'Insight (Detecting Predatory Gazes)', 'type': 'Insight (Detecting Predatory Gazes)', 'result': 8}
+  - {'type': 'Insight (Detecting Predatory Gazes)', 'result': 8, 'modifier': 2, 'faces': '6', 'label': 'Insight (Detecting Predatory Gazes)', 'roll': '1d20+2'}
 
 Game Master:
 Morning (09:30:00) in the Hall of Resonant Logic finds the air thick with the smell of old parchment and the stifled whispers of the Academy’s elite. You sit at a polished oak desk, the posture of a diligent squire maintained with practiced ease, but you can feel the heat of dozens of eyes boring into your back. 
@@ -1220,8 +1220,8 @@ Status: Lvl 6 Spellblade (Runeless Mask) | HP: 52/52 | XP: 15800/23000
 Factions: Deniers vs. Believers | Success Streak: 3]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Aethersong: Auto-Active
 Dice Rolls:
-  - {'modifier': 3, 'roll': '1d20+3', 'faces': '15', 'label': 'Perception (Eavesdropping on Deniers)', 'type': 'Perception (Eavesdropping on Deniers)', 'result': 18}
-  - {'modifier': 0, 'roll': '1d20', 'faces': '11', 'label': 'Secret Awakening Check (Hana the Servant)', 'type': 'Secret Awakening Check (Hana the Servant)', 'result': 11}
+  - {'type': 'Perception (Eavesdropping on Deniers)', 'result': 18, 'modifier': 3, 'faces': '15', 'label': 'Perception (Eavesdropping on Deniers)', 'roll': '1d20+3'}
+  - {'type': 'Secret Awakening Check (Hana the Servant)', 'result': 11, 'modifier': 0, 'faces': '11', 'label': 'Secret Awakening Check (Hana the Servant)', 'roll': '1d20'}
 
 Game Master:
 Mid-morning (10:45:00) at the Academy Grounds finds the usual orderly atmosphere shattered by an invisible upheaval. As the lecture halls empty, the silence of the South Cloisters is replaced by a low, frantic hum of gossip that follows you like a physical weight. The world has turned upside down. To these noble scions, your victory over Julian wasn't just an upset; it was a fundamental glitch in reality—as if a five-year-old had stepped into a ring and knocked out a champion boxer with a single, lazy jab.

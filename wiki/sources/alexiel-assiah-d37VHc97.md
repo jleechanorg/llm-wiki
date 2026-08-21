@@ -2,12 +2,13 @@
 title: "Alexiel assiah"
 type: source
 tags: [campaign, worldarchitect, alexiel-assiah]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/d37VHc97oLhjQryAI9GV/Alexiel assiah_d37VHc97.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/d37VHc97oLhjQryAI9GV/Alexiel assiah_d37VHc97.txt
 campaign_id: d37VHc97oLhjQryAI9GV
 entry_count: 874
-last_updated_iso: 2026-07-13T02:33:53.093507+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

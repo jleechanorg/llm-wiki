@@ -2,12 +2,13 @@
 title: "Re: zero"
 type: source
 tags: [campaign, worldarchitect, re-zero]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/5MYrGMUZovrK6hgv3Qiu/Re_ zero_5MYrGMUZ.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/5MYrGMUZovrK6hgv3Qiu/Re_ zero_5MYrGMUZ.txt
 campaign_id: 5MYrGMUZovrK6hgv3Qiu
 entry_count: 158
-last_updated_iso: 2026-07-13T02:32:40.086920+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

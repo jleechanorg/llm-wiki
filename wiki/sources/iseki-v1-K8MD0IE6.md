@@ -2,10 +2,10 @@
 title: "Iseki v1"
 type: source
 tags: [campaign, worldarchitect, iseki-v1]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/K8MD0IE6tLf4hpNyjU59/Iseki v1_K8MD0IE6.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/K8MD0IE6tLf4hpNyjU59/Iseki v1_K8MD0IE6.txt
 campaign_id: K8MD0IE6tLf4hpNyjU59
-entry_count: 148
+entry_count: 166
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill

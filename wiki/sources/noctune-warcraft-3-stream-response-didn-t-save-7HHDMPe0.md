@@ -2,10 +2,10 @@
 title: "noctune Warcraft 3 (stream response didn’t save)"
 type: source
 tags: [campaign, worldarchitect, noctune-warcraft-3-stream-response-didn-t-save]
-date: 2026-08-18
-source_file: /tmp/campaign_daily_ingest/7HHDMPe0wNLBDTfymzfT/noctune Warcraft 3 _stream response didn_t save__7HHDMPe0.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/7HHDMPe0wNLBDTfymzfT/noctune Warcraft 3 _stream response didn_t save__7HHDMPe0.txt
 campaign_id: 7HHDMPe0wNLBDTfymzfT
-entry_count: 305
+entry_count: 307
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill

@@ -2,10 +2,10 @@
 title: "bg3 nocturne murder god (think ignored)"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-think-ignored]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/wc2BBcSgOljiU3vJ160A/bg3 nocturne murder god _think ignored__wc2BBcSg.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/wc2BBcSgOljiU3vJ160A/bg3 nocturne murder god _think ignored__wc2BBcSg.txt
 campaign_id: wc2BBcSgOljiU3vJ160A
-entry_count: 1148
+entry_count: 1150
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill

@@ -2,8 +2,8 @@
 title: "Dragon Knight"
 type: source
 tags: [campaign, worldarchitect, dragon-knight]
-date: 2026-08-06
-source_file: /tmp/campaign_daily_ingest/EKP0pN6mwWD2Pm81wgMG/Dragon Knight_EKP0pN6m.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/EKP0pN6mwWD2Pm81wgMG/Dragon Knight_EKP0pN6m.txt
 campaign_id: EKP0pN6mwWD2Pm81wgMG
 entry_count: 52
 user_email: "jleechan@gmail.com"
@@ -565,7 +565,7 @@ Status: Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 102/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4
 Dice Rolls:
-  - {'label': "Insight check to gauge Elian and Vespera's morale/loyalty", 'roll': '1d20+1', 'faces': '7', 'result': 8, 'type': "Insight check to gauge Elian and Vespera's morale/loyalty", 'modifier': 1}
+  - {'type': "Insight check to gauge Elian and Vespera's morale/loyalty", 'result': 8, 'modifier': 1, 'faces': '7', 'label': "Insight check to gauge Elian and Vespera's morale/loyalty", 'roll': '1d20+1'}
 
 Game Master:
 You pull your horse closer to your companions, the leather of your saddle creaking in the biting cold. 'Lady Annalise was a hero once,' you say, your voice echoing slightly within the Gryphon Helm. 'Tell me, what do you truly think of this mission? Dispersal is a heavy word for such a cold day.'
@@ -588,7 +588,7 @@ Status: Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 204/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4
 Dice Rolls:
-  - {'label': 'Commanding the gates of Winter-Mourn to open', 'roll': '1d20+5', 'faces': '3', 'result': 8, 'type': 'Commanding the gates of Winter-Mourn to open', 'modifier': 5}
+  - {'type': 'Commanding the gates of Winter-Mourn to open', 'result': 8, 'modifier': 5, 'faces': '3', 'label': 'Commanding the gates of Winter-Mourn to open', 'roll': '1d20+5'}
 
 Game Master:
 Morning (09:10:00) at the Inner Gates of Winter-Mourn Keep—the biting wind carries the acrid smell of woodsmoke and the low, collective hum of the refugee camp huddling against the keep's outer curtain wall. You guide your horse forward, the steel of your greaves cold against the saddle. You attempt to project the authority of House Valerion, your voice ringing out from beneath the Gryphon Helm. 'Open the gates! By order of Prefect Gratian and in the name of the Empress, the Argent Eaglets demand entry!'
@@ -611,7 +611,7 @@ Status: Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4
 Dice Rolls:
-  - {'label': 'Investigation sweep of courtyard defenses', 'roll': '1d20+0', 'faces': '20', 'result': 20, 'type': 'Investigation sweep of courtyard defenses', 'modifier': 0}
+  - {'type': 'Investigation sweep of courtyard defenses', 'result': 20, 'modifier': 0, 'faces': '20', 'label': 'Investigation sweep of courtyard defenses', 'roll': '1d20+0'}
 
 Game Master:
 Morning (09:20:00) in the Inner Ward of Winter-Mourn Keep—the air here is staler than the road, thick with the smell of unwashed bodies and the damp wool of the refugees huddled in the shadows of the secondary walls. You signal for a slow march, your eyes scanning the battlements and the courtyard with the clinical detachment your father drilled into you. 
@@ -700,7 +700,7 @@ Status: Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 510/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4
 Dice Rolls:
-  - {'label': 'Squad briefing persuasion check', 'roll': '1d20+5', 'faces': '8', 'result': 13, 'type': 'Squad briefing persuasion check', 'modifier': 5}
+  - {'type': 'Squad briefing persuasion check', 'result': 13, 'modifier': 5, 'faces': '8', 'label': 'Squad briefing persuasion check', 'roll': '1d20+5'}
 
 Game Master:
 Morning (09:25:00) at the Great Hall Entrance—the cold has seeped through the gaps in your plate, but you ignore it, raising a gauntleted hand to signal your knights into a tight, private circle. You lean in, the metal of your Gryphon Helm almost touching their visors. 
@@ -727,7 +727,7 @@ Status: Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 714/900
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4
 Dice Rolls:
-  - {'label': 'Intimidation/Persuasion check to demand private audience', 'roll': '1d20+5', 'faces': '10', 'result': 15, 'type': 'Intimidation/Persuasion check to demand private audience', 'modifier': 5}
+  - {'type': 'Intimidation/Persuasion check to demand private audience', 'result': 15, 'modifier': 5, 'faces': '10', 'label': 'Intimidation/Persuasion check to demand private audience', 'roll': '1d20+5'}
 
 Game Master:
 Morning (09:30:00) in the Great Hall—the shadows of the high rafters dance in the orange glow of the wall-mounted braziers. Lady Annalise Ashwood sits motionless, her hands resting on the stone arms of her chair. Behind her, a dozen house guards stand in a loose semi-circle, their spears upright but their eyes betraying a profound weariness. 
@@ -756,7 +756,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 918/2700
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4
 Dice Rolls:
-  - {'label': 'Strategic Entrapment: Persuading Annalise via synergistic pressure', 'roll': '2d20kh1+5', 'faces': '12,5', 'result': 17, 'type': 'Strategic Entrapment: Persuading Annalise via synergistic pressure', 'modifier': 5}
+  - {'type': 'Strategic Entrapment: Persuading Annalise via synergistic pressure', 'result': 17, 'modifier': 5, 'faces': '12,5', 'label': 'Strategic Entrapment: Persuading Annalise via synergistic pressure', 'roll': '2d20kh1+5'}
 
 Game Master:
 Morning (09:35:00) in the Great Hall—the atmosphere thickens as Vespera begins her clinical sweep of the room, her gaze cataloging each guard’s equipment with the detached precision of an Imperial auditor. You step forward, keeping your voice calm and your words measured, attempting to weave a bridge between your duty and your blood. 
@@ -787,7 +787,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 1530/2700
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4, Channel Divinity: 1/1
 Dice Rolls:
-  - {'label': "Persuasion check to appeal to guards' duty", 'roll': '1d20+5', 'faces': '3', 'result': 8, 'type': "Persuasion check to appeal to guards' duty", 'modifier': 5}
+  - {'type': "Persuasion check to appeal to guards' duty", 'result': 8, 'modifier': 5, 'faces': '3', 'label': "Persuasion check to appeal to guards' duty", 'roll': '1d20+5'}
 
 Game Master:
 Morning (09:40:00) in the Great Hall—the flickering braziers cast long, distorting shadows against the stone pillars as you turn your attention from your cousin to the men standing behind her. You raise your voice, allowing the resonant power of your newly sworn oath to vibrate through your Valerion plate. 
@@ -817,7 +817,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 2142/2700
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4, Channel Divinity: 1/1
 Dice Rolls:
-  - {'label': 'Intimidation check to deliver the Imperial Proclamation', 'roll': '1d20+5', 'faces': '10', 'result': 15, 'type': 'Intimidation check to deliver the Imperial Proclamation', 'modifier': 5}
+  - {'type': 'Intimidation check to deliver the Imperial Proclamation', 'result': 15, 'modifier': 5, 'faces': '10', 'label': 'Intimidation check to deliver the Imperial Proclamation', 'roll': '1d20+5'}
 
 Game Master:
 Morning (09:45:00) in the Great Hall—the flickering braziers seem to dim as you step into the center of the chamber, the weight of the Imperial scroll in your gauntlet feeling heavier than the sword at your hip. You unroll the parchment, the snap of the vellum echoing like a whip-crack in the vaulted silence. 
@@ -847,11 +847,11 @@ Status: Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 2754/6500
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 4/4, Channel Divinity: 1/1
 Dice Rolls:
-  - {'label': 'Ser Arion Initiative', 'roll': '1d20+0', 'faces': '12', 'result': 12, 'type': 'Ser Arion Initiative', 'modifier': 0}
-  - {'label': 'Ser Elian Initiative', 'roll': '1d20+2', 'faces': '19', 'result': 21, 'type': 'Ser Elian Initiative', 'modifier': 2}
-  - {'label': 'Ser Vespera Initiative', 'roll': '1d20+2', 'faces': '11', 'result': 13, 'type': 'Ser Vespera Initiative', 'modifier': 2}
-  - {'label': 'Lady Annalise Initiative', 'roll': '1d20+1', 'faces': '6', 'result': 7, 'type': 'Lady Annalise Initiative', 'modifier': 1}
-  - {'label': 'Winter-Mourn Guards Initiative', 'roll': '1d20+1', 'faces': '2', 'result': 3, 'type': 'Winter-Mourn Guards Initiative', 'modifier': 1}
+  - {'type': 'Ser Arion Initiative', 'result': 12, 'modifier': 0, 'faces': '12', 'label': 'Ser Arion Initiative', 'roll': '1d20+0'}
+  - {'type': 'Ser Elian Initiative', 'result': 21, 'modifier': 2, 'faces': '19', 'label': 'Ser Elian Initiative', 'roll': '1d20+2'}
+  - {'type': 'Ser Vespera Initiative', 'result': 13, 'modifier': 2, 'faces': '11', 'label': 'Ser Vespera Initiative', 'roll': '1d20+2'}
+  - {'type': 'Lady Annalise Initiative', 'result': 7, 'modifier': 1, 'faces': '6', 'label': 'Lady Annalise Initiative', 'roll': '1d20+1'}
+  - {'type': 'Winter-Mourn Guards Initiative', 'result': 3, 'modifier': 1, 'faces': '2', 'label': 'Winter-Mourn Guards Initiative', 'roll': '1d20+1'}
 
 Game Master:
 You have leveled up to Level 4! Recommended package applied: +8 HP (Fixed average), Ability Score Improvement (+2 Strength), and expanded spell capacity. Spellcasting: Charisma, Spell Save DC 13, Spell Attack +5. Prepared spells (7): Cure Wounds, Divine Favor, Shield of Faith, Thunderous Smite, Bless, Command, Compelled Duel. These choices can be changed at any time using the Level-Up Review option below or God Mode.
@@ -991,11 +991,11 @@ Status: Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 4046/6500
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Divine Sense: 4/4, Channel Divinity: 0/1
 Dice Rolls:
-  - {'label': 'Elian Thorne: Wisdom save to overcome hesitation', 'roll': '1d20+0', 'faces': '13', 'result': 13, 'type': 'Elian Thorne: Wisdom save to overcome hesitation', 'modifier': 0}
-  - {'label': 'Ser Vespera: Attack vs Guard 1', 'roll': '1d20+4', 'faces': '2', 'result': 6, 'type': 'Ser Vespera: Attack vs Guard 1', 'modifier': 4}
-  - {'label': 'Guards 1-4: WIS Save vs Champion Challenge', 'roll': '1d20+1', 'faces': '4', 'result': 5, 'type': 'Guards 1-4: WIS Save vs Champion Challenge', 'modifier': 1}
-  - {'label': 'Guards 5-8: WIS Save vs Champion Challenge', 'roll': '1d20+1', 'faces': '12', 'result': 13, 'type': 'Guards 5-8: WIS Save vs Champion Challenge', 'modifier': 1}
-  - {'label': 'Guards 9-12: WIS Save vs Champion Challenge', 'roll': '1d20+1', 'faces': '18', 'result': 19, 'type': 'Guards 9-12: WIS Save vs Champion Challenge', 'modifier': 1}
+  - {'type': 'Elian Thorne: Wisdom save to overcome hesitation', 'result': 13, 'modifier': 0, 'faces': '13', 'label': 'Elian Thorne: Wisdom save to overcome hesitation', 'roll': '1d20+0'}
+  - {'type': 'Ser Vespera: Attack vs Guard 1', 'result': 6, 'modifier': 4, 'faces': '2', 'label': 'Ser Vespera: Attack vs Guard 1', 'roll': '1d20+4'}
+  - {'type': 'Guards 1-4: WIS Save vs Champion Challenge', 'result': 5, 'modifier': 1, 'faces': '4', 'label': 'Guards 1-4: WIS Save vs Champion Challenge', 'roll': '1d20+1'}
+  - {'type': 'Guards 5-8: WIS Save vs Champion Challenge', 'result': 13, 'modifier': 1, 'faces': '12', 'label': 'Guards 5-8: WIS Save vs Champion Challenge', 'roll': '1d20+1'}
+  - {'type': 'Guards 9-12: WIS Save vs Champion Challenge', 'result': 19, 'modifier': 1, 'faces': '18', 'label': 'Guards 9-12: WIS Save vs Champion Challenge', 'roll': '1d20+1'}
 
 Game Master:
 Morning (09:50:06) in the Great Hall—the silence of the parley is replaced by the cacophony of steel on stone. The air vibrates with the sudden, sharp transition into violence. 
@@ -1037,12 +1037,12 @@ Status: Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 11798/14000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5, Spells: L1 3/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4, Channel Divinity: 0/1
 Dice Rolls:
-  - {'label': 'Arion: Intimidation (Flare of Faith)', 'roll': '1d20+6', 'faces': '17', 'result': 23, 'type': 'Arion: Intimidation (Flare of Faith)', 'modifier': 6}
-  - {'label': 'Annalise: Psychic Command vs Elian', 'roll': '1d20+6', 'faces': '19', 'result': 25, 'type': 'Annalise: Psychic Command vs Elian', 'modifier': 6}
-  - {'label': 'Guard 1 attack vs Arion', 'roll': '1d20+3', 'faces': '16', 'result': 19, 'type': 'Guard 1 attack vs Arion', 'modifier': 3}
-  - {'label': 'Guard 2 attack vs Arion', 'roll': '1d20+3', 'faces': '11', 'result': 14, 'type': 'Guard 2 attack vs Arion', 'modifier': 3}
-  - {'label': 'Guard 3 attack vs Arion', 'roll': '1d20+3', 'faces': '16', 'result': 19, 'type': 'Guard 3 attack vs Arion', 'modifier': 3}
-  - {'label': 'Guard 4 attack vs Arion', 'roll': '1d20+3', 'faces': '11', 'result': 14, 'type': 'Guard 4 attack vs Arion', 'modifier': 3}
+  - {'type': 'Arion: Intimidation (Flare of Faith)', 'result': 23, 'modifier': 6, 'faces': '17', 'label': 'Arion: Intimidation (Flare of Faith)', 'roll': '1d20+6'}
+  - {'type': 'Annalise: Psychic Command vs Elian', 'result': 25, 'modifier': 6, 'faces': '19', 'label': 'Annalise: Psychic Command vs Elian', 'roll': '1d20+6'}
+  - {'type': 'Guard 1 attack vs Arion', 'result': 19, 'modifier': 3, 'faces': '16', 'label': 'Guard 1 attack vs Arion', 'roll': '1d20+3'}
+  - {'type': 'Guard 2 attack vs Arion', 'result': 14, 'modifier': 3, 'faces': '11', 'label': 'Guard 2 attack vs Arion', 'roll': '1d20+3'}
+  - {'type': 'Guard 3 attack vs Arion', 'result': 19, 'modifier': 3, 'faces': '16', 'label': 'Guard 3 attack vs Arion', 'roll': '1d20+3'}
+  - {'type': 'Guard 4 attack vs Arion', 'result': 14, 'modifier': 3, 'faces': '11', 'label': 'Guard 4 attack vs Arion', 'roll': '1d20+3'}
 
 Game Master:
 You have leveled up to Level 5! Recommended package applied: Fixed HP (+8), Extra Attack (Action), 2nd-level spell slots, and Proficiency Increase (+3). Spellcasting: Charisma, Spell Save DC 15, Spell Attack +7. Oath Spells: Aid, Warding Bond (applied). Prepared spells: Aid, Warding Bond. These choices can be changed at any time using the Level-Up Review option below or God Mode.
@@ -1074,15 +1074,15 @@ Status: Lvl 8 Paladin | HP: 68/68 | Gold: 25gp | XP: 44268/48000
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 8/8, Spells: L1 4/4, L2 3/3, Lay on Hands: 40/40, Divine Sense: 4/4, Channel Divinity: 0/1
 Dice Rolls:
-  - {'label': 'Ser Elian: Attack vs Lady Annalise', 'roll': '1d20+2', 'faces': '13', 'result': 15, 'type': 'Ser Elian: Attack vs Lady Annalise', 'modifier': 2}
-  - {'label': 'Ser Elian: Damage vs Lady Annalise', 'roll': '1d8', 'faces': '7', 'result': 7, 'type': 'Ser Elian: Damage vs Lady Annalise', 'modifier': 0}
-  - {'label': 'Ser Vespera: Attack vs Lady Annalise', 'roll': '1d20+4', 'faces': '1', 'result': 5, 'type': 'Ser Vespera: Attack vs Lady Annalise', 'modifier': 4}
-  - {'label': 'Ser Arion: Attack 1 vs Guard', 'roll': '1d20+6', 'faces': '13', 'result': 19, 'type': 'Ser Arion: Attack 1 vs Guard', 'modifier': 6}
-  - {'label': 'Ser Arion: Damage 1 vs Guard', 'roll': '1d8+3', 'faces': '3', 'result': 6, 'type': 'Ser Arion: Damage 1 vs Guard', 'modifier': 3}
-  - {'label': 'Ser Arion: Attack 2 vs Guard', 'roll': '1d20+6', 'faces': '17', 'result': 23, 'type': 'Ser Arion: Attack 2 vs Guard', 'modifier': 6}
-  - {'label': 'Ser Arion: Damage 2 vs Guard', 'roll': '1d8+3', 'faces': '7', 'result': 10, 'type': 'Ser Arion: Damage 2 vs Guard', 'modifier': 3}
-  - {'label': 'Guard: Opportunity Attack vs Ser Elian', 'roll': '1d20+3', 'faces': '8', 'result': 11, 'type': 'Guard: Opportunity Attack vs Ser Elian', 'modifier': 3}
-  - {'label': 'Guard: Opportunity Attack vs Ser Vespera', 'roll': '1d20+3', 'faces': '3', 'result': 6, 'type': 'Guard: Opportunity Attack vs Ser Vespera', 'modifier': 3}
+  - {'type': 'Ser Elian: Attack vs Lady Annalise', 'result': 15, 'modifier': 2, 'faces': '13', 'label': 'Ser Elian: Attack vs Lady Annalise', 'roll': '1d20+2'}
+  - {'type': 'Ser Elian: Damage vs Lady Annalise', 'result': 7, 'modifier': 0, 'faces': '7', 'label': 'Ser Elian: Damage vs Lady Annalise', 'roll': '1d8'}
+  - {'type': 'Ser Vespera: Attack vs Lady Annalise', 'result': 5, 'modifier': 4, 'faces': '1', 'label': 'Ser Vespera: Attack vs Lady Annalise', 'roll': '1d20+4'}
+  - {'type': 'Ser Arion: Attack 1 vs Guard', 'result': 19, 'modifier': 6, 'faces': '13', 'label': 'Ser Arion: Attack 1 vs Guard', 'roll': '1d20+6'}
+  - {'type': 'Ser Arion: Damage 1 vs Guard', 'result': 6, 'modifier': 3, 'faces': '3', 'label': 'Ser Arion: Damage 1 vs Guard', 'roll': '1d8+3'}
+  - {'type': 'Ser Arion: Attack 2 vs Guard', 'result': 23, 'modifier': 6, 'faces': '17', 'label': 'Ser Arion: Attack 2 vs Guard', 'roll': '1d20+6'}
+  - {'type': 'Ser Arion: Damage 2 vs Guard', 'result': 10, 'modifier': 3, 'faces': '7', 'label': 'Ser Arion: Damage 2 vs Guard', 'roll': '1d8+3'}
+  - {'type': 'Guard: Opportunity Attack vs Ser Elian', 'result': 11, 'modifier': 3, 'faces': '8', 'label': 'Guard: Opportunity Attack vs Ser Elian', 'roll': '1d20+3'}
+  - {'type': 'Guard: Opportunity Attack vs Ser Vespera', 'result': 6, 'modifier': 3, 'faces': '3', 'label': 'Guard: Opportunity Attack vs Ser Vespera', 'roll': '1d20+3'}
 
 Game Master:
 You have leveled up to Level 8! Recommended package applied: +24 HP (Fixed average), Aura of Protection (+5 to all saves), Divine Allegiance (Crown), Ability Score Improvement (+2 Charisma), and significantly expanded spell capacity. Spellcasting: Charisma, Spell Save DC 16, Spell Attack +8. Prepared spells (9): Cure Wounds, Divine Favor, Shield of Faith, Thunderous Smite, Bless, Heroism, Aid, Lesser Restoration, Warding Bond. Oath Spells: Command, Compelled Duel, Aid, Warding Bond. These choices can be changed at any time using the Level-Up Review option below or God Mode.

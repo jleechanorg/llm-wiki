@@ -2,12 +2,13 @@
 title: "Undertale"
 type: source
 tags: [campaign, worldarchitect, undertale]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/sAV11o87CRsN93akPi31/Undertale_sAV11o87.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/sAV11o87CRsN93akPi31/Undertale_sAV11o87.txt
 campaign_id: sAV11o87CRsN93akPi31
 entry_count: 290
-last_updated_iso: 2026-07-13T02:34:12.985596+00:00
-ingest_batch: batch-2026-07-12-50plus
+user_email: "jleechan@gmail.com"
+user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+ingest_batch: download-campaign-skill
 ---
 
 God Mode:

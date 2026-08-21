@@ -2,8 +2,8 @@
 title: "bg3 nocturne murder god (RED ignoring-requests fresh copy2 rev-0d8mh)"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-red-ignoring-requests-fresh-copy2-rev-0d8mh]
-date: 2026-07-29
-source_file: /tmp/campaign_daily_ingest/0Xr3W42GyF40L7TJAwwl/bg3 nocturne murder god _RED ignoring-requests fre_0Xr3W42G.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/0Xr3W42GyF40L7TJAwwl/bg3 nocturne murder god _RED ignoring-requests fre_0Xr3W42G.txt
 campaign_id: 0Xr3W42GyF40L7TJAwwl
 entry_count: 1210
 user_email: "jleechan@gmail.com"

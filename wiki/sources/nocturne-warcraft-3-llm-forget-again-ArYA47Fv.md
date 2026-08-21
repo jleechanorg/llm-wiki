@@ -3,7 +3,7 @@ title: "nocturne warcraft 3 (llm forget again)"
 type: source
 tags: [campaign, worldarchitect, nocturne-warcraft-3-llm-forget-again]
 date: 2026-08-21
-source_file: /tmp/campaign_daily_ingest/ArYA47Fvx8HTYC8jpleO/nocturne warcraft 3 _llm forget again__ArYA47Fv.txt
+source_file: /tmp/wiki-fix-test/ArYA47Fvx8HTYC8jpleO/nocturne warcraft 3 _llm forget again__ArYA47Fv.txt
 campaign_id: ArYA47Fvx8HTYC8jpleO
 entry_count: 940
 user_email: "jleechan@gmail.com"

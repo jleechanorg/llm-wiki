@@ -2,8 +2,8 @@
 title: "noctune Warcraft 3 (time travel)"
 type: source
 tags: [campaign, worldarchitect, noctune-warcraft-3-time-travel]
-date: 2026-08-18
-source_file: /tmp/campaign_daily_ingest/Mz4s5zy30noDnSgScPJH/noctune Warcraft 3 _time travel__Mz4s5zy3.txt
+date: 2026-08-21
+source_file: /tmp/wiki-fix-test/Mz4s5zy30noDnSgScPJH/noctune Warcraft 3 _time travel__Mz4s5zy3.txt
 campaign_id: Mz4s5zy30noDnSgScPJH
 entry_count: 509
 user_email: "jleechan@gmail.com"
