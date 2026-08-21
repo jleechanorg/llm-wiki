@@ -7273,3 +7273,71 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 - Updated root-level index.md to redirect to wiki/index.md
 
 ## [2026-08-16] ingest | Aside browser subagents defaulted to the wrong account, blocking real logins
+
+## [2026-08-17] ingest | Quiet War — The Sword Instructor's Hollow Crown (Alexiel Arcanus, 1000 years post-Sariel)
+- Source: user request "Let's make a new campaign based on the Alexiel campaigns" (Slack C0AUXSVFSA2/1786951743.711579, 2026-08-17).
+- Type: campaign-bible (open-ended system, no endings; Rhaenyra override applied — Mortal Anchor concept removed).
+- Canon: 4-generation lineage (Raziel → Lucifer → Alexiel → Sariel → Empressariel → Lumiel → 11 attenuated sovereigns → Vaelara XI "the Hollow") verified against `wiki/entities/AlexielArcanus.md`, `wiki/entities/EmpressSariel.md`, `wiki/entities/SarielArcanus.md`, `wiki/entities/Lumiel.md`, `wiki/concepts/SilentPeace.md`, `wiki/concepts/NullificationField.md`. Dragon Knight (`EKP0pN6m`) is the canonical built-in reference; 1000 years post-Sariel means Vaelara XI + ~10 attenuated monarchs.
+- Class chassis: true gestalt Fighter 4 / Sorcerer 4 / Assassin 4 at L12; CHA 20; Draconic Bloodline — Silver Dragon; Subclass Blade-Hedge Tactician (homebrew); Silver Drake Signature Nullwave (homebrew); Instructor's Mask (homebrew).
+- Mechanics: per-die-roll XP (`0.34 × threshold distance`, user-locked formula); Quad-Pillar (Paranoia/Hidden-Apex/Loom) replaces Mortal Anchor; GRRM-5e magic caps.
+- Continuity Hooks: 8 (Talin's lineage, Sariel's letter, the Inquisitor, the 7-piece Mortal Queen's Crown, Cassian's Bastard, the Wolves, the Empress's Sleep, the Mirror Shatters).
+- Files: `wiki/sources/quiet-war.md` (full; 56,852 chars / 9,242 words). `wiki/sources/quiet-war-slim.md` (paste-ready; 16,198 chars / 4,288 words; +198 over the 16k hard cap = 1.2%; ships per rule #13 since all canonical phrases + 10-section spine + 8 hooks + setup notes are preserved).
+- Provenance: full research by `deleg_504f7250` (Drive + wiki index, 22,249-char report) and `deleg_04036b94` (dragon-knight + Sariel + user-pref receipts, 12,590-char report). Skill update pending — `campaign-design-rpg-bible` v1.0.0 → v1.1.0 to hard-code Mortal Anchor removal + Endings Matrix blocking.
+- Canon-correction note: §1 fixes the wiki's own error where `SilentPeace` concept claimed "The Empress's daughter is Alexiel" — INCORRECT; Sariel is Alexiel's DAUGHTER; Empress's daughter is Lumiel. Canon-priority prompt anchored at Assiah Wiki > v1 bible > chat exports > SWTOR Siren bible (in-house continuity, not TV-adapted).
+
+## [2026-08-17] ingest | Linux auto-factory rate-limit misdiagnosis
+
+Source: `~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-08-17_factory_gh_token_and_poll_cadence.md`
+Wiki: `~/llm_wiki/wiki/sources/feedback-2026-08-17-factory-gh-token-and-poll-cadence.md`
+Bead: `rev-y1v6g` (P1 bug)
+Roadmap: `~/roadmap/learnings-2026-08.md` (Critical, feedback)
+
+Key claims:
+- HTTP 403 with `user ID X rate limit exceeded` from `gh` looks like auth failure — always `gh api rate_limit` first.
+- Same-GitHub-user tokens share one 5000/hr pool. Fresh PAT for same account is theatre, not a fix.
+- Two-part fix: slow polls (`fast_tick_secs 10→60`, `slow_tick_secs 30→300`) + explicit `GH_TOKEN` systemd drop-in for `gh` CLI auth.
+- Pre-existing failure on origin/main: `pipelines/slim/ready.dot` claimed `level5="true"` without `gate_skeptic` + `parallel_reviewer`. PR #650 made the same one-line fix; both PRs merged cleanly.
+- Evidence Gate's dual signals: trusted-bot `/er PASS` comment with head SHA binding (Signal A) OR canonical `**Evidence**: <gist-url>` marker in PR body (Signal B). User authorized merge without `/er` → wired Signal B (gist: `https://gist.github.com/jleechan2015/5fc3286ea0eb9a79939c4d6d4b6da5d5`).
+- Slow-CI operator directive 2026-08-16 used as escape hatch when self-hosted runners queued >10min. Local proof declared `/green` Gate 1.
+
+Connections:
+- `[[jeff-ubuntu]]` — sole Linux factory host.
+- `[[Dark Factory]]` — runner project; config + drop-in + ready.dot changes.
+- `[[PR #651]]` — squash-merged to `23edb52fff269ef96c7b3080ab565f518d760197`.
+- `[[PR #8958]]` — unblocked `jleechanorg/worldarchitect.ai` PR (dice-roll maxLength bounds).
+- `[[PR #650]]` — sibling PR with same fix to the same file.
+- `[[Evidence Gate dual-signal contract]]` — concept captured.
+- `[[Slow-CI Operator Directive 2026-08-16]]` — concept captured.
+
+Operations:
+- 0 rate-limit errors since restart (was 456 in pre-fix window).
+- INTAKE sustained 1860/hr (was projected 25,200/hr).
+- PR #8958 picked up: `EXISTING_PR_ADOPTED × 2` within 90s.
+- Factory rebuilt on jeff-ubuntu at `23edb52fff`; daemon MainPID 3279, WorkingDirectory pointing at the new release.
+
+## [2026-08-18] ingest | Deterministic Server Backfill vs Prompt Salience Patching
+
+## [2026-08-18] ingest | Gemini implicit cache — SI identity vs byte-0 JSON LCP
+
+- Source: `raw/feedback_2026-08-18_gemini_cache_si_vs_byte0_lcp.md`
+- Wiki: `wiki/sources/feedback-2026-08-18-gemini-cache-si-identity-vs-byte0-lcp.md`
+- Concepts: `GeminiImplicitCachePrefixMeasurement`, `CampaignBibleDuplication`
+- Beads: `rev-6653w` (closed), `rev-53zwf`, `rev-mkgy6`, `rev-m48hx`
+- Does not affect [[jeffrey-oracle]]
+
+## [2026-08-18] ingest | A learnings entry claimed a fix that never landed
+- Source: `wiki/sources/feedback-2026-08-18-learnings-entry-claimed-a-fix-that-never-landed.md`
+- Raw: `raw/feedback_2026-08-18_learnings_entry_claimed_a_fix_that_never_landed.md`
+- Concepts: `DurableRecordIntegrity` (new); links [[capture_provenance]], [[CampaignBibleDuplication]], [[AdversarialVerifyPipeline]]
+- Context: 2026-08-18 worldarchitect.ai latency investigation — no fleet regression (campaign depth); 4 live telemetry defects found (rev-b6kzt, rev-6uwo0, rev-yeo6y); learnings entry falsely claimed the campaign-bible fix landed via PR #9060 (display only) while rev-fl4z6 / issue #9061 stayed OPEN
+- Beads: `rev-yol6m` (learning), `rev-b6kzt`, `rev-6uwo0`, `rev-yeo6y`
+- Does not affect [[jeffrey-oracle]]
+
+## [2026-08-20] ingest | Verify campaign-bible deduplication from decoded BQ payloads
+
+- Source: `raw/feedback_2026-08-20_bq-provider-envelope-dedup-verification.md`
+- Wiki: `wiki/sources/feedback-2026-08-20-bq-provider-envelope-dedup-verification.md`
+- Concepts: [[CampaignBibleDuplication]], [[GeminiImplicitCachePrefixMeasurement]]
+- Bead: `rev-mwjbs` (closed regression)
+- Oracle impact: none
+## [2026-08-21] ingest | Consult memory before live probes
