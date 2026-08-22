@@ -2,10 +2,10 @@
 title: "HALCYON DAYS"
 type: source
 tags: [campaign, worldarchitect, halcyon-days]
-date: 2026-08-21
+date: 2026-08-22
 source_file: /tmp/campaign_daily_ingest/JmSYWVwlcuQNTtd6eFg1/HALCYON DAYS_JmSYWVwl.txt
 campaign_id: JmSYWVwlcuQNTtd6eFg1
-entry_count: 1038
+entry_count: 1266
 user_email: "hanjistevens@gmail.com"
 user_uid: "oPISN50TvEcH21uVYKzlZX1kKNv2"
 ingest_batch: download-campaign-skill
@@ -1301,7 +1301,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | Gold: 150gp | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Social Technique & Composure Check (TEC 16)', 'label': 'Social Technique & Composure Check (TEC 16)', 'faces': '14', 'modifier': 16, 'roll': '1d20+16', 'result': 30}
+  - {'result': 30, 'label': 'Social Technique & Composure Check (TEC 16)', 'modifier': 16, 'roll': '1d20+16', 'type': 'Social Technique & Composure Check (TEC 16)', 'faces': '14'}
 
 Game Master:
 Morning (08:11:00). Leaving Namaro sputtering behind you on the paved pathway, you stroll over to the edge of the marble fountain where the two transfer students are posted. The crisp morning air carries the hum of chatter and opening lockers across the plaza.
@@ -1330,7 +1330,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | Gold: 150gp | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Social Composure & Deflection (TEC 16)', 'label': 'Social Composure & Deflection (TEC 16)', 'faces': '15', 'modifier': 16, 'roll': '1d20+16', 'result': 31}
+  - {'result': 31, 'label': 'Social Composure & Deflection (TEC 16)', 'modifier': 16, 'roll': '1d20+16', 'type': 'Social Composure & Deflection (TEC 16)', 'faces': '15'}
 
 Game Master:
 Morning (08:13:00). You step slightly aside from the fountain's edge, turning around and lifting a casual hand toward the courtyard path. "Hey, Namaro! Stop lurking behind the hedges like an expelled truant and get over here."
@@ -1357,7 +1357,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | Gold: 150gp | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Social Technique & Teasing Composure (TEC 16)', 'label': 'Social Technique & Teasing Composure (TEC 16)', 'faces': '13', 'modifier': 16, 'roll': '1d20+16', 'result': 29}
+  - {'result': 29, 'label': 'Social Technique & Teasing Composure (TEC 16)', 'modifier': 16, 'roll': '1d20+16', 'type': 'Social Technique & Teasing Composure (TEC 16)', 'faces': '13'}
 
 Game Master:
 Morning (08:15:00). Seda's jaw tightens instantly, her vibrant red twintails twitching as her emerald eyes snap directly onto yours with genuine indignation. For a girl who clearly expects every teenager in New Halcyon to recognize her face from streaming charts or music billboards, having her name butchered outside a courtyard fountain is an immediate personal offense.
@@ -1384,7 +1384,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | Gold: 150gp | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Perception & Technique Webtoon Assessment (PER 12 + TEC 16)', 'label': 'Perception & Technique Webtoon Assessment (PER 12 + TEC 16)', 'faces': '16', 'modifier': 14, 'roll': '1d20+14', 'result': 30}
+  - {'result': 30, 'label': 'Perception & Technique Webtoon Assessment (PER 12 + TEC 16)', 'modifier': 14, 'roll': '1d20+14', 'type': 'Perception & Technique Webtoon Assessment (PER 12 + TEC 16)', 'faces': '16'}
 
 Game Master:
 Morning (08:17:00). You pivot smoothly on your heel as the group begins moving past the brass turnstiles, matching Sechi's unhurried stride up the wide granite steps. Seda continues marching ahead with brisk, sharp strides, her crimson twintails bouncing as she mutters scathing critiques under her breath about the student body's lack of musical taste.
@@ -1413,7 +1413,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | Gold: 150gp | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Perception & Technique Spatial Positioning (PER 12 + TEC 16)', 'label': 'Perception & Technique Spatial Positioning (PER 12 + TEC 16)', 'faces': '15', 'modifier': 14, 'roll': '1d20+14', 'result': 29}
+  - {'result': 29, 'label': 'Perception & Technique Spatial Positioning (PER 12 + TEC 16)', 'modifier': 14, 'roll': '1d20+14', 'type': 'Perception & Technique Spatial Positioning (PER 12 + TEC 16)', 'faces': '15'}
 
 Game Master:
 Morning (08:20:00). You lead the way past the stepped risers of Class 1-C, casually weaving through the aisle toward the back-left corner by the wide panoramic windows. The classroom hums with a low, predatory murmur; across the tiered desks, student leaders from the established cliques track every newcomer's gait, calculating potential academic liabilities and Class Point deductions on their networked tablets.
@@ -1481,7 +1481,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Non-Combat Rule & Clause Perception Check (PER 12)', 'label': 'Non-Combat Rule & Clause Perception Check (PER 12)', 'faces': '14', 'modifier': 12, 'roll': '1d20+12', 'result': 26}
+  - {'result': 26, 'label': 'Non-Combat Rule & Clause Perception Check (PER 12)', 'modifier': 12, 'roll': '1d20+12', 'type': 'Non-Combat Rule & Clause Perception Check (PER 12)', 'faces': '14'}
 
 Game Master:
 Morning (08:24:00). While Instructor Cross continues outlining the severe consequences of disciplinary demerits, you quietly rest your fingers against your terminal screen, scrolling down past the broad policy warnings into Section 14 of the student handbook. Your sharp eyes scan through the dense, legalistic formatting, filtering out the administrative fluff to isolate the underlying architecture of New Halcyon High's evaluation algorithm.
@@ -1506,7 +1506,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Non-Combat Social Perception & Subtlety (PER 12)', 'label': 'Non-Combat Social Perception & Subtlety (PER 12)', 'faces': '15', 'modifier': 12, 'roll': '1d20+12', 'result': 27}
+  - {'result': 27, 'label': 'Non-Combat Social Perception & Subtlety (PER 12)', 'modifier': 12, 'roll': '1d20+12', 'type': 'Non-Combat Social Perception & Subtlety (PER 12)', 'faces': '15'}
 
 Game Master:
 Morning (08:27:00). While Instructor Cross turns to the digital blackboard to map out the weekly demerit thresholds for unexcused classroom disruption, the low drone of his lecture creates a blanket of ambient noise across the risers. Across the tiered rows, student cliques remain transfixed on the punitive numbers, whispering anxiously among themselves.
@@ -1590,7 +1590,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | Gold: 150gp | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Non-Combat Social Perception Check (PER 12)', 'label': 'Non-Combat Social Perception Check (PER 12)', 'faces': '14', 'modifier': 12, 'roll': '1d20+12', 'result': 26}
+  - {'result': 26, 'label': 'Non-Combat Social Perception Check (PER 12)', 'modifier': 12, 'roll': '1d20+12', 'type': 'Non-Combat Social Perception Check (PER 12)', 'faces': '14'}
 
 Game Master:
 Morning (08:33:00). While Instructor Cross turns to distribute digital diagnostic forms across the networked podium, the hum of student chatter surges to life across the tiered risers. Cliques at the front desks lean into frantic huddles, arguing over candidate nominations and trying to dodge the liability of the representative seat.
@@ -1660,7 +1660,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Non-Combat Administrative Perception & Drafting (PER 12)', 'label': 'Non-Combat Administrative Perception & Drafting (PER 12)', 'faces': '14', 'modifier': 12, 'roll': '1d20+12', 'result': 26}
+  - {'result': 26, 'label': 'Non-Combat Administrative Perception & Drafting (PER 12)', 'modifier': 12, 'roll': '1d20+12', 'type': 'Non-Combat Administrative Perception & Drafting (PER 12)', 'faces': '14'}
 
 Game Master:
 Morning (08:39:00). Across the stepped risers of Class 1-C, the murmur of student bargaining swells as Instructor Cross begins collecting initial homeroom diagnostic slips at the front podium. Cliques are trading tentative promises, desperately trying to shield their members from the looming zero-point penalty.
@@ -1735,7 +1735,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | Gold: 150gp | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Non-Combat Social Perception & Leverage Assessment (PER 12)', 'label': 'Non-Combat Social Perception & Leverage Assessment (PER 12)', 'faces': '14', 'modifier': 12, 'roll': '1d20+12', 'result': 26}
+  - {'result': 26, 'label': 'Non-Combat Social Perception & Leverage Assessment (PER 12)', 'modifier': 12, 'roll': '1d20+12', 'type': 'Non-Combat Social Perception & Leverage Assessment (PER 12)', 'faces': '14'}
 
 Game Master:
 Morning (08:47:00). The passing bell rings through the corridor outside, but the tension in the back row sharpens instantly as your words land.
@@ -1764,7 +1764,7 @@ Status: Lvl 1 Halcyon Mercenary | HP: 12/12 | Gold: 150gp | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1, Drive: 18/18, Resolve: 16/16, Spells: L1 2/2, Exhaustion: 0
 Dice Rolls:
-  - {'type': 'Non-Combat Social Perception & Intent Reading (PER 12)', 'label': 'Non-Combat Social Perception & Intent Reading (PER 12)', 'faces': '15', 'modifier': 12, 'roll': '1d20+12', 'result': 27}
+  - {'result': 27, 'label': 'Non-Combat Social Perception & Intent Reading (PER 12)', 'modifier': 12, 'roll': '1d20+12', 'type': 'Non-Combat Social Perception & Intent Reading (PER 12)', 'faces': '15'}
 
 Game Master:
 Morning (08:50:00). The corridor outside fills with the clatter of lockers and the brisk chatter of students heading toward the first lecture period, but in the back corner of Class 1-C, the atmosphere settles into a quiet, grounded rhythm.
