@@ -1,3 +1,7 @@
+## [2026-08-23] ingest | Command Research Methodology & Top 20 Empirical Audit
+
+Key claims: Multi-store empirical data mining across 128k+ session turns in Hermes SQLite, Claude Code JSONLs, and Codex SQLite. Resolved the system-reminder substring noise trap via exact prompt-start regex and canonical `<command-name>` tag matching. Established dual taxonomy (Human-Typed interactive staples vs Agentic autonomous rails). Top Human: `/advice` (8,145), `/green` (4,090), `/repro` (2,954), `/research` (2,690, 66.7% human), `/ms` (2,586), `/history` (2,320). Top Agentic: `/es` (19,475), `/er` (18,273), `/green` (13,625), `/smoke` (8,282), `/execute` (7,136). Implemented unified multi-store scanner in `~/.claude/skills/command-research/scripts/count_command_usage_unified.py` and wrapped with `/command-research`. New pages: source [[command-research-methodology-and-top20-audit-2026-08-23]], concept [[CommandResearchMethodology]].
+
 ## [2026-08-14 17:30 PT] scope correction | Avatar Scene Gen → Overlord-only
 
 User clarified: strict last-20 + ≥50 entries → only 1 campaign qualifies (Overlord shy lich, JQeI1Aq5, 364 entries). All 5 scenes from that campaign.
@@ -7368,3 +7372,5 @@ Operations:
 - Note: doc body self-reference to its own ID has a known one-version lag (the body was written before the create returned the new ID). Local MD canonical.
 
 ## [2026-08-23] ingest | Mobile latency root cause: dev test-harness concurrency, not a code regression
+
+## [2026-08-23] ingest | Verify agent-call independence empirically, not from naming/docstrings
