@@ -21,9 +21,10 @@ Then continues into the original deck's slide 3 onward (verification gap → piv
 
 ## Visual prototypes ready for review (Claude Design, not yet in Google Slides)
 - ~~Slide 4 (Cognitive Tasks) funnel graphic~~ — **rejected**, replaced by the merged pyramid version below
-- ~~Slide 6 (6-Step Loop) linear flow~~ — **rejected**, "doesn't add value." `/research` running in background on circular-loop design patterns; will rebuild once findings land
+- ~~Slide 6 (6-Step Loop) linear flow~~ — **rejected**, "doesn't add value." Replaced by the circular version below.
 - **NEW — Pyramid + Cognitive Tasks, merged into one slide**: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-pyramid-cogtasks-merged.html — reuses the original pyramid's exact 4-column card style (Tier 1 Openclaw/Hermes → Tier 2 CMUX/AO → Tier 3 CLI Fleet → Tier 4 Subagents/MCP), each card re-captioned to also carry the cognitive-tasks thesis ("1 cognitive task" / "angle diversity" / "extended horizon" / "zero spam" pills), closing on the context-switch line. This replaces BOTH the old slide 4 and slide 8 with one slide.
 - **NEW — Intro/bio slide**: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-intro-bio.html — name/title up top, 3 credibility cards (YouTube $70B+ paid to creators 2008-2018, Snap Growth Notifications 50M→5B+ 2018-2026, "3 internal AI projects shipped" teasing the Snapchat slide that follows)
+- **NEW — 6-Step Loop, circular (Option B)**: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-slide06-circular.html — single-ring layout backed by `docs/superpowers/circular-loop-diagram-research.md`, alternating human/AI ownership around the ring (rust fill = AI-owned, outline = human-owned), horizontal labels anchored outside the ring, distinct dashed rust return-arc from step 6 back to step 1. Built as pure SVG (nodes, labels, and connectors all share one `viewBox` coordinate system) after an earlier HTML-div/SVG mix caused step 4 to render off-position; verified via screenshot, all 6 nodes and labels now land correctly.
 
 **Live deck:** https://docs.google.com/presentation/d/1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0/edit — **restored to the original 17 slides** as of 2026-08-23 ~21:50 PT, after a background agent's Task 7 mistakenly deleted-and-rebuilt it into the 13-slide redesign despite an in-flight stop request (timing race — the rebuild had already completed before the stop message was processed). Restored via full-bleed image re-upload from this session's own PDF renders of the pre-incident state, verified slide-by-slide against the original (slides 1/9/17 spot-checked pixel-identical, including a pre-existing "14/14" footer bug on slide 17 that's baked into the original image and correctly preserved, not something to silently fix mid-restore). **Speaker notes from the true original were not recoverable this way** (never captured as text) — only available via Drive's native Version History UI if you want them back specifically.
 
@@ -78,7 +79,7 @@ No content change proposed — just confirming this stays in.
 
 **Your feedback:** "slide 6 - 6 step loop can be a graphic."
 
-**Proposed:** Convert to a circular/linear flow diagram with 6 numbered nodes and arrows, alternating AI-owned vs human-owned steps visually (e.g. color-coded). Keep the exact 6 step names/descriptions, just change the visual treatment from 6 identical boxes to a flow.
+**Proposed:** Convert to a circular flow diagram with 6 numbered nodes and arrows, alternating AI-owned vs human-owned steps visually (color-coded: rust fill = AI, outline = human). Keep the exact 6 step names/descriptions, just change the visual treatment from 6 identical boxes to a ring. **Built and verified** — see the "6-Step Loop, circular (Option B)" prototype link above.
 
 ---
 
