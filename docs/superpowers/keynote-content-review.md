@@ -90,7 +90,13 @@ No content change proposed — just confirming this stays in.
 
 ## 08/17 · The Agent Supervision Pyramid — MERGED WITH COGNITIVE TASKS (04/17)
 
-**Your final call:** "we can combine agentic pyramid with cog tasks." Built as one slide — see the "Pyramid + Cognitive Tasks, merged" prototype linked above. Reuses the pyramid's exact 4-column card style and all 4 real tier facts (Openclaw/Hermes, CMUX & AO Daemon, CLI Agent Fleet, Subagents & MCP), re-captioned per-card to also carry the cognitive-tasks thesis. Open item: still need your check on whether "CMUX & AO Daemon" / any tier facts are stale vs. current terminology.
+**Your final call:** "we can combine agentic pyramid with cog tasks." Built as one slide — see the "Pyramid + Cognitive Tasks, merged" prototype linked above. Reuses the pyramid's exact 4-column card style and all 4 real tier facts, re-captioned per-card to also carry the cognitive-tasks thesis.
+
+**Terminology audit complete (2026-08-23), 2 fixes applied:**
+- Tier 1: "Openclaw / Hermes" (co-equal, "Slack, WhatsApp, SMS, email") → **"Hermes (Slack Bot)"** — Hermes is Slack-only (WhatsApp config confirmed present but empty/unwired); OpenClaw is the auxiliary HTTP API gateway underneath, not co-primary dispatch.
+- Tier 3: dropped **"Google Antigravity"** from the CLI fleet list (`which antigravity` confirmed not in PATH — appears abandoned) — now reads "Claude Code, Codex, Cursor CLI."
+- Tier 2 (CMUX & AO Daemon) and Tier 4 (Subagents & MCP): confirmed current, no changes.
+- A third flagged item ("Dark Factory autonomous merge pipelines") doesn't appear anywhere in this prototype's copy — likely a stale phrase from the original live-deck slide 8 image, not something carried into this rebuild. No action needed here since the new copy never made that claim; flagging in case the original deck text resurfaces elsewhere.
 
 ---
 
