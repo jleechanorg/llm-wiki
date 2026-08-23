@@ -1,171 +1,147 @@
-# Develop at Idea Velocity — Keynote Content Review
+# Develop at Idea Velocity — Original Deck + Proposed Enhancements
 
-**Status:** 12 of 13 planned slides shown below (Agent Pyramid, slide 6, being added next; CMUX demo stays appendix-only). Content pulled directly from the built/verified Claude Design source (`keynote/slide-01.html` … `slide-12.html`), post consistency-fix pass.
+**Approach corrected:** enhance the original 17-slide deck in place, not replace it with a new structure. This file shows the ORIGINAL content (extracted from the live deck's actual rendered PDF, `1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0`) side by side with proposed changes. Nothing has been pushed to Google Slides yet — review this first.
 
-**Live project:** https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89
-
----
-
-## 01 / 13 · Title
-
-**AI coding stack + _WorldAI_**
-*Develop at idea velocity*
-
-Jeffrey Lee-Chan
-Head of Vibe Coding · Snapchat · ex-Google
-
-`KEYNOTE · AUGUST 26, 2026 · CONRAD LOS ANGELES`
+**Live deck (unchanged):** https://docs.google.com/presentation/d/1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0/edit
 
 ---
 
-## 02 / 13 · Cold Open
+## 01/17 · Title — KEEP AS-IS
+> AI coding stack + WorldAI — Develop at idea velocity — a tour of the autonomous pipeline and the game I built with it.
+> Jeffrey Lee-Chan · Head of Vibe Coding · Snapchat · ex-Google
 
-# The player quit.
-# _The world said no._
-
-I was playing a WorldAI campaign with my mom. Her character owed a local grocer, Mr. Park, for supplies on credit — a debt the world remembered, not a stat I'd written down.
-
-Mid-session, she tried to rage-quit in character: *"I'm an undocumented immigrant, I'm gonna go home."*
-
-> "The debt to Mr. Park doesn't vanish because you close the door … you're becoming a fugitive from a paper trail you can't outrun."
-
-She couldn't quit. Twenty scenes later, we shook hands with Park on a **10% equity partnership**. Nobody hand-coded a "player tries to quit" branch.
-
-`Source: wiki/sources/michele-fried-chicken.md · Scenes 16 / 26 / 27 / 40`
+No proposed change.
 
 ---
 
-## 03 / 13 · The Pivot
+## 02/17 · The Verification Gap — SIMPLIFY
 
-# How do you build this without **babysitting every commit**?
+**Original:** 4-card grid — 27.6% AI-Generated Code / 48% Explicitly Verified / 96% Lack Full Trust / 65% Projected by 2027. Bottom quote: *"The bottleneck is no longer generating code — it's proving correctness without human babysitting."*
 
-*The verification gap, industry-wide:*
+**Your feedback:** "these numbers don't mean anything ... we can just say somewhere else that lots of code can be generated but needs verification to land."
 
-| Metric | Value | Label | Source |
-|---|---|---|---|
-| 01 | **27.6%** | AI PRs merged — of AI-generated pull requests get merged as-is | Greptile |
-| 02 | **96%** | Don't fully trust it — of developers don't fully trust AI-generated code without review | Sonar |
-| 03 | **48%** | Actually verify — say they always verify AI output before shipping it | Sonar |
-| 04 | **65%** | By 2027 — of code is projected to be AI-generated, industry-wide | Sonar |
+**Proposed:** Drop the 4-card stat grid. Replace with a single plain statement (something like: *"AI can generate almost unlimited code now. The bottleneck moved — it's proving that code is correct before it ships."*), keep the existing bottom quote as the payoff line. The underlying stats stay available as backup/footnote, not the headline.
 
 ---
 
-## 04 / 13 · The Big Idea
-
-# **Unique cognitive tasks**, not agents.
-
-> "What matters is unique cognitive tasks not agents. You can have 5 agents or 5 terminals working on the same task, multiple angles/work items. You can parallelize a lot more when you give tasks a /goal and say work for 30 min, 2 hours, 12 hours. What's important is not the amount of parallelization but **the amount of context switches**. Extreme example: focus on one cognitive task, have 9 running in parallel, check once every 12 hours — nothing forces you to check in, so you let it run and check 12 hours later."
-
-`— Internal Slack · August 20, 2026`
+## 03/17 · One Slack Message, All the Way to Green Checks — KEEP
+5 phases: Natural Language → Context & Memory → Parallel Agents → CI & 7-Green Gate → Proof-First. No proposed change.
 
 ---
 
-## 05 / 13 · The Harness
+## 04/17 · Cognitive Tasks & Workspaces — MAKE IT A GRAPHIC
 
-# How it actually _ships_
+**Original:** 3-card grid — "The Unit is the Task" / "Long-Horizon /goal" / "Context-Switch Economy," each with a pull-quote and description.
 
-Five phases. One gate that has to say yes seven times before anything merges.
+**Your feedback:** "maybe slide 4 can be a graphic."
 
-**01 Plan** — Goal stated, scope drawn before a line is written.
-→ **02 Draft** — Agent writes the change, opens it as a draft PR.
-→ **03 Verify** — Evidence gathered — tests run, output captured.
-→ **04 Review** — AI review pass, then a human review pass.
-→ **05 Ship** — Human merges. Nothing ships on AI's say-so alone.
-
-**7 — The Green Gate.** Seven independent automated checks run before anything merges — zero manual gatekeeping on the gate itself.
-
-*Underneath this: **Hermes → CLI worker fleet → subagents.** One line here on purpose — full diagram in the appendix.*
+**Proposed:** Convert to a visual diagram — e.g. one person icon with N task-stream lines branching off, most dimmed/backgrounded ("checked once every 12h"), one highlighted ("focused"), instead of 3 text cards. Core line to preserve: *"What matters is not the amount of parallelization, but the amount of context switches."* Your original Slack quote (full text) can live as a caption/footnote under the graphic rather than being the whole slide.
 
 ---
 
-## [NEW] 06 / 13 · Agent Pyramid *(being added to main flow per your call — CMUX demo moved back to appendix instead)*
+## 05/17 · Left-Shift and Right-Shift, Zero Human in the Middle — RESTORE (was cut in the redesign, going back in)
+3 phases: Left-Shift Planning (front-load) → Zero Middle Human (execute) → Right-Shift Proof (back-load). Bottom: *"Goal: Reduce middle human intervention to zero with acceptable quality regression, and maximize output correctness."*
 
-Openclaw/Hermes → CMUX/AO → CLI Worker Fleet → Subagents/MCP. The full architecture behind the one-line mention on slide 5.
-
----
-
-## 07 / 13 · Cost + Cache
-
-# What idea velocity _actually_ costs
-
-- **Tokenmaxxing** — $20/mo vs $200/seat — *Flat-rate plan vs. per-seat tool pricing. Same output. A fraction of the seat cost.*
-- **Cache hit rate** — 99.8% static-floor cache hit — *The shared prefix (tools, instructions, context) is a cache hit almost every time.*
-- **PR #7215** — **59%** share of pre-merge spend eliminated. *Separately, one line item:* $9.49 → $0.086 — collapse in the cached-input cost line — a different metric, same PR.
-- **PR #8851 · Cache stability** — 537,444-char prefix held byte-identical through turn 11. Checked at turns 1, 5, 9, 10, 11 — five sampled checkpoints, not eleven consecutive turns.
+No content change proposed — just confirming this stays in.
 
 ---
 
-## 08 / 13 · Harnesses Decay
+## 06/17 · The 6-Step Loop — MAKE IT A GRAPHIC
 
-# 19 new Claude and Codex model releases since June 2025 — *one every three weeks.*
-# My harness outlived all **19**.
+**Original:** 6-card grid — Quick Planning → Async AI Drive → AI Evidence Review → Human Proof Check → AI Code Review → Human Merge.
 
-`11 Claude · Opus 4.1 → Opus 5` &nbsp; `8 Codex/GPT · GPT-5 → GPT-5.6` &nbsp; `June 2025 – Aug 2026`
+**Your feedback:** "slide 6 - 6 step loop can be a graphic."
 
----
-
-## 09 / 13 · Snapchat Credibility
-
-# This isn't just a _side project_
-
-*Before any of this: Snap Growth Notifications scaled 100x to 5B+/day.*
-
-- **Snap Bridge** — MCP connector to internal services
-  BEFORE: Copy-pasting between browser and AI chat to pull internal data.
-  AFTER: Stay in the terminal — AI acts autonomously against internal services. *(Majority of engineers.)*
-- **Snap Wings** — Remote-hosting tool
-  BEFORE: No path to remote-host internal apps.
-  AFTER: Shared server auto-registers and deploys your app — like mini Vercel. *(Engineers and non-engineers.)*
-- **Open Model Pilot** — Open-weight models in the harness
-  Directionally similar to SWE-bench results. Close enough to be interesting — too noisy to publish a hard number yet. Most open-model providers still WIP on full Claude Code/Codex-API-level compatibility.
+**Proposed:** Convert to a circular/linear flow diagram with 6 numbered nodes and arrows, alternating AI-owned vs human-owned steps visually (e.g. color-coded). Keep the exact 6 step names/descriptions, just change the visual treatment from 6 identical boxes to a flow.
 
 ---
 
-## 10 / 13 · Postmortem
-
-# What _actually_ broke.
-
-*No hype. The honest failure modes from running this harness in production.*
-
-- **Watchdog** — **89.6%** CI Dispatch Watchdog stall rate — the autonomous dispatch loop stalled more often than it completed on its own.
-- **Babysitting** — **251** manual babysit polls, 11 days — "autonomous" still meant a human nudging it awake, repeatedly.
-- **Context** — **9h** context-compaction ceiling — past this point, the harness loses coherent memory of its own state.
-
-`EVIDENCE, NOT HYPE` · `VERIFIED 2026-08-23`
+## 07/17 · Craftsmanship vs. Velocity — FIX A REAL BUG
+**Found while re-auditing:** this slide's right-hand panel is a screenshot of a code editor that renders as garbled/illegible text — looks like a corrupted or over-compressed image, not a design choice. Needs a fresh screenshot or should be replaced with something else entirely. Text content (Domain 01: Low Consequence/Fast Fail, Core Tenets) is fine.
 
 ---
 
-## 11 / 13 · WorldAI Returns
+## 08/17 · The Agent Supervision Pyramid — USE ORIGINAL IMAGE
 
-# Here's how slide 2 was _actually_ possible.
+**Original:** 4-tier card grid — Tier 1 Openclaw/Hermes (Dispatch) → Tier 2 CMUX & AO Daemon (Orchestration) → Tier 3 CLI Agent Fleet (Workers) → Tier 4 Subagents & MCP (Tools).
 
-- **Intent routing** — <50ms FastEmbed intent classifier — routes every player message before the LLM ever sees it, no keyword heuristics.
-- **Dice audit** — **1,889** lines in `dice_integrity.py` — casino-grade audit trail, every roll provably fair, end to end.
-- **World logic** — **12,378** lines in `world_logic.py` — God Mode & dynamic rules, routed across **11** specialized agents.
+**Your feedback:** "i want my original agent pyramid but maybe edit/update the image."
 
----
-
-## 12 / 13 · Takeable Artifact
-
-# Go play it _yourself_.
-
-**THE CAMPAIGN FROM SLIDE 2 AND SLIDE 10**
-### bit.ly/4xT84WA
-
-**The repo:** github.com/jleechanorg
-
-**Steal this loop:**
-1. Quick Plan
-2. Async Drive
-3. AI Evidence Review
-4. Human Evidence Check
-5. AI Code Review
-6. Human Merge
+**Proposed:** Keep this slide's real content/layout as the base — I was about to recreate it as new HTML from scratch, which was the wrong call. Instead, treat this rendered slide as the source of truth and just update specific facts if anything's stale (need to check: does "CMUX & AO Daemon" / "Dark Factory autonomous merge pipelines" language still match current terminology?).
 
 ---
 
-## 13 / 13 · Closing
+## 09/17 · CMUX: Hands on the Keyboard, Hermes on Standby — WEAK, NEEDS A REAL REWRITE OR CUT
 
-# What verifies the code after you ship?
+**Original:** 3-card grid — 1 Pane = 1 Agent Workspace / Manual or Standby Modes / Full Telemetry & Watchdogs. YouTube demo link.
 
-`worldarchitect.ai` · `github.com/jleechanorg` · `linkedin.com/in/jeffrey-lee-chan`
+**Your feedback:** "slide 9 doesn't add much value, also I don't like the tagline 'hands on keyboard, Hermes on standby' — doesn't mean much."
+
+**Proposed:** Your call — either cut this slide entirely (folding the YouTube link into a footnote elsewhere) or give it a sharper headline that says something concrete (e.g. what specifically CMUX lets you DO that you couldn't before, not just a mood description).
+
+---
+
+## 10/17 · Tokenmaxxing — DROP INTERNAL PR REFERENCES
+
+**Original:** 4-card grid — $20/mo vs $200/seat / 99.8% cache hit / 59% PR #7215 token drop / <50ms dynamic routing.
+
+**Your feedback:** "saying PR 7215 doesn't make sense — we need to audit these slides for someone who has no access to the code. Maybe this slide isn't useful."
+
+**Proposed:** Drop the bare "PR #7215" reference — an external audience can't look it up and it reads as jargon. If the card stays, reframe as the underlying fact without the ticket number (e.g. "a caching fix cut this cost category by roughly half" — using the properly-qualified version from this session's audit, not a bare unexplained percentage). Same audit applies to slide 11's "PR #8851" reference. Open question for you: keep this slide reframed, or cut it since the $20-vs-$200 and cache-hit points may already land elsewhere.
+
+---
+
+## 11/17 · Cache Stability — SAME PR-NUMBER ISSUE AS #10
+"PR #8851: 537,444-char prefix stable across 11 turns" has the same "meaningless without repo access" problem, plus the "11 turns" phrasing was already found imprecise this session (real data: stable through turn 11, checked at turns 1/5/9/10/11 — 5 checkpoints, not 11 consecutive). Needs both a jargon fix and a precision fix if kept.
+
+---
+
+## 12/17 · Harnesses Decay — UPDATE THE STAT
+**Original:** "40-90 Day Model Half-Life" (unsourced — this session's audit found zero backing for this exact claim anywhere in the repo).
+
+**Available fix (already sourced this session):** 19 new Claude/Codex model releases since June 2025 — one every 3 weeks. Can either replace the "40-90 days" card with this, or keep both if there's room.
+
+---
+
+## 13/17 · What Broke in Production — KEEP
+89.6% CI Watchdog stall rate / 251 babysit-cron spam polls / 9-hour context compaction ceiling. All verified accurate this session. No proposed change.
+
+---
+
+## 14/17 · WorldAI: An AI Game Master That Plays Live — REPLACE WITH THE REAL STORY
+
+**Original:** Product Vision card ("Play Any Character in Any World") + Scale & Stats card (12 specialized agents, 30+ prompt files, 300k token context, Min-First/Fill-to-Max, BYOK).
+
+**Proposed:** Replace the generic pitch with the real, first-person story: playing a WorldAI campaign with your mom, the Mr. Park debt, the rage-quit the world wouldn't allow, the 10% equity partnership 20 scenes later. Keep the Scale & Stats card as a secondary panel, with the agent count corrected to the real number (11, confirmed via `mvp_site/agents.py` this session) instead of 12.
+
+---
+
+## 15/17 · Two Engines, One Gateway — FIX TWO NUMBERS
+**Original:** FastEmbed Intent Gate (<50ms) / Casino-Grade Dice Audit ("1,549 lines, 4-signal verification") / God Mode & Dynamic Rules ("7,273 lines in world_logic.py orchestrator").
+
+**Confirmed wrong this session:** dice audit is actually **1,889 lines** (not 1,549); world_logic.py is actually **12,378 lines** (not 7,273) — both verified via `wc -l` against the live repo. Straightforward fix, same layout.
+
+---
+
+## 16/17 · 8 Bets for the Next 30 Days — KEEP
+Discipline Tickets / Commit Provenance / N-Green Gates / Headless by Default / Prefix Cache Audits / Self-Canceling Timers / Dark Factory Stages 3-6 / Harness Postmortems. No proposed change.
+
+---
+
+## 17/17 · Find Me, Play the Game — KEEP, MINOR BUG
+LinkedIn / WorldAI (worldarchitect.ai) / Consensus ML / GitHub. Closing line: *"Thanks for watching. Now go ship something at idea velocity."* **Note:** this slide's own page-count footer reads "14/14" instead of "17/17" — a stale leftover from an earlier version of the deck, worth fixing regardless of what else changes.
+
+---
+
+## New addition (not in original 17): Snapchat credibility slide
+Proposed as a new insert (position TBD — after slide 8/pyramid, or after slide 13/postmortem are both reasonable): Snap Bridge, Snap Wings, Open Model Pilot, real names, before/after framing, opening with the Snap Growth Notifications 100x-to-5B/day credibility line. Content already drafted and verified in the Claude Design project if you want to see the visual: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fslide-09.html (this is from the abandoned redesign — content is reusable, slide position is not).
+
+---
+
+## Open questions for you
+1. Slide 2: exact wording for the simplified verification-gap statement?
+2. Slide 4 & 6: graphic style preference (icon-based diagram vs. flow chart vs. something else)?
+3. Slide 8: any specific facts on the agent pyramid that need updating, or just keep as-is?
+4. Slide 9 (CMUX): cut, or rewrite the headline?
+5. Slides 10-11: cut the PR-number slides entirely, or reframe without the ticket numbers?
+6. Snapchat slide: where does it go in the running order?
