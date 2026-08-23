@@ -1,0 +1,77 @@
+# Keynote Redesign — "Develop at Idea Velocity" (Agentic AI Summit LA, 2026-08-26)
+
+**Status:** Cold open resolved. Two non-blocking open items remain (see Open Items).
+
+## Context
+
+- Event: Agentic AI Summit LA, Conrad Los Angeles, Wed Aug 26 2026. Confirmed speaking slot: **30 min, target 20 min + Q&A**.
+- Existing artifact: a real, verified 17-slide Google Slides deck (`1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0`), built 2026-08-23, design-system verified (cream/rust/serif-italic/monospace) against exported PDF renders. This spec redesigns its structure and content — it is not a from-scratch build.
+- Audience: **medium-technical** (engineers/tech leads/builders who use AI coding tools, not necessarily building harness infrastructure themselves) — this is the deck that ships live. A denser "power-user" pass exists only as speaker notes/talking points layered onto these same slides, not a second deck.
+- Content-strategy input: analysis of Jeffrey's own LinkedIn performance data (`wiki/sources/linkedin-analytics-2026-04-06.md` + verified public reaction counts) surfaced 3 patterns, used as design constraints below.
+
+## Narrative arc: Demo → Mechanics → Payoff (selected over 2 alternatives — industry-framing-first, and cognitive-tasks-first — because it's the only shape that makes "story + number beats explanation" and "WorldAI as both hook and proof point" structural rather than incidental)
+
+## LinkedIn-derived content rules (apply to every slide)
+
+1. **Every major section ends in an ask or a takeable artifact**, never just admiration. (12,767-impression post = community CTA + concrete artifact; bare-link posts capped at 1-14 reactions.)
+2. **Lead with the failure/surprise story, land the number, then explain** — not the reverse. ("I broke GitHub" = 8,396 impressions, beat all how-to content.)
+3. **State the harness-over-model thesis as a flat, owned assertion — never a hedge or a question to the room.** (Most-hedged contrarian post = 1 reaction; owned reshares did better.)
+4. **Do not assume the existing talk's framing already resonates** — the "Develop at Idea Velocity" talk-video LinkedIn post got 15 reactions vs. 12,767 for the community-CTA post (~7x gap). Whatever worked at AIEWF was the room, not the packaging — packaging gets redesigned here, not inherited.
+
+## Slide structure (12 slides, ~11.5 min of slide time within the 20 min target)
+
+| # | Slide | Content | Time |
+|---|---|---|---|
+| 1 | Title | Minimal — event/date/name/one-line thesis | 10s |
+| 2 | **Cold open** | "The player quit. The world said no." — first-person story: Jeffrey playing a WorldAI campaign with his mom. An improvised NPC (a grocer, Mr. Park) hands their character supplies on credit; the player tries to rage-quit in-character ("I'm an undocumented immigrant, I'm gonna go home"); instead of fading to black, the world argues back using consequences it generated itself — a line-cook NPC: *"The debt to Mr. Park doesn't vanish because you close the door... you're becoming a fugitive from a paper trail you can't outrun."* The player can't quit. 20 scenes later, they shake hands on a 10% equity partnership with Park. Nobody hand-coded a "player tries to quit" branch. Source: `wiki/sources/michele-fried-chicken.md`, scenes 16/26/27/40. | 75s |
+| 3 | The pivot | "How do you build this without babysitting every commit?" → Verification Gap stat (Greptile 27.6% AI-gen merged PRs; Sonar 96% don't fully trust / 48% verify / 65% by 2027) as the industry-wide version of the same problem | 60s |
+| 4 | **Cognitive tasks** (the big idea) | Verbatim-preserved context-switching argument (see Source Notes) | 90s |
+| 5 | How it actually ships | Condensed 5-phase pipeline + 7-green gate, narrative framing not jargon | 75s |
+| 6 | Cost + cache (merged) | Tokenmaxxing + cache stability, **numbers corrected** (see Fixes) | 60s |
+| 7 | Harnesses decay | "Models get replaced every 40-90 days, harnesses don't" — short, owned assertion | 45s |
+| 8 | **Snapchat credibility** | 3 projects, real names, before/after framing (see Snapchat Slide Content) | 75s |
+| 9 | Postmortem honesty | What broke (89.6% watchdog stall rate, 251 babysit polls/11 days, 9h context-compaction ceiling) — keeps the evidence-based, non-hype voice | 45s |
+| 10 | **WorldAI returns** | Payoff: "here's how slide 2 was actually possible" — FastEmbed <50ms classifier, dice audit (**line count fixed**), 300k token context, Min-First/Fill-to-Max | 60s |
+| 11 | Takeable artifact | Primary ask: the campaign link (bit.ly/4xT84WA) — "go play it yourself," closes the loop back to slides 2 and 10. Secondary bullets: repo link, and the 6-step triage loop as a compact "steal this" process checklist. Ends on an ask, per LinkedIn rule 1 | 45s |
+| 12 | Closing question | "What verifies the code after you ship?" — stated flat, per LinkedIn rule 3 | 30s |
+
+### Cut from the existing 17-slide deck (and why)
+- Standalone agent-pyramid slide → folds into slide 5 as a one-line mention (medium audience doesn't need the full org chart)
+- Dedicated CMUX demo slide → becomes a link reference, not a slide
+- Loopcraft / software-factory quote slides → secondary insight for this audience, cut
+- "8 bets for next 30 days" as its own slide → folds into slide 11 as 2-3 bullets
+
+## Fixes required (verified against source during this session's audit)
+
+| Claim | Deck currently says | Verified correct | Source |
+|---|---|---|---|
+| `world_logic.py` line count | 7,273 lines | **12,378 lines** | `wc -l mvp_site/world_logic.py`, 2026-08-23 |
+| Dice audit line count | 1,549 lines | **1,889 lines** (`dice_integrity.py`) | `wc -l mvp_site/dice_integrity.py`, 2026-08-23 |
+| PR #7215 metric | "59%" and "$9.49→$0.086" presented as the same number | 59% = share of pre-merge **total spend** eliminated; $9.49→$0.086 is a ~99% collapse in one specific cost line-item — these are two different metrics, must not be conflated in copy | `learnings-2026-06.md:140`, `nextsteps-2026-06-04-gemini-cost-cacheoff-proof.md:23` |
+| PR #8851 cache stability | "537,444-char prefix stability across 11 turns" | Verified stable **through turn 11**, checked at turns **1, 5, 9, 10, 11** (5 sampled checkpoints) — not 11 consecutive turns tested | `2026-08-15-pr-review-last-3-days.md:58` |
+| "12 specialized agents" | stated as precise | Plausible but unconfirmed — 11-14 concrete `Agent` subclasses in `mvp_site/agents.py` depending on whether variants (`HeavyDialogAgent`, `SpicyModeAgent`, `DeferredRewardsAgent`) count separately. **Recount before stage use.** | `grep -n "class.*Agent" mvp_site/agents.py`, 2026-08-23 |
+| "130 PRs/week" (if used from consulting-site material) | bare number on `agent_universe_frontend` site | Flagged by internal reviewer as needing qualifier: "130 merge-ready PRs per week — each reviewed by 7 independent automated checks before merge, with zero manual gatekeeping" + 26x context. Do not use the bare number. | `ai_universe_frontend/docs/rob-consulting-page-feedback.md` item 9 |
+
+## Snapchat slide (#8) content
+
+Real product names confirmed OK to use (already public on `agent-universe.ai/consulting`).
+
+- **Snap Bridge** (MCP connector to internal services): Before = engineers copy-pasting between browser and AI chat to pull internal data. After = stay in the terminal, AI acts autonomously against internal services on your behalf. Adopted by the majority of engineers.
+- **Snap Wings** (remote-hosting tool): Before = no path to remote-host internal apps. After = shared server auto-registers and deploys your app — "like mini Vercel." Used by engineers and non-engineers.
+- **Open Model Pilot**: Honest, hedged finding (matches the deck's evidence-based voice) — directionally similar to SWE-bench; industry still early; most open-model providers still WIP on full Claude Code/Codex-API-level compatibility.
+- Opens with a credibility line: Snap Growth Notifications scaled 100x to 5B+/day (pre-AI-agent-era engineering credibility), per `agent_universe_frontend` career section.
+
+## Source notes — preserve close to verbatim
+
+Cognitive-tasks / attention-orchestration argument (slide 4), from Slack, 2026-08-20:
+
+> "What matters is unique cognitive tasks not agents. You can have 5 agents or 5 terminals working on the same task, multiple angles/work items. You can parallelize a lot more when you give tasks a /goal and say work for 30 min, 2 hours, 12 hours. What's important is not the amount of parallelization but the amount of context switches. Extreme example: focus on one cognitive task, have 9 running in parallel, check once every 12 hours — nothing forces you to check in, so you let it run and check 12 hours later."
+
+## Open items (non-blocking — deck can be built without these, but resolve before final stage rehearsal)
+
+1. **LinkedIn per-post impression data** — `linkedin-deep-pull` agent blocked repeatedly (LinkedIn anti-scraping, then an Aside browser-bridge disconnect). Not required to ship the deck (the Jan-Apr analytics summary + verified reaction-count sample already support the 3 content rules above); the reliable path if more precision is wanted is a manual export (LinkedIn → Profile → Analytics → Post impressions → Export).
+2. **"12 specialized agents" recount** — needs a final, precise headcount from `mvp_site/agents.py` before stage use.
+
+## Note on slide 2 sourcing
+
+Jeffrey confirmed first-person: he was present and surprised by this moment, playing with his mother. Frame accordingly in delivery — this is a personal story, not a transcript summary. Backups if this needs replacing: the GM catching itself off-canon mid-session (`wiki/sources/luke-v2-entry-009.md` to `-011.md`, more meta/technical-crowd-friendly) or the Luke-turns-Sith arc as backing evidence for the slide-11 pitch line (`wiki/sources/luke-v2-entry-020.md`/`-026.md`, player-requested rather than emergent, so weaker as a hook but fine as supporting evidence).
