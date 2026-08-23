@@ -20,7 +20,7 @@ Chosen over industry-framing-first and cognitive-tasks-first. Both alternatives 
 3. **State the harness-over-model thesis as a flat, owned assertion — never a hedge or a question to the room.** (Most-hedged contrarian post = 1 reaction; owned reshares did better.)
 4. **Do not assume the existing talk's framing already resonates.** The talk-video post got 15 reactions; the community-CTA post got 12,767. That gap says nothing about whether the AIEWF framing worked in the room — it says the framing doesn't travel. Redesign the packaging here rather than inheriting it.
 
-## Slide structure (12 slides, ~11.5 min of slide time within the 20 min target)
+## Slide structure (13 slides — agent-pyramid restored to main flow per Jeffrey's decision; realistic delivery estimate needs re-checking against the 13.9-18.3 min range computed for "12 + one restored slide" — same math applies to pyramid as it did to CMUX)
 
 | # | Slide | Content | Time |
 |---|---|---|---|
@@ -29,31 +29,30 @@ Chosen over industry-framing-first and cognitive-tasks-first. Both alternatives 
 | 3 | The pivot | "How do you build this without babysitting every commit?" → Verification Gap stat (Greptile 27.6% AI-gen merged PRs; Sonar 96% don't fully trust / 48% verify / 65% by 2027) as the industry-wide version of the same problem | 60s |
 | 4 | **Cognitive tasks** (the big idea) | Verbatim-preserved context-switching argument (see Source Notes) | 90s |
 | 5 | How it actually ships | Condensed 5-phase pipeline + 7-green gate, narrative framing not jargon | 75s |
-| 6 | Cost + cache (merged) | Tokenmaxxing + cache stability, **numbers corrected** (see Fixes) | 60s |
-| 7 | Harnesses decay | "19 new Claude/Codex model releases since June 2025 — one every 3 weeks. My harness outlived all 19." First-person, sourced (11 Claude: Opus 4.1→Opus 5; 8 Codex/GPT: GPT-5→GPT-5.6, June 2025–Aug 2026), no hedge. | 45s |
-| 8 | **Snapchat credibility** | 3 projects, real names, before/after framing (see Snapchat Slide Content) | 75s |
-| 9 | Postmortem honesty | What broke (89.6% watchdog stall rate, 251 babysit polls/11 days, 9h context-compaction ceiling) — keeps the evidence-based, non-hype voice | 45s |
-| 10 | **WorldAI returns** | Payoff: "here's how slide 2 was actually possible" — FastEmbed <50ms classifier, dice audit (**line count fixed**), 300k token context, Min-First/Fill-to-Max | 60s |
-| 11 | Takeable artifact | Primary ask: the campaign link (bit.ly/4xT84WA) — "go play it yourself," closes the loop back to slides 2 and 10. Secondary bullets: repo link, and the 6-step triage loop as a compact "steal this" process checklist. Ends on an ask, per LinkedIn rule 1 | 45s |
-| 12 | Closing question | "What verifies the code after you ship?" — stated flat, per LinkedIn rule 3 | 30s |
+| 6 | **Agent pyramid** (RESTORED to main flow) | Openclaw/Hermes → CMUX/AO → CLI Worker Fleet → Subagents/MCP, full diagram — placed right after the mechanics slide since "here's the architecture" follows naturally from "here's how it ships" | 60-75s |
+| 7 | Cost + cache (merged) | Tokenmaxxing + cache stability, **numbers corrected** (see Fixes) | 60s |
+| 8 | Harnesses decay | "19 new Claude/Codex model releases since June 2025 — one every 3 weeks. My harness outlived all 19." First-person, sourced (11 Claude: Opus 4.1→Opus 5; 8 Codex/GPT: GPT-5→GPT-5.6, June 2025–Aug 2026), no hedge. | 45s |
+| 9 | **Snapchat credibility** | 3 projects, real names, before/after framing (see Snapchat Slide Content) | 75s |
+| 10 | Postmortem honesty | What broke (89.6% watchdog stall rate, 251 babysit polls/11 days, 9h context-compaction ceiling) — keeps the evidence-based, non-hype voice | 45s |
+| 11 | **WorldAI returns** | Payoff: "here's how slide 2 was actually possible" — FastEmbed <50ms classifier, dice audit (**line count fixed**), 300k token context, Min-First/Fill-to-Max | 60s |
+| 12 | Takeable artifact | Primary ask: the campaign link (bit.ly/4xT84WA) — "go play it yourself," closes the loop back to slides 2 and 11. Secondary bullets: repo link, and the 6-step triage loop as a compact "steal this" process checklist. Ends on an ask, per LinkedIn rule 1 | 45s |
+| 13 | Closing question | "What verifies the code after you ship?" — stated flat, per LinkedIn rule 3 | 30s |
 
 ### Cut from the existing 17-slide deck (and why)
-- Standalone agent-pyramid slide → folds into slide 5 as a one-line mention (medium audience doesn't need the full org chart); full version moved to Appendix A1
-- Dedicated CMUX demo slide → becomes a link reference, not a slide; full version moved to Appendix A2
+- Dedicated CMUX demo slide → becomes a link reference on slide 5, not a slide; full version stays in Appendix A2 (tested as a main-flow restoration, pushed realistic delivery to 14.9-19.6 min combined with pyramid — decision was to keep only one of the two restored, pyramid was chosen)
 - Loopcraft / software-factory quote slides → secondary insight for this audience, cut from the timed flow; moved to Appendix A3/A5
-- "8 bets for next 30 days" as its own slide → folds into slide 11 as 2-3 bullets; full detail moved to Appendix A4
+- "8 bets for next 30 days" as its own slide → folds into slide 12 as 2-3 bullets; full detail moved to Appendix A4
+- "Evolution of AI in coding" 4-stage maturity model (from reference template slide 5) → not in either the original 17 or the first redesign pass; added directly to Appendix as A6 per Jeffrey's request
 
-### Appendix — not in the timed 12-slide flow, Q&A backup / "if there's time" only
-
-Realistic (non-bullet-reading) delivery estimate for the 12 core slides: **14.9-19.6 min** was the figure when agent-pyramid and CMUX demo were tested as restored main-flow slides — that pushed the high end to the 20-min wall with no Q&A margin. Decision: keep them OUT of the timed flow, available as appendix only if time allows or a question calls for them.
+### Appendix — not in the timed 13-slide flow, Q&A backup / "if there's time" only
 
 | # | Slide | Content | Use case |
 |---|---|---|---|
-| A1 | Agent pyramid | Openclaw/Hermes → CMUX/AO → CLI Worker Fleet → Subagents/MCP, full diagram | "How is this actually orchestrated?" questions |
 | A2 | CMUX demo | Full slide + YouTube `qGJZ31t4wj4` — "hands on the keyboard, Hermes on standby" | If there's time to show it live, or "can I see this working?" |
 | A3 | Loopcraft | "The unit is now the loop, not the message" (chat → tools → goals → automations → loops) | Audience members wanting the more philosophical framing |
 | A4 | 8 bets for the next 30 days (full detail) | All 8 items, not just the 2-3 bullets on slide 11 | "What's next" / roadmap questions |
 | A5 | Software-factory quote | Cooke/Galow/WorkOS convergence — "factory = harness + org process" | Industry-validation / "is this just you or is this a trend" questions |
+| A6 | Evolution of AI in coding | 4-stage maturity model from the reference template (Stage A: IDE tools/autocomplete → B: agentic shift, parallel/Openclaw/looping agents → C: advanced orchestration, harness engineering, 10-20 agent orchestrators → D: self-evolution, "no one yet"). Framing: "most teams sit at B, frontier moving to C." Source: template deck `1JY7CmnE33b9...`, slide 5. | "Where are we on the maturity curve" / positioning questions |
 
 ## Fixes required (verified against source during this session's audit)
 
