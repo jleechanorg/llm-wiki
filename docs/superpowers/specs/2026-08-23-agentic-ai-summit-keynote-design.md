@@ -9,14 +9,16 @@
 - Audience: **medium-technical** (engineers/tech leads/builders who use AI coding tools, not necessarily building harness infrastructure themselves) — this is the deck that ships live. A denser "power-user" pass exists only as speaker notes/talking points layered onto these same slides, not a second deck.
 - Content-strategy input: analysis of Jeffrey's own LinkedIn performance data (`wiki/sources/linkedin-analytics-2026-04-06.md` + verified public reaction counts) surfaced 3 patterns, used as design constraints below.
 
-## Narrative arc: Demo → Mechanics → Payoff (selected over 2 alternatives — industry-framing-first, and cognitive-tasks-first — because it's the only shape that makes "story + number beats explanation" and "WorldAI as both hook and proof point" structural rather than incidental)
+## Narrative arc: Demo → Mechanics → Payoff
+
+Chosen over industry-framing-first and cognitive-tasks-first. Both alternatives put the WorldAI story in a supporting role, which makes it an illustration rather than the proof. This arc uses it as both.
 
 ## LinkedIn-derived content rules (apply to every slide)
 
-1. **Every major section ends in an ask or a takeable artifact**, never just admiration. (12,767-impression post = community CTA + concrete artifact; bare-link posts capped at 1-14 reactions.)
-2. **Lead with the failure/surprise story, land the number, then explain** — not the reverse. ("I broke GitHub" = 8,396 impressions, beat all how-to content.)
+1. **Every major section ends in an ask or a takeable artifact.** Bare-link posts capped at 1-14 reactions; the CTA + artifact post hit 12,767 impressions.
+2. **Lead with the failure/surprise story, land the number, then explain.** ("I broke GitHub" = 8,396 impressions, beat all how-to content.)
 3. **State the harness-over-model thesis as a flat, owned assertion — never a hedge or a question to the room.** (Most-hedged contrarian post = 1 reaction; owned reshares did better.)
-4. **Do not assume the existing talk's framing already resonates** — the "Develop at Idea Velocity" talk-video LinkedIn post got 15 reactions vs. 12,767 for the community-CTA post (~7x gap). Whatever worked at AIEWF was the room, not the packaging — packaging gets redesigned here, not inherited.
+4. **Do not assume the existing talk's framing already resonates.** The talk-video post got 15 reactions; the community-CTA post got 12,767. That gap says nothing about whether the AIEWF framing worked in the room — it says the framing doesn't travel. Redesign the packaging here rather than inheriting it.
 
 ## Slide structure (12 slides, ~11.5 min of slide time within the 20 min target)
 
@@ -28,7 +30,7 @@
 | 4 | **Cognitive tasks** (the big idea) | Verbatim-preserved context-switching argument (see Source Notes) | 90s |
 | 5 | How it actually ships | Condensed 5-phase pipeline + 7-green gate, narrative framing not jargon | 75s |
 | 6 | Cost + cache (merged) | Tokenmaxxing + cache stability, **numbers corrected** (see Fixes) | 60s |
-| 7 | Harnesses decay | "Models get replaced every 40-90 days, harnesses don't" — short, owned assertion | 45s |
+| 7 | Harnesses decay | **NEEDS REAL NUMBER FROM JEFFREY**: first-person, owned framing — "I've re-pointed my harness at a new model N times in [period]. The harness outlived all N." Do not use the old "40-90 days" industry claim (zero source found in this repo) or any placeholder count; get Jeffrey's actual model-switch count/timeframe before finalizing this slide's copy. | 45s |
 | 8 | **Snapchat credibility** | 3 projects, real names, before/after framing (see Snapchat Slide Content) | 75s |
 | 9 | Postmortem honesty | What broke (89.6% watchdog stall rate, 251 babysit polls/11 days, 9h context-compaction ceiling) — keeps the evidence-based, non-hype voice | 45s |
 | 10 | **WorldAI returns** | Payoff: "here's how slide 2 was actually possible" — FastEmbed <50ms classifier, dice audit (**line count fixed**), 300k token context, Min-First/Fill-to-Max | 60s |
@@ -58,7 +60,7 @@ Real product names confirmed OK to use (already public on `agent-universe.ai/con
 
 - **Snap Bridge** (MCP connector to internal services): Before = engineers copy-pasting between browser and AI chat to pull internal data. After = stay in the terminal, AI acts autonomously against internal services on your behalf. Adopted by the majority of engineers.
 - **Snap Wings** (remote-hosting tool): Before = no path to remote-host internal apps. After = shared server auto-registers and deploys your app — "like mini Vercel." Used by engineers and non-engineers.
-- **Open Model Pilot**: Honest, hedged finding (matches the deck's evidence-based voice) — directionally similar to SWE-bench; industry still early; most open-model providers still WIP on full Claude Code/Codex-API-level compatibility.
+- **Open Model Pilot**: results close enough to be interesting, too noisy to publish a hard number yet. Most open-model providers still lack full Claude Code/Codex-API-level compatibility.
 - Opens with a credibility line: Snap Growth Notifications scaled 100x to 5B+/day (pre-AI-agent-era engineering credibility), per `agent_universe_frontend` career section.
 
 ## Source notes — preserve close to verbatim
@@ -67,10 +69,11 @@ Cognitive-tasks / attention-orchestration argument (slide 4), from Slack, 2026-0
 
 > "What matters is unique cognitive tasks not agents. You can have 5 agents or 5 terminals working on the same task, multiple angles/work items. You can parallelize a lot more when you give tasks a /goal and say work for 30 min, 2 hours, 12 hours. What's important is not the amount of parallelization but the amount of context switches. Extreme example: focus on one cognitive task, have 9 running in parallel, check once every 12 hours — nothing forces you to check in, so you let it run and check 12 hours later."
 
-## Open items (non-blocking — deck can be built without these, but resolve before final stage rehearsal)
+## Open items
 
-1. **LinkedIn per-post impression data** — `linkedin-deep-pull` agent blocked repeatedly (LinkedIn anti-scraping, then an Aside browser-bridge disconnect). Not required to ship the deck (the Jan-Apr analytics summary + verified reaction-count sample already support the 3 content rules above); the reliable path if more precision is wanted is a manual export (LinkedIn → Profile → Analytics → Post impressions → Export).
-2. **"12 specialized agents" recount** — needs a final, precise headcount from `mvp_site/agents.py` before stage use.
+1. **BLOCKING — slide 7's real number.** Found by the `/document-standards` AI-tell audit: the old "models get replaced every 40-90 days" claim has zero source anywhere in this repo. Replaced with a first-person framing, but it needs Jeffrey's actual count: how many times has he re-pointed his harness at a new model, and over what period? Do not build this slide until answered.
+2. **"12 specialized agents" recount** — needs a final, precise headcount from `mvp_site/agents.py` before stage use. (Non-blocking for build, blocking for stage use.)
+3. **LinkedIn per-post impression data** — `linkedin-deep-pull` agent blocked repeatedly (LinkedIn anti-scraping, then an Aside browser-bridge disconnect). Not required to ship the deck (the Jan-Apr analytics summary + verified reaction-count sample already support the 3 content rules above); the reliable path if more precision is wanted is a manual export (LinkedIn → Profile → Analytics → Post impressions → Export).
 
 ## Note on slide 2 sourcing
 

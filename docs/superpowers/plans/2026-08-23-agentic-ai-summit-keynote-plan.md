@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Rebuild the live "Develop at Idea Velocity" Google Slides deck (`1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0`) from 17 slides down to the 12-slide structure approved in `docs/superpowers/specs/2026-08-23-agentic-ai-summit-keynote-design.md`, with 5 corrected statistics, using Claude Design MCP as the authoring/preview surface.
+**Goal:** Rebuild the live "Develop at Idea Velocity" Google Slides deck (`1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0`) from 17 slides down to the 12-slide structure approved in `docs/superpowers/specs/2026-08-23-agentic-ai-summit-keynote-design.md`, with the 6 corrected statistics from that spec's Fixes table, using Claude Design MCP as the authoring/preview surface.
 
 **Architecture:** Each Google Slides "slide" in the live deck is a full-bleed uploaded IMAGE, not native text (confirmed via `gog slides read-slide` — every slide's only content is a single `p<N>_i2` image element). So content is NOT editable via `gog slides replace-text`/`style-text`. The real pipeline is: author each slide as an HTML page in a Claude Design project (matching the already-verified design tokens below) → render each slide to a 1920×1080 PNG → push those PNGs into the Google Slides deck via `gog slides` slide-management commands → export + visually verify the final deck.
 
@@ -128,9 +128,9 @@ Per spec slide 6 AND the Fixes table — this is the highest-risk-of-error slide
 - **PR #7215 card — REWRITE, do not reuse existing copy.** Old copy conflated "59%" with "$9.49→$0.086" as if the same number. New copy: headline stays "59%" labeled "share of pre-merge spend eliminated"; supporting line: "$9.49→$0.086 collapse in the cached-input cost line-item" presented as a *separate*, clearly-labeled example metric, not the thing 59% refers to.
 - **Cache-stability card — REWRITE.** Old copy: "PR #8851: 537,444-char prefix stability across 11 turns." New copy: "PR #8851: 537,444-char prefix held byte-identical through turn 11 (checked at turns 1, 5, 9, 10, 11)."
 
-- [ ] **Step 3: Write slide-07.html (Harnesses decay)**
+- [ ] **Step 3: Write slide-07.html (Harnesses decay) — BLOCKED on spec Open Item #1**
 
-Per spec slide 7: short, punchy, owned assertion — "Models get replaced every 40-90 days. Harnesses don't — if you maintain them." One supporting stat card (40-90 day model half-life), minimal.
+Per spec slide 7 (updated after the `/document-standards` AI-tell audit found the old "40-90 days" claim unsourced): do NOT write this slide until Jeffrey supplies his real model-switch count and timeframe. Copy pattern once he does: "I've re-pointed my harness at a new model N times in [period]. The harness outlived all N." — flat, first-person, no hedge word (if/might/can/should), ≤12 words per sentence, no subordinate clause softening the claim.
 
 - [ ] **Step 4: Write slide-08.html (Snapchat credibility) — NEW slide, no prior version to adapt**
 
@@ -169,7 +169,7 @@ Per spec slide 10, payoff framing: "Here's how slide 2 was actually possible." T
 
 - [ ] **Step 3: Write slide-11.html (Takeable artifact)**
 
-Per spec slide 11 (already resolved during self-review — primary ask is the campaign link, not a 3-way unresolved choice): primary call-out is the campaign link `bit.ly/4xT84WA` — "go play it yourself" — styled as the visually dominant element. Secondary bullets below it, smaller: repo link (`github.com/jleechanorg`), and the 6-step triage loop condensed to one line each (Quick Plan → Async Drive → AI Evidence Review → Human Evidence Check → AI Code Review → Human Merge) as a compact "steal this" list, not a full diagram.
+Per spec slide 11 (already resolved during self-review — primary ask is the campaign link, not a 3-way unresolved choice): primary call-out is the campaign link `bit.ly/4xT84WA` — "go play it yourself" — rendered as the largest type on the slide after the headline, in `--accent` color, with no other element on the slide exceeding 24px. Secondary bullets below it, smaller: repo link (`github.com/jleechanorg`), and the 6-step triage loop condensed to one line each (Quick Plan → Async Drive → AI Evidence Review → Human Evidence Check → AI Code Review → Human Merge) as a compact "steal this" list, not a full diagram.
 
 - [ ] **Step 4: Write slide-12.html (Closing question)**
 
@@ -315,6 +315,6 @@ Give the user: the deck's unchanged `webViewLink` (same URL as before, since Tas
 
 ## Self-review notes (from writing this plan)
 
-- **Spec coverage:** all 12 slides from the spec's structure table have a task (Tasks 2–4); all 5 Fixes-table corrections have an explicit task step (Task 3 Step 2 for PR #7215 and cache-stability; Task 4 Step 2 for both line counts; Task 5 for the agent count); the Snapchat slide content section is fully covered (Task 3 Step 4); the LinkedIn content rules are covered by construction (cold open = story-first per rule 2, slide 11 = artifact-first per rule 1, slide 12 = flat assertion per rule 3, and the spec's rule 4 is a meta-instruction already satisfied by not reusing old slide-video framing).
+- **Spec coverage:** all 12 slides from the spec's structure table have a task (Tasks 2–4); all 6 Fixes-table rows have an explicit task step (Task 3 Step 2 for PR #7215 and cache-stability; Task 3 Step 4 for the "130 PRs/week" prohibition; Task 4 Step 2 for both line counts; Task 5 for the agent count); the Snapchat slide content section is fully covered (Task 3 Step 4); the LinkedIn content rules are covered by construction (cold open = story-first per rule 2, slide 11 = artifact-first per rule 1, slide 12 = flat assertion per rule 3, and the spec's rule 4 is a meta-instruction already satisfied by not reusing old slide-video framing).
 - **Placeholder scan:** no TBD/TODO left in any task; every step names the exact file, exact command, or exact copy source (the spec doc, cited by section).
 - **Type/interface consistency:** `project_id` from Task 1 flows through Tasks 2–6 consistently; the presentation ID `1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0` and the 17 object IDs in Task 7 Step 2 are the real, verified IDs pulled from `gog slides list-slides` this session, not placeholders.
