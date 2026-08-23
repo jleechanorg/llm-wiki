@@ -313,6 +313,23 @@ Give the user: the deck's unchanged `webViewLink` (same URL as before, since Tas
 
 ---
 
+### Task 9 (OPTIONAL, lower priority — do after Tasks 1-8 are done and verified): Author 5 appendix slides
+
+**Files:**
+- Create: `keynote/appendix-a1.html` through `keynote/appendix-a5.html`
+
+**Interfaces:**
+- Consumes: `keynote/tokens.css` from Task 1.
+- Produces: 5 more render-able pages, NOT added to the Google Slides deck's timed 1-12 sequence — appended after slide 12 as slides 13-17, so they exist in the file but aren't part of the rehearsed narrative.
+
+- [ ] **Step 1: Write appendix-a1.html (Agent pyramid)** — full diagram, per spec Appendix table A1, adapted from the original deck's slide 5 (`gog slides read-slide` on the live deck's `p5` or its current equivalent, if still useful as visual reference before it's deleted in Task 7).
+- [ ] **Step 2: Write appendix-a2.html (CMUX demo)** — full slide with the YouTube link `qGJZ31t4wj4`, per spec A2.
+- [ ] **Step 3: Write appendix-a3.html (Loopcraft)** — "the unit is now the loop, not the message," per spec A3.
+- [ ] **Step 4: Write appendix-a4.html (Full 8 bets)** — all 8 items, per spec A4 and the source `ai-coding-advice-2026-08-06.md:928-944`.
+- [ ] **Step 5: Write appendix-a5.html (Software-factory quote)** — Cooke/Galow/WorkOS convergence, per spec A5.
+- [ ] **Step 6: Render and verify all 5**, same method as Tasks 2-4.
+- [ ] **Step 7: Add to the Google Slides deck as slides 13-17**, after Task 7's rebuild is done and verified — same `gog slides add-slide` pattern, appended at the end so the numbered 1-12 flow is undisturbed.
+
 ## Self-review notes (from writing this plan)
 
 - **Spec coverage:** all 12 slides from the spec's structure table have a task (Tasks 2–4); all 6 Fixes-table rows have an explicit task step (Task 3 Step 2 for PR #7215 and cache-stability; Task 3 Step 4 for the "130 PRs/week" prohibition; Task 4 Step 2 for both line counts; Task 5 for the agent count); the Snapchat slide content section is fully covered (Task 3 Step 4); the LinkedIn content rules are covered by construction (cold open = story-first per rule 2, slide 11 = artifact-first per rule 1, slide 12 = flat assertion per rule 3, and the spec's rule 4 is a meta-instruction already satisfied by not reusing old slide-video framing).

@@ -38,10 +38,22 @@ Chosen over industry-framing-first and cognitive-tasks-first. Both alternatives 
 | 12 | Closing question | "What verifies the code after you ship?" — stated flat, per LinkedIn rule 3 | 30s |
 
 ### Cut from the existing 17-slide deck (and why)
-- Standalone agent-pyramid slide → folds into slide 5 as a one-line mention (medium audience doesn't need the full org chart)
-- Dedicated CMUX demo slide → becomes a link reference, not a slide
-- Loopcraft / software-factory quote slides → secondary insight for this audience, cut
-- "8 bets for next 30 days" as its own slide → folds into slide 11 as 2-3 bullets
+- Standalone agent-pyramid slide → folds into slide 5 as a one-line mention (medium audience doesn't need the full org chart); full version moved to Appendix A1
+- Dedicated CMUX demo slide → becomes a link reference, not a slide; full version moved to Appendix A2
+- Loopcraft / software-factory quote slides → secondary insight for this audience, cut from the timed flow; moved to Appendix A3/A5
+- "8 bets for next 30 days" as its own slide → folds into slide 11 as 2-3 bullets; full detail moved to Appendix A4
+
+### Appendix — not in the timed 12-slide flow, Q&A backup / "if there's time" only
+
+Realistic (non-bullet-reading) delivery estimate for the 12 core slides: **14.9-19.6 min** was the figure when agent-pyramid and CMUX demo were tested as restored main-flow slides — that pushed the high end to the 20-min wall with no Q&A margin. Decision: keep them OUT of the timed flow, available as appendix only if time allows or a question calls for them.
+
+| # | Slide | Content | Use case |
+|---|---|---|---|
+| A1 | Agent pyramid | Openclaw/Hermes → CMUX/AO → CLI Worker Fleet → Subagents/MCP, full diagram | "How is this actually orchestrated?" questions |
+| A2 | CMUX demo | Full slide + YouTube `qGJZ31t4wj4` — "hands on the keyboard, Hermes on standby" | If there's time to show it live, or "can I see this working?" |
+| A3 | Loopcraft | "The unit is now the loop, not the message" (chat → tools → goals → automations → loops) | Audience members wanting the more philosophical framing |
+| A4 | 8 bets for the next 30 days (full detail) | All 8 items, not just the 2-3 bullets on slide 11 | "What's next" / roadmap questions |
+| A5 | Software-factory quote | Cooke/Galow/WorkOS convergence — "factory = harness + org process" | Industry-validation / "is this just you or is this a trend" questions |
 
 ## Fixes required (verified against source during this session's audit)
 
