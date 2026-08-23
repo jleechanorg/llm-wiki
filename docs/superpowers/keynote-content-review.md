@@ -19,6 +19,33 @@ This is a first draft — trim/adjust freely. Structurally it does two things in
 
 Then continues into the original deck's slide 3 onward (verification gap → pivot, etc.) — original slide numbering below still refers to the ORIGINAL deck for content reference, but the actual running order now starts with these 3 new/reordered items before slide 3.
 
+## FULL DECK BUILD — Claude Design (2026-08-23, in progress per your "build the deck in Claude Design first" call)
+
+Project: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89 — all files under `keynote/deck/`. Build order is the FINAL running order (14 main-flow slides). Every slide below has been rendered and visually verified via screenshot.
+
+| # | File | Status |
+|---|---|---|
+| 01 | `01-intro-bio.html` | Built |
+| 02 | `02-snapchat.html` | Built (new headline: "What I built with this stack — inside Snap") |
+| 03 | `03-worldai-mom.html` | Built (narrative/pull-quote layout, not a card grid) |
+| 04 | `04-verification-gap.html` | Built — real citations added, header stat fixed (was conflating two studies' sample sizes) |
+| 05 | `05-pipeline.html` | **Unchanged from original — see note below**, not embedded in Claude Design |
+| 06 | `06-leftshift-rightshift.html` | **Unchanged from original — see note below**, not embedded in Claude Design |
+| 07 | `07-sixstep-loop.html` | Built — circular, pure SVG |
+| 08 | `08-craftsmanship.html` | Built — **replaced the corrupted screenshot with a second Domain-02 card** (my call, see below) |
+| 09 | `09-pyramid-cogtasks.html` | Built — **pixel-faithful rebuild of your original pyramid**, not a reinterpretation, per your correction |
+| 10 | `10-cmux-demo.html` | **Unchanged from original — see note below**, not embedded in Claude Design |
+| 11 | `11-worldai-payoff.html` | Built — Scale & Stats card only (agent count fixed 12→11), does NOT retell the mom story since slide 03 already does |
+| 12 | `12-two-engines.html` | Built — both wrong numbers fixed (7,273→12,378; 1,549→1,889) |
+| 13 | `13-eight-bets.html` | **Unchanged from original — see note below**, not embedded in Claude Design |
+| 14 | `14-find-me.html` | Built — footer now correctly reads "14/14" for this deck's actual final count |
+
+Appendix (A1 tokenmaxxing, A2 cache-stability, B harness-decay, C broke-in-prod): all **unchanged from original**, same note below.
+
+**Why 4 main-flow slides + 4 appendix slides aren't in Claude Design:** tried embedding the original PNGs directly (base64 data URIs) so the whole deck lives in one project — hit a real tool limit: the Read tool caps at ~4000 tokens/call, and these renders are 300-850KB (500K+ base64 chars), so reconstructing them in an agent's context to pass to `write_files` isn't feasible (confirmed empirically by 3 parallel subagents, including attempts at WebP recompression down to ~30-80KB that were still impractical). Since these 8 slides have **zero content changes**, there's nothing new to review anyway — I'll carry them into the final deck by re-uploading the original PNGs directly to Google Slides at assembly time (the same `gog slides insert-image` mechanism already proven working during this session's restore). Flagging this as a real constraint, not a shortcut: if you want to review these unchanged slides again first, they're visible in the current live deck at the link below.
+
+**Call I made on slide 08 (Craftsmanship) worth flagging:** the original's right panel was a corrupted/garbled code-editor screenshot (a real bug, not a design choice). I don't have a real replacement screenshot, so instead of patching a broken image I turned it into a proper 2-card comparison (Domain 01 velocity-biased vs. new Domain 02 consequence-biased) — this actually delivers on the slide's own stated thesis ("Pre-LLM favored upstream craftsmanship... now fast coding changes the equation") better than a screenshot ever did. Domain 02's copy is invented-but-consistent (production auth/billing/migrations framing) — flag if you want different examples there.
+
 ## Visual prototypes ready for review (Claude Design, not yet in Google Slides)
 - ~~Slide 4 (Cognitive Tasks) funnel graphic~~ — **rejected**, replaced by the merged pyramid version below
 - ~~Slide 6 (6-Step Loop) linear flow~~ — **rejected**, "doesn't add value." Replaced by the circular version below.
