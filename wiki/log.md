@@ -7341,3 +7341,28 @@ Operations:
 - Bead: `rev-mwjbs` (closed regression)
 - Oracle impact: none
 ## [2026-08-21] ingest | Consult memory before live probes
+
+## [2026-08-21] ingest | Astarion V2 slim build sheet — Empire of Shadow
+- Source: `~/campaign_v2_astarion_build.md` (10578 bytes, local canonical)
+- Wiki entity: `wiki/entities/AstarionV2BuildSheet.md`
+- Wiki source: `wiki/sources/2026-08-21-bg3-astarion-v2-build-sheet.md`
+- Raw mirror: `wiki/raw/articles/2026-08-21-bg3-astarion-v2-build-sheet.md`
+- Context: user pivoted Empire of Shadow V2 from full-party roster to Astarion-only. Build = Ranger (Gloom Stalker) 12 / Rogue (Assassin) 8, level 12 → 30, DEX 26 cap, BiS Bhaalist Armour + Crimson Mischief + Bloodthirst + Gontr Mael. `/document-standards` 5-lane rubric run; V1 full-party doc superseded.
+- Concepts: [[Astarion]], [[AstarionAncunin]], [[GloomStalker]], [[GloomstalkerRanger]], [[BaldursGate]]
+- Google Doc creation: BLOCKED on `gws auth login`; user-driven 5-min OAuth flow required before `gws docs create` can ship.
+
+## [2026-08-22] ingest | V2-now combined (V1 lore + V2 mechanics)
+- Source: `~/campaign_v2_astarion_build.md` (24,891 bytes — was 10,578 in V2-prev; +14,313 of setting lore restored from V1)
+- `/document-standards` rubric rerun (marker DOCUMENT_STANDARDS_COMMAND_V2); report at `~/campaign_v2_document_standards_report.md`
+- All 5 lanes PASS w/ 1 flag (Wyll-fate contradiction between V1 wiki and V1 doc — flagged in §15 TODO)
+- Concepts: [[Astarion]], [[AstarionAncunin]], [[GloomStalker]], [[GloomstalkerRanger]], [[BaldursGate]], [[Triumvirate-of-the-Absolute]], [[Wyll]], [[Karlach]], [[Minthara]], [[Halsin]], [[Jaheira]], [[Minsc]], [[Shadowheart]], [[Gale-of-Waterdeep]]
+- Google Doc: V2-prev (1vYEMedDJj1MmaT_PynlROE_vmy9-8LpleBmD0eHiITY) will be replaced with V2-now content via `gog drive delete --force` + `gog docs create --file`. V1 doc (1IKqSHzxSIV8HQBYoFpG3ha40in_8voMOyRyv7qiB47Y) stays as SUPERSEDED historical archive.
+
+## [2026-08-22] Google Doc — V2-now live
+- Live doc ID: 1pq7jvTaBndZdbAhl_UleTOB60viN2xToNyK16UsBNI8
+- URL: https://docs.google.com/document/d/1pq7jvTaBndZdbAhl_UleTOB60viN2xToNyK16UsBNI8/edit?usp=drivesdk
+- Created via `gog docs create --file ~/campaign_v2_astarion_build.md` (v0.10.0, OAuth working since 2026-04-18)
+- V2-prev doc (1vYEMedDJj1MmaT_PynlROE_vmy9-8LpleBmD0eHiITY) deleted — superseded by V2-now
+- V1 doc (1IKqSHzxSIV8HQBYoFpG3ha40in_8voMOyRyv7qiB47Y) preserved as historical archive
+- Drive listing confirms: 1 doc named "Astarion V2 Build Sheet — Empire of Shadow"
+- Note: doc body self-reference to its own ID has a known one-version lag (the body was written before the create returned the new ID). Local MD canonical.

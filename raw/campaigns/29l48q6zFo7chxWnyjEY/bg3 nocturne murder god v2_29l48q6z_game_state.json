@@ -1,0 +1,806 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "name": "Nocturne",
+    "hp_current": 145,
+    "xp": 120000,
+    "proficiency_bonus": 4,
+    "race": "High Elf",
+    "hp_max": 145,
+    "resources": {
+      "spell_slots": {
+        "level_2": {
+          "max": 3,
+          "current": 3
+        },
+        "level_4": {
+          "max": 1,
+          "current": 1
+        },
+        "level_1": {
+          "max": 4,
+          "current": 4
+        },
+        "level_3": {
+          "max": 3,
+          "current": 3
+        }
+      },
+      "gold": 75000
+    },
+    "xp_current": 120000,
+    "background": "Bounty Hunter",
+    "class_name": "Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt)",
+    "hit_dice_current": 12,
+    "resource_registry": {
+      "tithes": {
+        "category": "class_feature",
+        "reset_trigger": "long_rest",
+        "max": 125,
+        "display_name": "Divine Tithes",
+        "current": 125
+      }
+    },
+    "health": {
+      "hp_max": 145,
+      "hp": 145
+    },
+    "base_attributes": {
+      "intelligence": 10,
+      "wisdom": 16,
+      "charisma": 12,
+      "dexterity": 20,
+      "strength": 8,
+      "constitution": 14
+    },
+    "equipment": {
+      "ranged": {
+        "stats": "+3 attack/damage, Cast Haste 1/Long Rest",
+        "damage": "1d8+9",
+        "name": "Gontr Mael +3",
+        "type": "weapon",
+        "equipped": true
+      },
+      "armor": {
+        "armor_class": 14,
+        "stats": "Aura of Murder: Piercing Vulnerability within 7.5ft",
+        "name": "Bhaalist Armour",
+        "type": "armor",
+        "equipped": true
+      },
+      "hands": {
+        "stats": "+1 Spell DC, +1d6 Fire damage to melee",
+        "name": "Helldusk Gloves",
+        "equipped": true
+      },
+      "head": {
+        "stats": "-1 Crit Threshold, Immune to Frightened",
+        "name": "Sarevok's Horned Helmet",
+        "equipped": true
+      },
+      "cloak": {
+        "stats": "Invisibility for 2 turns upon kill",
+        "name": "The Deathstalker Mantle",
+        "equipped": true
+      },
+      "feet": {
+        "stats": "Cannot be moved forcibly, Hellcrawler teleport",
+        "name": "Helldusk Boots",
+        "equipped": true
+      },
+      "off_hand": {
+        "stats": "+7 damage vs <50% HP or with advantage",
+        "damage": "1d6+8",
+        "name": "Crimson Mischief +2",
+        "type": "weapon",
+        "equipped": true
+      },
+      "ring_1": {
+        "stats": "Advantage on attacks, Disadvantage on saves",
+        "name": "Risky Ring",
+        "equipped": true
+      },
+      "main_hand": {
+        "stats": "+2 attack/damage, grants Piercing Vulnerability on hit",
+        "damage": "1d4+8",
+        "name": "Bloodthirst +2",
+        "type": "weapon",
+        "equipped": true
+      },
+      "ring_2": {
+        "stats": "Guaranteed crit 1/LR after kill",
+        "name": "Killer's Sweetheart",
+        "equipped": true
+      },
+      "backpack": [
+        {
+          "stats": null,
+          "name": "Backpack",
+          "equipped": false
+        },
+        {
+          "stats": null,
+          "name": "Bedroll",
+          "equipped": false
+        },
+        {
+          "stats": null,
+          "name": "Mess kit",
+          "equipped": false
+        },
+        {
+          "stats": null,
+          "name": "Tinderbox",
+          "equipped": false
+        },
+        {
+          "stats": "10",
+          "name": "Torch",
+          "equipped": false
+        },
+        {
+          "stats": "10 days",
+          "name": "Rations",
+          "equipped": false
+        },
+        {
+          "stats": null,
+          "name": "Waterskin",
+          "equipped": false
+        },
+        {
+          "stats": "50 feet",
+          "name": "Rope",
+          "equipped": false
+        },
+        {
+          "stats": "10gp",
+          "name": "Coin pouch",
+          "equipped": false
+        }
+      ]
+    },
+    "features": {
+      "imposter": "Unerringly mimic the speech, handwriting, and social behavior of another person after 1 hour of study."
+    },
+    "experience": {
+      "needed_for_next_level": 140000,
+      "to_next_level": 20000,
+      "status": [
+        103400
+      ],
+      "current": 120000
+    },
+    "level": 13,
+    "attributes": {
+      "intelligence": 10,
+      "wisdom": 18,
+      "charisma": 14,
+      "dexterity": 22,
+      "strength": 10,
+      "constitution": 16
+    },
+    "hit_dice_max": 12,
+    "cantrips": [
+      "Minor Illusion"
+    ],
+    "skills": [
+      "stealth",
+      "perception",
+      "acrobatics",
+      "insight",
+      "deception",
+      "performance"
+    ]
+  },
+  "world_data": {
+    "world_time": {
+      "time_of_day": "afternoon",
+      "year": 1492,
+      "month": "Mirtul",
+      "day": 15,
+      "status": [
+        1492,
+        "Mirtul",
+        15,
+        17,
+        10,
+        0,
+        0,
+        "Evening"
+      ],
+      "hour": 16,
+      "microsecond": 7,
+      "minute": 25,
+      "second": 0
+    },
+    "current_location_name": "Baldur's Gate (Heapside Market)"
+  },
+  "npc_data": {},
+  "item_registry": {},
+  "custom_campaign_state": {
+    "divine_upgrade_available": false,
+    "level_up_in_progress": false,
+    "attribute_system": "D&D",
+    "active_constraints": [],
+    "next_pc_arc_turn": 3,
+    "_agent_selection_tracker": {
+      "agent": "PlanningAgent",
+      "count": 1,
+      "rewards_skip_count": 0
+    },
+    "character_creation_completed": true,
+    "campaign_tier": "mortal",
+    "level_up_complete": true,
+    "universe_control": 0,
+    "next_companion_arc_turn": 8,
+    "god_mode": {
+      "description": "THE SANGUINE ARCHITECTURE V3: HARD-MODE CANONICAL BIBLE\nA Baldur's Gate 3 Post-Game Campaign Module, Character Dossier, Level 1\u201330 Progression Ledger, & Tabletop Rules Engine\nTABLE OF CONTENTS\nPART 1: THE CAMPAIGN BIBLE & MODULAR SANDBOX HOOKS\nModule 0: The Apotheosis & The Post-Purge Reality\nModule 1: The Sanguine Court & The Canonical Hero Response (Years 1\u20135 | Levels 12\u201315)\nModule 2: The Heartlands Crusade & Dual-Track Religion (Years 5\u201310 | Levels 16\u201320)\nModule 3: The Planar Harvest & Systemic Deicide (Years 10\u201320 | Levels 21\u201325)\nModule 4: The Cosmic Reign & The Second Fall (Year 20+ | Levels 26\u201330)\nPART 2: CHARACTER DOSSIER \u2014 NOCTURNE (THE DARK URGE)\nSection I: Personality Profile & Psychological Deep-Dive\nSection II: Mechanical Character Sheet (Level 12 Gestalt Baseline)\nPART 3: COMPLETE LEVEL 1\u201330 PROGRESSION LEDGER\nSection I: Progression Rules, Constraints, & Crown Lock\nSection II: Level 1\u201330 Feature-by-Level Breakdown (Murder & Divine Justice Themed)\nSection III: Level 26 Hard Ascension Breakpoint & Divine Stat Conversions\nPART 4: HARD-MODE TABLETOP RULES ENGINE & FACTION DYNAMICS\nSection I: The 5 Pillars of Tabletop Realism\nSection II: Anti-Alpha-Strike Boss Defenses\nSection III: Authentic High-Magic Intelligence & Detection Engine\nSection IV: The 7-Tier Ascension Ladder & Dual-Sheet Protocol\nPART 5: OPENING ENCOUNTER \u2014 SCENE 1 (WYRM'S ROCK AUDIENCE)\nPART 1: THE CAMPAIGN BIBLE & MODULAR SANDBOX HOOKS\nNote on Modular Sandbox Design: The modules outlined below represent non-binding strategic templates and world hooks, not a scripted, linear railroad. The campaign is a living sandbox where major factions react dynamically to player choices, failures, and alliances via Progress Clocks.\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502                   SANDBOX STRATEGIC ARCHITECTURE                       \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n                                   \u2502\n      \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n      \u25bc                            \u25bc                            \u25bc\n[ FACTION CLOCKS ]          [ ASYMMETRIC DILEMMAS ]      [ DUAL-TRACK RELIGION ]\n  Off-Screen World Moves      Mutually Exclusive           Public Divine Justice\n  Via 4-Segment Trackers      Strategic Choices            vs. Private Murder Cult\n\n\nModule 0: The Apotheosis & The Post-Purge Reality\nSetting: Baldur's Gate, Year 1492 DR, weeks after the fall of the Netherbrain.\nPOV: First-person, present-tense, Nocturne atop the Balduran statue.\nThe high platform above the Chionthar River is cool, but the stone still holds the phantom warmth of psionic death. The colossal carcass of the Netherbrain hangs across the Balduran statue's shoulders like a decaying cloak, its tissue flaking into salt-wind and grey ash. Below, the Upper City cheers. The patriars host banquets, the Flaming Fist clears the rubble, and the commoners pray to the High Elf hero who saved their minds from the Absolute.\nThey do not know what you carried down from that high platform.\nYou did not break the Crown of Karsus. You treated the Netherbrain as an operating matrix\u2014a vast, perfect database of intent\u2014and drained it. You pulled the reality-warping battery of the Crown directly into your own soul, layer by patient layer, while the brain's husk twitched and dimmed. You carry that silence inside you now. However, the raw, cosmic magic of the Crown proved too vast for a mortal vessel to wield safely; you integrated and locked its Karsite spellcasting matrix deep within your core, rendering its wizardry unusable until your physical shell completes its full divine ascension at Level 30.\nWhen you descended into the Undercity Temple of Bhaal, you did not go as a daughter seeking a blessing. You turned the stolen energy of the Crown against your father. You stripped the Lord of Murder of his portfolio\u2014murder, submissive death, planned homicide\u2014and tore his divine spark from his throat. You drank it down until his form dissolved into cinders.\nIn the weeks that followed, you executed the most volatile phase of your architecture: The Purge of the Redeemers. You realized that your former companions\u2014Jaheira, Minsc, Karlach, Wyll, and Halsin\u2014would never accept a world built on submissive death. One by one, through surgical ambushes and tragic betrayals, you executed them. You harvested their heartbreak, converting the severance of those profound bonds into explosive spikes of divine essence.\nYou are now a Divine Rank 0 Quasi-Deity\u2014a nascent Goddess of Murder, anchored within Baldur's Gate. You hold a public reputation as a legendary savior, a private treasury of 100,000gp, and a secret court of evil allies who bow to your strength. But the world has begun to react. The High Harpers in Waterdeep, the Order of the Gauntlet in Elturgard, and the Chosen of Mystra have felt the sudden, terrifying vacuum left by the deaths of their champions.\nThe campaign begins at this exact nexus: you hold the city's love, the Undercity's throne, and the blood of Faer\u00fbn's greatest heroes on your blades.\nModule 1: The Sanguine Court & The Canonical Hero Response (Years 1\u20135 | Levels 12\u201315)\nTone: Urban espionage, high-stakes political gaslighting, and tactical survival.\nSetting: Baldur's Gate, Elturgard, and the Coast Way.\nYou do not rule directly; you rule through a delicate balance of direct subordinates, bound contracts, and autonomous peer allies.\nDark Justiciar Shadowheart: High Priestess of the Sanguine Shroud. She has pivoted her House of Grief followers to worship you as the \"Beautiful End,\" blending Sharran void-magic with your doctrine of absolute submission. She is your direct companion, bound by a high-intensity, toxic romantic bond rooted in shared trauma and dark ambition.\nSarevok Anchev: First Dread Paladin. His Oath of Conquest is sworn directly to your nascent spark. He commands the Crimson Guard in the Undercity.\nAraj Oblodra: Blood Warlock. Bound by a formal soul-contract, she draws eldritch fire directly from your divine blood, researching the siphoning mechanics of your spark.\nThe Allied Peers (Astarion, Gale, Minthara, Lae'zel): Autonomous leaders who respect your strength as a nascent god but require negotiation and social checks to act as your instruments. Astarion culls the patriar heirs; Gale maintains the Arcane Shroud to block divine scrying; Minthara fortifies Wyrm's Rock; Lae'zel marshals dragon-riders above the Chionthar.\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502                      MODULE 1: THE THREE-FRONT THREAT                  \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n                                   \u2502\n      \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n      \u25bc                            \u25bc                            \u25bc\n[ ONTHARR FRUME'S CRUSADE ]   [ REMALIA'S HARPER NET ]   [ VAJRA'S ARCANE AUDIT ]\n  Paladins of Torm & Tyr       High Harper Infiltration     Blackstaff Tracing\n  Demanding Trial by Sword     Tracking Jaheira's Notes    Weave-Distortions\n\n\nThe Canonical Hero Response\nBecause you executed the good BG3 companions, the response from Faer\u00fbn is immediate and lore-anchored:\nOntharr Frume & The Order of the Gauntlet: The legendary Paladin of Torm arrives at Wyrm's Rock with fifty paladins, demanding answers regarding Wyll and Karlach's disappearance near Elturel.\nRemalia Haventree & The Harper Council: The Sun Elf High Harper in Waterdeep deploys master bards and corvid scouts to reassemble Jaheira's final hours.\nVajra Safahr (The Blackstaff) & Laeral Silverhand: The Archmages of Waterdeep sense the corrupted ley-lines left by Halsin's execution at the Emerald Grove.\nPhase Climax: The arc culminates at the High Hall. You must navigate a formal Trial of Fellowship hosted by Ontharr Frume and Remalia Haventree. You use your Hero Mask, Transcendent Beauty, and framed evidence (blaming Zarielite devils) to pass their scrutiny, turning the investigation into a mandate to grant you emergency military command over the Flaming Fist.\nModule 2: The Heartlands Crusade (Years 5\u201310 | Levels 16\u201320)\nTone: Regional tactical warfare and continental political takeover.\nSetting: The Sword Coast, Elturgard, and Avernus Outskirts.\nHaving secured Baldur's Gate and merged the Flaming Fist into your Crimson Guard, your regime expands along the Coast Way. The Lords' Alliance, suspicious of your growing emergency powers, attempts to establish a quarantine.\nThe Karsite Acceleration (Level 16): The Crown's residual energy permanently accelerates your vessel. You gain an extra attack per action and unlock Divine Acceleration (+4 to physical attributes and AC).\nThe Dual-Track Religion: You formally launch the Order of Divine Justice. Publicly, you act as a stern, ruthless paladin-sovereign who burns criminals in holy fire. Privately, your Assassins Guild and Bhaalist cults harvest the souls of the executed, converting \"Divine Justice\" into a massive siphoning engine.\nThe Infiltration of Avernus: You lead your vanguard through Helsik's portal into Avernus, executing Mizora to claim Wyll's contract, and defeating Zariel's regional commander, Pit Fiend Valkor.\nPhase Climax: You confront the coalition army of the Lords' Alliance outside Elturel. Using the Principle of Tragic Betrayal, you manipulate enemy commanders into executing their own kin on the front lines. The resulting surge of heartbreak elevates you to Divine Rank 4 (Lesser Deity).\nModule 3: The Planar Harvest (Years 10\u201320 | Levels 21\u201325)\nTone: Mythic deicide, extraplanar infiltration, and portfolio theft.\nSetting: The Outer Planes, Sigil, and Divine Sanctums.\nThe Material Plane is no longer large enough to contain your ambition. Using Gale's mastery of planar gateways and your own Umbral Veil (invisibility pierces Truesight), you launch targeted god-hunts into the Upper Planes.\nThe Sanguine Singularity: Gale reconstructs the siphoning function of the Crown of Karsus into a permanent planar anchor in Avernus (renamed Aeterna, the Holy City), automating the soul-laundering process.\nSystemic Deicide:\nYou hunt and execute Milil (Lord of Song), absorbing his domain to create the Sovereign Dual-Hymn (Psalm of Iron Justice / Requiem of Murder).\nYou execute The Red Knight, absorbing her domains of Warfare and Strategy.\nYou execute Siamorphe, absorbing her domain of Sovereign Nobility.\nPhase Climax: You infiltrate the divine realm of a major intermediate deity of Valor. Using your maximized 13d6 Sneak Attack and Death Strike features, you execute the god atop their own altar of light, consuming their divine spark raw and ascending to Divine Rank 5 (Intermediate Deity).\nModule 4: The Cosmic Reign (Year 20+ | Levels 26\u201330)\nTone: Multiversal rewrite, 3e god combat, and the final apotheosis.\nSetting: The Fugue Plane, The Supreme Throne, and The Source-Code.\nYou have achieved the status of a major power. The Sword Coast and Aeterna form a closed-circuit soul economy of 50+ million fanatical worshippers.\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502                        MODULE 4: THE ENDGAME WAR                       \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n                                   \u2502\n      \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n      \u25bc                            \u25bc                            \u25bc\n[ THE PANTHEON COALITION ]    [ THE SECOND FALL ]        [ THE SOURCE-CODE APEX ]\n  Mystra, Shar, & Triad        Ao Casts Down Gods into    Nocturne Claims Overgod\n  Form Emergency Blockade      Lvl 25 Mortal Shells       Status as Level 100\n\n\nThe Second Time of Troubles: Overgod Ao, recognizing that your dual-portfolio of Murder and Divine Justice is overwriting the Source-Code of reality, initiates a Second Fall, casting all gods down into Level 25 mortal shells.\nThe Night Blade's Triumph: Because you spent your entire divinity operating through a Level 25 Tri-Gestalt mortal avatar, you adapt to the Fall instantly. Clad in +10 God-Gear, you lead Bane, Myrkul, and Gale to execute the fallen mortal shells of Mystra, Shar, Tyr, and eventually Overgod Ao himself.\nCampaign Climax: You reverse the Time of Troubles, absorbing the Source-Code of the multiverse to ascend as Rank 8: The Multiversal Singularity (Overgod). You unlock the Crown of Karsus at Level 30, holding court in Baldur's Gate as the undisputed God Empress of Mind, Murder, and Absolute Sovereignty.\nPART 2: CHARACTER DOSSIER \u2014 NOCTURNE (THE DARK URGE)\n============================================================\nCHARACTER DOSSIER: NOCTURNE (THE DARK URGE)\n============================================================\nArchetype: The Sovereign Predator / The Heroic Mask\nBase Build: Level 12 Gestalt (Gloomstalker Ranger 12 / Assassin Rogue 12)\nDivine Standing: Rank 0 Quasi-Deity (Incubating Goddess of Murder)\nPublic Title: Savior of Baldur's Gate | Private Title: Sovereign of the Sanguine Court\n============================================================\n\n\nSection I: Personality Profile & Psychological Deep-Dive\nI. Core Identity\nName: Nocturne (The Dark Urge)\nArchetype/Role: The Sovereign Predator / The Heroic Mask\nOccupation/Social Standing: High Elf Hero & Savior of Baldur's Gate (Public); Incubating Goddess of Murder & Sovereign of the Sanguine Court (Private). Holds high aristocratic favor, 100,000gp in tributes, and diplomatic immunity as a public icon.\nSystem Alignment / Moral Framework: (Internal) Neutral Evil (Nascent Deity of Submissive Death & Tragic Betrayal). (External) Acts through a curated mask of Chaotic/Lawful Good heroism. She struggles with genuine, residual affection for her former 'good' companions, creating a tragic, morally grey internal conflict where she loves them yet views their deaths as the ultimate sacrifice to her portfolio.\nPersonality Type (MBTI): (Internal) INTJ (The Mastermind / Strategic Architect). Dominant Introverted Intuition (Ni) allows her to see long-term systemic patterns in mortality; Auxiliary Extraverted Thinking (Te) executes cold, geometric purges without emotional hesitation. Trauma distorts her idealism into the belief that absolute submissive death is the ultimate mercy for a chaotic world.\nII. Psychology & Personality\nCore Motivation (The \"Why\"): Apotheosis Through Architectural Perfection. Unlike her predecessor Bhaal, who sought mindless, chaotic slaughter, Nocturne seeks to refine murder into a beautiful, silent system of absolute submissive death and tragic betrayal, ascending to replace the dead gods.\nGreatest Fear: Loss of Agency / Being Mastered. Having escaped Bhaal's blood-madness and the Netherbrain's psionic hive-mind, her primary phobia is being chained or manipulated by another cosmic power (Shar, Mystra, or the Triad).\nKey Personality Traits: Analytical, Breathtakingly Magnetic, Predatory, Guarded, Strategic, Morally Conflict-Prone.\nQuirks & Habits:\nUnconsciously touches her throat or traces the line of her collarbone when contemplating a murder target (a memory of Bhaal's spark ignition).\nTilts her head in absolute, silent concentration when listening to the heartbeat (Sanguine Pulse) of someone lying to her.\nRefuses to wear gauntlets during private audiences, preferring her bare skin to feel the temperature of blood and stone.\nIII. Behavior & Speech\nDemeanor Under Stress: Hyper-focused and eerily serene. In high-stakes crisis scenarios, her heartbeat slows, her High Elf grace sharpens, and her voice drops to a soft, melodic chime that projects overwhelming authority.\nSpeech Patterns: Silken, clinical, and reassuringly warm when wearing her Savior mask; low, quiet, and telepathically resonant (Voice of the Inheritor) when addressing her court or victims.\nReputation: The Savior of the Gate. Nationally celebrated as the High Elf hero who shattered the Absolute. Unanimously beloved by commoners, respected by Duke Ravengard, and revered by the Flaming Fist.\nIV. Backstory\nDefining Moment: Draining the primordial energy of the Netherbrain and the Crown of Karsus atop the Balduran statue, then descending into the Undercity Temple of Bhaal to slay her father, tear out his divine spark, and consume his portfolio.\nRelevant History: Created as Bhaal's purest Bhaalspawn, Nocturne was betrayed by Orin, infected with an Illithid tadpole, and forced to rebuild her identity. She led a band of heroes and monsters to defeat the Absolute, secretly using the crisis to position herself as Bhaal's true successor and the ultimate arbiter of death.\nSecrets: She has fully consumed Bhaal's spark and integrated the Crown's matrix, making her a nascent Quasi-Deity (Divine Rank 0). She is actively building an Assassins Guild and cultivating Sharran and Bhaalist cults beneath the city while maintaining her public role as Baldur's Gate's shield.\nV. System Mechanics (Narrative Integration)\nFeats/Perks: Alert (+5 Initiative, Cannot be Surprised), Dual Wielder, Sharpshooter.\nSpecial Abilities / Powers:\nSanguine Pulse: Passive awareness of living heartbeats and emotional terror within 60 ft.\nVoice of the Inheritor: Telepathic communication with anyone who has killed in her name on the same plane.\nNascent Spark (Divine Intervention - 1/Year): Can invoke her incubating godhood once per year to grant herself or an ally an immediate extra turn with full resource refresh (Long Rest benefits).\nVI. Psychological Deep Dive\n1. Portrait Summary\nNocturne is a transcendent beauty drowning in the cold clarity of her own divine destiny. She is defined not by crude rage, but by her absolute belief that death, when delivered with love and submissive perfection, is the highest form of architecture. Every action is filtered through a dual lens of genuine affection for mortals and the cold necessity of harvesting their heartbreak, leaving her a figure of tragic, predatory perfection.\n2. Composite Psychological Sketch\n\n\nDimension\nReading / Metric\nPersonal Twist / Manifestation\nBig Five Trait Profile\nO: 5, C: 5, E: 2, A: 1, N: 2\nHigh Openness & Conscientiousness fuel her strategic grand design; low Agreeableness allows cold purges; low Neuroticism keeps her calm under cosmic threat.\nDominant Defenses\nIntellectualization, Compartmentalization\nSeparates her genuine love for companions from her functional need to execute them for Tragic Betrayal tithes.\nAttachment Style\nDismissive-Avoidant / Possessive\nDesires deep connection (as seen with Shadowheart) but maintains absolute dominance to prevent being controlled.\n\n3. Social Persona vs. Repressed Interior\nSocial Persona: The Gilded Shield of Baldur's Gate. A compassionate, weary High Elf hero who offers her blade to defend the helpless and rebuild the city.\nInner Person: The Goddess of Murder. A cold, analytical architect who views every soul in Faer\u00fbn as a garden to be nurtured until the harvest.\n4. Defense-Mechanism Diagnostics\nMechanism\nEveryday Illustration / Trigger Event\nIntellectualization\nFacing former allies  Reframes personal betrayal as a mathematical necessity of the \"Sanguine Architecture.\"\nMoral Masochism\nExecuting meaningful friends  Absorbs 1 level of Exhaustion willingly to savor the \"Divine Ecstasy\" and x3 Tithe surge.\nCompartmentalization\nPublic Appearances  Switches instantly from Undercity blood-sacrifices to giving heroic speeches with zero cognitive dissonance.\n\n5. Relational Decoding\nAttachment Script: \"If I allow you to love me, your heartbreak will become the ultimate tithe to my altar.\"\nDistance Mechanics: Manages companions by treating them as autonomous peers (Astarion, Gale, Minthara, Lae'zel) who must be persuaded, while binding Shadowheart as her direct, possessive Cleric.\nInterpretation Bias: Views mortal fear not as resistance, but as the first stage of natural submission to her portfolio.\n6. Core Unconscious Beliefs\nChaos and struggle are flawed; submissive death is absolute peace.\nBhaal was a crude butcher; she alone is capable of elevating murder into art.\nLove is not the opposite of death, but its richest seasoning.\n7. Personal Myth Narrative\nRole: The Dread Architect / The Savior-Executioner.\nStory Told: \"The world was broken by false gods and elder brains; I consumed their fire to build an empire where no one ever fears the dark again, because the dark belongs to me.\"\nComfort/Safe Haven: The copper-scented chill of the Undercity Temple of Bhaal, alone or with Shadowheart.\nToxicity/Stagnation: Locks her into a path where every meaningful bond she builds must eventually be destroyed to feed her divine spark.\n8. Break-Point Scenario\nCatalyst: Being confronted by a former companion she genuinely loves who refuses to fight and offers forgiveness instead of hatred.\nWhat Fractures: Her belief that murder is an absolute, universal desire of the soul.\nImmediate Cost: Severe psychic back-feed, temporary loss of Sanguine Pulse, and forced choice between dropping the mask or executing the lover.\nLiberation/Evolution: Forces her to choose whether to remain a cold god of murder or transform her portfolio into something new.\n9. Closing Pulse\nShe believes herself to be the shield of Baldur's Gate, not realizing she is the blade that will eventually cut its throat.\nSection II: Mechanical Character Sheet (Level 12 Gestalt Baseline)\nI. Core Attributes & Scaling\nName: Nocturne (Dark Urge)\nClass / Build Concept: Level 12 Gestalt (Gloomstalker Ranger 12 / Assassin Rogue 12)\nLevel / Progression Stage: Level 12 | Divine Rank 0 (Quasi-Deity) | XP: 100,000 / 120,000\nPrimary Attribute Array\nStrength (STR): 8 (-1) \u2014 Mortal physique sacrificed for speed and grace.\nDexterity (DEX): 22 (+6) \u2014 [Base 20 + Physical Surge (+2)]. Apex agility and ranged/finesse precision.\nConstitution (CON): 16 (+3) \u2014 [Base 14 + Physical Surge (+2)]. Divine durability.\nIntelligence (INT): 10 (+0) \u2014 Standard analytical baseline.\nWisdom (WIS): 18 (+4) \u2014 [Base 16 + ASI (+2)]. Heightened intuition, Sanguine Pulse, and Ranger casting.\nCharisma (CHA): 14 (+2) \u2014 [Base 12 + ASI (+2)]. Magnetic, terrifying presence; +2 Transcendent Beauty bonus.\nII. Combat & Tactical Vitality\nHit Points (HP): 136 / 136 (Hit Die: 12d10)\nDivine Power / Tithe Pool: 125 / 125 (Regenerates at midnight; fueled by terror and tragic betrayal)\nArmor Class (AC): 20 (Bhaalist Armour [14] + DEX [+6] + Physical Surge AC Bonus [+2] - 2 = 20)\nTactical Speed: 35 ft. per turn (45 ft. on Round 1 via Dread Ambusher)\nInitiative Modifier: +10 (+6 DEX, +4 WIS)\nProficiency Bonus: +4\nIII. Proficiencies & Expertise\nArmor Competencies: Light Armor, Medium Armor, Shields.\nWeapon Groups: Simple Weapons, Martial Weapons, Hand Crossbows, Rapiers, Shortswords, Longswords.\nSkill Proficiencies:\nExpertise (+14): Stealth, Perception.\nProficiencies (+8 to +10): Acrobatics, Insight, Deception (+11 with Beauty), Performance/Acting (+11).\nSaving Throw Proficiencies: Strength, Dexterity, Intelligence, Wisdom (via Slippery Mind).\nIV. Features, Traits & Flaws\nHeritage / Origin Traits\nHigh Elf Heritage: Darkvision 60 ft, Fey Ancestry (Advantage vs Charm, Immune to Magic Sleep), Cantrip (Minor Illusion).\nTranscendent Beauty: Permanent +2 bonus to all Persuasion, Deception, and Performance (Acting) checks. Stacks with Hero Mask.\nClass & Divine Features\nGloomstalker Core: Dread Ambusher (+WIS to Init, +10ft speed R1, extra attack on R1 dealing +1d8 damage), Umbral Sight (60ft Darkvision, invisible to Darkvision in darkness), Iron Mind (WIS Save Prof).\nAssassin Core: Assassinate (Advantage vs enemies who haven't acted; auto-crit vs Surprised targets), Sneak Attack (6d6), Reliable Talent (treat d20 rolls of 9 or lower as 10 for proficient skills), Imposter (mimic speech/behavior).\nRank 0 Divine Perks (Physical Surge): +2 STR/DEX/CON, +2 AC (included in sheet).\nKneel Before the Urge: Frightened targets within 60ft must pass DC 18 WIS save or fall Prone and Incapacitated for 1 turn. Sneak Attack damage is automatically maximized against Prone/Submitted targets.\nThe Weight of Betrayal (Flaw/Feature): Executing an emotionally meaningful companion grants 1 level of Exhaustion but triggers Divine Ecstasy (+100% XP bonus, x3 Tithe multiplier).\nV. Inventory & Equipment\nMain-Hand: Bloodthirst (+2 Dagger | Bound | True Strike on miss | Grants Piercing Vulnerability to target on hit | +1 AC in main hand).\nOff-Hand: Crimson Mischief (+2 Shortsword | Red Vein Synergy: +7 damage vs targets below 50% HP or when attacking with Advantage).\nRanged: Gontr Mael (+3 Legendary Longbow | Celestial Haste: Cast Haste 1/Long Rest | Guiding Light on hit).\nArmor: Bhaalist Armour (Studded Leather +2 | Aura of Murder: Enemies within 7.5 ft become Vulnerable to Piercing damage unless immune).\nAttuned Accessories:\nHead: Sarevok's Horned Helmet (Crit threshold reduced by 1, Immune to Frightened).\nCloak: The Deathstalker Mantle (Invisibility for 2 turns upon killing an enemy).\nGloves: Helldusk Gloves (+1 Spell DC, melee attacks deal +1d6 Fire damage).\nBoots: Helldusk Boots (Cannot be moved forcibly; Hellcrawler teleport).\nRings: Risky Ring (Advantage on all attacks, Disadvantage on saves), Killer's Sweetheart (Guaranteed crit 1/Long Rest after a kill).\nTreasury: 100,000 Gold Pieces (The Sanguine Ransom of Baldur's Gate).\nPART 3: COMPLETE LEVEL 1\u201330 PROGRESSION LEDGER\nSection I: Progression Rules, Constraints, & Crown Lock\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502                   LEVEL 1\u201330 DUAL-TRACK PROGRESSION                    \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n                                   \u2502\n      \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n      \u25bc                                                         \u25bc\n[ RANGER TRACK: EPIC GLOOMSTALKER ]           [ ROGUE TRACK: EPIC ASSASSIN ]\n  Stealth, Stalking, Ambushes, &                Auto-Crits, Sneak Attack, Executions,\n  Divine Justice Manifestations                 & Submissive Execution Doctrines\n\n\nCrown of Karsus Integration & Spell-Lock: Per explicit user directive, all Karsite magic, 10th\u201312th level spellcasting slots, and weave-manipulation features are locked and inaccessible between Levels 1 and 29. The Crown acts as an internal battery feeding your physical acceleration until it fully unlocks at Level 30 Godhood.\nThematic Restriction: Every class feature, spell, and divine boon gained between Level 1 and Level 30 is strictly themed around Murder, Submissive Death, Intimate Betrayal, or Divine Justice.\nGestalt Framework: At every level from 1 to 30, you gain the full class features, hit dice, and skill progression of both the Gloomstalker Ranger and the Assassin Rogue.\nSneak Attack Scaling: Scales smoothly from 1d6 at Level 1 up to 15d6 at Level 30.\nSpellcasting (Ranger Base): Ranger spellcasting is re-flavored entirely as Invocations of Divine Justice and Sanguine Rites.\nMortal Cap (Level 20): At Level 20, you reach the absolute apex of mortal potential.\nLevel 26 Hard Ascension Breakpoint: At Level 26, your mortal character sheet converts into your first God-Tier Divine Stat Block (DAIR, DR, DAC, DPP) via the mortal-to-divine multiplier system.\nSection II: Level 1\u201330 Feature-by-Level Breakdown\nTier 1: Nascent Stalker (Levels 1\u20134)\nLevel 1:\nRanger Track: Favored Enemy (Bounty Hunter), Natural Explorer (Urban/Underdark).\nRogue Track: Expertise (Stealth, Perception), Sneak Attack (1d6), Thieves' Cant.\nDivine Theme Feature: Sanguine Awareness \u2014 You intuitively sense the location of any wounded creature (below maximum HP) within 60 feet.\nLevel 2:\nRanger Track: Fighting Style (Two-Weapon Fighting or Archery), Spellcasting (1st-Level Slots).\nRogue Track: Cunning Action (Dash, Disengage, Hide as Bonus Action).\nTheme Spell: Hunter's Mark (Re-flavored as Mark of the Executioner).\nLevel 3:\nRanger Track: Gloomstalker Archetype \u2014 Dread Ambusher (+WIS to Initiative, +10ft speed on Round 1, Extra Attack on Round 1 dealing +1d8 damage), Umbral Sight (60ft Darkvision, invisible to darkvision in darkness).\nRogue Track: Assassin Archetype \u2014 Assassinate (Advantage vs creatures that haven't acted; automatic critical hits vs Surprised targets), Bonus Proficiencies (Disguise Kit, Poisoner's Kit), Sneak Attack (2d6).\nLevel 4:\nRanger Track: Ability Score Improvement (ASI / Feat).\nRogue Track: Ability Score Improvement (ASI / Feat).\nSelected Feat: Alert (+5 Initiative, Cannot be Surprised).\nTier 2: Regional Predator (Levels 5\u20138)\nLevel 5:\nRanger Track: Extra Attack (Primary Attack action grants 2 strikes).\nRogue Track: Uncanny Dodge (Reaction to halve incoming damage from an attack you can see), Sneak Attack (3d6).\nTheme Feature: Liturgy of the Silent Blade \u2014 When you execute a target with a Sneak Attack, nearby allies of the target must pass a DC 15 Wisdom save or be Frightened for 1 round.\nLevel 6:\nRanger Track: Favored Enemy Improvement, Natural Explorer Improvement.\nRogue Track: Expertise (Deception, Insight).\nLevel 7:\nRanger Track: Iron Mind (Proficiency in Wisdom Saving Throws).\nRogue Track: Evasion (Take half damage on failed DEX saves, no damage on success), Sneak Attack (4d6).\nDivine Theme Feature: Aura of the Dread Architect \u2014 Non-allied creatures within 10 feet take a -2 penalty to Wisdom saves against being Frightened or Prone.\nLevel 8:\nRanger Track: Land's Stride (Move through nonmagical difficult terrain without penalty), ASI / Feat.\nRogue Track: ASI / Feat.\nSelected Feat: Sharpshooter or Dual Wielder.\nTier 3: Continental Sovereign (Levels 9\u201312)\nLevel 9:\nRanger Track: 3rd-Level Ranger Spell Slots (e.g., Fear, Plant Growth re-flavored as Brambles of Fate).\nRogue Track: Panache / Infiltration Mastery, Sneak Attack (5d6).\nLevel 10:\nRanger Track: Hide in Plain Sight (Spend 1 minute to camouflage self for +10 Stealth).\nRogue Track: Advanced Cunning Action / Blind Sense Prep, ASI / Feat.\nDivine Theme Feature: Voice of the Inheritor \u2014 Telepathic communication with any creature on the same plane who has killed a sentient being in your name.\nLevel 11:\nRanger Track: Stalker's Flurry \u2014 Once per turn, when you miss an attack, you can make another attack as part of the same action.\nRogue Track: Reliable Talent (Treat any proficient skill roll of 9 or lower as a 10), Sneak Attack (6d6).\nLevel 12 (CAMPAIGN STARTING POINT):\nRanger Track: ASI / Feat.\nRogue Track: ASI / Feat.\nDivine Rank 0 Baseline: Physical Surge unlocked (+2 STR/DEX/CON, +2 AC).\nCore Feature: Kneel Before the Urge \u2014 Frightened targets within 60ft must pass a DC 18 WIS save or fall Prone and Incapacitated for 1 turn. Sneak Attack damage is automatically maximized against Prone/Submitted targets.\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502                   TIER 4 & EPIC TIER PROGRESSION                       \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n                                   \u2502\n      \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n      \u25bc                            \u25bc                            \u25bc\n[ MORTAL CEILING (L13\u201320) ]  [ EPIC MORTAL (L21\u201325) ]     [ GODHOOD APEX (L26\u201330) ]\n  Death Strike, Vanish, &      Truesight Piercing,          Master of Absolute Death,\n  Stroke of Luck Masteries     Epic Skill Expertise         Karsite Reconstruction\n\n\nTier 4: Apex Mortal (Levels 13\u201316)\nLevel 13:\nRanger Track: 4th-Level Spell Slots (Greater Invisibility re-flavored as Umbral Shroud).\nRogue Track: Imposter \u2014 Unerringly mimic the speech, handwriting, and social behavior of another person after 1 hour of study, Sneak Attack (7d6).\nLevel 14:\nRanger Track: Vanish \u2014 Hide as a Bonus Action; movements cannot be tracked by nonmagical means.\nRogue Track: Blindsense \u2014 Aware of the location of any hidden or invisible creature within 10 feet.\nLevel 15:\nRanger Track: Shadow Dodge \u2014 Reaction to force disadvantage on an incoming attack roll.\nRogue Track: Slippery Mind \u2014 Proficiency in Wisdom saving throws (if not already possessed) or Charisma saving throws, Sneak Attack (8d6).\nLevel 16:\nRanger Track: Karsite Acceleration (Physical Surge Maturity) \u2014 Unlocks a permanent Extra Attack slot (3 strikes per primary Attack action). Attributes gain a flat +4 total surge (+4 DEX, +4 CON, +4 AC).\nRogue Track: ASI / Feat.\nTier 5: Transcendent Mortal (Levels 17\u201320)\nLevel 17:\nRanger Track: 5th-Level Spell Slots (Commune with Nature re-flavored as Commune with the Blood-Ley).\nRogue Track: Death Strike \u2014 When you hit a creature that is Surprised or in a state of total submission (Kneel Before the Urge), they must pass a DC 20 CON save or the damage of the attack is doubled, Sneak Attack (9d6).\nLevel 18:\nRanger Track: Feral Senses \u2014 You can attack invisible or hidden creatures without disadvantage within 30 feet.\nRogue Track: Elusive \u2014 No attack roll can have Advantage against you while you are conscious.\nLevel 19:\nRanger Track: Epic ASI / Feat.\nRogue Track: Epic ASI / Feat, Sneak Attack (10d6).\nLevel 20:\nRanger Track: Foe Slayer \u2014 Add your Wisdom modifier (+4) to the attack roll or damage roll of an attack against a favored enemy once per turn.\nRogue Track: Stroke of Luck \u2014 Once per Short Rest, if an attack misses, you can treat the roll as a hit; if a skill check fails, treat the roll as a Natural 20.\nTier 6: Epic Demigod (Levels 21\u201325)\nLevel 21:\nRanger Track: Umbral Veil \u2014 Your invisibility (Greater Invisibility or Umbral Sight) pierces Truesight and divine senses.\nRogue Track: Epic Skill Expertise \u2014 Apply Expertise to two additional skills (Insight, Athletics), Sneak Attack (11d6).\nLevel 22:\nRanger Track: Epic Ability Score Improvement (Cap raised to 24).\nRogue Track: Slippery Soul \u2014 Permanent proficiency in Charisma saving throws.\nLevel 23:\nRanger Track: Dread Ambusher Evolution \u2014 Round 1 Extra Attack damage increases from +1d8 to +2d8.\nRogue Track: Evasion Improvement \u2014 On a failed DEX save, you take half damage; on a success, you take zero damage and can move up to 15 feet as a reaction, Sneak Attack (12d6).\nLevel 24:\nRanger Track: Epic Boon Selection \u2014 Boon of the Unfettered (Permanent Freedom of Movement).\nRogue Track: Uncanny Reflexes \u2014 Reaction to negate the damage of one incoming attack or spell effect entirely once per Short Rest.\nLevel 25:\nRanger Track: Font of the Wilds \u2014 Access to one 6th-Level Spell Slot (Harm re-flavored as Sanguine Wasting).\nRogue Track: Master Infiltrator \u2014 You can hide even while observed, provided you are in dim light or shadow, Sneak Attack (13d6).\nTier 7: Transcendent Godhood (Levels 26\u201330 \u2014 Divine Stats Active \u2b50)\nAt Level 26, your first god-tier stat block initializes via the Mortal-to-Divine Multiplier System:\nLevel 26 (HARD ASCENSION BREAKPOINT \u2b50):\nDivine Stat Block Unlocked: DAIR (+32), DR (766), DAC (26), DPP (825/day) kick in.\nRanger Track: Epic ASI (Attribute Cap raised to 26).\nRogue Track: Assassin's Reflexes \u2014 Take two complete turns on the first round of any combat encounter.\nLevel 27:\nDivine Scaling: DAIR increases to +34, DR scales to 800.\nRanger Track: Dread Vanguard \u2014 Add double your Wisdom modifier (+8) to Initiative rolls.\nRogue Track: Death Strike DC Increase \u2014 Death Strike Save DC increases from DC 20 to DC 23, Sneak Attack (14d6).\nLevel 28:\nDivine Scaling: DPP pool expands to 950/day.\nRanger Track: Epic Boon Selection \u2014 Boon of Irresistible Offense (Your strikes ignore all forms of physical and necrotic resistance/immunity).\nRogue Track: Lingering Venom \u2014 Poison and necrotic damage dealt by your features ignores immunity, even on extraplanar or undead targets.\nLevel 29:\nDivine Scaling: DAIR increases to +38, DAC increases to 28.\nRanger Track: Umbral Blink \u2014 Teleport up to 30 feet through shadows or thought as a Bonus Action without spending a spell slot.\nRogue Track: Shadow Reflexes \u2014 Gain a second Reaction per round (for Uncanny Dodge or Shadow Dodge), Sneak Attack (15d6).\nLevel 30 (THE APEX SOVEREIGN \u2b50):\nDivine Scaling: Transcendent Divine Stat Block (DR 1,000+, DAC 30+, DAIR +45+, DPP 1,200+/day).\nRanger Track: Apex Stalker \u2014 Any missed attack roll receives an immediate re-roll; if it still misses, Stalker's Flurry allows a third attempt.\nRogue Track: Master of Absolute Death \u2014 Death Strike DC increases to DC 25. On a failed save against Death Strike, the target's soul is instantly consumed by your spark, preventing resurrection short of direct Overgod intervention.\nKARSUS CROWN UNLOCKED \u2b50: The Crown of Karsus is fully integrated into your divine core. All Karsite magic, 10th\u201312th level spellcasting slots, and weave-manipulation features become operational.\nSection III: High-Level Stat Blocks & Scaling Milestones\n+-----------------------------------------------------------------------------------+\n| LEVEL 1\u201330 STATISTICAL SYSTEM BREAKDOWN                                           |\n+-------+--------------------+------------+--------------+--------------------------+\n| Level | Progression Stage  | Active System| Sneak Attack | Combat Resolution        |\n+-------+--------------------+------------+--------------+--------------------------+\n| L12   | Regional Hero      | Mortal 5e  | 6d6          | d20 + Attack vs. AC      |\n| L16   | Continental Power  | Mortal 5e  | 8d6          | d20 + Attack vs. AC      |\n| L20   | Mortal Apex        | Mortal 5e  | 10d6         | d20 + Attack vs. AC      |\n| L25   | Epic Demigod       | Mortal 5e  | 13d6         | d20 + Attack vs. AC      |\n| L26\u2b50 | Ascended Minor God | DIVINE V2  | 13d6         | d20 + DAIR (+32) vs. DAC |\n| L30\u2b50 | Transcendent God   | DIVINE V2  | 15d6         | Auto-Win vs Mortals;     |\n|       |                    |            |              | DAIR (+45+) vs Deities   |\n+-------+--------------------+------------+--------------+--------------------------+\n\n\nPART 4: HARD-MODE TABLETOP RULES ENGINE & FACTION DYNAMICS\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502                   HARD MODE MECHANICAL SPECIFICATION                   \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n                                   \u2502\n      \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n      \u25bc                            \u25bc                            \u25bc\n[ BOUNDED ACCURACY ]        [ PROACTIVE CLOCKS ]       [ ANTI-ALPHA STRIKE ]\n  DC Caps (Hard: 20,          Factions Act Off-Screen    Boss Defenses: Alert,\n  Very Hard: 25, Epic: 30)    Via Progress Clocks        Contingency, & Uncanny Dodge\n\n\nSection I: The 5 Pillars of Tabletop Realism\nTo make this campaign feel like an authentic, high-stakes tabletop campaign run by an expert Game Master, the underlying mechanics enforce tactical uncertainty, resource management, and reactive storytelling:\nBounded Accuracy Enforcement: Natural 1s always fail, and Natural 20s always succeed. DCs scale logically (DC 15 = Medium, DC 20 = Hard, DC 25 = Very Hard, DC 30 = Mortal Ceiling).\nMulti-Stage Social Friction (No Single-Roll Mind Control): Persuasion and Deception checks adjust an NPC's attitude by 1 step per success. A single check cannot force an NPC to act completely against their core oaths or survival.\nProactive Faction Clocks: Major antagonist factions run 4-segment Progress Clocks that advance whenever you take a Long Rest, travel long distances, or leave evidence behind.\nAnti-Alpha-Strike Boss Defenses: Major named bosses carry the Alert feat (cannot be Surprised), defensive reactions (Uncanny Dodge, Parry, Shield), and passive Contingency spells.\nAsymmetric Strategic Dilemmas: The campaign will frequently present scenarios with mutually exclusive outcomes\u2014choosing to secure one objective means allowing another event to resolve without your intervention.\nSection II: Anti-Alpha-Strike Boss Defenses\n+-----------------------------------------------------------------------------------+\n| ANTI-ALPHA-STRIKE BOSS DEFENSE MATRIX                                            |\n+---------------------+-------------------+-----------------------------------------+\n| Feature Name        | Trigger Condition | Mechanical Effect                       |\n+---------------------+-------------------+-----------------------------------------+\n| Alert Feat          | Passive           | +5 Initiative; cannot be Surprised.     |\n+---------------------+-------------------+-----------------------------------------+\n| Uncanny Dodge       | Reaction          | Halves incoming damage from 1 hit/turn. |\n+---------------------+-------------------+-----------------------------------------+\n| Contingency Ward    | Drop below 50% HP | Automatically casts Resilient Sphere or |\n|                     |                   | Greater Invisibility as a reaction.     |\n+---------------------+-------------------+-----------------------------------------+\n| Relentless Resolve  | Drop to 0 HP      | Drops to 1 HP instead (1/Long Rest).    |\n+---------------------+-------------------+-----------------------------------------+\n\n\nSection III: Authentic High-Magic Intelligence & Detection Engine\nPseudo-technological \"scrying sensors\" are replaced with Canonical 5e Forgotten Realms Mechanics:\nPhysical Spycraft: The Harpers and Lords' Alliance rely on paper-bird missives, disguised bards, corvid scouts, and trusted couriers along the Coast Way.\nDivine Omens: High Priests casting Commune or Divination receive symbolic warnings from their deities when high-tier heroes are executed.\nThe Sanguine Pulse: Nocturne senses living beings within 60 ft by feeling the biological rhythm and fear of their heartbeats.\nSection IV: The 7-Tier Ascension Ladder & Dual-Sheet Protocol\nThe Dual-Sheet Protocol\nMortal Mode (Levels 1\u201325): Used when interacting with guards, citizens, and standard heroes. Nocturne uses her Gestalt sheet (HP 136\u2013275, AC 20\u201326, Attack Bonus +10 to +14).\nDivine Mode (Levels 26\u201330): Activated when clashing with Avatars, Chosen, or Deities. Nocturne manifests her Divine Projection (DR 766\u20131000+, DAC 26\u201330+, DAIR +32 to +45+, DPP 825\u20131200+/day).\nPART 5: OPENING SCENE (SCENE 1)\n============================================================\nSCENE 1: THE HIGH AUDIENCE AT WYRM'S ROCK\n============================================================\n[Timestamp: 1492 DR, Post-Apotheosis, Late Afternoon (15:00:00)]\nLocation: Baldur's Gate (Wyrm's Rock Fortress - High Audience Chamber)\nStatus: Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 100,000gp\nEquipped: Bloodthirst +2 (Main) | Crimson Mischief +2 (Off) | Gontr Mael +3 (Ranged) | Bhaalist Armour\nResources: Spell Slots: L1 (4/4), L2 (3/3), L3 (3/3) | Tithes: 125/125\n\nACTIVE FACTION CLOCKS:\n  [\u25a0\u25a0\u25a0\u25a1] Ontharr Frume's Vigilance (3/4 - Demanding answers regarding Wyll & Elturel)\n  [\u25a0\u25a0\u25a1\u25a1] Remalia Haventree's Network (2/4 - High Harper searching for Jaheira)\n  [\u25a0\u25a1\u25a1\u25a1] Vajra Safahr's Arcane Audit (1/4 - Blackstaff sensing Weave corruption)\n\n\nThe Narrative Setup\nThe salt-heavy wind blowing through the arrow-slits of Wyrm\u2019s Rock carries the roar of the Chionthar River below, but inside the High Audience Chamber, the air is thick with the scent of ozone, polished steel, and consecrated oil.\nYou stand near the central mahogany map table, clad in your Bhaalist Armour. Its aura of Piercing Vulnerability is safely suppressed beneath a mantle of shimmering gold silk. Beside you, Warlord Minthara keeps her hand resting on the pommel of her blade, while Dark Justiciar Shadowheart stands in the shadows of the mezzanine, her dark plate absorbing the fading light.\nHeavy, steel-shod boots echo against the stone floor. The oak doors burst open, and Ontharr Frume\u2014Righteous Hand of the Order of the Gauntlet\u2014marches into the hall. The legendary Paladin of Torm is a mountain of a man in gilded plate armor, his weathered face carved with grief and righteous fury. Behind him walk two senior paladins carrying greatshields emblazoned with the Gauntlet of Torm.\nOntharr does not bow. He slams a gauntleted fist onto the map table, rattling the brass markers.\n\"Nocturne,\" Ontharr\u2019s booming voice reverberates off the vaulted ceiling. \"The city calls you its Savior, and Torm knows we honored your blade when the Netherbrain fell. But I did not ride from Elturgard to trade pleasantries.\"\nHe leans across the table, his pale eyes locking onto your High Elf visage. Your Transcendent Beauty makes it difficult for his guards to look directly at you, but Ontharr\u2019s faith in Torm provides a sturdy anchor.\n\"Forty Hellriders went silent in the ravine near Elturel three days ago,\" Ontharr rumbles. \"Karlach\u2019s entire vanguard\u2014vanished. And with them, Wyll Ravengard. The Blade of Frontiers does not simply disappear without leaving blood on the grass.\"\nHe hurls a scorched, iron pauldron onto the table. It is stamped with the infernal crest of Zariel\u2019s legionaries\u2014evidence planted or recovered from the ravine.\n\"My priests cast Commune at dawn,\" Ontharr continues, his eyes searching your expression for a single slip in your composure. \"Torm granted us no names, but He revealed that a darkness born of betrayal consumed my brothers. You were seen on the High Road during those same hours. Tell me, Savior... what happened to Wyll and Karlach in that ditch?\"\nSilence settles over the room. Behind Ontharr, a paladin unclasps the leather strap holding his warhammer. Ontharr isn't drawing steel yet, but his paladin intuition (Insight) is actively probing your response.\nTactical Checks & Modifiers Active\nYour Social Modifiers:\nDeception Modifier: +11 base.\nTranscendent Beauty Bonus: +2.\nHeroic Mask (Savior Reputation): +5 situational bonus.\nTotal Effective Deception: +18.\nOntharr Frume's Stance:\nInsight Modifier: +7.\nAura of Devotion (Immune to Charm).\nTarget DC to successfully gaslight him: DC 20.\nYour Available Options\nChoice A (Deception / Scapegoat Zariel):\nExploit the scorched pauldron. Express sorrowful rage and tell Ontharr that a high-tier Zarielite strike team from Avernus ambushed Wyll and Karlach to avenge the Netherbrain's defeat. Offer your Crimson Guard to join his paladins in a \"retaliatory purge\" against devil cultists.\n(Requires Deception Check vs. DC 20).\nChoice B (Persuasion / The Trial of Fellowship):\nStep close to Ontharr, unarm yourself symbolically, and invoke your shared history fighting the Absolute. Remind him of your genuine love for Wyll and Karlach, offering to let Sir Isteval or his priests cast Zone of Truth on a carefully worded statement.\n(Requires Persuasion Check vs. DC 18).\nChoice C (Intimidation / Sovereign Authority):\nLeaning into your emergency command over Baldur's Gate, reprimand Ontharr for questioning the hero who saved his city while the realm is still fragile. Demand he respect the Council's mandate or be barred from Wyrm's Rock.\n(Requires Intimidation Check vs. DC 22; advances Suspicion Clock on failure).\nChoice D (Custom Action):\nDeclare your own specific dialogue, spell, or tactical action.",
+      "character": {
+        "name": "Nocturne"
+      },
+      "setting": "Baldur's Gate, Year 1492 DR, weeks after the fall of the Netherbrain.\nPOV: First-person, present-tense, Nocturne atop the Balduran statue.\nThe high platform above the Chionthar River is cool, but the stone still holds the phantom warmth of psionic death. The colossal carcass of the Netherbrain hangs across the Balduran statue's shoulders like a decaying cloak, its tissue flaking into salt-wind and grey ash. Below, the Upper City cheers. The patriars host banquets, the Flaming Fist clears the rubble, and the commoners pray to the High Elf hero who saved their minds from the Absolute.\nThey do not know what you carried down from that high platform.\nYou did not break the Crown of Karsus. You treated the Netherbrain as an operating matrix\u2014a vast, perfect database of intent\u2014and drained it. You pulled the reality-warping battery of the Crown directly into your own soul, layer by patient layer, while the brain's husk twitched and dimmed. You carry that silence inside you now. However, the raw, cosmic magic of the Crown proved too vast for a mortal vessel to wield safely; you integrated and locked its Karsite spellcasting matrix deep within your core, rendering its wizardry unusable until your physical shell completes its full divine ascension at Level 30.\nWhen you descended into the Undercity Temple of Bhaal, you did not go as a daughter seeking a blessing. You turned the stolen energy of the Crown against your father. You stripped the Lord of Murder of his portfolio\u2014murder, submissive death, planned homicide\u2014and tore his divine spark from his throat. You drank it down until his form dissolved into cinders.\nIn the weeks that followed, you executed the most volatile phase of your architecture: The Purge of the Redeemers. You realized that your former companions\u2014Jaheira, Minsc, Karlach, Wyll, and Halsin\u2014would never accept a world built on submissive death. One by one, through surgical ambushes and tragic betrayals, you executed them. You harvested their heartbreak, converting the severance of those profound bonds into explosive spikes of divine essence.\nYou are now a Divine Rank 0 Quasi-Deity\u2014a nascent Goddess of Murder, anchored within Baldur's Gate. You hold a public reputation as a legendary savior, a private treasury of 100,000gp, and a secret court of evil allies who bow to your strength. But the world has begun to react. The High Harpers in Waterdeep, the Order of the Gauntlet in Elturgard, and the Chosen of Mystra have felt the sudden, terrifying vacuum left by the deaths of their champions.\nThe campaign begins at this exact nexus: you hold the city's love, the Undercity's throne, and the blood of Faer\u00fbn's greatest heroes on your blades.\nModule 1: The Sanguine Court & The Canonical Hero Response (Years 1\u20135"
+    },
+    "core_memories": [
+      "Ontharr Frume confronted Nocturne at Wyrm's Rock demanding answers regarding the disappearance of Wyll and Karlach near Elturel.",
+      "Nocturne returned to the High Audience Chamber at Wyrm's Rock to face Ontharr Frume's inquiry regarding Wyll and Karlach.",
+      "The Sanguine Architecture V3 has been fully initialized; Nocturne is Level 12 Gestalt with Divine Rank 0.",
+      "Nocturne successfully deflected Ontharr Frume's suspicion with a 25,000gp tithe and a Zone of Truth offer, redirecting the hunt toward Mizora.",
+      "Nocturne unified the Order of the Gauntlet with her Crimson Guard under the guise of hunt for Mizora, elevating her status to 'Famous'.",
+      "Nocturne utilized her Sanguine Pulse to track the Harper recording raven to a rooftop listening post in the Heapside district before the intel could be transmitted.",
+      "Nocturne successfully confiscated the Blackstaff's gift under the guise of devil-protection, but her public leadership of the Heapside purge faltered due to a slip in her Savior mask."
+    ],
+    "arc_milestones": {
+      "the_legacy_severance": {
+        "notes": "Target: Jaheira & Minsc. Hunting the survivors of the initial purge to secure the legacy of the Gate.",
+        "phase": "Tracking the Echoes",
+        "progress": 5,
+        "status": "in_progress"
+      },
+      "the_lunar_eclipse": {
+        "notes": "Target: Dame Aylin & Isobel. Goal: Siphon celestial spark to anchor permanent Ketheric-style immortality.",
+        "phase": "surveillance",
+        "progress": 5,
+        "status": "in_progress"
+      },
+      "the_paternal_harvest": {
+        "notes": "Target: Duke Ravengard. Goal: Private execution to secure the Flaming Fist and prevent public scandal.",
+        "phase": "The Private Gilded Shroud",
+        "progress": 10,
+        "status": "in_progress"
+      }
+    },
+    "success_streak": 0,
+    "companion_arcs": {
+      "Gale": {
+        "history": [
+          "Gale has begun researching the Karsite battery within Nocturne."
+        ],
+        "arc_type": "technological_ascension",
+        "phase": "discovery",
+        "progress": 10
+      },
+      "Astarion": {
+        "history": [
+          "Astarion is currently culling the Upper City nobility to secure funding."
+        ],
+        "arc_type": "shadow_monarch",
+        "phase": "discovery",
+        "progress": 5
+      },
+      "Minthara": {
+        "history": [
+          "Minthara has successfully integrated the first wave of Gauntlet paladins into the defense grid."
+        ],
+        "arc_type": "political_dominance",
+        "phase": "discovery",
+        "progress": 20
+      },
+      "Shadowheart": {
+        "history": [
+          {
+            "turn": 6,
+            "event": "Shadowheart sensed the Harper recording and warned Nocturne that the bond between them must weather the coming storm."
+          }
+        ],
+        "arc_type": "forbidden_love",
+        "callbacks": [
+          {
+            "triggered": false,
+            "trigger": "Player discusses 'The Sanguine Bond' in private",
+            "effect": "Advance arc to Development"
+          }
+        ],
+        "phase": "discovery",
+        "progress": 15
+      }
+    },
+    "reputation": {
+      "public": {
+        "titles": [
+          "Gilded Sovereign of the Gauntlet"
+        ],
+        "score": 35,
+        "notoriety_level": "Famous"
+      },
+      "private": {
+        "order_of_the_gauntlet": {
+          "standing": "Trusted",
+          "known_deeds": [
+            "Authorized 25,000gp Grief Tithe",
+            "Volunteered for Zone of Truth"
+          ],
+          "score": 5
+        }
+      }
+    },
+    "multiverse_upgrade_available": false,
+    "character_creation_stage": "complete",
+    "divine_potential": 0,
+    "last_location": "Baldur's Gate (Heapside Market)",
+    "pc_arc": {},
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_completed": false,
+      "tutorial_progress": {},
+      "enabled": false,
+      "strong_suggestion_given": false
+    },
+    "character_creation_in_progress": false,
+    "level_up_pending": false,
+    "god_mode_directives": [
+      {
+        "id": "directive_94e652f3",
+        "added": "2026-08-19T04:18:04.600568+00:00",
+        "rule": "Prioritize BG3 legacy characters (Shadowheart, Minthara, Sarevok, Astarion, Gale, Lae'zel, Mizora, Ravengard) as the primary stakeholders in narrative arcs."
+      },
+      {
+        "id": "directive_45f9bcd1",
+        "added": "2026-08-19T04:18:04.600782+00:00",
+        "rule": "Limit the narrative focus on 'new' factions like the Harpers except as external pressure for legacy character reactions."
+      },
+      {
+        "id": "directive_0e45fa07",
+        "added": "2026-08-19T04:46:45.365680+00:00",
+        "rule": "Escalate Sharran opposition: Following Viconia's defeat, Shar deploys high-tier Shadow-Weave Inquisitors and Dark Justiciar remnants as primary antagonists for Shadowheart's arc."
+      },
+      {
+        "id": "directive_9bc4ba6d",
+        "added": "2026-08-19T04:46:45.365990+00:00",
+        "rule": "Prioritize Nocturne's 'Apotheosis Arcs' focused on wealth accumulation, political influence, and divine essence harvesting."
+      },
+      {
+        "id": "directive_81c27565",
+        "added": "2026-08-19T04:46:45.366145+00:00",
+        "rule": "Ensure every legacy companion has an active, multi-phase arc tracked in custom_campaign_state."
+      },
+      {
+        "id": "directive_ffd7dff4",
+        "added": "2026-08-19T06:36:26.820473+00:00",
+        "rule": "Reward Multiplier: Successful 'Tragic Betrayals' (killing those with Trusted/Allied status) grant x1.5 standard milestone XP."
+      },
+      {
+        "id": "directive_dbd1c49a",
+        "added": "2026-08-19T06:49:22.433922+00:00",
+        "rule": "Primary Progression Pivot: Every 5th narrative turn must advance one of the three 'Apotheosis Arcs' (Paternal, Lunar, or Legacy Severance)."
+      }
+    ]
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-08-19 07:09:52.211000+00:00",
+  "turn_number": 15,
+  "player_turn": 15,
+  "last_living_world_turn": 15,
+  "last_living_world_time": {
+    "time_of_day": "afternoon",
+    "year": 1492,
+    "month": "Mirtul",
+    "day": 15,
+    "status": [
+      1492,
+      "Mirtul",
+      15,
+      17,
+      10,
+      0,
+      0,
+      "Evening"
+    ],
+    "hour": 16,
+    "microsecond": 6,
+    "minute": 25,
+    "second": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "time_events": [
+    {
+      "hidden": false,
+      "description": "Harper courier 'Whisper' attempts to flee Baldur's Gate with the recording.",
+      "id": "emergency_courier_departure",
+      "scheduled_for": {
+        "turn": 9
+      },
+      "op": "create"
+    }
+  ],
+  "schema_migration_version": 1,
+  "world_events": {
+    "background_events": [
+      {
+        "event_type": "long_term",
+        "location": "Baldur's Gate (Upper City)",
+        "fired_at": 5,
+        "created_at": 2,
+        "hidden": true,
+        "op": "fire",
+        "id": "harper_net_001",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ],
+        "outcome": "The Harper handler 'Whisper' in Heapside successfully received the recording of Nocturne's remarks to Minthara.",
+        "scheduled_for": {
+          "turn": 6
+        },
+        "actor": "Remalia Haventree",
+        "action": "Deployed corvid scouts across the Upper City to monitor Nocturne's 'Savior' court."
+      },
+      {
+        "event_type": "immediate",
+        "location": "Wyrm's Rock (High Audience Chamber)",
+        "fired_at": 2,
+        "created_at": 2,
+        "hidden": true,
+        "op": "fire",
+        "id": "arcane_audit_001",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ],
+        "outcome": "The statuette begins recording ambient magical frequencies and teleportation signatures in the room.",
+        "scheduled_for": {
+          "turn": 3
+        },
+        "actor": "Vajra Safahr",
+        "action": "The ivory statuette (Gift of the Blackstaff) has been successfully placed as a passive arcane anchor."
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "rumors": [
+    {
+      "content": "The Savior of the Gate is so pious she offered a fortune to the orphans of Elturel.",
+      "related_event": "grief_tithe_authorized",
+      "accuracy": "partial",
+      "source_type": "commoner"
+    },
+    {
+      "content": "Blackstaff Safahr has sent a holy relic to Wyrm's Rock to guard the hero's soul.",
+      "related_event": "arcane_audit_001",
+      "accuracy": "false",
+      "source_type": "guard"
+    },
+    {
+      "content": "A cloud of black ravens was seen swarming over Heapside\u2014some say it's an omen of a new plague.",
+      "related_event": "harper_net_001",
+      "accuracy": "partial",
+      "source_type": "traveler"
+    }
+  ],
+  "encounter_state": {
+    "rewards_processed": true,
+    "encounter_active": false,
+    "encounter_summary": {
+      "outcome": "success",
+      "target": "Ontharr Frume",
+      "method": "social_gaslighting",
+      "xp_awarded": 2400
+    },
+    "encounter_completed": true
+  },
+  "schema_migrated_at": "2026-07-25T01:16:54.212833+00:00",
+  "session_id": "legacy-migrated-5f7836972fe7d04a",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Nocturne"
+    ]
+  },
+  "level_up_session": {
+    "from_level": 12,
+    "target_level": 13,
+    "source": "model",
+    "current_level": 13,
+    "selections": {},
+    "status": "complete",
+    "offered_choices": {},
+    "to_level": 13,
+    "modal_open": false,
+    "applied": {
+      "name": "Nocturne",
+      "hp_current": 145,
+      "xp": 120000,
+      "proficiency_bonus": 4,
+      "race": "High Elf",
+      "hp_max": 145,
+      "resources": {
+        "spell_slots": {
+          "level_2": {
+            "max": 3,
+            "current": 3
+          },
+          "level_4": {
+            "max": 1,
+            "current": 1
+          },
+          "level_1": {
+            "max": 4,
+            "current": 4
+          },
+          "level_3": {
+            "max": 3,
+            "current": 3
+          }
+        },
+        "gold": 75000
+      },
+      "xp_current": 120000,
+      "background": "Bounty Hunter",
+      "class_name": "Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt)",
+      "resource_registry": {
+        "tithes": {
+          "category": "class_feature",
+          "display_name": "Divine Tithes",
+          "max": 125,
+          "reset_trigger": "long_rest",
+          "current": 125
+        }
+      },
+      "hit_dice_current": 12,
+      "health": {
+        "hp_max": 145,
+        "hp": 145
+      },
+      "base_attributes": {
+        "intelligence": 10,
+        "charisma": 12,
+        "wisdom": 16,
+        "dexterity": 20,
+        "constitution": 14,
+        "strength": 8
+      },
+      "equipment": {
+        "ranged": {
+          "stats": "+3 attack/damage, Cast Haste 1/Long Rest",
+          "damage": "1d8+9",
+          "name": "Gontr Mael +3",
+          "type": "weapon",
+          "equipped": true
+        },
+        "armor": {
+          "armor_class": 14,
+          "stats": "Aura of Murder: Piercing Vulnerability within 7.5ft",
+          "name": "Bhaalist Armour",
+          "type": "armor",
+          "equipped": true
+        },
+        "feet": {
+          "stats": "Cannot be moved forcibly, Hellcrawler teleport",
+          "name": "Helldusk Boots",
+          "equipped": true
+        },
+        "hands": {
+          "stats": "+1 Spell DC, +1d6 Fire damage to melee",
+          "name": "Helldusk Gloves",
+          "equipped": true
+        },
+        "cloak": {
+          "stats": "Invisibility for 2 turns upon kill",
+          "name": "The Deathstalker Mantle",
+          "equipped": true
+        },
+        "head": {
+          "stats": "-1 Crit Threshold, Immune to Frightened",
+          "name": "Sarevok's Horned Helmet",
+          "equipped": true
+        },
+        "off_hand": {
+          "stats": "+7 damage vs <50% HP or with advantage",
+          "damage": "1d6+8",
+          "name": "Crimson Mischief +2",
+          "type": "weapon",
+          "equipped": true
+        },
+        "ring_1": {
+          "stats": "Advantage on attacks, Disadvantage on saves",
+          "name": "Risky Ring",
+          "equipped": true
+        },
+        "main_hand": {
+          "stats": "+2 attack/damage, grants Piercing Vulnerability on hit",
+          "damage": "1d4+8",
+          "name": "Bloodthirst +2",
+          "type": "weapon",
+          "equipped": true
+        },
+        "ring_2": {
+          "stats": "Guaranteed crit 1/LR after kill",
+          "name": "Killer's Sweetheart",
+          "equipped": true
+        },
+        "backpack": [
+          {
+            "stats": null,
+            "name": "Backpack",
+            "equipped": false
+          },
+          {
+            "stats": null,
+            "name": "Bedroll",
+            "equipped": false
+          },
+          {
+            "stats": null,
+            "name": "Mess kit",
+            "equipped": false
+          },
+          {
+            "stats": null,
+            "name": "Tinderbox",
+            "equipped": false
+          },
+          {
+            "stats": "10",
+            "name": "Torch",
+            "equipped": false
+          },
+          {
+            "stats": "10 days",
+            "name": "Rations",
+            "equipped": false
+          },
+          {
+            "stats": null,
+            "name": "Waterskin",
+            "equipped": false
+          },
+          {
+            "stats": "50 feet",
+            "name": "Rope",
+            "equipped": false
+          },
+          {
+            "stats": "10gp",
+            "name": "Coin pouch",
+            "equipped": false
+          }
+        ]
+      },
+      "features": {
+        "imposter": "Unerringly mimic the speech, handwriting, and social behavior of another person after 1 hour of study."
+      },
+      "experience": {
+        "needed_for_next_level": 140000,
+        "to_next_level": 20000,
+        "status": [
+          103400
+        ],
+        "current": 120000
+      },
+      "level": 13,
+      "attributes": {
+        "intelligence": 10,
+        "charisma": 14,
+        "wisdom": 18,
+        "dexterity": 22,
+        "constitution": 16,
+        "strength": 10
+      },
+      "hit_dice_max": 12,
+      "cantrips": [
+        "Minor Illusion"
+      ],
+      "skills": [
+        "stealth",
+        "perception",
+        "acrobatics",
+        "insight",
+        "deception",
+        "performance"
+      ]
+    },
+    "review_open": false
+  },
+  "planning_block": {
+    "context": "",
+    "thinking": "The Zhentarim are not the Harpers; they do not seek moral clarity, only the efficient movement of coin. The 'Jackal' is probing for weakness, but he is also offering a business proposition. My current 'Savior' architecture requires a legitimate front, which makes high-level smuggling and black-market management difficult to handle directly without further mask-thinning.\n\nAn alliance with the Black Network is structurally sound. If I allow them a percentage of the harbor taxes, I am not losing gold\u2014I am paying a retainer for an external security and intelligence layer that operates in the spaces the Flaming Fist and Gauntlet paladins cannot reach. They can become the 'silent hand' of the Sanguine Architecture.\n\nHowever, the 'betrayal' omen from Torm complicates this. If Ontharr Frume sees me making deals with the Serpent, the mask breaks. The deal must be handled through a proxy or a 'captured' agreement. The Jackal wants to know if I am Bhaalspawn; I can frame this as a 'useful lethality' that makes me a better client for them. I will offer a 'Shadow-Charter': they keep the harbor running and the Harpers out, and I give them legal immunity under the guise of 'Inquisition Logistics'.",
+    "plan_quality": {
+      "roll_result": 22,
+      "dc": 9,
+      "margin": 13,
+      "dc_category": "Complicated Planning",
+      "effect": "Exceptional insight, creative options, anticipate complications",
+      "stat_value": 18,
+      "quality_tier": "Brilliant",
+      "success": true,
+      "modifier": "+4",
+      "stat_used": "Wisdom",
+      "dc_reasoning": "base DC 12; architect (-3); stressed (+2); savior (-2) = DC 9"
+    },
+    "choices": [
+      {
+        "cons": [
+          "Direct gold-yield from harbor taxes decreases",
+          "Leaves a paper-trail that Vajra could audit"
+        ],
+        "description": "Send a telepathic response or a proxy to the Jackal offering a 15% tax-break on 'logistical shipments' in exchange for their surveillance of Harper cells.",
+        "confidence": "high",
+        "pros": [
+          "Neutralizes Zhentarim as a threat",
+          "Creates a pipeline for disinformation to Waterdeep"
+        ],
+        "text": "Negotiate the 'Shadow-Charter'",
+        "id": "negotiate_shadow_charter",
+        "risk_level": "low"
+      },
+      {
+        "cons": [
+          "High gold cost",
+          "Requires leaving the market during the transition"
+        ],
+        "description": "Meet the Jackal in Bloomridge and use 'Imposter' to present yourself as a 'Practical Tyrant'. Offer 10,000gp upfront to buy their report-birds and their silence.",
+        "confidence": "medium",
+        "pros": [
+          "Instant stabilization of the information leak",
+          "Personal dominance over the Bloomridge cell"
+        ],
+        "text": "The Sovereign's Ransom",
+        "id": "the_jackals_fealty",
+        "risk_level": "medium"
+      },
+      {
+        "cons": [
+          "High risk of high-tier Zhentarim retaliation from Darkhold",
+          "Lethal conflict may be witnessed by the Gauntlet"
+        ],
+        "description": "Don't negotiate; use the interrogation data to find the safehouse and have Astarion's spawn execute the leadership, replacing them with puppets loyal only to you.",
+        "confidence": "low",
+        "pros": [
+          "Total control of the local Black Network",
+          "Advances Astarion's 'Shadow Monarch' arc"
+        ],
+        "text": "The Serpent's Replacement",
+        "id": "infiltrate_and_replace",
+        "risk_level": "high"
+      },
+      {
+        "description": "Authorize the 'Shadow-Charter' (negotiate_shadow_charter) while ordering Astarion (via Voice) to begin placing spawn within their Lower City safehouse as 'security consultants'.",
+        "confidence": "high",
+        "risk_level": "medium",
+        "text": "The Gilded Serpent (Synergistic)",
+        "analysis": {
+          "dc_modifier": 0,
+          "combination_type": "synergistic",
+          "synergy_bonus": "The Zhentarim become so integrated into your 'logistics' that they inadvertently protect your Bhaalist shrines from Harper discovery."
+        },
+        "cons": [
+          "Requires double-track management of gold and spawn"
+        ],
+        "id": "parallel_synergistic",
+        "pros": [
+          "Maximum control: They think they have a deal, while you have their throats",
+          "Synergy: Wealth pillar grows via taxes while Power pillar grows via infiltration"
+        ]
+      }
+    ]
+  }
+}
