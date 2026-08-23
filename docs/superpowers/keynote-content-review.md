@@ -2,6 +2,18 @@
 
 **Approach corrected:** enhance the original 17-slide deck in place, not replace it with a new structure. This file shows the ORIGINAL content (extracted from the live deck's actual rendered PDF, `1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0`) side by side with proposed changes. Nothing has been pushed to Google Slides yet — review this first.
 
+## NEW OPENING STRUCTURE (your latest call — replaces the "cold open first" plan)
+
+1. **Intro** — who you are, background at Google/Snap
+2. **Snapchat projects** — the credibility slide (Snap Bridge, Snap Wings, Open Model Pilot)
+3. **WorldAI intro + mom story** — combined: what WorldAI is, then the cold-open story (Mr. Park debt, the rage-quit the world wouldn't allow) as the illustration of it
+
+Then continues into the original deck's slide 3 onward (verification gap → pivot, etc.) — original slide numbering below still refers to the ORIGINAL deck for content reference, but the actual running order now starts with these 3 new/reordered items before slide 3.
+
+## Visual prototypes ready for review (Claude Design, not yet in Google Slides)
+- Slide 4 (Cognitive Tasks) graphic: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-slide04-cogtasks.html — 4-tier funnel: Cognitive Task → Hermes/Agent Terminals → Agents → Subagents
+- Slide 6 (6-Step Loop) graphic: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-slide06-looop.html — numbered flow, human-owned steps in rust, AI-owned in blue, 3/3 split visible at a glance
+
 **Live deck (unchanged):** https://docs.google.com/presentation/d/1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0/edit
 
 ---
@@ -76,13 +88,9 @@ No content change proposed — just confirming this stays in.
 
 ---
 
-## 09/17 · CMUX: Hands on the Keyboard, Hermes on Standby — WEAK, NEEDS A REAL REWRITE OR CUT
+## 09/17 · CMUX: Hands on the Keyboard, Hermes on Standby — KEEP FOR NOW
 
-**Original:** 3-card grid — 1 Pane = 1 Agent Workspace / Manual or Standby Modes / Full Telemetry & Watchdogs. YouTube demo link.
-
-**Your feedback:** "slide 9 doesn't add much value, also I don't like the tagline 'hands on keyboard, Hermes on standby' — doesn't mean much."
-
-**Proposed:** Your call — either cut this slide entirely (folding the YouTube link into a footnote elsewhere) or give it a sharper headline that says something concrete (e.g. what specifically CMUX lets you DO that you couldn't before, not just a mood description).
+**Your call:** "lets just keep it for now." No change — deprioritized, revisit later if needed.
 
 ---
 
@@ -92,9 +100,9 @@ No content change proposed — just confirming this stays in.
 
 ---
 
-## 12/17 · Harnesses Decay — REMOVE
+## 12/17 · Harnesses Decay — APPENDIX, CURRENT CONTENT IS LOW QUALITY
 
-**Your call:** "lets remove harness decay." Original "40-90 Day Model Half-Life" claim was unsourced anyway (zero backing found in the repo this session); the sourced replacement (19 model releases since June 2025) exists as a fallback if you change your mind, but default is: **cut, not even appendix**, unless you want it kept as backup.
+**Your call (updated):** "appendix for now, the info is low quality on slide atm." Original "40-90 Day Model Half-Life" claim is unsourced (zero backing found in the repo this session). Sourced replacement (19 model releases since June 2025 — one every 3 weeks) available if you want to swap it in later; for now this whole slide sits in the appendix as low-priority/needs-rework.
 
 ---
 
@@ -137,16 +145,16 @@ Position TBD (after slide 8/pyramid, or after slide 13/postmortem, both reasonab
 
 ## Running appendix list (things moved OUT of main flow this round)
 - Tokenmaxxing + Cache Stability (was original slides 10-11) — not compelling enough for a no-repo-access audience
-- Harnesses Decay (was original slide 12) — cut by default, sourced replacement stat available as backup
+- Harnesses Decay (was original slide 12) — appendix, current content flagged as low quality
 - What Broke in Production (was original slide 13) — appendix for now
-- CMUX demo (slide 9) — still pending your cut-vs-rewrite decision from last round
+
+## Kept as-is
+- CMUX demo (slide 9) — "let's just keep it for now"
 
 ---
 
 ## Open questions for you
-1. Slide 4 & 6: graphic style preference (icon-based diagram, flow chart, adapt the pyramid's tiered-layer look, or something else)?
-2. Slide 8: any specific facts on the agent pyramid that need updating, or just keep as-is?
-3. Slide 9 (CMUX): cut, or rewrite the headline?
-4. Snapchat slide: new headline direction, and where it goes in the running order?
-5. New WorldAI-intro slide: want me to draft copy now, or wait?
-6. Harnesses Decay: fully cut, or keep the sourced "19 releases" version as a fallback?
+1. Do the slide 4 & 6 graphic prototypes (linked above) look right, or need adjustment?
+2. Slide 8 (agent pyramid): any specific facts that need updating, or keep as-is?
+3. WorldAI intro + mom story (new opening item 3): want me to draft the combined copy now?
+4. Intro/bio slide (new opening item 1): what do you want on it — just name/title/Google+Snap background, or more (e.g. the YouTube $70B / Snap 50M→5B credibility numbers)?
