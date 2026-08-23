@@ -7366,3 +7366,5 @@ Operations:
 - V1 doc (1IKqSHzxSIV8HQBYoFpG3ha40in_8voMOyRyv7qiB47Y) preserved as historical archive
 - Drive listing confirms: 1 doc named "Astarion V2 Build Sheet — Empire of Shadow"
 - Note: doc body self-reference to its own ID has a known one-version lag (the body was written before the create returned the new ID). Local MD canonical.
+
+## [2026-08-23] ingest | Mobile latency root cause: dev test-harness concurrency, not a code regression
