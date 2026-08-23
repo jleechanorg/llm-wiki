@@ -8,6 +8,15 @@
 2. **Snapchat projects** — the credibility slide (Snap Bridge, Snap Wings, Open Model Pilot)
 3. **WorldAI intro + mom story** — combined: what WorldAI is, then the cold-open story (Mr. Park debt, the rage-quit the world wouldn't allow) as the illustration of it
 
+### DRAFT — item 3 copy (WorldAI intro + mom story combined)
+
+> **WorldAI — an AI Game Master that plays live.**
+> Play any character, in any world — Game of Thrones, Star Wars, Baldur's Gate, or one you make up. The world reacts to what you actually do, not a script. It's a real product — worldarchitect.ai — not a tech demo.
+>
+> Here's what that means in practice. I was playing a campaign with my mom. Her character owed a local grocer, Mr. Park, for supplies on credit — a debt the world remembered, not a stat I'd written down. Mid-session, she tried to rage-quit in character: *"I'm an undocumented immigrant, I'm gonna go home."* Instead of fading to black, the world argued back, using consequences it had generated itself: *"The debt to Mr. Park doesn't vanish because you close the door... you're becoming a fugitive from a paper trail you can't outrun."* She couldn't quit. Twenty scenes later, we shook hands with Park on a 10% equity partnership. Nobody hand-coded a "player tries to quit" branch.
+
+This is a first draft — trim/adjust freely. Structurally it does two things in one breath: orients the audience on what WorldAI even is, then lets the mom story land as proof rather than a cold non-sequitur.
+
 Then continues into the original deck's slide 3 onward (verification gap → pivot, etc.) — original slide numbering below still refers to the ORIGINAL deck for content reference, but the actual running order now starts with these 3 new/reordered items before slide 3.
 
 ## Visual prototypes ready for review (Claude Design, not yet in Google Slides)
