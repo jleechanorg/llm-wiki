@@ -5,7 +5,7 @@ tags: [campaign, worldarchitect, swtor-tenebria]
 date: 2026-08-23
 source_file: /tmp/campaign_daily_ingest/FsiyESY987DF2lfgolCI/swtor - tenebria_FsiyESY9.txt
 campaign_id: FsiyESY987DF2lfgolCI
-entry_count: 526
+entry_count: 528
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill

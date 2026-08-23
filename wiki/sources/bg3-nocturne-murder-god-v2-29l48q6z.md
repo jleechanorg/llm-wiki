@@ -2,10 +2,10 @@
 title: "bg3 nocturne murder god v2"
 type: source
 tags: [campaign, worldarchitect, bg3-nocturne-murder-god-v2]
-date: 2026-08-21
-source_file: /tmp/wiki-fix-test/29l48q6zFo7chxWnyjEY/bg3 nocturne murder god v2_29l48q6z.txt
+date: 2026-08-23
+source_file: /tmp/campaign_daily_ingest/29l48q6zFo7chxWnyjEY/bg3 nocturne murder god v2_29l48q6z.txt
 campaign_id: 29l48q6zFo7chxWnyjEY
-entry_count: 109
+entry_count: 111
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill
@@ -747,7 +747,7 @@ Status: Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/13
 Resources: Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'type': 'Wisdom Check (Strategic Planning)', 'result': 18, 'modifier': 4, 'faces': '14', 'label': 'Wisdom Check (Strategic Planning)', 'roll': '1d20+4'}
+  - {'roll': '1d20+4', 'label': 'Wisdom Check (Strategic Planning)', 'result': 18, 'faces': '14', 'type': 'Wisdom Check (Strategic Planning)', 'modifier': 4}
 
 Game Master:
 Wisdom Check (Intuition): 18 vs DC 9 — Success. Your preternatural intuition identifies the core of Ontharr's suspicion: the divine omen of 'betrayal'. With a Wisdom of 18, your mind cuts through his righteous fury to see the specific tactical vulnerability in his faith.
@@ -764,7 +764,7 @@ Status: Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/13
 Resources: Divine Tithes: 125/125 | Spells: L1 4/4, L2 3/3, L3 3/3
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'type': 'Wisdom Check (Planning)', 'result': 19, 'modifier': 4, 'faces': '15', 'label': 'Wisdom Check (Planning)', 'roll': '1d20+4'}
+  - {'roll': '1d20+4', 'label': 'Wisdom Check (Planning)', 'result': 19, 'faces': '15', 'type': 'Wisdom Check (Planning)', 'modifier': 4}
 
 Game Master:
 Wisdom Check: 19 vs DC 5 — Success (Masterful). Your preternatural intuition (WIS 18) allows you to see the social levers and psychological anchors needed to lower Ontharr's resistance. You realize that a paladin's suspicion is a wall of ice that can be melted with heat, not shattered with force.
@@ -781,7 +781,7 @@ Status: Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/1200
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125
 Dice Rolls:
-  - {'type': 'Deception (The Sovereign Absolution)', 'result': 36, 'modifier': 18, 'faces': '18', 'label': 'Deception (The Sovereign Absolution)', 'roll': '1d20+18'}
+  - {'roll': '1d20+18', 'label': 'Deception (The Sovereign Absolution)', 'result': 36, 'faces': '18', 'type': 'Deception (The Sovereign Absolution)', 'modifier': 18}
 
 Game Master:
 Late Afternoon (15:13:00) in Wyrm's Rock Fortress—the tension in the High Audience Chamber reaches a shimmering, crystalline point of fracture. You step away from the mahogany table, your movements fluid and heavy with a curated, High Elf sorrow. With a subtle gesture, you signal your Crimson Guard to stand down, and even Minthara’s predatory gaze softens into something resembling mourning.
@@ -810,7 +810,7 @@ Status: Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/1200
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125
 Dice Rolls:
-  - {'type': 'Persuasion check to command Minthara (Peer Ally)', 'result': 17, 'modifier': 4, 'faces': '13', 'label': 'Persuasion check to command Minthara (Peer Ally)', 'roll': '1d20+4'}
+  - {'roll': '1d20+4', 'label': 'Persuasion check to command Minthara (Peer Ally)', 'result': 17, 'faces': '13', 'type': 'Persuasion check to command Minthara (Peer Ally)', 'modifier': 4}
 
 Game Master:
 Late Afternoon (15:28:00) in Wyrm's Rock Fortress—the High Audience Chamber exhales a collective sigh of relief, the sharp ozone of potential violence dissipating like smoke in the sea breeze. Ontharr Frume (Lvl 15) steps back from the map table, his gilded plate catching the last amber rays of the sun. He looks at you not with the scrutiny of an inquisitor, but with the profound, humbled respect of a soldier who has found a saint in the rubble.
@@ -841,7 +841,7 @@ Status: Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/13
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: Spells: L1 4/4, L2 3/3, L3 3/3 | Tithes: 125/125
 Dice Rolls:
-  - {'type': "Arcana Audit of the Blackstaff's Gift (Gale Assist)", 'result': 14, 'modifier': 10, 'faces': '4', 'label': "Arcana Audit of the Blackstaff's Gift (Gale Assist)", 'roll': '1d20+10'}
+  - {'roll': '1d20+10', 'label': "Arcana Audit of the Blackstaff's Gift (Gale Assist)", 'result': 14, 'faces': '4', 'type': "Arcana Audit of the Blackstaff's Gift (Gale Assist)", 'modifier': 10}
 
 Game Master:
 Late Afternoon (15:45:00) in the High Audience Chamber of Wyrm's Rock—the amber glow of the setting sun stretches long, predatory shadows across the mahogany map table. You have summoned Gale (Lvl 12) from his temporary quarters in the Upper City to perform an arcane audit of the 'gift' from Waterdeep. The Wizard of Waterdeep circles the ivory statuette of Balduran, his eyes glowing with the blue-white fire of *Detect Magic*, his hands weaving intricate patterns in the air to peel back the layers of the Weave.
@@ -868,7 +868,7 @@ Status: Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/13
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125
 Dice Rolls:
-  - {'type': 'Shadowheart weaves the Sharran Shroud of Silence', 'result': 21, 'modifier': 9, 'faces': '12', 'label': 'Shadowheart weaves the Sharran Shroud of Silence', 'roll': '1d20+9'}
+  - {'roll': '1d20+9', 'label': 'Shadowheart weaves the Sharran Shroud of Silence', 'result': 21, 'faces': '12', 'type': 'Shadowheart weaves the Sharran Shroud of Silence', 'modifier': 9}
 
 Game Master:
 Late Afternoon (16:05:00) in the High Hall of Wyrm's Rock. You descend the stairs from the mezzanine, your golden-silk mantle trailing behind you like a dying sun. The ivory statuette of Balduran, the 'mirror to your light,' sits atop a pedestal of black obsidian in the center of the foyer—the most public, traffic-heavy crossroads of the fortress. You have accepted the Blackstaff's gift with a performance of such radiant gratitude that the page who delivered it seemed moved to tears. To the world, and to any scrying eye anchored within the ivory, you are a sovereign who hides nothing, placing the symbol of Waterdeep's support where every citizen can witness it.
@@ -893,7 +893,7 @@ Status: Lvl 12 Gloomstalker Ranger 12 / Assassin Rogue 12 (Gestalt) | HP: 136/13
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125
 Dice Rolls:
-  - {'type': 'Wisdom (Perception) with Sanguine Pulse awareness', 'result': 29, 'modifier': 14, 'faces': '15', 'label': 'Wisdom (Perception) with Sanguine Pulse awareness', 'roll': '1d20+14'}
+  - {'roll': '1d20+14', 'label': 'Wisdom (Perception) with Sanguine Pulse awareness', 'result': 29, 'faces': '15', 'type': 'Wisdom (Perception) with Sanguine Pulse awareness', 'modifier': 14}
 
 Game Master:
 Late Afternoon (16:20:00). Inside the shrouded stillness of your private sanctum, you close your eyes and let the mortal shell surrender to the predator within. The rhythmic thrum of the living world rushes into your consciousness—the Sanguine Pulse expanding outward in concentric rings of biological heat.
@@ -920,7 +920,7 @@ Status: Lvl 12 Gestalt | HP: 136/136 | AC: 20 | Gold: 75,000gp | XP: 102400/1200
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12, Spells: L1 4/4, L2 3/3, L3 3/3, Tithes: 125/125
 Dice Rolls:
-  - {'type': 'Psychic Overload & Misdirection via Voice of the Inheritor', 'result': 10, 'modifier': 8, 'faces': '2', 'label': 'Psychic Overload & Misdirection via Voice of the Inheritor', 'roll': '1d20+8'}
+  - {'roll': '1d20+8', 'label': 'Psychic Overload & Misdirection via Voice of the Inheritor', 'result': 10, 'faces': '2', 'type': 'Psychic Overload & Misdirection via Voice of the Inheritor', 'modifier': 8}
 
 Game Master:
 Late Afternoon (16:25:00) at Wyrm's Rock Fortress—you stand upon the high parapet, the salt-mist of the Chionthar dampening your High Elf features. You close your eyes, reaching out with the *Voice of the Inheritor*, pushing your consciousness across the harbor toward the rhythmic flutter of the recording raven. You attempt to flood its delicate psychic matrix with the cold, crushing weight of your divine will, intending to fry the memory crystal and seed it with infernal lies.
