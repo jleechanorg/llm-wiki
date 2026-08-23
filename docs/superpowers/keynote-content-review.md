@@ -20,8 +20,10 @@ This is a first draft — trim/adjust freely. Structurally it does two things in
 Then continues into the original deck's slide 3 onward (verification gap → pivot, etc.) — original slide numbering below still refers to the ORIGINAL deck for content reference, but the actual running order now starts with these 3 new/reordered items before slide 3.
 
 ## Visual prototypes ready for review (Claude Design, not yet in Google Slides)
-- Slide 4 (Cognitive Tasks) graphic: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-slide04-cogtasks.html — 4-tier funnel: Cognitive Task → Hermes/Agent Terminals → Agents → Subagents
-- Slide 6 (6-Step Loop) graphic: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-slide06-looop.html — numbered flow, human-owned steps in rust, AI-owned in blue, 3/3 split visible at a glance
+- ~~Slide 4 (Cognitive Tasks) funnel graphic~~ — **rejected**, replaced by the merged pyramid version below
+- ~~Slide 6 (6-Step Loop) linear flow~~ — **rejected**, "doesn't add value." `/research` running in background on circular-loop design patterns; will rebuild once findings land
+- **NEW — Pyramid + Cognitive Tasks, merged into one slide**: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-pyramid-cogtasks-merged.html — reuses the original pyramid's exact 4-column card style (Tier 1 Openclaw/Hermes → Tier 2 CMUX/AO → Tier 3 CLI Fleet → Tier 4 Subagents/MCP), each card re-captioned to also carry the cognitive-tasks thesis ("1 cognitive task" / "angle diversity" / "extended horizon" / "zero spam" pills), closing on the context-switch line. This replaces BOTH the old slide 4 and slide 8 with one slide.
+- **NEW — Intro/bio slide**: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-intro-bio.html — name/title up top, 3 credibility cards (YouTube $70B+ paid to creators 2008-2018, Snap Growth Notifications 50M→5B+ 2018-2026, "3 internal AI projects shipped" teasing the Snapchat slide that follows)
 
 **Live deck:** https://docs.google.com/presentation/d/1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0/edit — **restored to the original 17 slides** as of 2026-08-23 ~21:50 PT, after a background agent's Task 7 mistakenly deleted-and-rebuilt it into the 13-slide redesign despite an in-flight stop request (timing race — the rebuild had already completed before the stop message was processed). Restored via full-bleed image re-upload from this session's own PDF renders of the pre-incident state, verified slide-by-slide against the original (slides 1/9/17 spot-checked pixel-identical, including a pre-existing "14/14" footer bug on slide 17 that's baked into the original image and correctly preserved, not something to silently fix mid-restore). **Speaker notes from the true original were not recoverable this way** (never captured as text) — only available via Drive's native Version History UI if you want them back specifically.
 
@@ -57,13 +59,9 @@ No proposed change.
 
 ---
 
-## 04/17 · Cognitive Tasks & Workspaces — MAKE IT A GRAPHIC, DROP THE QUOTE ATTRIBUTION
+## 04/17 · Cognitive Tasks & Workspaces — MERGED INTO SLIDE 8 (see below)
 
-**Original:** 3-card grid — "The Unit is the Task" / "Long-Horizon /goal" / "Context-Switch Economy," each with a pull-quote and description.
-
-**Your feedback:** "its kind of dumb to quote me here, lets use a graphic for cog tasks" — plus a note about possibly adapting the pyramid image's visual approach for this one too.
-
-**Proposed:** Convert to a visual diagram — one person/operator icon with N task-stream lines branching off, most dimmed/backgrounded ("checked once every 12h"), one highlighted ("focused"). Core idea stated as your own thesis, not a quoted/attributed Slack message: *"Unique cognitive tasks, not agents — what matters is context switches, not parallelism count."* No "— Internal Slack · August 20, 2026" attribution line. If you want the visual style to echo the pyramid's diagram treatment (tiers/layers) rather than a fresh diagram concept, say so and I'll match it.
+**Your final call:** merge this with the agent pyramid slide (08/17) into one slide, reusing the pyramid's visual style. See the "Pyramid + Cognitive Tasks, merged" prototype above. This slide no longer exists standalone.
 
 ---
 
@@ -89,13 +87,9 @@ No content change proposed — just confirming this stays in.
 
 ---
 
-## 08/17 · The Agent Supervision Pyramid — USE ORIGINAL IMAGE
+## 08/17 · The Agent Supervision Pyramid — MERGED WITH COGNITIVE TASKS (04/17)
 
-**Original:** 4-tier card grid — Tier 1 Openclaw/Hermes (Dispatch) → Tier 2 CMUX & AO Daemon (Orchestration) → Tier 3 CLI Agent Fleet (Workers) → Tier 4 Subagents & MCP (Tools).
-
-**Your feedback:** "i want my original agent pyramid but maybe edit/update the image."
-
-**Proposed:** Keep this slide's real content/layout as the base — I was about to recreate it as new HTML from scratch, which was the wrong call. Instead, treat this rendered slide as the source of truth and just update specific facts if anything's stale (need to check: does "CMUX & AO Daemon" / "Dark Factory autonomous merge pipelines" language still match current terminology?).
+**Your final call:** "we can combine agentic pyramid with cog tasks." Built as one slide — see the "Pyramid + Cognitive Tasks, merged" prototype linked above. Reuses the pyramid's exact 4-column card style and all 4 real tier facts (Openclaw/Hermes, CMUX & AO Daemon, CLI Agent Fleet, Subagents & MCP), re-captioned per-card to also carry the cognitive-tasks thesis. Open item: still need your check on whether "CMUX & AO Daemon" / any tier facts are stale vs. current terminology.
 
 ---
 
