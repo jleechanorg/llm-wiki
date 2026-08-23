@@ -128,9 +128,9 @@ Per spec slide 6 AND the Fixes table — this is the highest-risk-of-error slide
 - **PR #7215 card — REWRITE, do not reuse existing copy.** Old copy conflated "59%" with "$9.49→$0.086" as if the same number. New copy: headline stays "59%" labeled "share of pre-merge spend eliminated"; supporting line: "$9.49→$0.086 collapse in the cached-input cost line-item" presented as a *separate*, clearly-labeled example metric, not the thing 59% refers to.
 - **Cache-stability card — REWRITE.** Old copy: "PR #8851: 537,444-char prefix stability across 11 turns." New copy: "PR #8851: 537,444-char prefix held byte-identical through turn 11 (checked at turns 1, 5, 9, 10, 11)."
 
-- [ ] **Step 3: Write slide-07.html (Harnesses decay) — BLOCKED on spec Open Item #1**
+- [ ] **Step 3: Write slide-07.html (Harnesses decay) — resolved, ready to build**
 
-Per spec slide 7 (updated after the `/document-standards` AI-tell audit found the old "40-90 days" claim unsourced): do NOT write this slide until Jeffrey supplies his real model-switch count and timeframe. Copy pattern once he does: "I've re-pointed my harness at a new model N times in [period]. The harness outlived all N." — flat, first-person, no hedge word (if/might/can/should), ≤12 words per sentence, no subordinate clause softening the claim.
+Per spec slide 7: "19 new Claude/Codex model releases since June 2025 — one every 3 weeks. My harness outlived all 19." Flat, first-person, no hedge word (if/might/can/should), ≤12 words per sentence, no subordinate clause softening the claim. One supporting tag/citation: "11 Claude (Opus 4.1→Opus 5) + 8 Codex/GPT (GPT-5→GPT-5.6)".
 
 - [ ] **Step 4: Write slide-08.html (Snapchat credibility) — NEW slide, no prior version to adapt**
 

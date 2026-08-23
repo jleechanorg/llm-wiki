@@ -30,7 +30,7 @@ Chosen over industry-framing-first and cognitive-tasks-first. Both alternatives 
 | 4 | **Cognitive tasks** (the big idea) | Verbatim-preserved context-switching argument (see Source Notes) | 90s |
 | 5 | How it actually ships | Condensed 5-phase pipeline + 7-green gate, narrative framing not jargon | 75s |
 | 6 | Cost + cache (merged) | Tokenmaxxing + cache stability, **numbers corrected** (see Fixes) | 60s |
-| 7 | Harnesses decay | **NEEDS REAL NUMBER FROM JEFFREY**: first-person, owned framing — "I've re-pointed my harness at a new model N times in [period]. The harness outlived all N." Do not use the old "40-90 days" industry claim (zero source found in this repo) or any placeholder count; get Jeffrey's actual model-switch count/timeframe before finalizing this slide's copy. | 45s |
+| 7 | Harnesses decay | "19 new Claude/Codex model releases since June 2025 — one every 3 weeks. My harness outlived all 19." First-person, sourced (11 Claude: Opus 4.1→Opus 5; 8 Codex/GPT: GPT-5→GPT-5.6, June 2025–Aug 2026), no hedge. | 45s |
 | 8 | **Snapchat credibility** | 3 projects, real names, before/after framing (see Snapchat Slide Content) | 75s |
 | 9 | Postmortem honesty | What broke (89.6% watchdog stall rate, 251 babysit polls/11 days, 9h context-compaction ceiling) — keeps the evidence-based, non-hype voice | 45s |
 | 10 | **WorldAI returns** | Payoff: "here's how slide 2 was actually possible" — FastEmbed <50ms classifier, dice audit (**line count fixed**), 300k token context, Min-First/Fill-to-Max | 60s |
