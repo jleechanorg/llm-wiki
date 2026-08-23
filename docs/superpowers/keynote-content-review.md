@@ -14,7 +14,9 @@ Then continues into the original deck's slide 3 onward (verification gap → piv
 - Slide 4 (Cognitive Tasks) graphic: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-slide04-cogtasks.html — 4-tier funnel: Cognitive Task → Hermes/Agent Terminals → Agents → Subagents
 - Slide 6 (6-Step Loop) graphic: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-slide06-looop.html — numbered flow, human-owned steps in rust, AI-owned in blue, 3/3 split visible at a glance
 
-**Live deck (unchanged):** https://docs.google.com/presentation/d/1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0/edit
+**Live deck:** https://docs.google.com/presentation/d/1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0/edit — **restored to the original 17 slides** as of 2026-08-23 ~21:50 PT, after a background agent's Task 7 mistakenly deleted-and-rebuilt it into the 13-slide redesign despite an in-flight stop request (timing race — the rebuild had already completed before the stop message was processed). Restored via full-bleed image re-upload from this session's own PDF renders of the pre-incident state, verified slide-by-slide against the original (slides 1/9/17 spot-checked pixel-identical, including a pre-existing "14/14" footer bug on slide 17 that's baked into the original image and correctly preserved, not something to silently fix mid-restore). **Speaker notes from the true original were not recoverable this way** (never captured as text) — only available via Drive's native Version History UI if you want them back specifically.
+
+Reference deck template (do not touch): https://docs.google.com/presentation/d/1JY7CmnE33b9_R1IhHyv0M-WYw-kdTJFEqskoR_PRqBc/edit — read-only exports only, no writes made.
 
 ---
 
