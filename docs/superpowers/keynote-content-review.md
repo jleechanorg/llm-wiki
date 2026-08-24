@@ -252,3 +252,76 @@ Position resolved to new opening item 2, right after the intro/bio slide (not af
 4. ~~Intro/bio slide: what goes on it?~~ Resolved — name/title + the 3 credibility numbers (YouTube $70B, Snap 50M→5B, 3 shipped projects), built (`01-intro-bio.html`).
 
 **Status:** full 14-slide deck built and verified in Claude Design. Next/final step: push to the live Google Slides deck.
+
+---
+
+## Round 2 update (2026-08-23, later same day) — title/agenda restored, jargon fixed, deck pushed live, all 20 slides rebuilt/renumbered
+
+The deck grew from 14 to 20 slides and everything below is now **live** on
+`1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0`, not just staged in Claude
+Design. Prior sections in this doc describing a 14-slide deck are historical
+context for how we got here — the live deck order is now:
+
+1 title · 2 agenda · 3 intro-bio · 4 snapchat · 5 worldai-mom ·
+6 verification-gap · 7 pipeline · 8 leftshift · 9 sixstep-loop ·
+10 craftsmanship · 11 pyramid · 12 cmux · 13 worldai-payoff · 14 two-engines ·
+15 eight-bets · 16 find-me · 17 appendix-tokenmaxxing ·
+18 appendix-cache-stability · 19 appendix-harness-decay ·
+20 appendix-broke-in-prod.
+
+### What changed this round
+
+1. **Title slide restored + new agenda slide added** (`00-title.html`,
+   `00b-agenda.html`), using the read-only reference template deck
+   (`1JY7CmnE33b9...`) for visual/structural reference only — never edited.
+2. **Audience-accessibility jargon pass** across the 10 previously-editable
+   slides (intro-bio, snapchat, worldai-mom, verification-gap, sixstep-loop,
+   craftsmanship, pyramid, worldai-payoff, two-engines, find-me): MCP spelled
+   out, "stages C and D" removed, Min-First/Fill-to-Max glossed,
+   `world_logic.py`/`game_state.py:2755` raw file:line refs replaced with
+   plain-English descriptions, `dice_integrity.py` → "dice audit engine".
+3. **Renumbering pass** — inserting the title+agenda slides at the front
+   shifted every subsequent slide's position; all `§ NN` eyebrows and
+   `NN / 20` footers on the 10 editable slides were corrected to match.
+4. **8 previously-flat "unchanged from original" slides rebuilt as editable
+   HTML** (pipeline, left-shift, CMUX, eight-bets, and all 4 appendix
+   slides) — these had been deliberately left as flat images from the old
+   17-slide deck and had NOT been renumbered or de-jargoned in any prior
+   round. Six independent reviewers this session (subagent, research agent,
+   4× web-advice seats) converged on flagging their jargon
+   ("Karpathy LLM Wiki 27k sources", "memory_search 9-store fanout",
+   "7-Green Gate", "skeptic-cron", "N-Green Gates", "Dark Factory Stages
+   3-6", "Babysit-Cron Spam Polls", "SOUL.md", "Loopcraft (swyx)") and their
+   stale page numbers (still reading e.g. "03/17", "16/17" against a
+   20-slide deck). All 8 rebuilt with corrected numbering, de-jargoned copy,
+   and **two factual corrections**:
+   - Appendix B (harness-decay) previously asserted "models rotate every
+     40-90 days" with **zero source anywhere in this repo** — this exact gap
+     was already flagged as a BLOCKING open item in
+     `docs/superpowers/specs/2026-08-23-agentic-ai-summit-keynote-design.md`
+     and never answered. Removed the unsourced specific claim; replaced with
+     a defensible, non-fabricated framing ("Frontier models change faster
+     than most teams can adapt").
+   - Appendix A2 (cache-stability) previously said "537,444-character system
+     prompt prefix stayed byte-identical across **11 consecutive** agent
+     turns" — the design spec's Fixes table already established this is
+     wrong: it was verified stable **through** turn 11, checked at 5
+     *sampled* checkpoints (turns 1, 5, 9, 10, 11), not 11 consecutive
+     turns. Corrected to match the verified claim.
+5. **All 8 rebuilds pushed to the live Google Slides deck** via the
+   delete + `new-slide --layout-id p17` + `insert-image --width=1440
+   --unit=PT` + `move-slide` method (the only method proven this session not
+   to crop images — `replace-slide` silently crops and must not be used).
+   Re-exported and visually re-verified all 20 slides post-push; numbering,
+   content, and rendering confirmed correct.
+6. **Ironclad verification contract written**
+   (`~/roadmap/llm-wiki/keynote-audience-accessibility-goal-ironclad-2026-08-23.md`)
+   with 6 binary, externally-anchored criteria (zero unexplained jargon,
+   numbering consistency, no unsourced claims, no cropping, cold-audience
+   comprehension, live-deck identity match) — a `/web-advice` pass against
+   this contract is the next verification step; iterate until all 6 pass.
+
+**Standing process note (user directive, this round):** from this point
+forward, every fix gets pushed to the **live** Google Slides deck
+immediately — do not leave fixes staged in Claude Design without clearly
+flagging that they are not yet live.
