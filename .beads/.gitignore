@@ -1,6 +1,15 @@
-# SQLite runtime sidecars are recreated from the tracked database.
-beads.db-wal
-beads.db-shm
-.br-db-write-*.lock
-beads.db-fsqlite-ns-gate
-beads.db-fsqlite-ns-use
+# Runtime cache and recovery artifacts. issues.jsonl is the tracked source of truth.
+beads.db
+beads.db-*
+beads.db.*
+.beads.db.*
+beads.base.jsonl
+.br_history/
+.br_recovery/
+.br-*-write-*.lock
+.manifest.json
+.sync.lock
+.write.lock
+last-touched
+last-touched.bak
+*.tmp
