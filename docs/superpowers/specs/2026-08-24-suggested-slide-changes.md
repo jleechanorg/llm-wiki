@@ -119,8 +119,65 @@ whole set back in by default.
 
 ---
 
-## Open question for you
+## DECIDED 2026-08-24: A and B approved, C not requested
 
-Do you want NEW-A/B/C added at all, and if so where exactly in the running
-order? And for slide 1 and slide 4 above — confirm the typo fix, and tell me
-whether to check/fix the Antigravity reference or leave it untouched.
+**Final order (16 slides):** Title → **NEW-B Agenda** → **NEW-A Cold Open** →
+then all 14 original slides, unchanged, in their original order (§02
+Pipeline through §14 Find Me), renumbered §04→§16.
+
+**Bead correction (2026-08-24):** br-3hh was closed earlier this session on
+a false claim (slide 11 pyramid "fixed" by rebuilding into CSS bands — that
+was a redesign, built on the wrong base deck, violating the pixel-faithful
+constraint). Reopened. br-0r6 and br-5fp remain open, re-scoped to the real
+original's actual slide numbers (see beads for detail) — their concerns may
+already be substantially addressed by the real original's real screenshots
+and cited code refs, needs re-verification once the deck is live, not
+assumed unresolved.
+
+### NEW-B — Agenda (full draft content)
+
+- Eyebrow: `§ 02 · WHAT I'LL COVER`
+- H1: `Five things, *twenty minutes*`
+- Kicker: `No prior context needed — here's the arc.`
+- Agenda items (numbered list, matches the REAL deck's actual arc, not the
+  invented one):
+  1. **The story** — `A real thing that happened, before any of the
+     mechanics.`
+  2. **How it ships** — `One Slack message, the agent pyramid, and the
+     evolution of AI coding.`
+  3. **How I work day to day** — `A real Slack thread and a real CMUX
+     session, not slides about it.`
+  4. **WorldAI, in depth** — `The game itself, the rules that make it
+     real, the architecture, and four things nobody else does.`
+  5. **Find me, play it** — `Links, and an invitation.`
+- Footer: `02 / 16` · `DEVELOP AT IDEA VELOCITY`
+
+### NEW-A — Cold Open (full draft content)
+
+- Eyebrow: `§ 03 · THE STORY`
+- H1: `The player quit. *The world said no.*`
+- Header-right: `First-person, verified.` / `wiki/sources/michele-fried-
+  chicken.md, scenes 16/26/27/40`
+- Body (single focused block, not a card grid — this is the "big idea /
+  moment" slide, matches the visual weight of slide 9's "★ I've spent
+  hundreds of hours" callout style):
+  `I was playing a campaign with my mom. Her character owed a local grocer,
+  Mr. Park, for supplies on credit — a debt the world remembered, not a stat
+  I'd written down. Mid-session, she tried to rage-quit in character:`
+  - pull-quote (italic serif, like the deck's existing quote treatment):
+    `"I'm an undocumented immigrant, I'm gonna go home."`
+  `Instead of fading to black, the world argued back, using consequences it
+  had generated itself:`
+  - pull-quote (rust/accent color, like slide 6's Hermes-reply treatment):
+    `"The debt to Mr. Park doesn't vanish because you close the door... you're
+    becoming a fugitive from a paper trail you can't outrun."`
+  `She couldn't quit. Twenty scenes later, we shook hands with Park on a 10%
+  equity partnership. Nobody hand-coded a "player tries to quit" branch.`
+- Footer: `03 / 16` · `→ the world remembers what you did`
+
+**These are drafts for your review, not built yet.** Say go and I build both
+as real HTML pages matching the base deck's exact visual language (same
+cream/rust/serif-italic/JetBrains-Mono system already confirmed from the real
+images), screenshot them, and push — per skill step 9, this is the one case
+where building fresh is correct, since these are genuinely [NEW] slides with
+no source image to reuse.
