@@ -7374,3 +7374,8 @@ Operations:
 ## [2026-08-23] ingest | Mobile latency root cause: dev test-harness concurrency, not a code regression
 
 ## [2026-08-23] ingest | Verify agent-call independence empirically, not from naming/docstrings
+
+## [2026-08-23] ingest | Gemini 3 ThinkingConfig Low Level and Code Execution Mutual Exclusion
+- Ingested source page `sources/gemini-3-thinking-low-and-code-execution-mutual-exclusion.md`
+
+## [2026-08-23] ingest | Ablation confound check before accepting a null result
