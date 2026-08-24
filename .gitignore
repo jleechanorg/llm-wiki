@@ -33,3 +33,5 @@ __pycache__/
 # Ignore logs
 logs/
 wiki/logs/
+# br doctor per-run artifacts
+.doctor/
