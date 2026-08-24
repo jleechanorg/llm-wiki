@@ -8,14 +8,28 @@
 2. **Snapchat projects** — the credibility slide (Snap Bridge, Snap Wings, Open Model Pilot)
 3. **WorldAI intro + mom story** — combined: what WorldAI is, then the cold-open story (Mr. Park debt, the rage-quit the world wouldn't allow) as the illustration of it
 
-### DRAFT — item 3 copy (WorldAI intro + mom story combined)
+### BUILT — item 3 copy (WorldAI intro + mom story combined), verbatim from `keynote/deck/03-worldai-mom.html`
 
-> **WorldAI — an AI Game Master that plays live.**
-> Play any character, in any world — Game of Thrones, Star Wars, Baldur's Gate, or one you make up. The world reacts to what you actually do, not a script. It's a real product — worldarchitect.ai — not a tech demo.
+> **WorldAI — an AI Game Master that plays live**
+> Play any character, in any world — Game of Thrones, Star Wars, Baldur's Gate, or one you make up. The world reacts to what you actually do, not a script. It's a real product — **worldarchitect.ai** — not a tech demo.
 >
-> Here's what that means in practice. I was playing a campaign with my mom. Her character owed a local grocer, Mr. Park, for supplies on credit — a debt the world remembered, not a stat I'd written down. Mid-session, she tried to rage-quit in character: *"I'm an undocumented immigrant, I'm gonna go home."* Instead of fading to black, the world argued back, using consequences it had generated itself: *"The debt to Mr. Park doesn't vanish because you close the door... you're becoming a fugitive from a paper trail you can't outrun."* She couldn't quit. Twenty scenes later, we shook hands with Park on a 10% equity partnership. Nobody hand-coded a "player tries to quit" branch.
+> Here's what that means in practice. I was playing a campaign with my mom. Her character owed a local grocer, Mr. Park, for supplies on credit — a debt the world remembered, not a stat I'd written down. Mid-session, she tried to rage-quit in character:
+>
+> *"I'm an undocumented immigrant, I'm gonna go home."*
+>
+> Instead of fading to black, the world argued back, using consequences it had generated itself:
+>
+> *"The debt to Mr. Park doesn't vanish because you close the door … you're becoming a fugitive from a paper trail you can't outrun."*
+>
+> **She couldn't quit. Twenty scenes later, we shook hands with Park on a 10% equity partnership. Nobody hand-coded a "player tries to quit" branch.**
+>
+> Footer citation on the slide: *First-person, verified 2026-08-23 · wiki/sources/michele-fried-chicken.md, scenes 16/26/27/40*
 
-This is a first draft — trim/adjust freely. Structurally it does two things in one breath: orients the audience on what WorldAI even is, then lets the mom story land as proof rather than a cold non-sequitur.
+Built and verified: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F03-worldai-mom.html — editorial/pull-quote layout (rust vertical rule + serif-italic blockquotes), not a card grid, to vary the visual treatment per your "we're overusing the boxes" note.
+
+Item 1 (Intro/bio) built: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F01-intro-bio.html — verbatim copy: name "Jeffrey Lee-Chan", kicker "Head of Vibe Coding · Snapchat · ex-Google — scaling systems from millions to billions, before any of this was AI.", 3 cards (YouTube 2008–2018 $70B+ Paid to creators / Snap 2018–2026 50M→5B+ Daily notifications / Snap 2026→ 3 Internal AI projects shipped).
+
+Item 2 (Snapchat projects) built: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F02-snapchat.html — headline resolved to **"What I built with this stack — inside Snap"** (replaces the rejected "This isn't just a side project"), opens with the credibility line ("Snap Growth Notifications, scaled from a small pilot to 5B+ notifications a day, ~100x growth from 2018 to 2026"), then 3 Before/After cards for Snap Bridge, Snap Wings, Open Model Pilot using the exact real-name content from the spec.
 
 Then continues into the original deck's slide 3 onward (verification gap → pivot, etc.) — original slide numbering below still refers to the ORIGINAL deck for content reference, but the actual running order now starts with these 3 new/reordered items before slide 3.
 
@@ -46,12 +60,9 @@ Appendix (A1 tokenmaxxing, A2 cache-stability, B harness-decay, C broke-in-prod)
 
 **Call I made on slide 08 (Craftsmanship) worth flagging:** the original's right panel was a corrupted/garbled code-editor screenshot (a real bug, not a design choice). I don't have a real replacement screenshot, so instead of patching a broken image I turned it into a proper 2-card comparison (Domain 01 velocity-biased vs. new Domain 02 consequence-biased) — this actually delivers on the slide's own stated thesis ("Pre-LLM favored upstream craftsmanship... now fast coding changes the equation") better than a screenshot ever did. Domain 02's copy is invented-but-consistent (production auth/billing/migrations framing) — flag if you want different examples there.
 
-## Visual prototypes ready for review (Claude Design, not yet in Google Slides)
-- ~~Slide 4 (Cognitive Tasks) funnel graphic~~ — **rejected**, replaced by the merged pyramid version below
-- ~~Slide 6 (6-Step Loop) linear flow~~ — **rejected**, "doesn't add value." Replaced by the circular version below.
-- **NEW — Pyramid + Cognitive Tasks, merged into one slide**: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-pyramid-cogtasks-merged.html — reuses the original pyramid's exact 4-column card style (Tier 1 Openclaw/Hermes → Tier 2 CMUX/AO → Tier 3 CLI Fleet → Tier 4 Subagents/MCP), each card re-captioned to also carry the cognitive-tasks thesis ("1 cognitive task" / "angle diversity" / "extended horizon" / "zero spam" pills), closing on the context-switch line. This replaces BOTH the old slide 4 and slide 8 with one slide.
-- **NEW — Intro/bio slide**: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-intro-bio.html — name/title up top, 3 credibility cards (YouTube $70B+ paid to creators 2008-2018, Snap Growth Notifications 50M→5B+ 2018-2026, "3 internal AI projects shipped" teasing the Snapchat slide that follows)
-- **NEW — 6-Step Loop, circular (Option B)**: https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fproto-slide06-circular.html — single-ring layout backed by `docs/superpowers/circular-loop-diagram-research.md`, alternating human/AI ownership around the ring (rust fill = AI-owned, outline = human-owned), horizontal labels anchored outside the ring, distinct dashed rust return-arc from step 6 back to step 1. Built as pure SVG (nodes, labels, and connectors all share one `viewBox` coordinate system) after an earlier HTML-div/SVG mix caused step 4 to render off-position; verified via screenshot, all 6 nodes and labels now land correctly.
+## Visual prototypes — SUPERSEDED by the full deck build above
+
+The individual prototype links that used to live here (`keynote/proto-pyramid-cogtasks-merged.html`, `keynote/proto-intro-bio.html`, `keynote/proto-slide06-circular.html`) have all been superseded by their final, numbered versions under `keynote/deck/` in the **FULL DECK BUILD** table above (`01-intro-bio.html`, `07-sixstep-loop.html`, `09-pyramid-cogtasks.html`) — those old prototype files still exist in the Claude Design project as historical scratch work but are no longer the source of truth. Use the `keynote/deck/` links throughout this doc.
 
 **Live deck:** https://docs.google.com/presentation/d/1Zb6sc0HUKOIR-As3fDl68iYEs6FFFrzdi_YVVo89Xa0/edit — **restored to the original 17 slides** as of 2026-08-23 ~21:50 PT, after a background agent's Task 7 mistakenly deleted-and-rebuilt it into the 13-slide redesign despite an in-flight stop request (timing race — the rebuild had already completed before the stop message was processed). Restored via full-bleed image re-upload from this session's own PDF renders of the pre-incident state, verified slide-by-slide against the original (slides 1/9/17 spot-checked pixel-identical, including a pre-existing "14/14" footer bug on slide 17 that's baked into the original image and correctly preserved, not something to silently fix mid-restore). **Speaker notes from the true original were not recoverable this way** (never captured as text) — only available via Drive's native Version History UI if you want them back specifically.
 
@@ -69,16 +80,22 @@ No proposed change.
 
 ## 02/17 · The Verification Gap — KEEP THE TABLE, ADD REAL CITATIONS + EXPLANATION
 
-**Your latest call:** keep the stat-table approach, but link real stats and explain more so it doesn't read as made-up numbers. Real primary sources found:
+**Built and verified:** https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F04-verification-gap.html — same 4-card layout as the original, verbatim final copy:
 
-| # | Value | Label | Real source (verified primary, not a re-share) |
-|---|---|---|---|
-| 01 | 27.6% | of merged PRs are AI-authored (April 2026, up from <1% in Feb 2025) | Greptile, ["Rise of the Overnight Agents"](https://www.greptile.com/blog/rise-of-the-overnight-agents) — analysis across 65,000 orgs |
-| 02 | 96% | of developers don't fully trust AI-generated code | Sonar, [State of Code Developer Survey](https://www.sonarsource.com/blog/state-of-code-developer-survey-report-the-current-reality-of-ai-coding/) — 1,100+ developers, published Jan 8, 2026 |
-| 03 | 48% | of developers always verify AI output before committing | same Sonar survey |
-| 04 | 65% | of code projected to be AI-generated by 2027 (42% today) | same Sonar survey |
+Header right-side stat block fixed from "Sonar / Greptile 2026 Empirical Study / n = 1,100 engineering teams" (which conflated two different studies' sample sizes) to **"Sonar State of Code Survey + Greptile PR Analysis" / "1,100+ devs · 65,000 orgs"**.
 
-**Explanation to add** (per your "explain it a bit more" ask): a one-line bridge under the table — e.g. *"27.6% of merged code is now AI-written and climbing fast (28x in 14 months). But trust hasn't caught up — most developers still don't fully believe the output is correct, and fewer than half actually check before committing."* Keep the existing bottom quote as the payoff line: *"The bottleneck is no longer generating code — it's proving correctness without human babysitting."*
+| # | Value | Title | Desc (final) | Pills |
+|---|---|---|---|---|
+| 01 | 27.6% | AI-Generated Code | "Share of merged PRs generated by AI agents, up 28x in 14 months." | Greptile 2026 · 28x growth |
+| 02 | 48% | Always Verify | "Only 48% of developers always verify AI-generated code before committing." | Sonar 2026 · verification gap |
+| 03 | 96% | Don't Fully Trust | "96% of developers don't fully trust AI-generated code is correct." | Sonar 2026 · trust deficit |
+| 04 | 65% | Projected by 2027 | "Share of code projected to be AI-generated by 2027, up from 42% today." | Sonar 2026 · industry shift |
+
+Bridge line above the footer (your "explain it a bit more" ask): *"27.6% of merged code is now AI-written and climbing fast (28x in 14 months). But trust hasn't caught up — most developers still don't fully believe the output is correct, and fewer than half actually check before committing."*
+
+Footer payoff quote kept: *"The bottleneck is no longer generating code — it's proving correctness without human babysitting."* Footer source tag updated from "SOURCE: ROADMAP/02-VERIFICATION-GAP.MD" to **"SOURCES: GREPTILE 2026 · SONAR 2026"**.
+
+Sources: Greptile, ["Rise of the Overnight Agents"](https://www.greptile.com/blog/rise-of-the-overnight-agents) — analysis across 65,000 orgs. Sonar, [State of Code Developer Survey](https://www.sonarsource.com/blog/state-of-code-developer-survey-report-the-current-reality-of-ai-coding/) — 1,100+ developers, published Jan 8, 2026.
 
 ---
 
@@ -106,18 +123,39 @@ No content change proposed — just confirming this stays in.
 
 **Your feedback:** "slide 6 - 6 step loop can be a graphic."
 
-**Proposed:** Convert to a circular flow diagram with 6 numbered nodes and arrows, alternating AI-owned vs human-owned steps visually (color-coded: rust fill = AI, outline = human). Keep the exact 6 step names/descriptions, just change the visual treatment from 6 identical boxes to a ring. **Built and verified** — see the "6-Step Loop, circular (Option B)" prototype link above.
+**Built and verified:** https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F07-sixstep-loop.html — single-ring, pure SVG. Same 6 step names/order, color-coded (rust fill = AI-owned, outline = human-owned): 1 Quick Plan (Human) → 2 Async AI Drive (AI) → 3 AI Evidence Review (AI) → 4 Human Proof Check (Human) → 5 AI Code Review (AI) → 6 Human Merge (Human), dashed rust return-arc from 6 back to 1. Footer: "3 human-owned, 3 AI-owned steps — the loop closes back to step 1."
 
 ---
 
-## 07/17 · Craftsmanship vs. Velocity — FIX A REAL BUG
-**Found while re-auditing:** this slide's right-hand panel is a screenshot of a code editor that renders as garbled/illegible text — looks like a corrupted or over-compressed image, not a design choice. Needs a fresh screenshot or should be replaced with something else entirely. Text content (Domain 01: Low Consequence/Fast Fail, Core Tenets) is fine.
+## 07/17 · Craftsmanship vs. Velocity — FIXED (screenshot replaced with a 2nd card, not patched)
+
+**Found while re-auditing:** this slide's right-hand panel was a screenshot of a code editor that rendered as garbled/illegible text — a corrupted/over-compressed image, not a design choice. No real replacement screenshot was available, so instead of patching the broken image, the slide became a proper 2-card domain comparison — which actually delivers on its own stated header thesis ("Pre-LLM favored upstream craftsmanship. Now fast coding changes the equation.") better than a screenshot did.
+
+**Built and verified:** https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F08-craftsmanship.html — final copy:
+
+| | Domain 01 · Velocity Biased (original, kept) | Domain 02 · Consequence Biased (NEW — replaces the broken screenshot) |
+|---|---|---|
+| Title | Low Consequence · Fast Fail | High Consequence · Slow, Deliberate |
+| Quote | "Shotgun and adjust rapidly." | "Design before you type." |
+| Desc | "UI explorations, prototypes, internal analytics, throwaway scripts. No heavy upfront design." | "Production auth, billing, data migrations — anything hard to reverse. Heavy upfront design, extensive review before merge." |
+| Pills | velocity max · rapid feedback | consequence max · deliberate design |
+
+Domain 02's copy is invented-but-consistent (production auth/billing/migrations framing) — flag if you want different concrete examples. Footer tenets kept verbatim: *"1. Only automate smooth things · 2. No black-and-white thinking; everything is a gradient · 3. Try fundamentals & shotgun in parallel."*
 
 ---
 
 ## 08/17 · The Agent Supervision Pyramid — MERGED WITH COGNITIVE TASKS (04/17)
 
-**Your final call:** "we can combine agentic pyramid with cog tasks." Built as one slide — see the "Pyramid + Cognitive Tasks, merged" prototype linked above. Reuses the pyramid's exact 4-column card style and all 4 real tier facts, re-captioned per-card to also carry the cognitive-tasks thesis.
+**Your final call:** "we can combine agentic pyramid with cog tasks" — and then corrected: *"you're not listening to me. I want the exact same image as original pyramid but modified."* Rebuilt as a pixel-faithful reproduction of the actual original slide-08 render (not a stylistic reinterpretation): same header-with-right-aligned-subtitle layout, same 4-card grid with dotted separators and pill-tag rows, same footer/page-number row. Cognitive-tasks framing merged in as light-touch additions only: a 3rd pill per card ("1 cognitive task" / "angle diversity" / "extended horizon" / "zero spam") and the header's 2nd subtitle line changed from "Strict isolation between control and execution." to "One cognitive task, tracked top to bottom."
+
+**Built and verified:** https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F09-pyramid-cogtasks.html — final card copy:
+
+| Tier | Title | Subtitle | Desc | Pills |
+|---|---|---|---|---|
+| 1 · Dispatch | Hermes / Openclaw | Central Communication | "Slack-based dispatch — routing, task queuing, goal coordination. Openclaw is the auxiliary HTTP API gateway underneath. Retains long-term memory and preferences." | slack-bridge · memory · 1 cognitive task |
+| 2 · Orchestration | CMUX & AO Daemon | Supervision & Worktrees | "Manages terminal panes, process groups, git worktrees, watchdog restarts, and Dark Factory goal-driven pipelines." | tmux/cmux · worktrees · angle diversity |
+| 3 · Workers | CLI Agent Fleet | Code Execution | "Claude Code, OpenAI Codex, Cursor CLI. Specialized workers executing in isolated worktree sandboxes." | claude-code · codex · extended horizon |
+| 4 · Tools | Subagents & MCP | Targeted Primitives | "Short-lived tool specialists: Playwright browser testers, compiler drivers, BigQuery telemetry fetchers, test runners." | playwright · mcp · zero spam |
 
 **Terminology audit complete (2026-08-23), 2 fixes applied:**
 - Tier 1: "Openclaw / Hermes" (co-equal, "Slack, WhatsApp, SMS, email") → **"Hermes (Slack Bot)"** — Hermes is Slack-only (WhatsApp config confirmed present but empty/unwired); OpenClaw is the auxiliary HTTP API gateway underneath, not co-primary dispatch.
@@ -150,18 +188,26 @@ No content change proposed — just confirming this stays in.
 
 ---
 
-## 14/17 · WorldAI: An AI Game Master That Plays Live — REPLACE WITH THE REAL STORY
+## 14/17 · WorldAI: An AI Game Master That Plays Live — RESOLVED AS "WorldAI Returns" PAYOFF SLIDE (new deck position 11)
 
 **Original:** Product Vision card ("Play Any Character in Any World") + Scale & Stats card (12 specialized agents, 30+ prompt files, 300k token context, Min-First/Fill-to-Max, BYOK).
 
-**Proposed:** Replace the generic pitch with the real, first-person story: playing a WorldAI campaign with your mom, the Mr. Park debt, the rage-quit the world wouldn't allow, the 10% equity partnership 20 scenes later. Keep the Scale & Stats card as a secondary panel, with the agent count corrected to the real number (11, confirmed via `mvp_site/agents.py` this session) instead of 12.
+**Resolution:** the real first-person mom/Mr.-Park story now already opens the deck (new item 3, see above) — retelling it here in the original main-flow position would be redundant in a 20-min talk. Instead this slide became the **payoff/callback**: "here's how the opening story was possible." Left card keeps the original quote and product framing but reframes the body copy as a callback rather than a fresh pitch; right card keeps Scale & Stats verbatim except the agent count, corrected **12 → 11** (confirmed via `mvp_site/agents.py` this session).
+
+**Built and verified:** https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F11-worldai-payoff.html — final copy:
+- Title: "WorldAI returns — *here's how the mom story was possible*"
+- Product Vision card desc: "Game of Thrones, Star Wars, Baldur's Gate, or your own universe. This is the same harness-first stack this whole talk has been about — applied live, in front of a player, with no script."
+- Scale & Stats list: **11** specialized agents · 30+ prompt files in Git · 300k token context window · Min-First / Fill-to-Max · Bring Your Own Key (BYOK)
+- Footer kept verbatim: "80% of wall-clock is the LLM — the deterministic harness is what makes it WorldAI."
 
 ---
 
-## 15/17 · Two Engines, One Gateway — FIX TWO NUMBERS
+## 15/17 · Two Engines, One Gateway — FIXED (new deck position 12)
 **Original:** FastEmbed Intent Gate (<50ms) / Casino-Grade Dice Audit ("1,549 lines, 4-signal verification") / God Mode & Dynamic Rules ("7,273 lines in world_logic.py orchestrator").
 
-**Confirmed wrong this session:** dice audit is actually **1,889 lines** (not 1,549); world_logic.py is actually **12,378 lines** (not 7,273) — both verified via `wc -l` against the live repo. Straightforward fix, same layout.
+**Confirmed wrong this session:** dice audit is actually **1,889 lines** (not 1,549); world_logic.py is actually **12,378 lines** (not 7,273) — both verified via `wc -l` against the live repo.
+
+**Built and verified:** https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F12-two-engines.html — same 3-card layout, only the two numbers changed: header stat "12,378 lines in world_logic.py orchestrator", Innovation 02 quote "\"1,889 lines, 4-signal verification.\"" Everything else (FastEmbed <50ms card, God Mode card, footer "Deterministic Python logic guards game truth; LLM generates rich prose.") kept verbatim.
 
 ---
 
@@ -170,17 +216,18 @@ Discipline Tickets / Commit Provenance / N-Green Gates / Headless by Default / P
 
 ---
 
-## 17/17 · Find Me, Play the Game — KEEP, MINOR BUG
-LinkedIn / WorldAI (worldarchitect.ai) / Consensus ML / GitHub. Closing line: *"Thanks for watching. Now go ship something at idea velocity."* **Note:** this slide's own page-count footer reads "14/14" instead of "17/17" — a stale leftover from an earlier version of the deck, worth fixing regardless of what else changes.
+## 17/17 · Find Me, Play the Game — FIXED (new deck position 14)
+LinkedIn / WorldAI (worldarchitect.ai) / Consensus ML / GitHub. Closing line: *"Thanks for watching. Now go ship something at idea velocity."* **Note:** this slide's own page-count footer read "14/14" instead of "17/17" against the OLD 17-slide original — a stale leftover. For the NEW 14-main-flow-slide deck, "14/14" is actually now the correct count, so the footer resolves itself rather than needing a real fix.
+
+**Built and verified:** https://claude.ai/design/p/a9e699f8-95f3-493c-9a45-334d9481fa89?file=keynote%2Fdeck%2F14-find-me.html — same content and links (LinkedIn, WorldAI, Consensus ML, GitHub), footer confirmed "14 / 14 · Thanks for watching. Now go ship something at idea velocity." Dropped the small embedded LinkedIn-post thumbnail image from the original (no equivalent asset available to carry over); everything else preserved.
 
 ---
 
-## NEW: WorldAI background intro — right after the cold open (slide 2)
+## RESOLVED: WorldAI background intro
+Folded directly into new opening item 3 (`03-worldai-mom.html`) — the orientation copy ("WorldAI — an AI Game Master that plays live... It's a real product — worldarchitect.ai — not a tech demo") now sits right before the mom-story quotes in the same slide, rather than as a separate slide. See item 3 above.
 
-**Your ask:** "afer my intro hook on my moms campaign i need an intro for worldai project to explain more background." The mom/D&D story works as a hook, but jumps straight into a specific moment without ever explaining what WorldAI actually IS. Need a short orientation slide between the cold open (slide 2) and the verification-gap pivot (slide 3): what WorldAI is (AI Game Master, play any character in any world, D&D-style), how it's built (the harness-first stack this whole talk is about), maybe 1-2 concrete facts (worldarchitect.ai, real product, X campaigns). Exact copy TBD — flag if you want me to draft this now or wait for the other open items to settle first.
-
-## New addition: Snapchat credibility slide — needs a new headline
-Position TBD (after slide 8/pyramid, or after slide 13/postmortem, both reasonable). Content itself (Snap Bridge, Snap Wings, Open Model Pilot, real names, before/after framing, Snap Growth Notifications 100x-to-5B/day opener) stays — but **"This isn't just a side project" is out**, you don't want that headline. Need a replacement; propose a few options once the rest of the structure settles, or tell me what tone you want (credibility-flex vs. matter-of-fact vs. something else).
+## RESOLVED: Snapchat credibility slide headline
+Position resolved to new opening item 2, right after the intro/bio slide (not after pyramid or postmortem). Headline resolved to **"What I built with this stack — inside Snap"**. Built: `02-snapchat.html`, see above.
 
 ## Running appendix list (things moved OUT of main flow this round)
 - Tokenmaxxing + Cache Stability (was original slides 10-11) — not compelling enough for a no-repo-access audience
@@ -192,8 +239,10 @@ Position TBD (after slide 8/pyramid, or after slide 13/postmortem, both reasonab
 
 ---
 
-## Open questions for you
-1. Do the slide 4 & 6 graphic prototypes (linked above) look right, or need adjustment?
-2. Slide 8 (agent pyramid): any specific facts that need updating, or keep as-is?
-3. WorldAI intro + mom story (new opening item 3): want me to draft the combined copy now?
-4. Intro/bio slide (new opening item 1): what do you want on it — just name/title/Google+Snap background, or more (e.g. the YouTube $70B / Snap 50M→5B credibility numbers)?
+## Open questions — all resolved as of 2026-08-23
+1. ~~Do the slide 4 & 6 graphic prototypes look right?~~ Resolved — both rejected/rebuilt (merged pyramid, circular loop), final versions in the FULL DECK BUILD table above.
+2. ~~Slide 8 (agent pyramid): any facts to update?~~ Resolved — terminology audit found 2 real fixes (Hermes/Slack-only, Google Antigravity dropped), applied; pixel-faithful rebuild of the real original per your correction.
+3. ~~WorldAI intro + mom story: draft the combined copy?~~ Resolved — drafted, built, verified (`03-worldai-mom.html`).
+4. ~~Intro/bio slide: what goes on it?~~ Resolved — name/title + the 3 credibility numbers (YouTube $70B, Snap 50M→5B, 3 shipped projects), built (`01-intro-bio.html`).
+
+**Status:** full 14-slide deck built and verified in Claude Design. Next/final step: push to the live Google Slides deck.
