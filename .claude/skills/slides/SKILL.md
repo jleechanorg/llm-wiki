@@ -78,6 +78,33 @@ original — confirm?"
    untagged slide), and a `grep`-able count check: number of `[UNCHANGED]`
    + `[WORDING EDIT]` + `[NEW]` + `[REDESIGNED]` sections equals the stated
    final slide count.
+
+<HARD-GATE>
+7a. **Run `document-standards` over every `[NEW]` / `[WORDING EDIT]` /
+`[REDESIGNED]` line before the MD goes to the user, and again before any
+copy reaches a slide.** Load `~/.claude/skills/document-standards/SKILL.md`
+and apply the Economy lane plus the AI-tell catalogue (especially *Artifact
+meta-commentary*, *Preemptive reassurance*, *Slot-filled subhead*, and
+*Empty slots stay empty*). Slide copy is the highest-risk surface for filler
+because the layout has fixed slots — subtitle, kicker, caption, footer-note —
+and an empty slot reads as unfinished, so the default behavior is to
+generate plausible prose to occupy it.
+
+Every line must name a fact, a constraint, a decision, or a consequence.
+A subtitle that restates its own H1, or tells the audience how to feel, is
+deleted — not reworded. Apply the skill's discriminator so this does not
+become false-positive churn: real credibility claims ("real player, real
+session — not a demo" defending an actual screenshot) survive; posture does
+not.
+
+Incident that created this gate (2026-08-24): the Agenda slide shipped with
+"No prior context needed — here's the arc." — simultaneously *False-suspense
+transition*, *Invitation framing*, and *Preemptive reassurance*, all already
+catalogued in `document-standards`. The rule existed; nothing in the slide
+path invoked it, so prose quality fell back on in-the-moment judgment, which
+fills slots. Visual verification passed it because it rendered correctly and
+was not factually wrong.
+</HARD-GATE>
 8. **User reviews the written MD file** — explicit gate, same as
    brainstorming's spec-review gate. Do not proceed on silence.
 9. **Only then: write the actual slides** — per section:
@@ -141,3 +168,38 @@ digraph slides {
   content or capture screenshots in parallel, but the actual "what does
   this slide say / does it match the original" judgment stays with the
   primary session, sequentially, with the user in the loop.
+
+## Standing rules from the 2026-08-25 keynote-build session
+
+- **Snapshot before every write, diff after.** `gog slides raw <id> >
+  snapshot.json` before any edit; after, diff extracted text against the
+  snapshot and flag every change outside the slide(s) you intended to touch.
+  This caught real damage more than once this session (a subagent's edit
+  silently deleted 7 elements from an unrelated slide) and is what makes
+  "don't change text without approval" enforceable rather than aspirational.
+  Report the diff count in the summary — "0 changes outside slides X/Y",
+  never "looks right."
+- **Diagram/graphic sources need a durable home, not `/tmp`.** An
+  architecture diagram's HTML source and its `tokens.css` import both lived
+  only in `/tmp`; by the time a one-word fix was needed, the CSS was already
+  gone and the directory it lived in no longer existed. If a diagram's
+  editable source is going to be touched more than once, commit it into the
+  repo (with its dependencies) the first time it's built, not after it
+  breaks.
+- **For backup/durability, prefer a render over source reconstruction.**
+  When a diagram only needs to be *backed up*, export and screenshot the
+  live deck (`gog slides export --format pdf` + `pdftoppm -png -r 150`)
+  rather than reconstructing a lost source file. The render is what actually
+  shipped and was already verified; a reconstructed source can silently
+  drop details a render can't (SVG connector arrows tied to an unrecorded
+  original viewport width were lost on re-render here, present in the
+  screenshot). Reconstruct the source only when the task is "make this
+  editable again," not "back this up" — confirm which one is actually being
+  asked for before spending effort on the harder path.
+- **Categorize slide content against the deck's own section structure, not
+  surface topic-matching.** Splitting bullets across two buckets (e.g.
+  "dev workflow" vs. "the product"), check which of the deck's own sections
+  each fact actually lives in before assigning it — a fact that *sounds*
+  like generic process ("routing," "context budget") can belong entirely to
+  one feature's internals if that's where the deck puts it. This produced a
+  real miscategorization in a summary email that the user had to correct.
