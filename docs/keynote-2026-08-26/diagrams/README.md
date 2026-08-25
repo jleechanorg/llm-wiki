@@ -57,3 +57,20 @@ affected.
 a re-render. Treat the HTML as the editable source of truth for *content*, and
 expect to re-derive the connector geometry if you ever need to regenerate the
 image from scratch.
+
+---
+
+## Update 2026-08-25 — use the slide renders, not the HTML
+
+`../slides/slide-01.png` … `slide-19.png` are 150 DPI renders (3000×1688) of every
+slide, produced straight from the deck PDF:
+
+```bash
+gog slides export <presentationId> --format pdf --output deck.pdf
+pdftoppm -png -r 150 deck.pdf slides/slide
+```
+
+`slide-14.png` is the architecture diagram at full fidelity — connector arrows
+included, which is exactly what the HTML re-render loses. **This supersedes the
+HTML path for any purpose other than editing the diagram's content.** Re-export
+after any deck change; it is two commands and has no lost-dependency risk.
