@@ -7379,3 +7379,7 @@ Operations:
 - Ingested source page `sources/gemini-3-thinking-low-and-code-execution-mutual-exclusion.md`
 
 ## [2026-08-23] ingest | Ablation confound check before accepting a null result
+
+## [2026-08-24] ingest | Always check ~ and repo for skill location
+- Ingested source page `sources/feedback-2026-08-24-always-check-home-and-repo-for-skill-location.md`
+## [2026-08-24] ingest | Concurrency ceiling: GIL cores vs thread count, real max drives autoscale
