@@ -7383,3 +7383,16 @@ Operations:
 ## [2026-08-24] ingest | Always check ~ and repo for skill location
 - Ingested source page `sources/feedback-2026-08-24-always-check-home-and-repo-for-skill-location.md`
 ## [2026-08-24] ingest | Concurrency ceiling: GIL cores vs thread count, real max drives autoscale
+## [2026-08-25] ingest | Keynote deck build — two lessons
+- Ingested source page `sources/keynote-deck-build-lessons.md`
+- Render-over-reconstruction for lost diagram sources; categorization needs source-structure verification
+
+## [2026-08-25] ingest | Autoscaling operating points need stochastic evidence and secret-safe publication
+
+- Source: `raw/project_2026-08-25_autoscaling-operating-point-and-secret-safe-evidence.md`
+- Wiki: `wiki/sources/project-2026-08-25-autoscaling-operating-point-and-secret-safe-evidence.md`
+- Concepts updated: `cloud-run-autoscaling`, `EvidenceBundles`
+- PR: #9330 at `aa8400c345cad0280dccf6efc7723fe75c488588`
+- Evidence: https://gist.github.com/jleechan2015/1be36c09f91141e4cd1f90931fb4d6f5
+- Bead: `rev-0eo4n`
+- Does not affect [[jeffrey-oracle]]
