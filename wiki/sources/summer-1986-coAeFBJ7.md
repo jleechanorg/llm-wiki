@@ -2,10 +2,10 @@
 title: "Summer 1986"
 type: source
 tags: [campaign, worldarchitect, summer-1986]
-date: 2026-08-23
+date: 2026-08-24
 source_file: /tmp/campaign_daily_ingest/coAeFBJ7dxjlZ9NtT6ju/Summer 1986_coAeFBJ7.txt
 campaign_id: coAeFBJ7dxjlZ9NtT6ju
-entry_count: 74
+entry_count: 96
 user_email: "ethandouble5@gmail.com"
 user_uid: "86MPdaA31ibCGfdwRcq44oFdmBB3"
 ingest_batch: download-campaign-skill
@@ -365,7 +365,7 @@ Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
 Dice Rolls:
-  - {'roll': '1d20+4', 'label': 'Insight', 'result': 22, 'faces': '18', 'type': 'Insight', 'modifier': 4}
+  - {'roll': '1d20+4', 'type': 'Insight', 'modifier': 4, 'label': 'Insight', 'faces': '18', 'result': 22}
 
 Game Master:
 Kowalski’s face is a mask of professional indifference, but your Insight check cuts right through it. You see the calculation behind his eyes—not outright hostility, but a deep, ingrained skepticism. He is waiting to see if you will trip over your own authority or lean on your rank to force a conversation. He is testing the boundary.
@@ -898,3 +898,176 @@ You remain seated, hands folded on the table, your crisp officer's duty blues a 
 "Gentlemen," Ramsey begins, his voice a low rumble that carries without effort. "We've got a Soviet Victor III—Contact Alpha-7—running quiet out in the GIUK Gap. Our orders are simple: find her, track her, and if she threatens NATO traffic, sink her. The gap is narrow, the water's cold, and that boat is hunting for a reason. We slip at 1800. No noise, no leaks, no second chances."
 
 He lets the silence settle, eyes sweeping the table. Jack Vance's jaw tightens. Billy Kowalski sits rigid. The rest of the officers wait, watching you without watching you, their skepticism a palpable weight. The Social HP challenge with the crew remains at 3/3—RESISTING. You've chosen to listen first. The room waits for your next move.
+
+Player (choice: defer_to_vance):
+Ask Cheng About Engineering Readiness - Shift focus to engineering readiness for the transit, demonstrating awareness of the full operational picture.
+
+============================================================
+SCENE 38
+============================================================
+[Timestamp: 1986, 8 23, 17:00:00
+Location: USS Olympia Wardroom
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+You deliberately redirect the briefing toward operational readiness rather than forcing a public discussion of your age, gender, or the crew's skepticism. "Captain Ramsey," you say, voice steady, "before we dive deeper into Contact Alpha-7, I'd like to hear from Cheng on the engineering status. The fire damage repairs, the reactor's current condition, and any lingering concerns that could affect the GIUK Gap transit. I want to make sure the boat is fully mission-capable before we discuss the hunt."
+
+Player (freeform):
+Also, ask which allied unit detected Alpha-7. We are still at Virginia and it will take us a few days to get to the GIUK line. I assume it was aP-3 Orion.
+
+============================================================
+SCENE 39
+============================================================
+[Timestamp: 1986, 8 23, 17:00:00
+Location: USS Olympia Wardroom
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+You speak clearly, addressing Captain Ramsey without hesitation. "Captain, before we dive deeper into Contact Alpha-7's track, I'd like to hear from Cheng on the engineering status—the fire damage repairs, the reactor's current condition, and any lingering concerns that could affect the GIUK Gap transit. I want to make sure the boat is fully mission-capable before we discuss the hunt."
+
+Captain Ramsey gives a single, approving nod, acknowledging your operational focus. "Good question, Robinson. Cheng, give us the engineering picture."
+
+Jack Vance adjusts his glasses, his expression still guarded but professional. "Reactor's at full power, ma'am. The fire damage was localized to the auxiliary battery compartment—repairs are complete, and we've pressure-tested the affected sections. We're at 100% on the primary systems, though we're still short on a few spares for the hydraulic lines. Nothing that will stop us from making the transit, but I'll want to conserve what we have until we can resupply at Holy Loch if needed. The boat's ready to slip when you give the word, Captain."
+
+Ramsey nods again. "Understood. The Victor III was first detected by a P-3 Orion out of Iceland two days ago, running quiet on battery at about 8 knots, course 270. She's heading for the gap, and we need to intercept before she can threaten the convoy routes. Any other questions before we finalize the watch rotation?"
+
+Player (choice: wait_for_ramsey_direction):
+Wait for Captain Ramsey's Direction - Remain silent and let the captain guide the briefing forward.
+
+============================================================
+SCENE 40
+============================================================
+[Timestamp: 1986, 8 23, 17:00:00
+Location: USS Olympia Wardroom
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+You remain silent, letting Captain Ramsey maintain command authority. He acknowledges your question about Contact Alpha-7 with a measured nod.
+
+"The Orion's track was two days old when it reached us," Ramsey says. "Alpha-7 was running quiet on battery at 8 knots, course 270, heading for the Gap. That puts her likely position somewhere in the southern approaches right about now. She's slow, she's deep, and she's listening."
+
+He turns his attention to the room. "The watch rotation stands. Kowalski, you have the conn on the first leg. Vance, keep your eyes on the reactor and the hydrophones. Robinson, you'll coordinate with Weps and Nav once we're clear of the shelf. Any questions before we finalize?"
+
+Player (freeform):
+Let the briefing end
+
+============================================================
+SCENE 41
+============================================================
+[Timestamp: 1986, 8 23, 17:00:00
+Location: USS Olympia Wardroom
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+The briefing concludes as Captain Ramsey surveys the wardroom one final time. "No further questions? Then we have our orders. The watch rotation stands. Kowalski, you have the conn for the initial leg. Vance, keep your eyes on the reactor and hydrophones. Robinson, coordinate with Weps and Nav once we clear the shelf. We slip at 1800. Dismissed." The officers rise, their expressions professionally neutral as they file out, leaving you alone with Captain Ramsey for a moment. The Social HP challenge (3/3) with the crew remains active—their guarded skepticism hasn't shifted, but neither has it escalated. Time is 1700, departure is in one hour, and the GIUK Gap transit awaits.
+
+Player (choice: accompany_ramsey_final_prep):
+Accompany Captain Ramsey for Final Prep - Walk with Ramsey as he conducts final checks before departure, gaining last-minute tactical insights.
+
+============================================================
+SCENE 42
+============================================================
+[Timestamp: 1986, 8 23, 17:00:00
+Location: USS Olympia Control Room
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+You match Ramsey’s stride as the two of you descend the ladder into the USS Olympia’s control room. The Captain keeps the conversation brisk, voice pitched low so only you can hear. "Victor III’s last datum was two days old," he says. "That Orion lost it at 8 knots, course 270, depth estimated 300 feet. The gap’s thermocline will bend the sound; expect her to be deeper and slower when we catch up." He pauses at the fire-control console, tapping the plot. "If we get a sniff, we’ll drop the TB-16 and let Kowalski work the narrowband. You’ll run the wire on the first Mk-48. Any questions before we slip?"
+
+Player (freeform):
+Ask him how I can help get the trust of the men. After all, I’m new to the whole XO thing and was only recently promoted, not to mention the…. Other issue.
+
+============================================================
+SCENE 43
+============================================================
+[Timestamp: 1986, 8 23, 17:05:00
+Location: USS Olympia Control Room
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+Captain Ramsey glances your way, then steps a little closer so the low red lights of the control room throw the lines in his face into sharp relief. "Robinson," he says, voice pitched for you alone, "you want trust? Give them competence they can see. Show up early, know your brief, and speak when you have something worth saying. The men aren't going to salute the uniform because it fits you. They're going to salute because you keep this boat alive. So ask questions that matter, stay on top of every system, and do the job in front of you. The rest will follow if you earn it." He gives a short nod toward the fire-control console. "Any other questions before we slip, XO?"
+
+Player (choice: return_to_quarters):
+Return to Quarters Until 1800 - Head back to your stateroom to rest and review the sealed orders one final time before slip.
+
+============================================================
+SCENE 44
+============================================================
+[Timestamp: 1986, 8 23, 17:05:00
+Location: USS Olympia Officers' Quarters
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+You quietly excuse yourself from the control room, Ramsey's final nod following you into the narrow passageway. The red battle lighting guides your steps past the forward battery compartment and up the ladder toward the officers' quarters. Your stateroom door opens with a soft click, revealing the compact quarters—bunk, desk, locker—lit by a single red bulb. You place the sealed orders on the desk, close the door behind you, and sit down. For the first time since arriving at Norfolk, you allow yourself a moment of quiet before the 1800 departure.
+
+Player (choice: rest_until_slip_time):
+Rest Until 1800 - Remain in quarters, review the sealed orders, and rest before the boat slips at 1800.
+
+============================================================
+SCENE 45
+============================================================
+[Timestamp: 1986, 8 23, 18:00:00
+Location: USS Olympia Officers' Quarters
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+You return to your stateroom and spend the remaining time until 1800 reviewing the sealed orders once more, the red battle lighting casting long shadows across the compact quarters. At 1755 you pack away the documents, check your uniform one final time, and make your way back to the control room. The boat is nearly ready to slip.
+
+Player (choice: confirm_departure_ready):
+Confirm Departure Ready - Signal to Captain Ramsey that you are prepared for the 1800 slip.
+
+============================================================
+SCENE 46
+============================================================
+[Timestamp: 1986, 8 23, 18:00:00
+Location: USS Olympia Control Room
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+You step out of your stateroom at precisely 1758 and make your way forward to the control room. The boat hums with the low, steady vibration of a reactor at full power and the distant, rhythmic click of sonar operators locking bearings. At 1800 the klaxon sounds once—short, sharp, final—and the USS Olympia slips her moorings. The pier falls away into the humid Norfolk dusk as the submarine eases into the Chesapeake channel, black hull sliding silently beneath the sodium lights. Captain Ramsey stands at the periscope well, his silhouette a rigid line against the red battle lighting. The crew moves with quiet, practiced efficiency. No one speaks to you. The Social HP challenge with the crew remains at 3/3—RESISTING.
+
+Player (freeform):
+Do some final grooming back at my room, just to stay in regs.
+
+============================================================
+SCENE 47
+============================================================
+[Timestamp: 1986, 8 23, 17:58:00
+Location: USS Olympia Officers' Quarters
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+You return to your stateroom and take a few minutes to ensure your appearance meets Navy regulations before the boat slips. Your officer's duty blues are already crisp and starched, but you run a quick hand over your hair, check your insignia, and smooth any remaining wrinkles from the fabric. The red battle lighting in the compact quarters casts a sharp, professional silhouette in the mirror. Satisfied that you remain in regs, you pack away the sealed orders, check your personal kit one final time, and step back into the passageway at 1758, ready for the 1800 departure.
+
+Player (freeform):
+Final grooming check, go over the hair meticulously.
+
+============================================================
+SCENE 48
+============================================================
+[Timestamp: 1986, 8 23, 17:58:00
+Location: USS Olympia Officers' Quarters
+Status: Lvl 1 Naval Officer | HP: 11/11 | Gold: 100 | XP: 0/300
+Conditions: None | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 1/1 | Spells: N/A | Service Pistol: 15/15
+
+Game Master:
+You return to your stateroom and take a few minutes to ensure your appearance meets Navy regulations before the boat slips. Your officer's duty blues are already crisp and starched, but you run a quick hand over your hair, check your insignia, and smooth any remaining wrinkles from the fabric. The red battle lighting in the compact quarters casts a sharp, professional silhouette in the mirror. Satisfied that you remain in regs, you pack away the sealed orders, check your personal kit one final time, and step back into the passageway at 1758, ready for the 1800 departure.

@@ -1,3 +1,7 @@
+## [2026-08-23] ingest | Command Research Methodology & Top 20 Empirical Audit
+
+Key claims: Multi-store empirical data mining across 128k+ session turns in Hermes SQLite, Claude Code JSONLs, and Codex SQLite. Resolved the system-reminder substring noise trap via exact prompt-start regex and canonical `<command-name>` tag matching. Established dual taxonomy (Human-Typed interactive staples vs Agentic autonomous rails). Top Human: `/advice` (8,145), `/green` (4,090), `/repro` (2,954), `/research` (2,690, 66.7% human), `/ms` (2,586), `/history` (2,320). Top Agentic: `/es` (19,475), `/er` (18,273), `/green` (13,625), `/smoke` (8,282), `/execute` (7,136). Implemented unified multi-store scanner in `~/.claude/skills/command-research/scripts/count_command_usage_unified.py` and wrapped with `/command-research`. New pages: source [[command-research-methodology-and-top20-audit-2026-08-23]], concept [[CommandResearchMethodology]].
+
 ## [2026-08-14 17:30 PT] scope correction | Avatar Scene Gen → Overlord-only
 
 User clarified: strict last-20 + ≥50 entries → only 1 campaign qualifies (Overlord shy lich, JQeI1Aq5, 364 entries). All 5 scenes from that campaign.
@@ -7368,3 +7372,27 @@ Operations:
 - Note: doc body self-reference to its own ID has a known one-version lag (the body was written before the create returned the new ID). Local MD canonical.
 
 ## [2026-08-23] ingest | Mobile latency root cause: dev test-harness concurrency, not a code regression
+
+## [2026-08-23] ingest | Verify agent-call independence empirically, not from naming/docstrings
+
+## [2026-08-23] ingest | Gemini 3 ThinkingConfig Low Level and Code Execution Mutual Exclusion
+- Ingested source page `sources/gemini-3-thinking-low-and-code-execution-mutual-exclusion.md`
+
+## [2026-08-23] ingest | Ablation confound check before accepting a null result
+
+## [2026-08-24] ingest | Always check ~ and repo for skill location
+- Ingested source page `sources/feedback-2026-08-24-always-check-home-and-repo-for-skill-location.md`
+## [2026-08-24] ingest | Concurrency ceiling: GIL cores vs thread count, real max drives autoscale
+## [2026-08-25] ingest | Keynote deck build — two lessons
+- Ingested source page `sources/keynote-deck-build-lessons.md`
+- Render-over-reconstruction for lost diagram sources; categorization needs source-structure verification
+
+## [2026-08-25] ingest | Autoscaling operating points need stochastic evidence and secret-safe publication
+
+- Source: `raw/project_2026-08-25_autoscaling-operating-point-and-secret-safe-evidence.md`
+- Wiki: `wiki/sources/project-2026-08-25-autoscaling-operating-point-and-secret-safe-evidence.md`
+- Concepts updated: `cloud-run-autoscaling`, `EvidenceBundles`
+- PR: #9330 at `aa8400c345cad0280dccf6efc7723fe75c488588`
+- Evidence: https://gist.github.com/jleechan2015/1be36c09f91141e4cd1f90931fb4d6f5
+- Bead: `rev-0eo4n`
+- Does not affect [[jeffrey-oracle]]
