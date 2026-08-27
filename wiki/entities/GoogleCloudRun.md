@@ -17,3 +17,4 @@ Google Cloud managed compute service used as primary deployment platform for Wor
 ## Connections
 - [WorldArchitectAI](WorldArchitectAI.md) — deployed to Cloud Run
 - [Gunicorn](Gunicorn.md) — runs within Cloud Run containers
+- [[CloudRunTrafficRouting]] — a named-revision traffic pin from an autoscaling experiment blocked all newer deploys from serving traffic on `mvp-site-app-dev`; fixed via `--to-latest` in PR #9398

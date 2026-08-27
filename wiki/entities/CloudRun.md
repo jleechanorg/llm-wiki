@@ -12,3 +12,4 @@ Google Cloud serverless container platform that provides the deployment target f
 ## Connections
 - [[GunicornConfigurationWorldarchitectAiProduction]] — deployment configuration uses Cloud Run PORT env var
 - [[WorldArchitectAIDockerProductionImage]] — container image for Cloud Run deployment
+- [[CloudRunTrafficRouting]] — revision readiness vs traffic routing vs endpoint resolution are separate facts; canonical deploys must pass `--to-latest`

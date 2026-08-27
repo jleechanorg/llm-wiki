@@ -1,7 +1,7 @@
 # WorldArchitect Cloud Run capacity centralization
 
 Source: worldarchitect.ai PR 9330, exact head
-`f17e7fa024f5e0bbdce7a451f50a7dbf4f6b559f`.
+`bcb6391943dafc59d934f95da3091207b6e429dc`.
 
 The repository centralizes all app-service Cloud Run capacity in
 `scripts/shared_config.sh` and routes dev, staging, stable/production, preview,

@@ -7396,3 +7396,23 @@ Operations:
 - Evidence: https://gist.github.com/jleechan2015/1be36c09f91141e4cd1f90931fb4d6f5
 - Bead: `rev-0eo4n`
 - Does not affect [[jeffrey-oracle]]
+
+## [2026-08-25] ingest | Canonical Cloud Run deploys must restore latest traffic
+
+- Source: `raw/feedback_2026-08-25_cloud_run_deploy_must_restore_latest_traffic.md`
+- Wiki: `wiki/sources/feedback-2026-08-25-cloud-run-deploy-must-restore-latest-traffic.md`
+- New concept: `wiki/concepts/CloudRunTrafficRouting.md`
+- Entities updated: `CloudRun`, `GoogleCloudRun`
+- PR: #9398 at `e919ab53f2c1f2138ea1ea6b1363cb977c3bcde6`
+- Bead: `rev-jcszt`
+- Does not affect [[jeffrey-oracle]]
+
+## [2026-08-25] ingest | Gunicorn Worker Sizing and Cloud Run Concurrency Architecture
+- Source: `gunicorn-worker-sizing-and-cloud-run-concurrency-2026-08-25.md`
+- Added concept [[GunicornCloudRunConcurrency]]
+- Documented Cloud Run GUNICORN_WORKERS=1 rationale, GIL socket release, and traffic pinning failure mode (bead `rev-zqtl7`).
+
+## [2026-08-26] ingest | Dead guard misdiagnosed as live cache trigger
+- Source: `feedback_2026-08-26_dead_guard_misdiagnosed_as_live_cache_trigger.md`
+- Real BQ telemetry (worldarchitecture-ai.llm_forensics.llm_payloads) proved cache_name is dead code (0/2178 DialogAgent calls); real trigger was not allow_code_execution (69% of traffic).
+- PR #9415, bead rev-to7zj.
