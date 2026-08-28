@@ -39,7 +39,19 @@ Subtle indicators showing when enhancement completes ("✨ Story enhanced")
 
 **Source:** `project_2026-05-12_story_budget_ab_null_result.md` in Claude memory, `/tmp/story_budget_ab2/` evidence.
 
+## Gemini dice code-execution A/B pilot stopped after feasibility (2026-08-27)
+
+A 3-pair feasibility pilot compared Gemini-managed code execution (Arm A) against a streaming typed server-tool path (Arm B) for dice rolls. Neither arm proved faster:
+- Arm A: 3/3 mechanism-compliant, median/p95 102.3s/112.6s, despite 96.67–99.15% cached prompt tokens
+- Arm B: 2/3 compliant (one no-tool ITT miss), median/p95 84.4s/157.4s, driven by two sequential provider calls (first call uncached, 31.42s–87.22s)
+- Cache misses explain part of Arm B's latency, but large prompt size (~201k–240k tokens), long provider generation, and two-phase serialization remained material
+
+**Conclusion:** Stopped before the fixed 60-pair/120-turn cohort; retained Arm A in production. Do not repeat without a new product reason or an architecture change that reduces prompt size or removes Arm B's second sequential call.
+
+**Source:** [[project-2026-08-28-dice-ab-stop-decision]], bead `rev-sle47`.
+
 ## Related Concepts
 - [ParallelProcessing](ParallelProcessing.md) — implementation technique
 - [DualPassVerification](DualPassVerification.md) — the system being optimized
 - [[UserExperience]] — the beneficiary of optimization
+- [[DiceProviderFallback]] — related dice-execution routing by model tier
