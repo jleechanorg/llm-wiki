@@ -31,3 +31,5 @@ Games running on flash-lite model tiers get deterministic dice rolls (same input
 
 - [DiceSystemRequirement](DiceSystemRequirement.md) — Dice system requirements
 - [Harness5LayerModel](Harness5LayerModel.md) — Model tier considerations
+- [[LatencyOptimization]] — 2026-08-27 A/B pilot found no latency win from Gemini-managed code execution vs. streaming typed server-tool dice path; pilot stopped, Arm A retained
+- [[project-2026-08-28-dice-ab-stop-decision]] — the stop-decision source record

@@ -7431,3 +7431,11 @@ Operations:
 - New concept: `wiki/concepts/GitHubUpdateBranchNonRewritingSafety.md`
 - PR #9458 recurred the exact 2026-07-10 pattern on the same `.github/workflows/test.yml` block; GitHub's update-branch API failed closed with HTTP 422 instead of forcing a stale merge, confirming the "re-verify mergeability immediately before merge" rule a second time.
 - Does not affect [[jeffrey-oracle]]
+
+## [2026-08-28] ingest | Stop the Gemini dice A/B latency experiment after feasibility
+- Source: `raw/project_2026-08-28_dice_ab_stop_decision.md`
+- Wiki: `wiki/sources/project-2026-08-28-dice-ab-stop-decision.md`
+- Concept updated: `wiki/concepts/LatencyOptimization.md` (new section — Gemini dice code-execution A/B pilot stopped after feasibility)
+- Concept updated: `wiki/concepts/DiceProviderFallback.md` (Related links to the new source/concept)
+- 3-pair pilot compared Gemini-managed code execution (Arm A) vs streaming typed server-tool dice (Arm B); no proven latency winner, worse Arm B tail latency/reliability; stopped before 60-pair cohort, Arm A retained. Bead: `rev-sle47`.
+- Does not affect [[jeffrey-oracle]]
