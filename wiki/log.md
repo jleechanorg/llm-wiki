@@ -7416,3 +7416,11 @@ Operations:
 - Source: `feedback_2026-08-26_dead_guard_misdiagnosed_as_live_cache_trigger.md`
 - Real BQ telemetry (worldarchitecture-ai.llm_forensics.llm_payloads) proved cache_name is dead code (0/2178 DialogAgent calls); real trigger was not allow_code_execution (69% of traffic).
 - PR #9415, bead rev-to7zj.
+
+## [2026-08-27] ingest | Skill archive dependency and migration closure
+- Source: `raw/feedback_2026-08-27_skill_archive_dependency_and_migration_closure.md`
+- Wiki: `wiki/sources/feedback-2026-08-27-skill-archive-dependency-and-migration-closure.md`
+- New concept: `wiki/concepts/SkillArchiveDependencyClosure.md`
+- PR: https://github.com/jleechanorg/jleechan-skills/pull/376; merge `d3ce6fead25dc5bc906a62d67cb7e9a050784b02`
+- Bead: `bd-7nx`
+- Does not affect [[jeffrey-oracle]]
