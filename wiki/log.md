@@ -7431,3 +7431,26 @@ Operations:
 - New concept: `wiki/concepts/GitHubUpdateBranchNonRewritingSafety.md`
 - PR #9458 recurred the exact 2026-07-10 pattern on the same `.github/workflows/test.yml` block; GitHub's update-branch API failed closed with HTTP 422 instead of forcing a stale merge, confirming the "re-verify mergeability immediately before merge" rule a second time.
 - Does not affect [[jeffrey-oracle]]
+
+## [2026-08-28] ingest | /integrate global-script fallback
+
+- Source: `raw/feedback_2026-08-28_integrate_global_script_fallback.md`
+- Wiki: `wiki/sources/feedback-2026-08-28-integrate-global-script-fallback.md`
+- The dark-factory checkout had no local `integrate.sh`; the maintained global script was richer than the top-level marketplace copy despite equal mtimes. A normal run hard-stopped on three backup-branch commits, while `--new-branch` preserved the backup and created `dev1787937579` from `origin/main`.
+- Does not affect [[jeffrey-oracle]]
+
+## [2026-08-28] ingest | Stop the Gemini dice A/B latency experiment after feasibility
+
+- Source: `raw/project_2026-08-28_dice_ab_stop_decision.md`
+- Wiki: `wiki/sources/2026-08-28-dice-ab-stop-decision.md`
+- Concepts updated: `wiki/concepts/GeminiApiVariance.md`, `wiki/concepts/CodeExecutionSandboxOverhead.md`
+- A 3-pair A/B-only feasibility pilot found managed code execution (Arm A, 3/3 mechanism-compliant, 102.3s/112.6s median/p95) more reliable than a streaming typed server-tool path (Arm B, 2/3 compliant, 84.4s/157.4s) despite B's lower median; high cache hit rates (96.67%-99.15%) did not bound Arm A provider-call latency, reinforcing [[GeminiApiVariance]]. Decision: stop before the 60-pair cohort, retain Arm A, no routing change. Bead `rev-sle47`.
+- Does not affect [[jeffrey-oracle]]
+
+## [2026-08-28] ingest | Scenario parity and an independent sentence oracle are mandatory for streaming-scroll claims
+
+- Source: `raw/feedback_2026-08-28_pr9425_semantic_anchor_evidence.md`
+- Wiki: `wiki/sources/feedback-2026-08-28-pr9425-semantic-anchor-evidence.md`
+- New concept: `wiki/concepts/SemanticAnchorScrollRestoration.md`
+- PR #9425 fixed a completion-time viewport yank in `mvp_site/frontend_v1/app.js` where structured completion (Debug Info/DM Notes + four choices) yanked a mid-read sentence out of view; the old follower heuristic conflated active-entry-top-near-scrollport-top with bottom-follow intent. Fix separates mutually exclusive following/reading intent modes and restores position via `Range.getBoundingClientRect()` re-resolution in a bounded rAF transaction. Defines a mandatory 7-part streaming-scroll evidence ledger (SHA/asset hash, anchor identity, trusted-input precondition, real streaming path, completion transition, fixture-owned sentence oracle independent of production matching, every-rAF samples) and explicitly disqualifies entry-root Y, final-only position, scroll-percentage, and copied-production-matcher substitutes. Bead `rev-ppors`.
+- Does not affect [[jeffrey-oracle]]

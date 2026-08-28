@@ -45,6 +45,19 @@ A hard-stop is essentially a free lint check. Use it to:
 
 This converts a "blocked" outcome into a diagnostic workflow. The integrate.sh hard-stop catches the same anti-patterns as the merge-readiness protocol.
 
+## Global-script fallback (no local integrate.sh)
+
+When a repo has no repository-local `./integrate.sh` (e.g. dark-factory,
+2026-08-28), `/integrate` treats the maintained global script under
+`~/.claude/plugins/marketplaces/claude-commands-marketplace/scripts/integrate.sh`
+as the fallback implementation rather than a terminal failure — verified by
+content/hash against the top-level marketplace copy, since the two files can
+share an identical filesystem mtime. The same hard-stop discipline applies:
+run without `--force` first, and if a backup branch hard-stops on local
+commits, use `--new-branch` to preserve it and branch fresh from
+`origin/main` instead of forcing past the guard. See
+[feedback-2026-08-28-integrate-global-script-fallback](../sources/feedback-2026-08-28-integrate-global-script-fallback.md).
+
 ## Known gap (fix candidate)
 
 integrate.sh reports only `M` (modified tracked) files, not `??` (untracked) files. Untracked files pass the hard-stop and get silently lost on checkout.
