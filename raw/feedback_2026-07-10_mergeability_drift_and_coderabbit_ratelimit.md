@@ -62,3 +62,21 @@ Re-fetch before re-stating or acting; read payload bodies not just status labels
 can't see a failure class, fix the agent behavior instead.
 
 Related: [[feedback_2026-07-10_cr_approved_requires_commit_id_equals_head]]
+
+## Confirmation: PR #9458 (2026-08-27)
+
+PR #9458 was independently approved and `MERGEABLE` at
+`255c3cb1a239586ef06965077adfa733905ffe14`. Immediately before the authorized
+merge, a fresh `gh pr view` showed `mergeable=CONFLICTING` and
+`mergeStateStatus=DIRTY` because `main` had advanced over the same
+`.github/workflows/test.yml` block. GitHub's non-rewriting update-branch API
+correctly failed with HTTP 422, so the branch merged current `origin/main`
+normally. The only conflict retained main's string-valued checkout expression,
+which avoids the falsy numeric-zero trap. The post-resolution suite passed 488
+tests plus 84 subtests, an independent reviewer approved the resolution, and
+the PR squash-merged as `16e229ced580b5eca6e50f39825bcb423b9787c1`.
+
+This confirms the existing rule: refresh live mergeability immediately before
+the merge call, even after exact-head review approval. Resolve base drift through
+normal history-preserving integration first; never treat an earlier `/ready`
+snapshot as durable merge authorization evidence.

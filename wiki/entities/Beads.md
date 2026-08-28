@@ -24,3 +24,7 @@ Beads is an issue tracking system used for managing evaluation feedback and game
 ## Operational Pattern: Executable Follow-up Beads
 
 As of 2026-06-12, PR/code-review follow-up beads should include exact source context, current SHA, file/line evidence, actual API/function signatures copied from live code, call-site examples, standards constraints, verification commands, and a staleness note. The reusable skill is `/Users/jleechan/.claude/skills/bead-followup-templates/SKILL.md`.
+
+## Operational Pattern: Redirect Convergence Safety
+
+As of 2026-08-27, a tool that consolidates multiple worktree `.beads` redirects onto one canonical directory is safe only under a five-part contract: dry-run-by-default with plan-SHA-gated `--apply`, operator-supplied (non-self-authorizing) manifest hash and canonical directory, redirect-file-only mutation with DB/WAL/SHM/JSONL fingerprinting, atomic reversible writes proven via `br where`, and fixture-only apply testing. See [[BeadsRedirectConvergence]].

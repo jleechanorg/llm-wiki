@@ -7416,3 +7416,18 @@ Operations:
 - Source: `feedback_2026-08-26_dead_guard_misdiagnosed_as_live_cache_trigger.md`
 - Real BQ telemetry (worldarchitecture-ai.llm_forensics.llm_payloads) proved cache_name is dead code (0/2178 DialogAgent calls); real trigger was not allow_code_execution (69% of traffic).
 - PR #9415, bead rev-to7zj.
+
+## [2026-08-27] ingest | Safe Beads redirect convergence is manifest-bound
+- Source: `raw/project_2026-08-27_safe_beads_redirect_convergence.md`
+- Wiki: `wiki/sources/project-2026-08-27-safe-beads-redirect-convergence.md`
+- New concept: `wiki/concepts/BeadsRedirectConvergence.md`
+- Entity updated: `wiki/entities/Beads.md`
+- Tool SHA-256: `bcf65f4cc8866c637887999d6f50fcda7557bfb555c65777a69c473a1aaf95f3`; two real dry-runs on live topology produced identical plan SHA `1d015ccb...`, `applied=false`
+- Does not affect [[jeffrey-oracle]]
+
+## [2026-08-27] ingest | Mergeability drift confirmed again (PR #9458)
+- Source: `raw/feedback_2026-07-10_mergeability_drift_and_coderabbit_ratelimit.md` (updated with 2026-08-27 confirmation section)
+- Wiki: `wiki/sources/feedback-2026-07-10-mergeability-drift-and-coderabbit-ratelimit.md` (updated in place)
+- New concept: `wiki/concepts/GitHubUpdateBranchNonRewritingSafety.md`
+- PR #9458 recurred the exact 2026-07-10 pattern on the same `.github/workflows/test.yml` block; GitHub's update-branch API failed closed with HTTP 422 instead of forcing a stale merge, confirming the "re-verify mergeability immediately before merge" rule a second time.
+- Does not affect [[jeffrey-oracle]]
