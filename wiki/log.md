@@ -7454,3 +7454,11 @@ Operations:
 - New concept: `wiki/concepts/SemanticAnchorScrollRestoration.md`
 - PR #9425 fixed a completion-time viewport yank in `mvp_site/frontend_v1/app.js` where structured completion (Debug Info/DM Notes + four choices) yanked a mid-read sentence out of view; the old follower heuristic conflated active-entry-top-near-scrollport-top with bottom-follow intent. Fix separates mutually exclusive following/reading intent modes and restores position via `Range.getBoundingClientRect()` re-resolution in a bounded rAF transaction. Defines a mandatory 7-part streaming-scroll evidence ledger (SHA/asset hash, anchor identity, trusted-input precondition, real streaming path, completion transition, fixture-owned sentence oracle independent of production matching, every-rAF samples) and explicitly disqualifies entry-root Y, final-only position, scroll-percentage, and copied-production-matcher substitutes. Bead `rev-ppors`.
 - Does not affect [[jeffrey-oracle]]
+
+## [2026-08-29] ingest | Pin executable catalog source, not only its documentation link
+
+- Source: `raw/project_2026-08-29_pin_executable_catalog_source.md`
+- Wiki: `wiki/sources/project-2026-08-29-pin-executable-catalog-source.md`
+- Concept updated: `wiki/concepts/skill-consolidation-pattern.md`
+- PR #9485; catalog `41ce34ba240f4d5e8ff5c479907db4887598ce00`; merge `9a2b26e71a474e3ab86b5486201d6d91fa6f6401`
+- Does not affect [[jeffrey-oracle]]

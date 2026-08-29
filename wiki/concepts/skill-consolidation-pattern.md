@@ -49,3 +49,18 @@ Result: Agents skip everything and rely on training data priors, which are often
 - [[Agent PR Sprawl]] — The problem this pattern helps solve
 - [Harness5LayerModel](Harness5LayerModel.md) — Skill consolidation addresses L2 (Context layer)
 - [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — The architectural principles being consolidated
+
+## Reproducible external catalog boundary
+
+When consolidation moves shared skills to an external user-scope catalog, pin
+three identities independently:
+
+1. the documentation revision being followed,
+2. the executable source checkout used by the installer,
+3. the runtime configuration directory used for discovery.
+
+A revision-qualified `INSTALL.md` link does not constrain a default-branch
+`git clone` inside the document. Use an explicit detached checkout before
+installation. WorldArchitect PR #9485 established this after an independent
+reviewer blocked the mutable-clone instructions; see
+[[project-2026-08-29-pin-executable-catalog-source]].
