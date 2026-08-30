@@ -56,8 +56,6 @@ The year is **~10,420 A.G.**, more than a thousand years after your death. The *
 
 You have no family in Port Aethelis. You have no protector. You have a forge, a mule, a rented loft, 250 gp in savings, four commissions ahead of you, a guild-master who is politely suspicious, and an empty feeling where the Magister's war-council used to be.
 
-> **The Quiet War begins now.**
-
 ### Tone — *Hardcore Political Realism Engine*
 
 - Consequences outlast intentions. Dead NPCs stay dead. Captains you embarrass stay embarrassed. Bandits you spare come back next season.
