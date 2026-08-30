@@ -4,6 +4,7 @@ type: source
 tags: [cloud-run, mem0, sdk-drift, live-state, fail-closed]
 date: 2026-08-30
 source_file: raw/feedback_2026-08-30_cloud_run_and_mem0_drift_guardrails.md
+bead: rev-67fm6
 ---
 
 ## Summary

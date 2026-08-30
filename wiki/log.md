@@ -7343,6 +7343,8 @@ Updated entities: [[CloudRun]], [[WorldArchitectAI]], [[Mem0HelperFiles]]. Updat
 
 Mem0 fix: jleechanclaw PR #841, commit `e614e005d2ad9fe640f31a21881739a452799aab`; two tests passed, a real fallback add returned `ADD`, and search returned the canary first at score `0.929`.
 
+Bead: `rev-67fm6`.
+
 Oracle impact: reinforces [[jeffrey-oracle]] priorities for production safety, evidence over assertion, fail-closed behavior, and end-state verification; no contradiction introduced.
 
 ## [2026-08-18] ingest | A learnings entry claimed a fix that never landed

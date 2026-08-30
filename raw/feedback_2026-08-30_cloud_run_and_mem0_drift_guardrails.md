@@ -2,7 +2,7 @@
 name: Cloud Run and Mem0 drift require executable and live-state guardrails
 description: Repository policy needs live remediation, while Mem0 health must execute a real search and expose SDK errors.
 type: feedback
-bead: none (Beads workspace lock held by another process)
+bead: rev-67fm6
 ---
 
 # Cloud Run and Mem0 drift require executable and live-state guardrails
