@@ -2,8 +2,8 @@
 title: Mem0QdrantDeployment
 type: concept
 tags: [mem0, qdrant, fastembed, ollama, launchd, deployment]
-sources: [sources/feedback-2026-07-27-mem0-qdrant-diagnosis-recipe.md]
-last_updated: 2026-07-27
+sources: [sources/feedback-2026-07-27-mem0-qdrant-diagnosis-recipe.md, sources/feedback-2026-08-30-cloud-run-and-mem0-drift-guardrails.md]
+last_updated: 2026-08-30
 ---
 
 The local self-hosted mem0 deployment on this machine: native qdrant (v1.14.1) at
@@ -30,6 +30,15 @@ the native binary + WorkingDirectory. If step 1/2 are OK but the helper raises a
 `ValueError` about top-level entity params → migrate the helper from `user_id=` to
 `filters={'user_id': ...}`.
 
+## Executable health proof
+
+Infrastructure readiness does not prove Mem0 recall. After the five diagnostic layers,
+run one real, read-only semantic search through the installed SDK. The Mem0 2.0.14 call
+shape verified on 2026-08-30 is `search(query, filters={'user_id': ...}, top_k=...)`.
+Imports, Qdrant/Ollama/Groq health, and `Memory.from_config()` are prerequisites only.
+
+Credential configuration is not credential health. A real `/learn` write on 2026-08-30 exposed a present but invalid Groq credential (`401 invalid_api_key`) after readiness checks appeared green. jleechanclaw PR #841, commit `e614e005d2ad9fe640f31a21881739a452799aab`, reports the extraction-auth error and preserves one bounded direct memory with `infer=False` through the healthy local embedder and Qdrant path. A real fallback add and semantic search verified the saved canary.
+
 ## Anti-pattern to avoid
 
 Collapsing "service can't start" into "API key missing." Twice on this machine
@@ -49,3 +58,5 @@ under a minute end-to-end.
 - [[QdrantLaunchdPlist]] — what the current plist looks like and why
 - [[Mem0Server]] — collection name, host, port
 - [[ProbeTheBlockerBeforeDeclaringBlocked]] — parent anti-pattern
+- [[ExecutableDependencyHealthChecks]] — end-to-end health proof at the client boundary
+- [[SilentFailurePathPattern]] — why swallowed compatibility errors appeared healthy

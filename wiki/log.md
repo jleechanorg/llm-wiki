@@ -1,3 +1,9 @@
+## [2026-08-30] ingest | Portable skill contracts must fail closed without project schema names
+
+Key claims: Portable skills must use neutral contract nouns (not project-specific like request_json); evidence taxonomies need exclusive classes (no unspecified alternatives); negative regression assertions required; exact-head re-review after every commit.
+
+Bead: bd-skill-catalog-optimization-tsg.8
+
 ## [2026-08-23] ingest | Command Research Methodology & Top 20 Empirical Audit
 
 Key claims: Multi-store empirical data mining across 128k+ session turns in Hermes SQLite, Claude Code JSONLs, and Codex SQLite. Resolved the system-reminder substring noise trap via exact prompt-start regex and canonical `<command-name>` tag matching. Established dual taxonomy (Human-Typed interactive staples vs Agentic autonomous rails). Top Human: `/advice` (8,145), `/green` (4,090), `/repro` (2,954), `/research` (2,690, 66.7% human), `/ms` (2,586), `/history` (2,320). Top Agentic: `/es` (19,475), `/er` (18,273), `/green` (13,625), `/smoke` (8,282), `/execute` (7,136). Implemented unified multi-store scanner in `~/.claude/skills/command-research/scripts/count_command_usage_unified.py` and wrapped with `/command-research`. New pages: source [[command-research-methodology-and-top20-audit-2026-08-23]], concept [[CommandResearchMethodology]].
@@ -7329,6 +7335,16 @@ Operations:
 - Beads: `rev-6653w` (closed), `rev-53zwf`, `rev-mkgy6`, `rev-m48hx`
 - Does not affect [[jeffrey-oracle]]
 
+## [2026-08-30] ingest | Cloud Run and Mem0 drift require executable and live-state guardrails
+
+Key claims: Repository policy and live Cloud Run state require independent proof; only dev and stable may default to one minimum instance. Mem0 health requires a real read-only semantic search using the installed SDK call shape, compatibility tests at every client boundary, and bounded diagnostics from fail-open hooks. Credential presence is not credential health: a configured Groq key returned `401 invalid_api_key`, so extraction failure must preserve a bounded direct memory with `infer=False` rather than silently drop the write.
+
+Updated entities: [[CloudRun]], [[WorldArchitectAI]], [[Mem0HelperFiles]]. Updated concept: [[Mem0QdrantDeployment]]. New concepts: [[RepositoryDefaultsDoNotRemediateLiveState]], [[ExecutableDependencyHealthChecks]].
+
+Mem0 fix: jleechanclaw PR #841, commit `e614e005d2ad9fe640f31a21881739a452799aab`; two tests passed, a real fallback add returned `ADD`, and search returned the canary first at score `0.929`.
+
+Oracle impact: reinforces [[jeffrey-oracle]] priorities for production safety, evidence over assertion, fail-closed behavior, and end-state verification; no contradiction introduced.
+
 ## [2026-08-18] ingest | A learnings entry claimed a fix that never landed
 - Source: `wiki/sources/feedback-2026-08-18-learnings-entry-claimed-a-fix-that-never-landed.md`
 - Raw: `raw/feedback_2026-08-18_learnings_entry_claimed_a_fix_that_never_landed.md`
@@ -7462,3 +7478,9 @@ Operations:
 - Concept updated: `wiki/concepts/skill-consolidation-pattern.md`
 - PR #9485; catalog `41ce34ba240f4d5e8ff5c479907db4887598ce00`; merge `9a2b26e71a474e3ab86b5486201d6d91fa6f6401`
 - Does not affect [[jeffrey-oracle]]
+
+## [2026-08-30] ingest | Portable skill contracts must fail closed without project schema names
+
+Key claims: Portable skills must use neutral contract nouns (not project-specific like request_json); evidence taxonomies need exclusive classes (no unspecified alternatives); negative regression assertions required; exact-head re-review after every commit.
+
+Bead: bd-skill-catalog-optimization-tsg.8
