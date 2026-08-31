@@ -1,0 +1,1 @@
+Created at wiki/sources/portable-skill-contracts-fail-closed.md

@@ -1,0 +1,1 @@
+Created at wiki/concepts/fail-closed-design.md
