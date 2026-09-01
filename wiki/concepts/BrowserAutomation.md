@@ -17,6 +17,9 @@ Browser automation is a testing technique that uses software to control a web br
 - **Review provenance**: An AI review browser session must use a newly created
   chat and visibly show the requested packet; a shared conversation cannot be
   attributed to a later request.
+- **Packet echo**: For an attachment-backed LLM review, require the returned
+  response to echo the requested revision and exact attachment names; chips
+  alone do not prove the model read the intended packet.
 
 ## Use Cases
 - End-to-end testing of user workflows

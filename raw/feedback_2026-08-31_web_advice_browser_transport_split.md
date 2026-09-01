@@ -47,8 +47,10 @@ independently diagnosable.
 On 2026-08-31, a locally launched headless Chrome session showed the
 Perplexity `jleechan77861 Pro` entitlement and visibly rendered both
 `PR9583_224335_FULL_CODE_FILES.txt` and
-`PR9583_224335_BASE_CODE_FILES_AND_DIFF.txt`. A shared Aside session later
-mixed another PR's conversation, proving why new-chat isolation is mandatory.
+`PR9583_224335_BASE_CODE_FILES_AND_DIFF.txt`. A fresh Perplexity chat in the
+owning app browser then returned a completed PR #9583 response that echoed the
+exact head SHA and both packet names. A shared Aside session later mixed
+another PR's conversation, proving why new-chat isolation is mandatory.
 
 ## References
 
