@@ -3,7 +3,7 @@ title: "Browser Automation"
 type: concept
 tags: [testing, automation, concept]
 sources: []
-last_updated: 2026-04-08
+last_updated: 2026-08-31
 ---
 
 ## Summary
@@ -14,6 +14,9 @@ Browser automation is a testing technique that uses software to control a web br
 - **Headless Mode**: Running browser without visible UI for faster tests
 - **Explicit Waits**: Waiting for elements to be present/clickable before interaction
 - **Element Locators**: By.ID, By.CSS_SELECTOR, By.XPATH, By.TAG_NAME
+- **Review provenance**: An AI review browser session must use a newly created
+  chat and visibly show the requested packet; a shared conversation cannot be
+  attributed to a later request.
 
 ## Use Cases
 - End-to-end testing of user workflows

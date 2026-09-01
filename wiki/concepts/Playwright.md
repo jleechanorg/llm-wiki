@@ -3,7 +3,7 @@ title: "Playwright"
 type: concept
 tags: [browser-automation, testing, framework]
 sources: [playwright-ui-display-test]
-last_updated: 2026-04-08
+last_updated: 2026-08-31
 ---
 
 ## Definition
@@ -17,6 +17,8 @@ Used for UI integration tests that navigate to campaign URLs and validate struct
 - Automatic waiting for elements
 - Screenshot capture
 - Multi-browser support
+- Can launch the installed Chrome headlessly in an isolated context for CLI
+  browser work, with vendor-specific upload handling and visible file checks.
 
 ## Related
 - [StructuredFieldDisplay](StructuredFieldDisplay.md)
