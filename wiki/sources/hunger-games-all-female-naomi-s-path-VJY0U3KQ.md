@@ -2,10 +2,10 @@
 title: "Hunger Games (All-Female): Naomi's Path"
 type: source
 tags: [campaign, worldarchitect, hunger-games-all-female-naomi-s-path]
-date: 2026-08-31
+date: 2026-09-02
 source_file: /tmp/campaign_daily_ingest/VJY0U3KQy0zPxkhl0b3A/Hunger Games _All-Female__ Naomi_s Path_VJY0U3KQ.txt
 campaign_id: VJY0U3KQy0zPxkhl0b3A
-entry_count: 70
+entry_count: 98
 user_email: "ethandezilva@gmail.com"
 user_uid: "WUqz9qmvFDRBCg3hPbI93LuDc9m2"
 ingest_batch: download-campaign-skill
@@ -714,3 +714,307 @@ Naomi, you try to summon that same Seam-born savagery that broke Stephanie’s n
 Your momentum carries you right into the blade. The steel hunting knife doesn't just bite; it rakes a hot, crimson line from the side of your windpipe across your collarbone. Pain, sharp and blinding, flares through your chest as the world begins to tilt and blur. Blood—your blood this time—soaks into your shirt in a fast, rhythmic pulse. 
 
 Rhyni slams you back against the oak bark again, her eyes wide as she watches the life start to leak out of you. You're down to 1 HP, pinning you to the tree with the cold indifference of a Capitol butcher. Your vision is swimming with dark spots, the heavy scent of moss and pine being replaced by the metallic tang of your own demise. Stephanie is starting to scramble back to her feet, wiping blood from her ruined face, and the two of them look ready to finish the 'trash' from District 12 once and for all. You can hear the gurgle in your own throat—and it sounds a lot like the start of a very loud death.
+
+God Mode:
+The headbutt should've succeeded
+
+============================================================
+SCENE 36
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 550/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+[God Mode turn — no narrative]
+
+Player (choice: god:return_story):
+Return to the Story - Resume the fight with Naomi having the upper hand over the dazed Rhyni.
+
+============================================================
+SCENE 37
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 550/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Day 1, Morning (06:51:00)
+
+Naomi, the desperate impact of your skull against Rhyni's face resonates through your entire body, but it’s a sound of salvation. The iron-scented mask of blood on your face is joined by fresh crimson—Rhyni’s this time—as she reels back, her grip on the hunting knife finally shattering. The blade that was seconds away from ending your story now wavers uselessly in the air as she stumbles, clutching her forehead with a dazed, glassy-eyed expression.
+
+You wrench yourself away from the oak tree, your breath coming in jagged, burning lunges. Your ribs are a map of fire and your shoulder is soaked in your own blood, but you are no longer pinned. To your left, Stephanie is finally regaining her footing, her white nail polish stained pink as she tries to stem the flow from her ruined nose, her eyes wide with a newfound, trembling terror. 
+
+The heavy mace lies in the dirt just a few feet away, glinting in the pale morning light. Rhyni is vulnerable, her tactical brilliance replaced by a concussive fog. You have a handful of heartbeats before the shock wears off and the District 15 pair remembers they still have you outnumbered. The Deep Forest watches, silent and hungry, as the Seam-trash from District 12 finally starts to look like a threat.
+
+Player (freeform):
+Try to attack and finish off Rhyni, but the other one is back and prevents me from doing so.
+
+============================================================
+SCENE 38
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 550/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (06:52:00)
+
+Naomi, you don't hesitate. With Rhyni dazed and staggering from the force of your headbutt, you lunge forward, your hunting knife held in a white-knuckled grip. Behind you, Stephanie shrieks—a wet, bubbling sound through her shattered nose—and throws herself at your back, her fingers clawing at your shoulder to drag you away from her partner.
+
+But the Seam doesn't breed hesitation. You twist your torso, the damp fabric of your jacket slipping through Stephanie’s bloody grasp as her frantic interference fails to find purchase. You drive the knife home. The blade finds the soft, vulnerable space between Rhyni’s jaw and her collarbone with clinical precision. There is no struggle, no 'loud' departure like Andrea's. Rhyni’s eyes, still clouded by the fog of your strike, simply go dull. Her body goes instantly limp, her weight collapsing forward before sliding down the rough, lichen-covered bark of the oak tree like a discarded doll. Death Type 4: the light just goes out.
+
+Rhyni: 8 → 0 (Dead)
+
+You stand over the cooling corpse of the District 15 girl, your chest heaving in ragged plumes of white air. Stephanie falls back into the dirt, her ruined face twisted in a mask of pure, unadulterated horror as she watches the partner she's spent the last few weeks allied with vanish in a heartbeat. The forest is silent, the mock-serene sunlight stabbing through the canopy to illuminate the blood pooling around Rhyni's head. You're down to 5 HP, your shoulder is soaked in crimson, and the girl with the white nail polish is looking at you like you're the monster from her worst nightmares.
+
+Player (freeform):
+Try to finish off the taller one, though she's a very competent knife fighter.
+
+============================================================
+SCENE 39
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 550/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Day 1, Morning (06:53:00)
+
+Naomi, you surge forward, your blood-slicked hunting knife aiming for Stephanie’s throat while she is still paralyzed by the sight of Rhyni’s lifeless form. But the Seam-bred grit only goes so far when your shoulder is a map of shredded muscle and your ribs are screaming with every breath. You lunge, but your Speed of 4 is a cruel anchor in this dance of death; your strike is clumsy, the blade whistling through empty air as your boots skid on a patch of moss-covered roots.
+
+Stephanie isn't the 'smart one,' but grief has a way of sharpening the reflexes. She shrieks—a raw, high-pitched sound that probably would've gotten her a noise complaint in District 15—and slashes back with a wild, uncoordinated ferocity. Her knife misses your chest by a hair’s breadth, the wind of the blade cold against your skin. You both stagger apart, panting and bleeding, the silence of the Deep Forest feeling heavier than the humid air.
+
+You’re both a mess. You’ve got the blood of two girls on your face and a hole in your shoulder, and she’s got a nose that looks like it was hit by a Peacekeeper’s truncheon. The sarcasm of the situation isn't lost on the trees: here you are, a couple of 'tributes' fighting over a dead body and a metal stick while the Capitol watches from their plush sofas, probably taking bets on who collapses first. You're both exhausted, you're both terrified, and honestly, the forest floor is looking like a more comfortable place to sleep than it was five minutes ago.
+
+Player (freeform):
+Keep knife fighting, but she's too damned good and too competent to let me get a kill shot. I just try to shallowly slash her side or thigh in order to get her to stumble and fall.
+
+============================================================
+SCENE 40
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 600/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (06:54:00)
+
+Naomi, you drop low, the wet crunch of cedar needles beneath your boots as you sweep your stolen hunting knife in a shallow, clinical arc aimed at Stephanie’s thigh. You aren't looking for a kill—you’re looking for a mistake, a stumble, anything to break the rhythm of a girl who clearly spent her life training for this moment. But Stephanie is 'Career-lite' for a reason. Even with a nose that's a flattened, purple mess, her footwork is disturbingly precise. She pivots on her heel, your blade slicing through the air where her leg was a heartbeat ago.
+
+Stephanie doesn't just dodge; she punishes. As you overextend, she drives a counter-lunge toward your throat, her white-tipped fingers steady despite her sobbing breath. You jerk your head back, the cold wind of her steel whistling past your ear as you scramble to reset your stance. Both of you are gasping, your chests heaving in the damp forest air, blood—yours, Rhyni's, and Stephanie's—painting a grisly mural on the forest floor.
+
+She's good. Too good. You’re kneeling among the dead, your shoulder screaming in protest at every move, while Stephanie circles you with the cold, focused eyes of a predator who knows she has more time than you do. The heavy mace still lies in the dirt, a silent reminder of the power you can't quite reach.
+
+Player (freeform):
+Try to push her forwards to the ground.
+
+============================================================
+SCENE 41
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 610/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (06:52:00)
+
+Naomi, you plant your feet and heave, putting every ounce of your Seam-bred muscle into a desperate shove to cast Rhyni aside. But the blood loss from your shoulder and the jagged pain in your ribs sap your strength. You’re clumsy, your boots sliding on the slick, bloody moss beneath the oak. Rhyni is dazed, her head lolling and eyes unfocused, but she is heavy—a solid weight of District 15 privilege and fear that refuses to budge. Instead of a clean shove, you only succeed in jarring her further, the impact sending a fresh bolt of agony through your wounded shoulder.
+
+The concussive fog in Rhyni's eyes begins to clear as she snarls, her fingers tightening on the bark of the tree to steady herself. She isn't on the ground; she's still right in your face, and the hunting knife in her hand is starting to look steady again. Behind you, the sound of Stephanie’s frantic, wet breathing grows closer. The 'taller one' is back on her feet, her broken nose a grotesque mask of purple and red, and she is no longer shrieking. She’s silent now, her eyes fixed on the back of your neck with a cold, focused hatred.
+
+You're still backed against the oak, your breath coming in ragged, shallow gasps. The mace is a few feet away, mocking you from the dirt. You had the upper hand for a heartbeat, and it slipped through your blood-stained fingers.
+
+Player (freeform):
+Engage the remaining girl, though she's a damned good knife fighter
+
+============================================================
+SCENE 42
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 610/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (06:55:00)
+
+Naomi, you surge forward with the cold, lethal intent of a girl who has already seen three people die today. Stephanie is still reeling from the shock of Rhyni’s sudden departure, her white-tipped fingers trembling as she grips her knife. You lunge, your blade finding the gap in her guard and slicing a deep, crimson line across her forearm—a shallow but painful wound that forces a sharp cry from her lips.
+
+Stephanie: 12 → 9
+
+But the girl from District 15 isn't just a merchant's daughter; she’s a fighter with the instincts of someone who has spent hours in the training centers. Even as she stumbles back, she pivots on her heel, her knife flashing in a desperate, instinctual counter-arc. The steel catches you across the ribs, a precise and agonizing graze that burns like white-hot iron. It’s a glancing blow, but in your weakened state, it feels like a heavy toll.
+
+Naomi: 5 → 4
+
+You both stagger apart, the silence of the Deep Forest punctuated only by your ragged, shallow breathing. The ground between you is a graveyard of broken alliances and cooling corpses. Stephanie’s face is a grotesque mask of blood and hatred, her eyes fixed on the knife in your hand. She’s good—dangerously good—and she knows that every drop of blood you lose brings her one step closer to being the one who walks away. The heavy mace still lies in the dirt, a silent weight waiting for whoever is fast enough to seize it.
+
+Player (freeform):
+Avoid her slashes as she tries to take Naomi's throat
+
+============================================================
+SCENE 43
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 610/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (06:56:00)
+
+Stephanie is a whirlwind of grief-fueled desperation, her white-tipped fingers white-knuckled on the hilt of her knife. She doesn't just slash; she hunts for your throat with a terrifying, calculated speed that mocks your Seam-born fatigue. You twist your torso, your boots skidding on a patch of blood-slicked moss, but you aren't fast enough to escape her reach entirely.
+
+The steel whistles past your ear, a cold whisper of death that catches the skin just below your jaw. It's a shallow, burning line—hardly the kill shot she intended—but the sting is a sharp reminder that your Speed of 4 is failing you in this dance. Blood, hot and rhythmic, starts to trickle down into the collar of your jacket, mingling with the iron scent of Rhyni's cooling remains.
+
+Naomi: 4 → 3 HP
+
+Stephanie isn't backing down. She's circling you now, her ruined nose making her breathing sound like a wet, ragged snarl. She knows you're wounded. She knows you're slow. And she knows that in this forest, the only thing that matters is who stops moving first. The heavy mace is still there, lying in the dirt between you like a silent prize for whoever has the nerve to reach for it first.
+
+Player (freeform):
+Fight her again, but she's too damned good. Instead pivot, rather than trying to kill her, do a shallow strike on her thigh to get her to fall.
+
+============================================================
+SCENE 44
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 620/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (06:57:00)
+
+Naomi, you try to pivot, your boots churning up the wet mulch as you shift your focus from her lethal guard to the exposed muscle of her right thigh. You aren't looking to kill anymore—you're looking to unbalance her, to bring the 'damned good' fighter down to your level on the forest floor. But Stephanie is a mirror to your desperation, her white-tipped fingers steady as she anticipates the change in your center of gravity. As you lunge with a shallow, raking arc, she simply steps into your space, her hip checking yours and sending your strike whistling harmlessly into the bark of a sapling.
+
+She doesn't give you a second to breathe. Before you can reset your stance, Stephanie’s knife flashes in a tight, practiced counter-cut. The steel bites into your forearm, a hot, shallow sting that adds a new rhythm of pain to your already screaming shoulder. You stumble back, your breath coming in wet, ragged hitches, the copper tang of blood now thick in the back of your throat.
+
+Naomi: 3 → 2 HP
+
+Stephanie isn't just winning; she's dismantling you. She circles with a predatory grace that District 12 never taught, her eyes tracking the widening stain on your jacket. She’s waiting for you to bleed out, her ruined nose a grotesque badge of the damage you managed to land before she found her rhythm. The Cornucopia mace lies in the dirt, a heavy, silent witness to the fact that you are running out of heartbeats.
+
+Player (freeform):
+Use all my strength to wrench her hair and drop her to her knees.
+
+============================================================
+SCENE 45
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 620/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (06:58:00)
+
+Naomi, you surge forward with a desperate, wordless snarl, your fingers clawing through the humid air to catch the dark strands of Stephanie’s hair. You want to drag her down, to use your weight to shatter her rhythm and ground this fight. But your shoulder is a shredded mess of heat and pain, and your legs feel like they're made of water. Stephanie sees the move coming before you've even committed—she sidesteps the lunge with a dancer's grace, her expression shifting from terror to a cold, predatory focus as she realizes how little strength you have left.
+
+You overextend, your boots skidding on the blood-slicked moss, and for a terrifying second, you are completely exposed. Stephanie doesn't waste the opening. Her knife flashes in a tight, upward arc, catching you across the cheek and neck. The steel is cold, then hot, then everything is just wet. You stumble back, your hand flying to the new wound, and you can feel the rhythmic, terrifying pulse of blood through your fingers. You're down to your last reserves of life, and the forest is starting to go quiet around the edges.
+
+Naomi: 2 → 1 HP
+
+Stephanie stands over you, her breathing heavy and wet through her broken nose. She looks at Rhyni’s cooling corpse, then back at you, her white-tipped fingers tightening on the hilt of her blade. She knows she only needs one more strike. The heavy mace lies in the dirt just out of reach, a silent monument to the fight you're currently losing. The District 15 girl isn't playing anymore—she’s just waiting for you to stop moving.
+
+Player (choice: last_stand_mace):
+The Last Gamble: Dive for Mace - Throw yourself across the dirt and grab the mace. If you get it, one hit ends this. If you miss, you're dead.
+
+============================================================
+SCENE 46
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 620/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (06:59:00)
+
+Naomi, you throw yourself across the dirt with the grace of a sack of coal falling off a wagon. You don't so much 'dive' as you trip over Rhyni’s cooling heel and eat a face-full of wet hemlock needles and blood-slicked mulch. The golden Cornucopia mace is *right there*, barely three feet from your outstretched fingers, glinting in the morning light like a prize you aren't allowed to have. Your Speed of 4 has never felt like a heavier anchor than it does right now, face-down in the mud.
+
+Stephanie shrieks, a raw, bubbling sound, and lunges down to finish the job. The hunting knife arcs toward your exposed back—a strike that should have been your end. But the Seam luck holds by the narrowest of margins. As you hit the ground, you shift just enough that her blade snags on the heavy, water-resistant nylon of your supply backpack. The steel skids off a mess kit inside with a sharp, metallic *clack* instead of burying itself in your spine. 
+
+Stephanie stumbles, her own momentum carrying her slightly past you, her white-tipped fingers trembling as she scrambles to reset her footing. You are prone, you are at 1 HP, and you are currently staring at a carrion beetle that seems much better at surviving this forest than you are. The mace is within reach, but the District 15 girl is already turning back, her face a mask of frantic, homicidal grief. One of you is going to die in the next six seconds, and right now, the forest is taking bets against the girl from Twelve.
+
+Player (freeform):
+Stephanie drives the knife into the back of Naomi's neck. Her body kicks and thrashes and spasms, even though she died instantly.
+
+============================================================
+SCENE 47
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 620/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+Morning (07:00:00)
+
+Well, that's one way to end a morning stroll. You’re pinned in the mulch, fingers centimeters from the golden mace, but Stephanie is just a fraction of a second faster. She doesn't hesitate—not this time. She drops her full weight onto your back, her knees pinning your shoulder blades into the damp earth, and drives her hunting knife deep into the base of your skull.
+
+It’s a perfect strike, theoretically. The steel severs the spinal cord, a clinical 'instant' kill that the Capitol’s medical sensors probably register as a flatline immediately. But you’re a District 12 girl, Naomi, and your body didn't get the memo about going quietly. Even as the light in your eyes shatters, your muscles ignite in a final, violent rebellion. Your back arches with a sickening crack, your limbs thrashing against the dirt as you try to throw Stephanie off. You claw at the air, your fingers spasming as they graze the metal of the mace one last time, your heels drumming a frantic, dying rhythm into the bloody cedar needles.
+
+Stephanie shrieks, terrified by the sheer ferocity of your corpse's refusal to stop moving. She has to hold the knife handle with both hands just to keep from being bucked off as you choke on a final, rattling scream that never quite makes it past your severed windpipe. You fight for every nanosecond of consciousness, thrashing and spasming in a grotesque dance of Seam-bred spite until, finally, the biological clock just runs out of sand.
+
+Naomi: 1 → 0 (Dead)
+
+And just like that, the 28th Women's Hunger Games loses its Seam-trash hopeful. A bit messy, wasn't it? You really should have worked on that Speed stat—tripping over a dead girl's foot isn't exactly the heroic finale the sponsors were looking for. Stephanie stumbles away from your cooling remains, her white nail polish now entirely obscured by your blood, and collapses into a sobbing heap next to Rhyni. The forest is quiet now, save for the mocking laughter of a jay in the canopy and the distant, electronic hum of a Capitol drone coming to collect the trash. Better luck in the next life, Naomi. Or not.
+
+Player (choice: view_death_recap):
+View Final Standings - See which tributes remain and how the day ends.
+
+============================================================
+SCENE 48
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 620/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+The sun dips below the horizon of the Deep Forest, casting long, jagged shadows across the mulch where Naomi’s cooling body lies. Stephanie is long gone, having scavenged what she could and fled into the darker reaches of the woods, clutching her partner's heavy mace like a talisman. As the first stars blink through the humid canopy, the anthem of Panem begins to play—a triumphant, mocking orchestral swell that vibrates through the earth.
+
+One by one, the faces of the fallen flicker across the dark expanse of the sky, projected from high-altitude hovercraft for all the tributes to see.
+
+First is **Manjari (District 3)**, the girl Naomi left gutted at the golden horn. Then **Aisha (District 2)**, who apparently discovered that being 'unfit' is a fatal condition in the opening minutes of the games. **Yoshana (District 8)**, **Kenya (District 6)**, and **Nihari (District 5)** follow—names now relegated to the history books. Then comes **Rhyni (District 15)**, looking much more dignified in her portrait than she did sliding down that oak tree.
+
+Finally, the seal of District 12 appears, followed by Naomi’s face. The Capitol broadcast surely replayed her final moments in high definition: the desperate dive, the trip over a cooling corpse, and that delightful thrashing at the end. Truly, the Seam provides the best entertainment. 
+
+Seven cannons have fired today. Twenty-one tributes remain. Naomi, however, is merely part of the evening’s cleanup crew. Better luck in the next life, D12. Or not.
+
+Player (choice: spectate_games):
+Spectate the Remainder - Continue the day-by-day recaps of the AI tributes until a winner is crowned.
+
+============================================================
+SCENE 49
+============================================================
+[Timestamp: 1 DR, 1 1, 00:00:00
+Location: Deep Forest
+Status: Lvl 1 Tribute | HP: 5/12 | XP: 620/300 | Gold: 0gp
+Resources: None]
+
+Game Master:
+The 28th Women's Hunger Games didn't exactly get more dignified after Naomi's thrashing exit. With the District 12 girl serving as fertilizer for the deep forest, the remaining tributes spent the next week proving that humans are just hairier, more inventive cockroaches.
+
+**Day 2-3: The Thirst and the Thinning**
+Anudhi (D11) provided the first laugh of the second day, falling off a cliff after a particularly aggressive bee encounter (Type 4: Instant). Vrushali (D7) followed shortly after, quietly slipping away in her sleep after eating the wrong kind of berry (Type 3: Quiet). Very peaceful, if you don't count the internal organ liquidation.
+
+**Day 4-5: The River Massacre**
+The Careers finally found each other, though it wasn't the happy reunion Samantha (D1) hoped for. She was hacked down by a vengeful Christina (D9), her Type 2 death involving a lot of screaming about 'fair play' that the Capitol drones caught in glorious 4K. Christina didn't last much longer, falling to Asuka's (D4) arrows alongside Minoli (D4), who took an arrow to the eye and went limp instantly (Type 4).
+
+**Day 6-8: The Hunter's Moon**
+As the numbers dwindled, the 'working together' group from the Cornucopia turned into a butcher's shop. Amelia (D14) and Nethumli (D8) were picked off during a midnight raid. Stephanie (D15), Naomi's killer, eventually met her end at the hands of Silvia (D1), rolling slowly and moaning for her lost partner Rhyni until the cannon finally cut her off (Type 3). 
+
+**Day 9: The Clever and the Dead**
+Foxface (D5) almost made it. She was outsmarting everyone until she stepped into one of Michelle's (D12) traps. One click, a mechanical hiss, and Foxface was just another Type 4 casualty—no strategy can save you from a landmine. Michelle herself was cornered by Silvia an hour later; her Type 2 death was loud enough to disturb the birds for three miles.
+
+**Day 10: The Finale**
+The final showdown pitted the heavy-hitters against the lucky ones: Silvia (D1), Zainab (D11), and Tanuri (D13). Zainab was the first to go, a quiet, moaning end in the tall grass. Tanuri, the 'unfit' one who somehow survived on sheer spite, put up a hell of a fight, thrashing and screaming as Silvia finally drove a katana through her chest. 
+
+**Victor Crowned**
+As the sun set on Day 10, **Silvia of District 1** stood alone atop the golden horn, bloodied, battered, and shouting her victory to a sky that was already planning next year's ratings. Panem has a new hero, and the Seam has just another empty house to reclaim. Naomi's story is over, but the cycle continues.

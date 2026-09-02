@@ -7494,3 +7494,10 @@ Oracle impact: reinforces [[jeffrey-oracle]] priorities for production safety, e
 Key claims: Portable skills must use neutral contract nouns (not project-specific like request_json); evidence taxonomies need exclusive classes (no unspecified alternatives); negative regression assertions required; exact-head re-review after every commit.
 
 Bead: bd-skill-catalog-optimization-tsg.8
+
+## [2026-08-31] ingest | Disk-audit apparent-vs-actual size + backup-home.sh dual Dropbox target bug
+
+Key claims: Dropbox duplication report conflated apparent/cloud size with actual local disk (`stat -f blocks`); flagged folders were dataless Smart Sync placeholders (0 local bytes), real local disk usage 10GB not 220GB. Re-verification found a genuine bug: backup-home.sh rclone leg (~line 1220) omits conversation-backups/ prefix, causing real ~55GB Dropbox cloud-quota duplication every 2h. Fix identified, not yet applied.
+
+Bead: rev-3rsl5
+Does not affect [[jeffrey-oracle]]
