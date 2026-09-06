@@ -29,6 +29,25 @@ See: [setup-launchd-dryrun-2026-05-19](../sources/setup-launchd-dryrun-2026-05-1
 - Socket path on macOS: /var/run/tailscale/tailscaled.sock
 - Hermes setup script: `~/.hermes/scripts/setup-launchd.sh`
 
+## Malformed plists fail completely silently (2026-09-05)
+
+A plist missing its top-level `<dict>` wrapper (e.g. truncated to a bare
+`<array>...</array>`) is rejected by launchd with **zero visible error**: no
+crash log, no `launchctl list` entry at all (not even a failed/crash-looping
+one), `launchctl print gui/<uid>/<label>` just says "Could not find service".
+File *presence* on disk is not evidence of load state or validity — verify
+both independently before trusting any tool whose output depends on a
+background launchd job:
+
+```bash
+launchctl list | grep <label>                    # is it loaded at all?
+plutil -lint ~/Library/LaunchAgents/<label>.plist # is the plist itself valid?
+```
+
+Incident: [[disk_magician]]'s 35-min snapshot job plist lost its `<dict>`
+wrapper on 2026-08-31; silently dead for 6 days before discovery. See
+[snapshot-launchd-plist-corruption-and-history-diff-gate](../sources/snapshot-launchd-plist-corruption-and-history-diff-gate.md).
+
 ## Plist template placeholder discipline (2026-05-19)
 
 `setup-launchd.sh` substitutes exactly 4 placeholders. Any other format survives as a literal string:

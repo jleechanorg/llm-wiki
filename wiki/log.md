@@ -7501,3 +7501,7 @@ Key claims: Dropbox duplication report conflated apparent/cloud size with actual
 
 Bead: rev-3rsl5
 Does not affect [[jeffrey-oracle]]
+
+## [2026-09-05] ingest | Snapshot launchd plist corruption + history-diff strict gate (disk_magician)
+disk_magician's 35-min snapshot launchd job's plist lost its `<dict>` wrapper on 2026-08-31; launchd silently refused to load it (invisible in `launchctl list`, no crash log). Fixed 2026-09-05: rewrote plist, `plutil -lint` clean, reloaded. `history diff --days N`'s strict schema_version-2 + full-attribution validator correctly refused to answer during the gap rather than presenting partial data — confirmed working as designed, not a bug. Manual 60-day floor: 672.61 GiB (2026-08-03) vs current 754.82 GiB = ~82.2 GiB gap. New entity [[disk_magician]]; extended concept [[Launchd]] with the silent-plist-corruption pattern. Bead `disk_magician-c96`.
+Does not affect [[jeffrey-oracle]]
