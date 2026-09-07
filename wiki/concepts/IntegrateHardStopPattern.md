@@ -58,6 +58,16 @@ commits, use `--new-branch` to preserve it and branch fresh from
 `origin/main` instead of forcing past the guard. See
 [feedback-2026-08-28-integrate-global-script-fallback](../sources/feedback-2026-08-28-integrate-global-script-fallback.md).
 
+## New sub-case: hard-stop caused by a live concurrent session, not your own drift
+
+The 4 hard-stops above assume the uncommitted state is *yours* — leftover from your own prior work. It can also belong to a **different, currently-running session sharing the same worktree directory** (2026-09-07, `worktree_beads_fix_again`): `git status` reported a large unrelated diff (a `.claude/hooks` archive rename set plus two-tier-core-memory research docs) that had nothing to do with the current session's task. `lsof +D <worktree-path>` showed live `claude.ex`/`aside`/`bash`/`node` processes holding the directory open, and re-running `git diff -- <file>` twice a few seconds apart returned different output — proof of active concurrent editing, not stale drift.
+
+**Rule**: before treating a hard-stop's uncommitted state as "mine to resolve" (commit, stash, or `--force` past it), run `lsof +D <path> | awk '{print $1,$2}' | sort -u` and re-check `git status`/`git diff` twice a few seconds apart. If either shows live external activity or changing output, STOP — do not commit/stash/force. Report the collision and ask which worktree to use, rather than resolving unrecognized changes yourself.
+
+This generalizes beyond `/integrate` to any worktree-mutating command (branch delete, forced checkout, stash) run in a directory you did not just create yourself this turn.
+
+See [feedback-2026-09-07-integrate-shared-worktree-concurrent-session-collision](../sources/feedback-2026-09-07-integrate-shared-worktree-concurrent-session-collision.md).
+
 ## Known gap (fix candidate)
 
 integrate.sh reports only `M` (modified tracked) files, not `??` (untracked) files. Untracked files pass the hard-stop and get silently lost on checkout.
@@ -67,6 +77,7 @@ integrate.sh reports only `M` (modified tracked) files, not `??` (untracked) fil
 ## Sources
 
 - [feedback-2026-06-19-integrate-hard-stop-uncommitted-state](../sources/feedback-2026-06-19-integrate-hard-stop-uncommitted-state.md) — primary source
+- [feedback-2026-09-07-integrate-shared-worktree-concurrent-session-collision](../sources/feedback-2026-09-07-integrate-shared-worktree-concurrent-session-collision.md) — live concurrent-session sub-case, lsof detection technique
 - [[feedback-2026-06-12-integrate-sh-worktree-main-elsewhere]] — prior integrate.sh hard-stop case (different trigger)
 - CLAUDE.md "Worktree Isolation — Edit Your Copy, Not ~/.hermes/ Directly"
 
