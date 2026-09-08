@@ -1,3 +1,11 @@
+## [2026-09-07] ingest | PR #9780 / #9781 Real-Mode Test Cache & Streaming Invariants
+
+- Source: `raw/project_2026-09-07_pr9781_real_mode_test_cache_and_streaming_invariants.md`
+- Wiki: `wiki/sources/project-2026-09-07-pr9781-real-mode-test-cache-and-streaming-invariants.md`
+- Key claims: Real Gemini provider tests must set `WORLDAI_TEST_CACHE="off"` to prevent replay cache from zeroing BQ prompt tokens; `MCPTestBase` scenarios must return `"user_id": dest_uid` for twin campaigns to prevent snapshot 404s; streaming turns require synthesizing `llm_request_responses.jsonl` with HMAC streaming_response_signature from SSE done events; Playwright requires `bypass_csp=True` and non-eval locator polling.
+- Bead: `rev-5alwm`
+- Does not affect [[jeffrey-oracle]]
+
 ## [2026-08-30] ingest | Portable skill contracts must fail closed without project schema names
 
 Key claims: Portable skills must use neutral contract nouns (not project-specific like request_json); evidence taxonomies need exclusive classes (no unspecified alternatives); negative regression assertions required; exact-head re-review after every commit.
