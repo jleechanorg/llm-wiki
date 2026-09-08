@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Two engines, one gateway — v4 (two parallel Gemini flows + SSE return path)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./tokens.css">
+<style>
+  .slide { padding: 40px 72px 34px; display: flex; flex-direction: column; position: relative; }
+  .header-row { display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; margin-bottom: 14px; }
+  .eyebrow { display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
+  .eyebrow .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
+  .eyebrow .tag { font-family: 'JetBrains Mono', monospace; font-size: 13px; color: var(--ink-3); letter-spacing: 0.05em; text-transform: uppercase; }
+  h1 { font-size: 34px; line-height: 1.1; white-space: nowrap; }
+  h1 em { font-family: 'Instrument Serif', serif; font-style: italic; color: var(--accent-deep); }
+  .header-sub { text-align: right; font-family: 'JetBrains Mono', monospace; font-size: 13px; line-height: 1.5; color: var(--ink-3); max-width: 940px; }
+  .header-sub b { color: var(--ink); }
+  .header-sub i { color: var(--code); font-style: normal; }
+
+  .diagram { position: relative; flex: 1; }
+  .box { position: absolute; background: var(--paper); border: 1px solid var(--rule); border-radius: 10px; padding: 12px 18px; box-sizing: border-box; }
+  .box.novel { background: var(--accent-soft); border-color: #e0b58f; }
+  .box .tier { font-family: 'JetBrains Mono', monospace; font-size: 12.5px; color: var(--ink-3); float: right; }
+  .box .star { color: var(--accent); font-size: 15px; float: right; margin-left: 6px; }
+  .box .title { font-family: 'Geist', sans-serif; font-weight: 700; font-size: 22px; color: var(--ink); }
+  .box .detail { font-family: 'JetBrains Mono', monospace; font-size: 15px; color: var(--ink-2); margin-top: 6px; line-height: 1.45; }
+  .box .caption { font-family: 'Geist', sans-serif; font-size: 15px; color: var(--ink-2); margin-top: 6px; line-height: 1.4; }
+
+  .arrow-label { position: absolute; font-family: 'JetBrains Mono', monospace; font-size: 14px; color: var(--ink-3); background: var(--bg); padding: 2px 7px; }
+  .arrow-label b { color: var(--accent-deep); }
+  .arrow-label.ret { color: var(--code); font-size: 13.5px; }
+  .arrow-label.ret b { color: var(--code); }
+
+  svg.connectors { position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: visible; }
+  /* --- arrow encoding: one class per relationship type (see legend) --- */
+  .conn      { stroke: var(--accent); stroke-width: 2; fill: none; stroke-linejoin: round; marker-end: url(#arrow); }
+  .conn.tool { stroke-width: 2.6; stroke-dasharray: 0.1 6.5; stroke-linecap: round; }
+  .conn.write{ marker-end: url(#arrow-open); }
+  .conn.ret  { stroke: var(--code); stroke-width: 2.5; marker-end: url(#arrow-ret); }
+  .conn.bypass { stroke: var(--ink-3); stroke-width: 1.25; stroke-dasharray: 5 4; marker-end: url(#arrow-thin); }
+
+  .legend { position: absolute; background: var(--paper); border: 1px solid var(--rule); border-radius: 10px; padding: 12px 18px; font-family: 'JetBrains Mono', monospace; color: var(--ink-2); }
+  .legend .cols { display: flex; gap: 22px; }
+  .legend .hd { font-family: 'Geist', sans-serif; font-weight: 700; font-size: 14px; color: var(--ink); letter-spacing: 0.06em; }
+  .legend .item { display: flex; align-items: center; gap: 9px; margin-top: 7px; font-size: 13.5px; white-space: nowrap; }
+  .legend .swatch { width: 14px; height: 14px; border-radius: 3px; flex-shrink: 0; }
+  .legend svg.as { width: 44px; height: 12px; flex-shrink: 0; overflow: visible; }
+
+  .note { position: absolute; font-family: 'JetBrains Mono', monospace; font-size: 14.5px; color: var(--ink-3); font-style: italic; line-height: 1.45; }
+  .note.ret { color: var(--code); }
+
+  .stage-card { flex: 1; background: var(--paper); border: 1px solid var(--rule); border-radius: 8px; padding: 12px 14px; }
+  .stage-card .st { font-family: 'Geist', sans-serif; font-weight: 600; font-size: 19px; color: var(--ink); }
+  .stage-card .sd { font-family: 'JetBrains Mono', monospace; font-size: 14.5px; color: var(--ink-2); margin-top: 5px; line-height: 1.45; }
+
+  .footer { margin-top: 8px; padding-top: 10px; border-top: 1px solid var(--rule); display: flex; justify-content: space-between; align-items: center; font-family: 'JetBrains Mono', monospace; font-size: 13px; color: var(--ink-3); }
+</style>
+</head>
+<body>
+<div class="slide">
+  <div class="header-row">
+    <div>
+      <div class="eyebrow"><span class="dot"></span><span class="tag">§ 14 · HIGH-LEVEL ARCHITECTURE</span></div>
+      <h1>Two engines, <em>one gateway</em></h1>
+    </div>
+    <div class="header-sub">
+      Client &rarr; Gateway &rarr; Orchestrator &rarr; AI Engine &rarr; Gemini &rarr; firestore_service &rarr; Firestore &mdash; <i>and back to the browser over SSE</i>.<br>
+      <b>Most turns are a single Gemini call</b> — the dice roll runs in-model via code_execution. A <b>faction battle or intel action costs two calls</b>: between them the server runs the tool and <b>updates game_state</b>, so call 2 narrates against a world that already changed. Pure calculation tools update state too and stay at one call.
+    </div>
+  </div>
+
+  <div class="diagram">
+    <svg class="connectors">
+      <defs>
+        <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#c9683a"/></marker>
+        <marker id="arrow-thin" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#9a8f86"/></marker>
+        <marker id="arrow-ret" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#2a6f55"/></marker>
+        <marker id="arrow-open" markerWidth="10" markerHeight="10" refX="7.4" refY="4" orient="auto"><path d="M1,1 L7.4,4 L1,7 Z" fill="#f6f4ee" stroke="#c9683a" stroke-width="1.2" stroke-linejoin="round"/></marker>
+      </defs>
+
+      <!-- REQUEST / CALL (solid) -->
+      <path class="conn" d="M 404,52 L 574,52" />
+      <path class="conn" d="M 1024,52 L 1194,52" />
+      <path class="conn" d="M 1460,118 L 1460,148" />
+
+      <!-- ASSEMBLED PROMPT — one branch point, two possible flows -->
+      <path class="conn" d="M 890,314 L 890,338 L 390,338 L 390,358" />
+      <path class="conn" d="M 890,338 L 1390,338 L 1390,358" />
+
+      <!-- FLOW 1 (solid) — dice resolved inside the single Gemini call via code_execution -->
+      <path class="conn" d="M 330,518 L 330,552" />
+
+      <!-- FLOW 2 (dotted) — tool loop, entirely inside the right column -->
+      <path class="conn tool" d="M 1100,518 L 1100,552" />
+      <path class="conn tool" d="M 1600,552 L 1600,518" />
+
+      <!-- DURABLE WRITE (hollow head) -->
+      <path class="conn write" d="M 642,640 L 745,640 L 745,740" />
+      <path class="conn write" d="M 1180,712 L 1012,738" />
+      <path class="conn write" d="M 1044,792 L 1134,792" />
+
+      <!-- RESPONSE TO USER (green) — SSE stream back to the browser -->
+      <path class="conn ret" d="M 1640,420 L 1698,420 L 1698,129 L 240,129 L 240,108" />
+
+      <!-- BYPASS / SECONDARY (grey dashed) -->
+      <path class="conn bypass" d="M 1662,808 L 1468,808" />
+    </svg>
+
+    <div class="arrow-label" style="left:416px; top:18px;">HTTP / JSON</div>
+    <div class="arrow-label" style="left:1036px; top:18px;">JSON-RPC 2.0</div>
+    <div class="arrow-label" style="left:1478px; top:114px;">continue_story()</div>
+    <div class="arrow-label" style="left:718px; top:317px;">assembled prompt</div>
+    <div class="arrow-label" style="left:348px; top:522px;">code_execution · same call</div>
+    <div class="arrow-label" style="left:1118px; top:522px;"><b>1</b> &middot; ask</div>
+    <div class="arrow-label" style="left:1268px; top:522px;"><b>2</b> &middot; tool result + updated game_state</div>
+    <div class="arrow-label" style="left:756px; top:656px;">validated delta</div>
+    <div class="arrow-label" style="left:1022px; top:706px;">state delta</div>
+    <div class="arrow-label" style="left:1050px; top:762px;">get_db()</div>
+    <div class="arrow-label ret" style="left:480px; top:119px;"><b>SSE chunks</b> &middot; POST /api/campaigns/&lt;id&gt;/interaction/stream</div>
+    <div class="arrow-label ret" style="left:1538px; top:326px;">narration chunks</div>
+
+    <div class="box" style="left:0px; top:0px; width:400px; height:106px;">
+      <span class="tier">L1</span>
+      <div class="title">Client</div>
+      <div class="detail">frontend_v1/ · Vanilla JS<br>streaming.js reads SSE frames</div>
+    </div>
+
+    <div class="box" style="left:580px; top:0px; width:440px; height:106px;">
+      <span class="tier">L2 · MAIN.PY</span>
+      <div class="title">API Gateway · Flask 3.0</div>
+      <div class="detail">HTTP + auth · Firebase token<br>Flask-Limiter 100/hr</div>
+    </div>
+
+    <div class="box" style="left:1200px; top:0px; width:520px; height:106px;">
+      <span class="tier">L3 · JSON-RPC</span>
+      <div class="title">Orchestration · MCP Server</div>
+      <div class="detail">world_logic.py · 12,378 lines<br>Validates, sanitizes, applies state delta</div>
+    </div>
+
+    <div class="box novel" style="left:0px; top:152px; width:1640px; height:160px;">
+      <span class="star">&#9733;</span>
+      <span class="tier">L4 · PROPRIETARY AI ENGINE</span>
+      <div class="title" style="margin-bottom:12px;">4-stage prompt assembly</div>
+      <div style="display:flex; gap:16px;">
+        <div class="stage-card">
+          <div class="st">Classifier</div>
+          <div class="sd">intent_classifier.py<br>FastEmbed · &lt;50ms</div>
+        </div>
+        <div class="stage-card">
+          <div class="st">Agent Router</div>
+          <div class="sd">agents.py<br>14 agents</div>
+        </div>
+        <div class="stage-card">
+          <div class="st">Prompt Library</div>
+          <div class="sd">agent_prompts.py<br>37+ files</div>
+        </div>
+        <div class="stage-card">
+          <div class="st">Token Budget</div>
+          <div class="sd">context_compaction.py<br>story &ge;30%</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="box" style="left:60px; top:364px; width:580px; height:150px;">
+      <span class="tier">EXTERNAL · COMMON PATH</span>
+      <div class="title">Gemini API · single call</div>
+      <div class="detail">Flash · code-exec sandbox · gemini_provider.py:5465</div>
+      <div class="caption">Most turns. The dice roll runs inside the model via code_execution — the result and the prose come back together.</div>
+    </div>
+
+    <div class="box" style="left:1060px; top:364px; width:580px; height:150px;">
+      <span class="tier">EXTERNAL · RARE PATH</span>
+      <div class="title">Gemini API · two calls</div>
+      <div class="detail">generate_json_mode_content() · llm_service.py:4271</div>
+      <div class="caption">Faction battle + intel ops. Call 1 asks; the server runs the tool and updates game_state; call 2 narrates against a world that already changed.</div>
+    </div>
+
+    <div class="note ret" style="left:768px; top:566px; width:286px;">chunks stream live; done waits for the Firestore commit · llm_parser.py:1485</div>
+
+    <div class="box novel" style="left:60px; top:556px; width:580px; height:152px;">
+      <span class="star">&#9733;</span>
+      <span class="tier">L4 · NOVEL</span>
+      <div class="title">Dice Anti-Fabrication Guard</div>
+      <div class="detail">dice_integrity.py<br>LLM requests rolls; server resolves</div>
+      <div class="caption">Rolls computed in-model via code_execution; the server verifies the evidence and tags RNG provenance.</div>
+    </div>
+
+    <div class="box novel" style="left:1060px; top:556px; width:580px; height:152px;">
+      <span class="star">&#9733;</span>
+      <span class="tier">L4 · NOVEL</span>
+      <div class="title">Faction Tools</div>
+      <div class="detail">faction/tools.py · execute_faction_tool()</div>
+      <div class="caption">Battle sim + intel ops always need call 2. Pure-calculation tools (power / ranking) still update state — the server patches the number in and skips call 2. Trigger: every 3 turns or 24h <b>in-game</b> time, never wall-clock.</div>
+    </div>
+
+    <div class="box" style="left:580px; top:744px; width:460px; height:96px;">
+      <span class="tier">L5</span>
+      <div class="title">firestore_service.py</div>
+      <div class="detail">Atomic, whitelist-sanitized writes</div>
+    </div>
+
+    <div class="box" style="left:1140px; top:744px; width:320px; height:96px;">
+      <span class="tier">L5</span>
+      <div class="title">Firestore</div>
+      <div class="detail">Source of truth</div>
+    </div>
+
+    <div class="note" style="left:1480px; top:750px; width:240px;">bypass: share_token +<br>rate_limiting, raw refs</div>
+
+    <div class="legend" style="left:0px; top:712px; width:556px;">
+      <div class="cols">
+        <div style="width:186px;">
+          <div class="hd">BOXES</div>
+          <div class="item"><span class="swatch" style="background:var(--accent-soft); border:1px solid #e0b58f;"></span>&#9733; proprietary / novel</div>
+          <div class="item"><span class="swatch" style="background:var(--paper); border:1px solid var(--rule);"></span>standard service</div>
+        </div>
+        <div style="width:290px;">
+          <div class="hd">ARROWS</div>
+          <div class="item"><svg class="as" viewBox="0 0 44 12"><path class="conn" d="M2,6 L33,6"/></svg>request / call</div>
+          <div class="item"><svg class="as" viewBox="0 0 44 12"><path class="conn tool" d="M2,6 L33,6"/></svg>tool loop &nbsp;<b style="color:var(--accent-deep)">1</b>&middot; ask &nbsp;<b style="color:var(--accent-deep)">2</b>&middot; result</div>
+          <div class="item"><svg class="as" viewBox="0 0 44 12"><path class="conn write" d="M2,6 L33,6"/></svg>durable write</div>
+          <div class="item"><svg class="as" viewBox="0 0 44 12"><path class="conn ret" d="M2,6 L33,6"/></svg><span style="color:var(--code)">response to user (SSE)</span></div>
+          <div class="item"><svg class="as" viewBox="0 0 44 12"><path class="conn bypass" d="M2,6 L33,6"/></svg>bypass / secondary</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <span>DEVELOP AT IDEA VELOCITY</span>
+    <span>14 / 15</span>
+  </div>
+</div>
+</body>
+</html>

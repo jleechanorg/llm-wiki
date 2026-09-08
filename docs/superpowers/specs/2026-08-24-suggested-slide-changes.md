@@ -1,0 +1,183 @@
+# Suggested new/adjusted slides — for your review, nothing built yet
+
+**Base deck:** `1rGk2ZUIlJw3AkVJmJbdVB5OqAixR6M_xp7lc6lP2awA` (14 slides,
+"Develop at Idea velocity: Agentic AI Summit LA" — confirmed same content as
+the original `1JY7CmnE33b9...`, just re-uploaded).
+
+**How to read this file:** every slide from the base deck is listed in order.
+Default tag is **[KEEP AS-IS]** — per your stated goal, that's the default,
+not an exception. Only a few slides have a **[SUGGESTED EDIT]** flag, each
+with a specific, justified reason (not just "could be clearer"). At the end,
+**[SUGGESTED NEW]** lists slide candidates that do NOT exist in the base deck
+at all — real material from earlier this session, offered as options, not
+assumed.
+
+**Nothing here is applied.** Reply with which suggestions to accept/reject/
+modify, then I write the final MD, you approve that, then I touch Google
+Slides — per `.claude/skills/slides/SKILL.md`.
+
+**One structural tension to flag before the list:** slides 1-13 in the base
+deck are flat images (no editable text — confirmed via `gog slides
+read-slide`, zero `textElements` on any of them). That means **any wording
+edit to those slides requires fully recreating the image**, which trades away
+exact-pixel fidelity to get the wording change. There's no way to patch just
+one word on an image slide. So each [SUGGESTED EDIT] below is a real
+trade-off (lose exact-image fidelity on that one slide, gain accuracy/
+clarity) — flagged explicitly, your call each time.
+
+---
+
+## Base deck, slide by slide
+
+**1. Title — [SUGGESTED EDIT, minor]**
+Top-right currently reads "PRESENTATION · 15 SLIDES" but the deck has 14
+slides. Straightforward factual typo fix, nothing else touched.
+
+**2. The Autonomous Pipeline (§02) — [KEEP AS-IS]**
+
+**3. What is Hermes / Openclaw (§03) — [KEEP AS-IS]**
+
+**4. The Agent Pyramid (§04) — [KEEP AS-IS, with one flag to verify]**
+The right-side "Agents" card lists "Claude Code, Codex, Cursor CLI,
+Antigravity IDE" and the pyramid graphic itself shows an Antigravity logo.
+Earlier this session a terminology audit (referenced in
+`docs/superpowers/keynote-content-review.md:250`) found "Google Antigravity
+dropped" as a real fact-correction to the toolset — I don't have fresh
+verification of that in this conversation, so I'm not asserting it's stale,
+just flagging it for you to confirm: is Antigravity still accurate to list
+here, or should it be removed? If it needs removing, that's a recreate-the-
+image trade-off per the note above (the pyramid graphic itself has the logo
+baked in, not just the text card).
+
+**5. Evolution of AI in Coding (§05) — [KEEP AS-IS]**
+
+**6. Slack Workflow Example (§06) — [KEEP AS-IS]**
+
+**7. CMUX Terminal Workflow (§07) — [KEEP AS-IS]**
+
+**8. What I'm Building: WorldAI (§08) — [KEEP AS-IS]**
+
+**9. Game Summary (§09) — [KEEP AS-IS]**
+
+**10. Technical Highlights (§10) — [KEEP AS-IS]**
+
+**11. High-Level Architecture (§11) — [KEEP AS-IS]**
+
+**12. Anatomy of One Request (§12) — [KEEP AS-IS]**
+
+**13. Four Things Nobody Else Does (§13) — [KEEP AS-IS]**
+
+**14. Find Me, Play the Game (§14) — [KEEP AS-IS]**
+This one IS native editable text (not an image), so if you want any wording
+changes here later they're cheap — no recreation trade-off.
+
+---
+
+## Suggested NEW slides (do not exist in the base deck at all)
+
+These are real material already developed/verified this session, offered as
+options — not assumed, not automatically added.
+
+**[SUGGESTED NEW-A] Cold-open story slide, early in the deck (after Title)**
+The mom's-D&D-campaign story: playing WorldAI with your mother, her character
+owed a grocer NPC (Mr. Park) for supplies on credit, she tried to rage-quit
+in-character ("I'm an undocumented immigrant, I'm gonna go home"), the world
+generated its own consequence in response ("The debt to Mr. Park doesn't
+vanish because you close the door... you're becoming a fugitive from a paper
+trail you can't outrun"), she couldn't quit, and 20 scenes later they shook
+hands on a 10% equity partnership. Source: `wiki/sources/michele-fried-
+chicken.md`, scenes 16/26/27/40 — real, first-person, already verified this
+session. Rationale: strong concrete hook that makes "the world reacts to what
+you do" (already asserted on slide 8/9) tangible with one specific moment,
+before the audience has seen any of the technical slides.
+
+**[SUGGESTED NEW-B] Agenda/"what I'll cover" slide, after Title (or after
+NEW-A)**
+A short 5-item roadmap slide so a first-time audience knows the shape of the
+talk before the pipeline slide starts. Only worth adding if the talk's actual
+flow benefits from an explicit map — optional, lower-conviction than NEW-A.
+
+**[SUGGESTED NEW-C] Industry-context slide, before or after the Pipeline
+slide (§02)**
+The verification-gap stats (Greptile: 27.6% of merged PRs now AI-generated,
+up 28x in 14 months; Sonar: only 48% of developers always verify AI code,
+96% don't fully trust it, 65% of code projected AI-generated by 2027).
+Rationale: gives an outside audience the "why does this problem matter"
+context before diving into your specific pipeline — this was the strongest-
+testing addition from earlier review rounds this session. Real, sourced
+numbers (Greptile 2026, Sonar 2026) — not fabricated.
+
+**Not suggesting:** left-shift/right-shift, the 6-step loop diagram, the CSS
+pyramid rebuild, craftsmanship-vs-velocity, tokenmaxxing, cache-stability,
+harness-decay, "8 bets," or the postmortem slide — all of these were built
+this session with no basis in your actual original material, and per your
+stated goal ("mostly use my original presentation... not give a completely
+different presentation") I'm not re-proposing them. If any one of them
+specifically is something you actually want kept, say which and I'll treat
+it as its own suggested-new item with a real citation trail, not carry the
+whole set back in by default.
+
+---
+
+## DECIDED 2026-08-24: A and B approved, C not requested
+
+**Final order (16 slides):** Title → **NEW-B Agenda** → **NEW-A Cold Open** →
+then all 14 original slides, unchanged, in their original order (§02
+Pipeline through §14 Find Me), renumbered §04→§16.
+
+**Bead correction (2026-08-24):** br-3hh was closed earlier this session on
+a false claim (slide 11 pyramid "fixed" by rebuilding into CSS bands — that
+was a redesign, built on the wrong base deck, violating the pixel-faithful
+constraint). Reopened. br-0r6 and br-5fp remain open, re-scoped to the real
+original's actual slide numbers (see beads for detail) — their concerns may
+already be substantially addressed by the real original's real screenshots
+and cited code refs, needs re-verification once the deck is live, not
+assumed unresolved.
+
+### NEW-B — Agenda (full draft content)
+
+- Eyebrow: `§ 02 · WHAT I'LL COVER`
+- H1: `Five things, *twenty minutes*`
+- Kicker: `No prior context needed — here's the arc.`
+- Agenda items (numbered list, matches the REAL deck's actual arc, not the
+  invented one):
+  1. **The story** — `A real thing that happened, before any of the
+     mechanics.`
+  2. **How it ships** — `One Slack message, the agent pyramid, and the
+     evolution of AI coding.`
+  3. **How I work day to day** — `A real Slack thread and a real CMUX
+     session, not slides about it.`
+  4. **WorldAI, in depth** — `The game itself, the rules that make it
+     real, the architecture, and four things nobody else does.`
+  5. **Find me, play it** — `Links, and an invitation.`
+- Footer: `02 / 16` · `DEVELOP AT IDEA VELOCITY`
+
+### NEW-A — Cold Open (full draft content)
+
+- Eyebrow: `§ 03 · THE STORY`
+- H1: `The player quit. *The world said no.*`
+- Header-right: `First-person, verified.` / `wiki/sources/michele-fried-
+  chicken.md, scenes 16/26/27/40`
+- Body (single focused block, not a card grid — this is the "big idea /
+  moment" slide, matches the visual weight of slide 9's "★ I've spent
+  hundreds of hours" callout style):
+  `I was playing a campaign with my mom. Her character owed a local grocer,
+  Mr. Park, for supplies on credit — a debt the world remembered, not a stat
+  I'd written down. Mid-session, she tried to rage-quit in character:`
+  - pull-quote (italic serif, like the deck's existing quote treatment):
+    `"I'm an undocumented immigrant, I'm gonna go home."`
+  `Instead of fading to black, the world argued back, using consequences it
+  had generated itself:`
+  - pull-quote (rust/accent color, like slide 6's Hermes-reply treatment):
+    `"The debt to Mr. Park doesn't vanish because you close the door... you're
+    becoming a fugitive from a paper trail you can't outrun."`
+  `She couldn't quit. Twenty scenes later, we shook hands with Park on a 10%
+  equity partnership. Nobody hand-coded a "player tries to quit" branch.`
+- Footer: `03 / 16` · `→ the world remembers what you did`
+
+**These are drafts for your review, not built yet.** Say go and I build both
+as real HTML pages matching the base deck's exact visual language (same
+cream/rust/serif-italic/JetBrains-Mono system already confirmed from the real
+images), screenshot them, and push — per skill step 9, this is the one case
+where building fresh is correct, since these are genuinely [NEW] slides with
+no source image to reuse.

@@ -1,0 +1,39 @@
+/* Design tokens for the keynote architecture diagrams.
+ *
+ * RECONSTRUCTED 2026-08-25. The original tokens.css that these diagrams were
+ * rendered against is gone from disk — the HTML was authored in a directory
+ * that no longer exists and only ever lived in /tmp. Without this file the
+ * diagrams render with every colour undefined.
+ *
+ * Values are not invented. bg / paper / accent-soft / accent / code / ink were
+ * recovered by sampling the live slide-14 render pixel by pixel (histogram of
+ * the 1600x900 export); the rest are the values verified natively elsewhere in
+ * the deck via `gog slides raw`.
+ */
+:root {
+  /* surfaces */
+  --bg:           #f6f4ee;   /* slide canvas — sampled, 187k px of the render */
+  --paper:        #fdfcf9;   /* card / box fill — sampled, 87k px */
+  --accent-soft:  #fdf0e3;   /* proprietary-component band — sampled, 38k px */
+
+  /* type */
+  --ink:          #1a1714;   /* headings, box titles — sampled (darkest common) */
+  --ink-2:        #4a443d;   /* body copy */
+  --ink-3:        #8a8278;   /* muted labels, L1..L5 tags, footers */
+
+  /* lines */
+  --rule:         #d8d3c6;   /* box borders, dividers */
+
+  /* accents */
+  --accent:       #c9683a;   /* request / call arrows, step numbers — sampled */
+  --accent-deep:  #a8410f;   /* emphasis inside labels */
+  --code:         #397b62;   /* SSE return path, monospace call-outs — sampled */
+}
+
+/* The diagrams assume these are loaded; keep them in sync with the deck. */
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Geist', -apple-system, BlinkMacSystemFont, sans-serif;
+}
