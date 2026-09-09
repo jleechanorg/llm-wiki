@@ -78,6 +78,7 @@ integrate.sh reports only `M` (modified tracked) files, not `??` (untracked) fil
 
 - [feedback-2026-06-19-integrate-hard-stop-uncommitted-state](../sources/feedback-2026-06-19-integrate-hard-stop-uncommitted-state.md) — primary source
 - [feedback-2026-09-07-integrate-shared-worktree-concurrent-session-collision](../sources/feedback-2026-09-07-integrate-shared-worktree-concurrent-session-collision.md) — live concurrent-session sub-case, lsof detection technique
+- [feedback-2026-09-08-integrate-requires-learn](../sources/feedback-2026-09-08-integrate-requires-learn.md) — sibling failure on the success path: skipping the mandatory post-integration `/learn` step by inventing a separate approval gate
 - [[feedback-2026-06-12-integrate-sh-worktree-main-elsewhere]] — prior integrate.sh hard-stop case (different trigger)
 - CLAUDE.md "Worktree Isolation — Edit Your Copy, Not ~/.hermes/ Directly"
 

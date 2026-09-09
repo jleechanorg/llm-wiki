@@ -27,3 +27,4 @@ content/hash, not mtime, since the two can share a filesystem mtime. See
 - [squash-merge-detection-tests](../sources/squash-merge-detection-tests.md) — tests validates bug fixes
 - [feedback-2026-08-28-integrate-global-script-fallback](../sources/feedback-2026-08-28-integrate-global-script-fallback.md) — global-script fallback + `--new-branch` recovery pattern
 - [[IntegrateHardStopPattern]] — hard-stop / `--new-branch` recovery discipline this fallback case follows
+- [feedback-2026-09-08-integrate-requires-learn](../sources/feedback-2026-09-08-integrate-requires-learn.md) — successful `/integrate` must always run `/learn` afterward; a separate missing-approval gate is a bug, not a safety feature
