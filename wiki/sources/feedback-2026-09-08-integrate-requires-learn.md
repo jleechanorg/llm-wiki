@@ -6,7 +6,7 @@ date: 2026-09-08
 source_file: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worktree_claude_md/memory/feedback_2026-09-08_integrate_requires_learn.md
 sources:
   - /Users/jleechan/llm_wiki/raw/feedback_2026-09-08_integrate_requires_learn.md
-last_updated: 2026-09-08
+last_updated: 2026-09-09
 ---
 
 ## Summary
@@ -35,6 +35,17 @@ learning step.
 
 ## Key Quotes
 > "run /learn and /integrate always wants learn strengthen the skill if needed" — user correction, 2026-09-08
+
+## 2026-09-09 Live Workflow Verification
+The installed `/integrate` script exited 0 and created a clean `dev1788993718`
+branch tracking `origin/main` at `e1c776e11d74c2679794e49deefaa8610edf4848`.
+Earlier attempts correctly stopped for a behind-upstream branch; fast-forward-only
+synchronization allowed success without `--force`. The previous branch was
+preserved when merged-PR status could not be verified. The session invoked the
+canonical `/learn` skill after success, reusing this lesson rather than
+fabricating a new one — graph and prompt-substitution audits both passed.
+Evidence: `~/.claude/state/integrate-test-20260909/final.json` and
+`integrate-final.log`. Bead `rev-fnfwj0`.
 
 ## Connections
 - [[IntegrateSh]] — the `/integrate` script/skill this rule extends with a mandatory post-success step
