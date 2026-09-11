@@ -2,10 +2,10 @@
 title: "Final Fantasy d20: A necromancer's Path"
 type: source
 tags: [campaign, worldarchitect, final-fantasy-d20-a-necromancer-s-path]
-date: 2026-09-10
+date: 2026-09-11
 source_file: /tmp/campaign_daily_ingest/4UFptzH0s1fr7XbfRxLW/Final Fantasy d20_ A necromancer_s Path_4UFptzH0.txt
 campaign_id: 4UFptzH0s1fr7XbfRxLW
-entry_count: 94
+entry_count: 132
 user_email: "jghozeil@gmail.com"
 user_uid: "DYMMi9EG72MQFhyxr5qi4DHHTNA3"
 ingest_batch: download-campaign-skill
@@ -445,7 +445,7 @@ Location: The Iron Rose Prison - Cell Block 4
 Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
 Resources: Unliving Touch Uses: 4/4 | Active Minions: 1/3 | HD: 1/1]
 Dice Rolls:
-  - {'roll': '1d20+3', 'modifier': 3, 'result': 13, 'faces': '10', 'type': 'Stealth', 'label': 'Stealth'}
+  - {'roll': '1d20+3', 'faces': '10', 'type': 'Stealth', 'label': 'Stealth', 'result': 13, 'modifier': 3}
 
 Game Master:
 Deep night (00:58:00) in the Iron Rose Prison - Cell Block 4. You press closer, your hand wreathed in that anti-light aura, and lay your palm against the guard's exposed neck. The Unliving Touch flares—a pulse of radiant energy that siphons his vitality while the skeletal warrior keeps him pinned. Stealth: 1d20 +1 DEX +2 PROF = 10 +1 DEX +2 PROF = 13 vs DC 13 (base DC 15 (alert guard); strategy/argument (-2: guard distracted fighting skeleton) = DC 13) - Success. The guard's eyes widen in sudden agony as the radiant damage lances through him; he staggers, his sword arm faltering mid-swing, and a strangled gasp escapes his lips before he can cry out. The skeleton's bony claw continues its assault, now facing a weakened opponent whose life visibly ebbs. Gideon, Sivena, and Puck watch from their cells with sudden hope.
@@ -823,3 +823,278 @@ Resources: Unliving Touch Uses: 3/4 | Active Minions: 2/3 | HD: 1/1]
 
 Game Master:
 Deep night (01:11:00) in the Iron Rose Prison - Cell Block 4. Your stolen chain mail rattles as you and your companions sprint for the exit stairs, the crimson tabard of a Church Guard a blur of false authority against the torchlit stone. Gideon's heavy boots thunder ahead; Sivena follows in his wake, robes whipping, while Puck's lithe form has already vanished around the bend. Behind you, the skeletal warriors' aggressive rearguard holds the line—their bone claws and rusted blades clashing against the wounded patrol, buying you precious seconds before the alarm's full weight descends. The exit stairs loom ahead, cold iron steps ascending into darkness.
+
+Player (choice: sprint_for_exit):
+Sprint for the Exit - Keep running at full speed toward the exit stairs, trusting that the skeletal warriors' aggressive rear guard buys enough time to escape.
+
+============================================================
+SCENE 48
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:11:30
+Location: The Iron Rose Prison - Cell Block 4
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 2/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:11:30) in the Iron Rose Prison - Cell Block 4. Your stolen chain mail clanks as you and your companions sprint toward the exit stairs, the crimson tabard of a Church Guard a blur of false authority against torchlit stone. Behind you, Skeletal Warrior 1 and Skeletal Warrior 2 clash with the wounded patrol, their bone claws and rusted blades creating chaos in the corridor. The alarm continues to wail—"Prisoners escaping! Cell Block 4!"—but the skeletal warriors' aggressive rear guard forces any pursuit to slow. Gideon's heavy boots thunder ahead; Sivena follows close behind, and Puck's shadow has already vanished around the bend. The exit stairs loom ahead, cold iron steps ascending into darkness.
+
+Player (freeform):
+i flee after the others leaving my minions to die holding them back
+
+============================================================
+SCENE 49
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:11:30
+Location: The Iron Rose Prison - Cell Block 4
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:11:00) in the Iron Rose Prison - Cell Block 4. Your stolen chain mail rattles as you turn your back on the clash of bone against steel. "Fall back!" you command, your voice cutting through the chaos. Skeletal Warrior 1 and Skeletal Warrior 2 hold their ground—rusted blades raised, hollow eye sockets gleaming with unnatural loyalty—as the wounded patrol presses forward. You do not wait to see the outcome. You flee after Gideon, Sivena, and Puck, the crimson tabard a blur against torchlit stone. Behind you, the alarm wails and the sounds of battle echo, but your minions will not follow. The exit stairs loom ahead, cold iron steps ascending into darkness.
+
+Player (choice: search_for_another_way):
+Search for Another Way Out - Look for side passages, ventilation shafts, or maintenance corridors that might lead to an alternative exit.
+
+============================================================
+SCENE 50
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:11:30
+Location: The Iron Rose Prison - Cell Block 4
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:11:30) in the Iron Rose Prison - Cell Block 4. The alarm wails behind you as you and your companions sprint toward the exit stairs, but you resist the obvious path. Instead, you scan the walls, searching for anything that might lead elsewhere. To your left, an iron grate covers a maintenance shaft—likely leading to the prison's underworks. Ahead, a rusted maintenance door is barely visible in the torchlight, marked with a faded symbol of the Church's sanitation crew. Your stolen tabard may not hold the guards' attention forever. The skeletal warriors' rearguard action buys you seconds, not minutes.
+
+Player (choice: examine_maintenance_shaft):
+Examine Maintenance Shaft - Inspect the iron grate over the maintenance shaft to see if it can be pried open or unlocked.
+
+============================================================
+SCENE 51
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:11:30
+Location: The Iron Rose Prison - Cell Block 4
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:12:00) in the Iron Rose Prison - Cell Block 4. The iron grate covering the maintenance shaft sits before you, its rusted bars cold beneath your fingers. Peering between them reveals only darkness and the faint scent of stagnant water below. The grate itself is anchored by a simple iron latch that appears corroded from years of disuse, with no visible lock or mechanism requiring a key.
+
+Player (freeform):
+i call to Gideon  "oh brave champion would you use your strong arms and break this door open" ;)
+
+============================================================
+SCENE 52
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:11:30
+Location: The Iron Rose Prison - Cell Block 4
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+Dice Rolls:
+  - {'roll': '1d20+4', 'faces': '15', 'type': 'Persuasion', 'label': 'Persuasion', 'result': 19, 'modifier': 4}
+
+Game Master:
+Deep night (01:12:00) in The Iron Rose Prison - Cell Block 4. Your voice rings out with a theatrical flourish: "Oh brave champion, would you use your strong arms and break this door open?"
+
+Gideon pauses mid-step, his gauntleted hand already on the stair rail. He turns slowly, scarred face caught between torchlight and shadow. For a heartbeat, the compliment hangs in the air—then a crooked, knowing smile tugs at the corner of his mouth. He sees through the performance entirely.
+
+"Flattery in the middle of an escape?" he mutters, but there's no real bite to it. The warrior plants his boots, wraps both gauntleted hands around the iron grate, and heaves. Metal groans. Rust flakes fall like dirty snow. With a final, guttural effort, the corroded latch snaps and the grate swings open with a shriek that echoes down the maintenance shaft.
+
+"There," Gideon says, breathing hard. "Your 'brave champion' has done his part. Now move." Sivena gives you a sidelong glance—half amusement, half reproach—before descending into the darkness below. Puck's shadow vanishes after her.
+
+Player (choice: descend_immediately):
+Descend Immediately - Climb down into the maintenance shaft without delay, putting distance between you and the alarm.
+
+============================================================
+SCENE 53
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:13:00
+Location: The Iron Rose Prison - Maintenance Shaft
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:13:00) in The Iron Rose Prison - Cell Block 4. Without hesitation, you grab the rusted edges of the open grate and swing your legs into the void. The maintenance shaft drops into darkness, and you descend hand-over-hand down the cold iron rungs, your stolen chain mail scraping against stone. Gideon follows directly above you, the warrior's heavy boots clanking as he climbs down with practiced efficiency. Sivena descends after him, her white robes a pale ghost in the gloom. Puck has already vanished below, moving with the silence of a street thief. Above you, the alarm continues to wail from the cell block you just escaped, but each rung takes you further from the Church's reach. The shaft smells of stagnant water and rust, the air growing cooler as you descend into the prison's underworks.
+
+Player (choice: continue_down_shaft):
+Continue Descending - Keep climbing down the shaft to reach the bottom of the underworks.
+
+============================================================
+SCENE 54
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:13:00
+Location: The Iron Rose Prison - Maintenance Shaft
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:14:00) in the Iron Rose Prison - Maintenance Shaft. You continue your descent, hand over hand down the cold iron rungs. The shaft plunges into utter blackness below, the air growing heavy with the smell of damp stone and stagnant water. Behind you, the alarm's wail from Cell Block 4 grows faint, replaced by the rhythmic drip of condensation and the soft scrape of your companions' boots. Gideon's armor clanks steadily above you; Sivena murmurs a soft prayer to her fallen goddess; Puck remains a silent shadow somewhere beneath. The shaft seems to descend forever, each rung taking you deeper into the prison's forgotten underbelly.
+
+Player (choice: continue_descending):
+Continue Descending - Keep climbing down the shaft to reach the bottom of the underworks.
+
+============================================================
+SCENE 55
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:14:00
+Location: The Iron Rose Prison - Maintenance Shaft
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:14:00) in The Iron Rose Prison - Maintenance Shaft. You descend further into the darkness, the cold iron rungs slick with condensation beneath your fingers. Each rung takes you deeper into the prison's forgotten underbelly, the air growing thicker with the smell of stagnant water and mildew. Your stolen chain mail scrapes against the stone walls, the sound echoing softly in the confined space. Above you, Gideon's armored form blocks the faint light from the cell block above; below, Sivena and Puck have already descended into the absolute darkness. The alarm's wail has faded to nothing, leaving only the sound of dripping water and your labored breathing. The shaft continues to plunge downward without end, a vertical tunnel into the prison's unknown depths.
+
+Player (freeform):
+i reach the bottom
+
+============================================================
+SCENE 56
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:15:00
+Location: The Iron Rose Prison - Maintenance Shaft
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:15:00) in The Iron Rose Prison - Maintenance Shaft. Your fingers finally brush against cold, wet stone. The rungs end abruptly at the bottom of the shaft, where a shallow pool of stagnant water covers the floor. The darkness here is absolute. Gideon's boots splash down behind you, followed by the soft landing of Sivena and Puck. The air is thick with the smell of mildew and rust, and the distant, muffled sound of dripping water echoes through unseen tunnels. You have escaped the alarm above, but now stand in the forgotten, lightless underbelly of the prison with no clear path forward.
+
+Player (choice: examine_floor):
+Examine the Pool - Search the shallow pool of water for any items, clues, or hidden passages beneath the surface.
+
+============================================================
+SCENE 57
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:16:00
+Location: The Iron Rose Prison - Maintenance Shaft
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:16:00) in the Iron Rose Prison - Maintenance Shaft. You kneel at the edge of the shallow pool of stagnant water, the cold seeping through your stolen tabard as you search the murky shallows. The air is heavy with the smell of damp stone and rust. Your fingers brush against something solid beneath the surface—a rusted iron key, half-buried in the silt and grit at the pool's bottom. The key bears the insignia of the Church sanitation crew, its teeth worn but still intact. Above you, Gideon's armored form looms in the darkness; Sivena murmurs a soft prayer while Puck shifts restlessly nearby. The key could open any number of locked maintenance doors or grates in the underworks, or it could be nothing more than a discarded tool from the prison's forgotten sanitation workers.
+
+Player (choice: examine_maintenance_door):
+Examine Maintenance Door - Check the rusted maintenance door marked with the sanitation crew symbol to see if the key fits.
+
+============================================================
+SCENE 58
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:16:00
+Location: The Iron Rose Prison - Maintenance Shaft
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:16:00) in the Iron Rose Prison - Maintenance Shaft. The rusted maintenance door sits before you, a weathered iron slab marked with the faded emblem of the Church's sanitation crew. Your stolen chain mail clinks softly as you step forward, the iron key from the pool clutched in your hand. The door's lock is heavy with corrosion, but the sanitation insignia on the key matches the emblem exactly. Gideon stands watch behind you, his armored form a silent sentinel in the darkness. Sivena and Puck wait nearby, their breathing shallow in the confined space. The alarm from Cell Block 4 has faded to nothing, but the distant echo of dripping water and the faint smell of sewage remind you that you remain deep beneath the prison's grasp.
+
+Player (choice: use_key_on_door):
+Use the Key - Insert the sanitation crew key into the maintenance door lock and attempt to open it.
+
+============================================================
+SCENE 59
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:16:30
+Location: The Iron Rose Prison - Maintenance Corridor
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:16:30) in the Iron Rose Prison - Maintenance Shaft. You step forward and slide the rusted iron key into the lock of the maintenance door. The mechanism grinds with age and corrosion as you turn it, but after a moment of resistance, you feel the tumblers give way with a satisfying click. The door swings open with a low groan, revealing a dimly lit maintenance corridor beyond. The air that wafts through smells faintly of sewage and rust, but it carries the promise of escape. Gideon gives you a nod of acknowledgment, and the party moves through the threshold into the unknown passage ahead.
+
+Player (choice: move_forward_cautiously):
+Move Forward Cautiously - Advance into the maintenance corridor with weapons ready and senses alert.
+
+============================================================
+SCENE 60
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:16:30
+Location: The Iron Rose Prison - Maintenance Corridor
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:16:30) in The Iron Rose Prison - Maintenance Corridor. You step through the open door, the sanitation key still warm in your grip. The corridor stretches ahead in near-total darkness, broken only by a faint bioluminescent lichen that clings to the damp stone walls. The air carries the faint metallic tang of sewage and the distant echo of dripping water. Your stolen tabard and Gideon’s heavy armor barely muffle the sound of your footsteps as you advance, weapons ready and senses sharpened for any movement in the shadows. Behind you, the open door you came through swings on its corroded hinges, while ahead the passage branches into side tunnels barely visible in the gloom.
+
+Player (choice: explore_side_passages):
+Explore Side Passages - Look for branching corridors or alcoves that might offer hiding spots or additional routes.
+
+============================================================
+SCENE 61
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:16:30
+Location: The Iron Rose Prison - Maintenance Corridor
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:16:30) in the Iron Rose Prison - Maintenance Corridor. You choose to explore the side passages branching from the main corridor, searching for alcoves or hidden routes that might offer concealment or additional paths. The bioluminescent lichen casts faint, eerie light as you peer into the darkness of a side tunnel to your left, discovering a narrow alcove that appears to be a disused maintenance nook—cramped, dark, and seemingly forgotten by the Church's patrols. Gideon remains alert at the junction while Sivena and Puck stay close, weapons ready. The side passage could serve as a temporary hiding spot, though it offers no immediate escape route.
+
+Player (choice: explore_additional_side_passages):
+Explore Additional Side Passages - Continue searching the other branching corridors and alcoves for more options or hiding spots.
+
+============================================================
+SCENE 62
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:16:30
+Location: The Iron Rose Prison - Maintenance Corridor
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:17:00) in The Iron Rose Prison - Maintenance Corridor. You choose to explore the side passages branching from the main corridor, searching for alcoves or hidden routes that might offer concealment or additional paths. The bioluminescent lichen casts faint, eerie light as you peer into the darkness of a side tunnel to your left, discovering a narrow alcove that appears to be a disused maintenance nook—cramped, dark, and seemingly forgotten by the Church's patrols. Gideon remains alert at the junction while Sivena and Puck stay close, weapons ready. The side passage could serve as a temporary hiding spot, though it offers no immediate escape route.
+
+Player (freeform):
+i search for better cloths
+
+============================================================
+SCENE 63
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:17:30
+Location: The Iron Rose Prison - Maintenance Corridor
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:17:30) in the Iron Rose Prison - Maintenance Corridor. You pause in the cramped alcove, the bioluminescent lichen casting faint shadows across your stolen tabard. The stolen chain mail chafes, but your eyes are drawn to the pile of discarded clothing in the maintenance nook—tattered worker's garments left behind by some long-forgotten sanitation crew. You sift through the refuse, seeking something better than the Church guard uniform that marks you as a target. Your fingers find a hooded cloak, dark and worn but unmarked by any insignia, and a pair of sturdy leather breeches that look less conspicuous than your current garb. The clothing smells of dust and mildew, but it could help you blend into the city streets once you escape. Gideon watches the corridor junction while Sivena and Puck wait nearby, the darkness pressing close around you.
+
+Player (freeform):
+i look directly at puck.... 
+" you want to want me change ... again" i say with a hint of "you better turn away **THIS** time."
+
+============================================================
+SCENE 64
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:17:30
+Location: The Iron Rose Prison - Maintenance Corridor
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:17:30) in the Iron Rose Prison - Maintenance Corridor. You turn, your stolen chain mail scraping against the stone, and fix Puck with a direct stare. Your voice carries the unmistakable edge of authority: "You want to watch me change... again." The words hang in the damp air like a challenge, heavy with the implication that this time, he had better look away. Puck's eyes widen slightly in the bioluminescent gloom, and he immediately spins on his heel, turning his back with a muttered, "My apologies. Won't happen again." Gideon's armored form remains motionless at the junction, his head turned respectfully away, while Sivena keeps her gaze fixed firmly on the shadows of the main corridor. The tension in the alcove eases as the others grant you the privacy you demanded.
+
+Player (freeform):
+i give the chain mail to Gideon and take the cloak for myself
+
+============================================================
+SCENE 65
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:17:30
+Location: The Iron Rose Prison - Maintenance Corridor
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:17:30) in the Iron Rose Prison - Maintenance Corridor. Without a word, you unbuckle the stolen chain mail and hand it to Gideon, who accepts it with a respectful nod, his armored form making room for the transfer. The Church tabard follows, discarded in a heap on the damp stone. You pull the hooded cloak over your shoulders and step into the leather breeches, the worn fabric settling around your frame. The darkness hides your change of clothes, and when you emerge, you wear the simple, unmarked garments of a sanitation worker—unremarkable, untraceable, free from the Church's mark. Gideon now stands with an extra layer of protection, his own armor reinforced by the stolen mail. The cold of the underworks presses against your skin, but for the first time since the alarm sounded, you feel less like a target and more like a shadow moving through the night.
+
+Player (freeform):
+"My magic for a bra" i remark trying to make the outfit work before moving on down the main corridor
+
+============================================================
+SCENE 66
+============================================================
+[Timestamp: 1492 DR, Mirtul 10, 01:17:30
+Location: The Iron Rose Prison - Maintenance Corridor
+Status: Lvl 1 Horde Master Necromancer | HP: 6/6 | XP: 0/300 | Gold: 10gp
+Resources: Unliving Touch Uses: 3/4 | Active Minions: 0/3 | HD: 1/1]
+
+Game Master:
+Deep night (01:17:30) in the Iron Rose Prison - Maintenance Corridor. You glance down at the loose, ill-fitting leather breeches and the hooded cloak that drapes awkwardly over your frame. "My magic for a bra," you mutter, tugging the fabric into some semblance of order. The words echo softly off the damp stone. The others remain turned away—Gideon stares stoically at the junction, Sivena keeps her gaze fixed on the darkness ahead, and Puck's shoulders are rigid with enforced respect. You feel the borrowed garments settle as best they can; they are not elegant, but they are unmarked, unremarkable, and free from the Church's insignia. With a final adjustment, you step forward and lead the party down the main corridor, the bioluminescent lichen casting faint, shifting shadows as you move deeper into the underworks.

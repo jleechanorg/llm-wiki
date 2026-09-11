@@ -7531,3 +7531,8 @@ After a successful `/integrate`, the agent skipped `/learn` because the `learn` 
 Does not affect [[jeffrey-oracle]]
 
 ## [2026-09-09] refresh | Successful /integrate includes mandatory /learn — live workflow verification appended (bead rev-fnfwj0)
+
+## [2026-09-10] ingest | Dirty-worktree SHA burned into evidence video; real browser video catches bugs unit tests miss
+On PR #9831 (jleechanorg/worldarchitect.ai), a testing_ui capture script burned `git rev-parse HEAD` into a video caption while the actual fix was staged but uncommitted, so the caption showed a SHA that predated the fix. An independent `/er` review caught it via content diff (`git diff <burned-sha> <fix-sha> -- <file>`), not SHA equality — a genuine FAIL, fixed by re-capturing after committing. Separately, building the real captioned video (not just Python unit tests) surfaced a second, fully independent bug: the frontend's own client-side renderer for the same data field had the identical bug, never exercised by any unit test. Extended [[EvidenceShaFreeze]] with the reverse-direction failure mode (pre-commit capture, not post-capture staleness). Not to be confused with the prior "successful /integrate includes mandatory /learn" entries above — this session also ran /integrate on a stale worktree (~90 uncommitted files, 4-12 days old, safely --force-stashed after confirming the content was fully superseded by already-merged work) as part of the same /integrate + /learn flow.
+Does not affect [[jeffrey-oracle]]
+## [2026-09-10] ingest | Mobile Submit Blur Race and Dynamic CI Date Fixtures

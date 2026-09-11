@@ -47,3 +47,18 @@ live head only advances generated docs, the production proof can still be
 behaviorally relevant. Strict 7-green may still require same-SHA Skeptic and PR
 body cleanup, but reviewers should label that as provenance/process cleanup
 rather than a serious implementation defect.
+
+## 2026-09-10 Update — Dirty-Worktree Capture (the reverse direction)
+
+PR #9831 (worldarchitect.ai) surfaced the mirror-image failure: evidence
+captured *before* the fix was committed, not evidence going stale *after*
+capture. A `testing_ui/capture_*.py` script computed `git rev-parse HEAD` at
+capture time and burned it into a video caption while the actual code fix
+was staged on disk but uncommitted — the video's SHA predated the fix it
+claimed to demonstrate. An independent `/er` review caught it not by SHA
+equality but by content diff: `git diff <burned-in-sha> <fix-sha> -- <file>`
+showed the fix absent at the burned-in SHA. Mitigation: any script that
+burns a git SHA into evidence media must check `git status --porcelain` is
+clean before trusting the capture, and must be re-run fresh after every
+commit that changes the demonstrated behavior — not just once per PR.
+See [[feedback-2026-09-10-dirty-worktree-sha-burned-into-evidence-video]].
