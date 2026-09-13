@@ -1,3 +1,19 @@
+## [2026-09-13] ingest | Robust Wiki Campaign Frontmatter Parsing and Aggregation Count Over Paginated gRPC Streams
+
+- Source: `raw/feedback_2026-09-13_wiki_frontmatter_parse_and_aggregation_count.md`
+- Wiki: `wiki/sources/feedback-2026-09-13-wiki-frontmatter-parse-and-aggregation-count.md`
+- Key claims: Fixed campaign export silent skips & gRPC retry crashes: robust parsing for quotes, comments, BOM, CRLF, and markdown scene fallbacks in `_stored_entry_count`; replaced paginated doc streaming with native Firestore server aggregation `count().get()[0][0].value` to prevent gRPC streaming timeouts and `_UnaryStreamMultiCallable._retry` crashes.
+- Bead: `rev-xq9iv`
+- Does not affect [[jeffrey-oracle]]
+
+## [2026-09-13] ingest | Aizen Sosuke — Merc Nation (repro-9865)
+
+
+- Source: campaign file
+- Wiki: `wiki/sources/aizen-sosuke-merc-nation.md`
+- Key claims: D&D 5e campaign in Faerun's Iron Dominion featuring 16-year-old Bladesinger wizard Aizen Sosuke. Level 6 with maxed INT (18), Auctoritas aura. Aizen has secretly catalogued psychological vulnerabilities of all family members with mental triggers. Campaign explores psychological dominance and personal transcendence.
+- Does not affect [[jeffrey-oracle]]
+
 ## [2026-09-07] ingest | PR #9780 / #9781 Real-Mode Test Cache & Streaming Invariants
 
 - Source: `raw/project_2026-09-07_pr9781_real_mode_test_cache_and_streaming_invariants.md`

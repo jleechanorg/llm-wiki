@@ -1,19 +1,25 @@
 ---
 title: "House Sosuke"
 type: entity
-tags: [faction, noble-house, campaign, baldurs-gate]
-sources: [2026-08-04-aizen-thay-v1-nocturne-ancestor]
-last_updated: 2026-08-04
+tags: [faction, noble-house, dnd]
+sources: [aizen-sosuke-merc-nation]
+last_updated: 2026-09-13
 ---
 
-# House Sosuke
+## Overview
+House Sosuke is one of the Five Great Houses of the Iron Dominion in Faerun. They are ancient nobility renowned for producing apex tacticians, master war-mages, and cold pragmatists.
 
-Noble house at the center of the Aizen/Nocturne campaign continuity.
+## Family Members
+- **Archduke Valerius Sosuke** — Father, Level 18 Warlord
+- **Lady Selena Sosuke** — Mother, Level 16 Wizard
+- **Aizen Sosuke** — Youngest child, Level 6 Bladesinger
+- **Cassian Sosuke** — Eldest brother, Level 14 Fighter, General (Hostile Rival)
 
-## Thay v1 timeline ([[2026-08-04-aizen-thay-v1-nocturne-ancestor]])
+## Status
+- **Position**: One of the Five Great Houses
+- **Reputation**: Feared/Revered Proginy
+- **Family Seat**: Iron Dominion
 
-- **1492 DR**: the house is already in decline — its daughter [[NocturneSosuke]] is "sold for profit," ruined by the [[CassalanterFamily]] and trafficked into [[BaldursGate]]'s Upper City.
-- **Post-Ascension**: after Nocturne's one-year conquest of the Sword Coast, Hells, and Abyss, and her subsequent sealing by [[Ao]], the house is **hunted to extinction** by fearful gods and rival lords.
-- **+100 years**: only "the debris of that collapse" remains — [[SosukeAizen|Aizen Sosuke]], the exiled "Spare" and Last Scion, carrying the accursed name into the [[CenturyOfSilence]].
-
-The house thus functions as a generational tragedy engine: one member ascends and is quarantined; the next inherits the ruin and the ambition.
+## Related Entities
+- [[Aizen Sosuke]] — protagonist
+- [[Iron Dominion]] — faction
