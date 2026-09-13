@@ -7539,3 +7539,7 @@ Does not affect [[jeffrey-oracle]]
 ## [2026-09-12] ingest | aside repl session sandbox and tab lifetime (+ vendor-paste addendum)
 ## [2026-09-12] ingest | Two-dot diff pollutes review packets with unrelated main commits
 ## [2026-09-12] ingest | rtk PreToolUse hook silently rewrites/compacts git and gh commands
+## [2026-09-13] ingest | br discovery is not cwd-confined (project-config registry shadowing addendum)
+Does not affect [[jeffrey-oracle]]
+## [2026-09-13] ingest | Verify a credential's actual storage backend before declining rotation
+Does not affect [[jeffrey-oracle]]
