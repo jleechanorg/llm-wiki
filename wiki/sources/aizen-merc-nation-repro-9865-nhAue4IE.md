@@ -1,11 +1,11 @@
 ---
-title: "Aizen merc nation"
+title: "Aizen merc nation (repro-9865)"
 type: source
-tags: [campaign, worldarchitect, aizen-merc-nation]
+tags: [campaign, worldarchitect, aizen-merc-nation-repro-9865]
 date: 2026-09-13
-source_file: /tmp/campaign_daily_ingest/fazA3KUUdfZYky18TMyq/Aizen merc nation_fazA3KUU.txt
-campaign_id: fazA3KUUdfZYky18TMyq
-entry_count: 2422
+source_file: /tmp/campaign_daily_ingest/nhAue4IEOlbwxCxiyxA2/Aizen merc nation _repro-9865__nhAue4IE.txt
+campaign_id: nhAue4IEOlbwxCxiyxA2
+entry_count: 1222
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill

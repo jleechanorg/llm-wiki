@@ -2,10 +2,10 @@
 title: "Nocturne bg3 after "
 type: source
 tags: [campaign, worldarchitect, nocturne-bg3-after]
-date: 2026-08-21
-source_file: /tmp/wiki-fix-test/STpjRuwjeUt97tpCl5nK/Nocturne bg3 after _STpjRuwj.txt
+date: 2026-09-13
+source_file: /tmp/campaign_daily_ingest/STpjRuwjeUt97tpCl5nK/Nocturne bg3 after _STpjRuwj.txt
 campaign_id: STpjRuwjeUt97tpCl5nK
-entry_count: 2000
+entry_count: 2054
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill

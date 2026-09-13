@@ -2,10 +2,10 @@
 title: "Nocturne bg3 v4"
 type: source
 tags: [campaign, worldarchitect, nocturne-bg3-v4]
-date: 2026-08-21
-source_file: /tmp/wiki-fix-test/kuXKa6vrYY6P99MfhWBn/Nocturne bg3 v4_kuXKa6vr.txt
+date: 2026-09-13
+source_file: /tmp/campaign_daily_ingest/kuXKa6vrYY6P99MfhWBn/Nocturne bg3 v4_kuXKa6vr.txt
 campaign_id: kuXKa6vrYY6P99MfhWBn
-entry_count: 2000
+entry_count: 2414
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill

@@ -2,10 +2,10 @@
 title: "Nocturne post bg3 zhent"
 type: source
 tags: [campaign, worldarchitect, nocturne-post-bg3-zhent]
-date: 2026-08-21
-source_file: /tmp/wiki-fix-test/VqqJLpABua9bvAG4ArTg/Nocturne post bg3 zhent_VqqJLpAB.txt
+date: 2026-09-13
+source_file: /tmp/campaign_daily_ingest/VqqJLpABua9bvAG4ArTg/Nocturne post bg3 zhent_VqqJLpAB.txt
 campaign_id: VqqJLpABua9bvAG4ArTg
-entry_count: 2000
+entry_count: 2007
 user_email: "jleechan@gmail.com"
 user_uid: "vnLp2G3m21PJL6kxcuAqmWSOtm73"
 ingest_batch: download-campaign-skill
