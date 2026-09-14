@@ -1,3 +1,13 @@
+## [2026-09-13] ingest | PR #9861 Ready-Gate Integrity, HeavyDialog Prompt Ordering, and Implicit Cache Invariants
+
+- Source: `raw/feedback_2026-09-13_ready_gate_and_heavy_dialog_invariants.md`
+- Wiki: `wiki/sources/feedback-2026-09-13-ready-gate-and-heavydialog-prompt-invariants.md`
+- Key claims: Conditional "merge approved" does not waive the /ready 6-gate checklist; HeavyDialogAgent loads dedicated prompt in SUFFIX_PROMPT_ORDER strictly after PROMPT_TYPE_NARRATIVE to override 180-word cap with 600 words while preserving SHARED_PREFIX byte-identical across narrative agents for Gemini implicit KV caching; player character agency invariant prohibits narrating PC interiority or adding artificial padding instructions.
+- Concepts: [[ReadyGateDiscipline]], [[GeminiImplicitPrefixCaching]]
+- Entities: [[PR9861]], [[HeavyDialogAgent]]
+- Bead: `rev-iwt8i`
+- Does not affect [[jeffrey-oracle]]
+
 ## [2026-09-13] ingest | Robust Wiki Campaign Frontmatter Parsing and Aggregation Count Over Paginated gRPC Streams
 
 - Source: `raw/feedback_2026-09-13_wiki_frontmatter_parse_and_aggregation_count.md`
@@ -7559,3 +7569,7 @@ Does not affect [[jeffrey-oracle]]
 Does not affect [[jeffrey-oracle]]
 ## [2026-09-13] ingest | Verify a credential's actual storage backend before declining rotation
 Does not affect [[jeffrey-oracle]]
+
+## [2026-09-13] ingest | Luna migration closure and OpenClaw retirement
+
+Source: [[luna-integration-learning-2026-09-13]]. Copied immutable raw record, created source and IntegrationLearningClosure concept, updated OpenClaw entity, EvidenceShaFreeze concept, source/concept index entries and overview. Oracle impact: current user retirement means do not resurrect OpenClaw debt; Hermes remains distinct. Recorded as a dated log update without rewriting the historical oracle synthesis.

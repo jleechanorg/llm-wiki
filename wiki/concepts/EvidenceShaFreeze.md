@@ -2,8 +2,8 @@
 title: "Evidence SHA Freeze"
 type: concept
 tags: [evidence, ci, skeptic, provenance]
-sources: [pr-6719-evidence-bloat-preview-skip, feedback-2026-05-01-pr6737-evidence-artifact-verification, pr-review-live-head-verdict-discipline-2026-05-07]
-last_updated: 2026-05-07
+sources: [luna-integration-learning-2026-09-13, pr-6719-evidence-bloat-preview-skip, feedback-2026-05-01-pr6737-evidence-artifact-verification, pr-review-live-head-verdict-discipline-2026-05-07]
+last_updated: 2026-09-13
 ---
 
 ## Summary
@@ -62,3 +62,7 @@ burns a git SHA into evidence media must check `git status --porcelain` is
 clean before trusting the capture, and must be re-run fresh after every
 commit that changes the demonstrated behavior — not just once per PR.
 See [[feedback-2026-09-10-dirty-worktree-sha-burned-into-evidence-video]].
+
+## 2026-09-13 Raw-byte Publication Check
+
+CLI display formatting can transform ESC bytes, including JSON escapes. Compare raw HTTPS response content against the captured bytes and manifest before declaring artifact corruption; retain any failed review sample and correction provenance. Avoid formatting/republication churn after evidence is frozen. Source: [[luna-integration-learning-2026-09-13]].
