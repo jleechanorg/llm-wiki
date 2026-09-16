@@ -1,3 +1,13 @@
+## [2026-09-15] ingest | Advice Withheld on Partial ER Requires Operator Exception
+
+- Source: `raw/feedback_2026-09-15_advice_withheld_on_partial_er_requires_operator_exception.md`
+- Wiki: `wiki/sources/feedback-2026-09-15-advice-withheld-on-partial-er-requires-operator-exception.md`
+- Key claims: When historical pre-edit failing output for backend RED is lost, /er and /advice must fail closed as WITHHELD despite a 4-reviewer code approval quorum; retrospective RED execution does not replace original chronology; merging under PARTIAL evidence requires explicit user MERGE APPROVED with documented exception.
+- Concepts: [[EvidenceStandards]], [[AdviceGateSynthesis]], [[DraftFirstPR]]
+- Entities: [[WorldArchitectAI]], [[PR9406]]
+- Bead: `rev-u5kx2.3`
+- Does not affect [[jeffrey-oracle]]
+
 ## [2026-09-13] ingest | PR #9861 Ready-Gate Integrity, HeavyDialog Prompt Ordering, and Implicit Cache Invariants
 
 - Source: `raw/feedback_2026-09-13_ready_gate_and_heavy_dialog_invariants.md`
